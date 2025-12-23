@@ -1,0 +1,633 @@
+{
+  "event": {
+    "id": 20,
+    "event_uri": "deu-2043906",
+    "title": "Studie: Kaltmiete in Hamburg bei 9,11 Euro je Quadratmeter - WELT",
+    "category": "other",
+    "summary": "F\u00fcr die Studie sind den Angaben nach mehr als 283.000 Mietvertr\u00e4ge ausgewertet worden. Im Vergleich zu 2022 sind die Mieten demnach um 8,8 Prozent gestiegen.\n\nDie monatliche Nettokaltmiete in Hamburg liegt nach einer Studie der Wohnungswirtschaft derzeit im Schnitt bei 9,11 Euro je Quadratmeter. Im ...",
+    "first_seen": "2025-12-23T19:27:03.434874",
+    "last_updated": "2025-12-23T20:15:44.730877",
+    "created_at": "2025-12-23 18:27:03"
+  },
+  "generated_at": "2025-12-23T20:17:40.396367",
+  "articles": [
+    {
+      "id": 323,
+      "article_uri": "8975691866",
+      "event_id": 20,
+      "title": "Mieten in Hamburg - bezahlbar? Kritik an Studie",
+      "body": "Mietwohnungen in Hamburg sind nach Einsch\u00e4tzung der hiesigen Wohnungswirtschaft gr\u00f6\u00dftenteils bezahlbar. Nach einer neuen Studie, die Branchenvertreter in Auftrag gegeben hatten, liegt die monatliche Nettokaltmiete im Schnitt bei 9,11 Euro je Quadratmeter. Eine Wohnung mit 80 Quadratmetern kostet folglich im Schnitt ann\u00e4hernd 730 Euro. Die Nettokaltmiete, h\u00e4ufig nur Kaltmiete genannt, ist die Miete ohne Neben- und Betriebskosten.\n\nDie Hamburger Mietenstudie hat das Center for Real Estate Studies, ein Freiburger Hochschulinstitut, verfasst. Das Institut hat den Angaben nach mehr als 283.000 \u00f6ffentliche, genossenschaftliche und private Mietvertr\u00e4ge ausgewertet. Die Daten haben die Vermieter bereitgestellt.\n\nIm Vergleich zu der zur\u00fcckliegenden Untersuchung 2022 sind die Mieten um 8,8 Prozent gewachsen, wie es in der Mitteilung hei\u00dft. Die Wohnungswirtschaft weist darauf hin, dass Mieten langsamer als Verbraucherpreise gestiegen seien, die in dem Zeitraum um 10,8 Prozent zugenommen h\u00e4tten.\n\n\"Die neue Hamburger Mietenstudie zeigt sehr deutlich: Der Mietmarkt in unserer Stadt funktioniert\", sagte der stellvertretende Vorsitzende des Immobilienverbands Deutschland (IVD) Nord, Carl-Christian Franzen. Die meisten Hamburger wohnten zu verl\u00e4sslichen Konditionen. Der IVD vertritt unter anderem Immobilienmakler.\n\n\u00c4hnlich \u00e4u\u00dferte sich der Vorstandsvorsitzende des Verbands Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW), Kay Brahmst: \"Die Mieten in Hamburg sind nicht zu hoch.\" Ein Problem ist Brahmst zufolge, dass nicht genug Wohnungen gebaut werden. Der BFW Nord repr\u00e4sentiert die mittelst\u00e4ndische Immobilienwirtschaft.\n\nAu\u00dfer dem IVD Nord und dem BFW Nord geh\u00f6ren der lokale Grundeigent\u00fcmer-Verband, der Verband norddeutscher Wohnungsunternehmen und der st\u00e4dtische Wohnungsvermieter Saga zu den Auftraggebern der Studie.\n\nDer Mieterverein zu Hamburg kritisierte die Studie als eine Beruhigungspille. Diese diene wie die Vorg\u00e4ngerpublikationen dazu, \"der Politik und \u00d6ffentlichkeit vorzugaukeln, dass es keinen Mangel an bezahlbarem Wohnraum gibt\". Es gebe zwar entspannte Wohnsituationen - etwa f\u00fcr langj\u00e4hrige Genossenschaftsmitglieder. Doch das \u00e4ndere nichts daran, dass viele Hamburger g\u00fcnstigere Wohnungen suchten.\n\nDie wohnungspolitische Sprecherin der Linksfraktion, Heike Sudmann, sagte: \"Wer in Hamburg eine Wohnung sucht, findet bei den \u00fcber 700.000 Mietwohnungen kaum ein freies Angebot unter 9 Euro Kaltmiete. Das ist die Realit\u00e4t und nicht eine sch\u00f6ngerechnete Studie. Die Mieter:innen brauchen sinkende Mieten und einen Mietendeckel. Sie brauchen keine Wohnungswirtschaft, die Profite aus den Portemonnaies der Mieter:innen zieht. Alle Jahre wieder versucht die Wohnungswirtschaft den Mangel an preiswerten Wohnungen und ihre viel zu hohen Mieten sch\u00f6nzureden.\"\n\nDer Verband norddeutscher Wohnungsunternehmen widersprach Sudmanns Darstellung. \"Alle Mieten wurden entsprechend ihrer realen Anteile im Markt ber\u00fccksichtigt\", sagte der Verbandssprecher.\n\nDas k\u00f6nnte Sie auch interessieren: Restaurant ging mit vernichtenden Kritiken viral - so geht es den Gastronomen heute\n\nDer Mietmarkt funktioniere nur f\u00fcr diejenigen, die bereits eine Wohnung h\u00e4tten, monierte die stadtentwicklungspolitische Sprecherin der CDU-Fraktion, Anke Frieling. Wer nach Hamburg ziehe, habe kaum Chancen auf bezahlbaren Wohnraum. \"Der rot-gr\u00fcne Senat hat es \u00fcber Jahre vers\u00e4umt, ausreichend neue Wohnungen zu schaffen und die Stadt f\u00fcr Familien bezahlbar zu halten.\" (dpa)",
+      "source_name": "MOPO.de",
+      "source_country": null,
+      "source_url": "https://www.mopo.de/hamburg/mieten-in-hamburg-bezahlbar-kritik-an-studie/",
+      "published_date": "2025-11-27T17:30:44Z",
+      "language": "deu",
+      "image_url": "https://cdn.mopo.de/uploads/sites/4/2025/06/518584340-scaled.jpg?resize=1024%2C600",
+      "fetched_at": "2025-12-23 18:27:03",
+      "sentiment_score": -0.2,
+      "sentiment_label": "slightly_negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 325,
+      "article_uri": "2025-11-905946969",
+      "event_id": 20,
+      "title": "Deutlicher Anstieg der Nettokaltmiete in Hamburg im Vergleich zu 2022",
+      "body": "27. November 2025 - Mira Oetinger\n\nHamburger Mietenstudie 2025 zeigt\n\nDie Branche st\u00fctzt sich auf eine neue Studie, die Auskunft \u00fcber die \u00fcbliche Nettokaltmiete gibt. Der Mieterverein bewertet die Untersuchung als Beruhigungspille.\n\nMietwohnungen in Hamburg sind nach Einsch\u00e4tzung der hiesigen Wohnungswirtschaft gr\u00f6\u00dftenteils bezahlbar. Nach einer neuen Studie, die Branchenvertreter in Auftrag gegeben hatten, liegt die monatliche Nettokaltmiete im Schnitt bei 9,11 Euro je Quadratmeter. Eine Wohnung mit 80 Quadratmetern kostet folglich im Schnitt ann\u00e4hernd 730 Euro. Die Nettokaltmiete, h\u00e4ufig nur Kaltmiete genannt, ist die Miete ohne Neben- und Betriebskosten.\n\nDie Hamburger Mietenstudie hat das Center for Real Estate Studies, ein Freiburger Hochschulinstitut, verfasst. Das Institut hat den Angaben nach mehr als 283.000 \u00f6ffentliche, genossenschaftliche und private Mietvertr\u00e4ge ausgewertet. Die Daten haben die Vermieter bereitgestellt.\n\nIm Vergleich zu der zur\u00fcckliegenden Untersuchung 2022 sind die Mieten um 8,8 Prozent gewachsen, wie es in der Mitteilung hei\u00dft. Die Wohnungswirtschaft weist darauf hin, dass Mieten langsamer als Verbraucherpreise gestiegen seien, die in dem Zeitraum um 10,8 Prozent zugenommen h\u00e4tten.\n\nImmobilienverband verteidigt Mietmarkt\n\n\"Die neue Hamburger Mietenstudie zeigt sehr deutlich: Der Mietmarkt in unserer Stadt funktioniert\", sagte der stellvertretende Vorsitzende des Immobilienverbands Deutschland (IVD) Nord, Carl-Christian Franzen. Die meisten Hamburger wohnten zu verl\u00e4sslichen Konditionen. Der IVD vertritt unter anderem Immobilienmakler.\n\n\u00c4hnlich \u00e4u\u00dferte sich der Vorstandsvorsitzende des Verbands Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW), Kay Brahmst: \"Die Mieten in Hamburg sind nicht zu hoch.\" Ein Problem ist Brahmst zufolge, dass nicht genug Wohnungen gebaut werden. Der BFW Nord repr\u00e4sentiert die mittelst\u00e4ndische Immobilienwirtschaft.\n\nAu\u00dfer dem IVD Nord und dem BFW Nord geh\u00f6ren der lokale Grundeigent\u00fcmer-Verband, der Verband norddeutscher Wohnungsunternehmen und der st\u00e4dtische Wohnungsvermieter Saga zu den Auftraggebern der Studie.\n\nDeutliche Kritik vom Mieterverein und aus der Opposition\n\nDer Mieterverein zu Hamburg kritisierte die Studie als eine Beruhigungspille. Diese diene wie die Vorg\u00e4ngerpublikationen dazu, \"der Politik und \u00d6ffentlichkeit vorzugaukeln, dass es keinen Mangel an bezahlbarem Wohnraum gibt\". Es gebe zwar entspannte Wohnsituationen - etwa f\u00fcr langj\u00e4hrige Genossenschaftsmitglieder. Doch das \u00e4ndere nichts daran, dass viele Hamburger g\u00fcnstigere Wohnungen suchten.\n\nDie wohnungspolitische Sprecherin der Linksfraktion, Heike Sudmann, sagte: \"Wer in Hamburg eine Wohnung sucht, findet bei den \u00fcber 700.000 Mietwohnungen kaum ein freies Angebot unter 9 Euro Kaltmiete.\" Das sei die Realit\u00e4t. Die Studie sei sch\u00f6ngerechnet. Das liege etwa daran, dass der Anteil der st\u00e4dtischen und genossenschaftlichen Wohnungen \u00fcberproportional sei.\n\nDer Verband norddeutscher Wohnungsunternehmen widersprach Sudmanns Darstellung. \"Alle Mieten wurden entsprechend ihrer realen Anteile im Markt ber\u00fccksichtigt\", sagte der Verbandssprecher.\n\nDer Mietmarkt funktioniere nur f\u00fcr diejenigen, die bereits eine Wohnung h\u00e4tten, monierte die stadtentwicklungspolitische Sprecherin der CDU-Fraktion, Anke Frieling. Wer nach Hamburg ziehe, habe kaum Chancen auf bezahlbaren Wohnraum. \"Der rot-gr\u00fcne Senat hat es \u00fcber Jahre vers\u00e4umt, ausreichend neue Wohnungen zu schaffen und die Stadt f\u00fcr Familien bezahlbar zu halten.\"\n\nWeitere News On Air\n\nWeitere Nachrichten aus Hamburg, Deutschland und der Welt h\u00f6rt ihr immer zur vollen Stunde bei uns im Programm. Holt euch einfach unsere kostenlose App, h\u00f6rt uns \u00fcber euren Smartspeaker oder schaltet mit einem Klick unten auf den Playbutton das Webradio ein. Zum Nachh\u00f6ren gibt's das Ganze nat\u00fcrlich auch noch mal als Podcastangebot.",
+      "source_name": "Radio Hamburg",
+      "source_country": null,
+      "source_url": "https://www.radiohamburg.de/aktuelles/hamburg/Deutlicher-Anstieg-der-Nettokaltmiete-in-Hamburg-im-Vergleich-zu-2022-id1532771.html",
+      "published_date": "2025-11-27T12:50:10Z",
+      "language": "deu",
+      "image_url": "https://static.radiohamburg.de/img/181/564997/949000/Img_2_1/800/immobilienpreise",
+      "fetched_at": "2025-12-23 18:27:03",
+      "sentiment_score": -0.2,
+      "sentiment_label": "slightly_negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 327,
+      "article_uri": "2025-11-905939769",
+      "event_id": 20,
+      "title": "Hamburgs Mieten wachsen langsamer als Inflation - doch der Streit um bezahlbaren Wohnraum bleibt",
+      "body": "Die Durchschnittsmieten in Hamburg liegen laut einer Studie niedriger als allgemein angenommen. Die Kaltmiete betr\u00e4gt im Schnitt 9,11 Euro pro Quadratmeter, wie die bisher gr\u00f6\u00dfte Auswertung von Mietvertr\u00e4gen im Auftrag aller Wohnungsverb\u00e4nde ergab.\n\n283.000 Hamburger Mietvertr\u00e4ge, alte wie neue, hat Professor Marco W\u00f6lfle ausgewertet. Das sind 20 Mal mehr als beim Mietenspiegel. Statistisch ergebe sich so der Median-Mittelwert von 9,11 Euro pro Quadratmeter. Seit 2019 stiegen Hamburgs Mieten j\u00e4hrlich um 2,2 Prozent, das sei weniger als die Inflation, sagte W\u00f6lfle. \"W\u00e4hrend alles andere teurer wird, ob das die Spaghetti im Supermarkt sind oder das Mehl: Unser Alltag ist so viel schneller teurer geworden. Das was die Mieter bezahlen, hat sich doch moderat entwickelt.\"\n\n\"Kein Grund f\u00fcr Hysterie oder Panik\"\n\nDie Einsch\u00e4tzung teilt auch Andreas Breitner vom Verband norddeutscher Wohnungsunternehmen (VNW): \"Ja, damit kann man leben. Das ist kein Grund f\u00fcr Hysterie oder Panik. Der Hamburger Wohnungsmarkt ist besser als sein Ruf. Aber er darf auch nicht schlechter werden.\"\n\nIn der \u00d6ffentlichkeit w\u00fcrden nur teure Neumieten aus Internetportalen kursieren. Das sei aber die Resterampe und nicht der g\u00fcnstige Bestand, so Breitner weiter. Hohe Mietsteigerungen bef\u00fcrchtet die Wohnungswirtschaft aber durch den Klima-Volksentscheid.\n\nMieten langsamer gestiegen als Verbraucherpreise\n\nDie Hamburger Mietenstudie hat das Center for Real Estate Studies, ein Freiburger Hochschulinstitut, verfasst. Die Daten haben die Vermieter und Vermieterinnen bereitgestellt. Im Vergleich zu der zur\u00fcckliegenden Untersuchung 2022 seien die Mieten um 8,8 Prozent gewachsen, hei\u00dft es in der Mitteilung. Im gleichen Zeitraum seien die Verbraucherpreise um 10,8 Prozent gewachsen.\n\nMieterverein spricht von \"Beruhigungspille\"\n\nDer Mieterverein zu Hamburg kritisierte die Studie als eine Beruhigungspille. Diese diene wie die Vorg\u00e4ngerpublikationen dazu, \"der Politik und \u00d6ffentlichkeit vorzugaukeln, dass es keinen Mangel an bezahlbarem Wohnraum gibt\". Es gebe zwar entspannte Wohnsituationen - etwa f\u00fcr langj\u00e4hrige Genossenschaftsmitglieder. Doch das \u00e4ndere nichts daran, dass viele Hamburger g\u00fcnstigere Wohnungen suchten.",
+      "source_name": "Norddeutscher Rundfunk",
+      "source_country": null,
+      "source_url": "https://www.ndr.de/nachrichten/hamburg/studie-hamburger-mieten-weniger-gestiegen-als-verbraucherkosten,wohnungsmarkt-114.html",
+      "published_date": "2025-11-27T12:44:09Z",
+      "language": "deu",
+      "image_url": "https://images.ndr.de/image/c8657e09-fc36-4e44-a8a4-f28186c52617/AAABmTgVXsA/AAABmgWmh8Q/16x9-big/wohnungen224.webp?width=1920",
+      "fetched_at": "2025-12-23 18:27:03",
+      "sentiment_score": 0.1,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 324,
+      "article_uri": "2025-11-905900323",
+      "event_id": 20,
+      "title": "Hamburg & Schleswig-Holstein: Wohnungswirtschaft h\u00e4lt Mieten f\u00fcr gr\u00f6\u00dftenteils bezahlbar",
+      "body": "Die Branche st\u00fctzt sich auf eine neue Studie, die Auskunft \u00fcber die \u00fcbliche Nettokaltmiete gibt. Der Mieterverein bewertet die Untersuchung als Beruhigungspille.\n\nHamburg (dpa/lno) - Mietwohnungen in Hamburg sind nach Einsch\u00e4tzung der hiesigen Wohnungswirtschaft gr\u00f6\u00dftenteils bezahlbar. Nach einer neuen Studie, die Branchenvertreter in Auftrag gegeben hatten, liegt die monatliche Nettokaltmiete im Schnitt bei 9,11 Euro je Quadratmeter. Eine Wohnung mit 80 Quadratmetern kostet folglich im Schnitt ann\u00e4hernd 730 Euro. Die Nettokaltmiete, h\u00e4ufig nur Kaltmiete genannt, ist die Miete ohne Neben- und Betriebskosten.\n\nDie Hamburger Mietenstudie hat das Center for Real Estate Studies, ein Freiburger Hochschulinstitut, verfasst. Das Institut hat den Angaben nach mehr als 283.000 \u00f6ffentliche, genossenschaftliche und private Mietvertr\u00e4ge ausgewertet. Die Daten haben die Vermieter bereitgestellt.\n\nIm Vergleich zu der zur\u00fcckliegenden Untersuchung 2022 sind die Mieten um 8,8 Prozent gewachsen, wie es in der Mitteilung hei\u00dft. Die Wohnungswirtschaft weist darauf hin, dass Mieten langsamer als Verbraucherpreise gestiegen seien, die in dem Zeitraum um 10,8 Prozent zugenommen h\u00e4tten.\n\nImmobilienverband verteidigt Mietmarkt\n\n\"Die neue Hamburger Mietenstudie zeigt sehr deutlich: Der Mietmarkt in unserer Stadt funktioniert\", sagte der stellvertretende Vorsitzende des Immobilienverbands Deutschland (IVD) Nord, Carl-Christian Franzen. Die meisten Hamburger wohnten zu verl\u00e4sslichen Konditionen. Der IVD vertritt unter anderem Immobilienmakler.\n\n\u00c4hnlich \u00e4u\u00dferte sich der Vorstandsvorsitzende des Verbands Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW), Kay Brahmst: \"Die Mieten in Hamburg sind nicht zu hoch.\" Ein Problem ist Brahmst zufolge, dass nicht genug Wohnungen gebaut werden. Der BFW Nord repr\u00e4sentiert die mittelst\u00e4ndische Immobilienwirtschaft.\n\nAu\u00dfer dem IVD Nord und dem BFW Nord geh\u00f6ren der lokale Grundeigent\u00fcmer-Verband, der Verband norddeutscher Wohnungsunternehmen und der st\u00e4dtische Wohnungsvermieter Saga zu den Auftraggebern der Studie.\n\nKritik des Mietervereins an Studie\n\nDer Mieterverein zu Hamburg kritisierte die Studie als eine Beruhigungspille. Diese diene wie die Vorg\u00e4ngerpublikationen dazu, \"der Politik und \u00d6ffentlichkeit vorzugaukeln, dass es keinen Mangel an bezahlbarem Wohnraum gibt\". Es gebe zwar entspannte Wohnsituationen - etwa f\u00fcr langj\u00e4hrige Genossenschaftsmitglieder. Doch das \u00e4ndere nichts daran, dass viele Hamburger g\u00fcnstigere Wohnungen suchten.\n\nDie wohnungspolitische Sprecherin der Linksfraktion, Heike Sudmann, sagte: \"Wer in Hamburg eine Wohnung sucht, findet bei den \u00fcber 700.000 Mietwohnungen kaum ein freies Angebot unter 9 Euro Kaltmiete.\" Das sei die Realit\u00e4t. Die Studie sei sch\u00f6ngerechnet. Das liege etwa daran, dass der Anteil der st\u00e4dtischen und genossenschaftlichen Wohnungen \u00fcberproportional sei.",
+      "source_name": "N-tv",
+      "source_country": null,
+      "source_url": "https://www.n-tv.de/regionales/hamburg-und-schleswig-holstein/Wohnungswirtschaft-haelt-Mieten-fuer-groesstenteils-bezahlbar-id30076355.html",
+      "published_date": "2025-11-27T12:05:02Z",
+      "language": "deu",
+      "image_url": "https://www.n-tv.de/img/30076947/1764246753/Img_16_9/1200/Nach-Einschaetzung-der-Wohnungswirtschaft-ist-der-Mietmarkt-intakt.jpg",
+      "fetched_at": "2025-12-23 18:27:03",
+      "sentiment_score": -0.15,
+      "sentiment_label": "slightly_negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 326,
+      "article_uri": "2025-11-905877201",
+      "event_id": 20,
+      "title": "Wohnungswirtschaft h\u00e4lt Mieten f\u00fcr gr\u00f6\u00dftenteils bezahlbar",
+      "body": "Direkt aus dem dpa-Newskanal: Dieser Text wurde automatisch von der Deutschen Presse-Agentur (dpa) \u00fcbernommen und von der SZ-Redaktion nicht bearbeitet.\n\nHamburg (dpa/lno) - Mietwohnungen in Hamburg sind nach Einsch\u00e4tzung der hiesigen Wohnungswirtschaft gr\u00f6\u00dftenteils bezahlbar. Nach einer neuen ...",
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "source_country": null,
+      "source_url": "https://www.sueddeutsche.de/stil/wohnung-wohnungswirtschaft-haelt-mieten-fuer-groesstenteils-bezahlbar-dpa.urn-newsml-dpa-com-20090101-251127-930-347822",
+      "published_date": "2025-11-27T11:36:55Z",
+      "language": "deu",
+      "image_url": "https://www.sueddeutsche.de/2025/11/27/bb4c8372-be8b-4c36-869d-5124aea686d4.jpg?q=60&fm=webp&width=1200&rect=undefined%2Cundefined%2Cundefined%2Cundefined",
+      "fetched_at": "2025-12-23 18:27:03",
+      "sentiment_score": 0.3,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 320,
+      "article_uri": "8975156002",
+      "event_id": 20,
+      "title": "Studie: Kaltmiete in Hamburg bei 9,11 Euro je Quadratmeter - WELT",
+      "body": "F\u00fcr die Studie sind den Angaben nach mehr als 283.000 Mietvertr\u00e4ge ausgewertet worden. Im Vergleich zu 2022 sind die Mieten demnach um 8,8 Prozent gestiegen.\n\nDie monatliche Nettokaltmiete in Hamburg liegt nach einer Studie der Wohnungswirtschaft derzeit im Schnitt bei 9,11 Euro je Quadratmeter. Im Vergleich zu der zur\u00fcckliegenden Untersuchung 2022 sind die Mieten damit um 8,8 Prozent gestiegen, wie aus einer gemeinsamen Mitteilung der Auftraggeber hervorgeht. Die Nettokaltmiete, h\u00e4ufig nur Kaltmiete genannt, ist die Miete ohne Neben- und Betriebskosten.\n\nDie Studie hat das Center for Real Estate Studies, ein Freiburger Hochschulinstitut, verfasst. Das Institut hat den Angaben nach mehr als 283.000 \u00f6ffentliche, genossenschaftliche und private Mietvertr\u00e4ge ausgewertet. Die Daten haben die Vermieter bereitgestellt.\n\nDie Auftraggeber sind der Verband Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen, der Grundeigent\u00fcmer-Verband Hamburg, der Immobilienverband Deutschland Nord und der Landesverband des Verbands norddeutscher Wohnungsunternehmen sowie das kommunale Wohnungsunternehmen Saga.",
+      "source_name": "DIE WELT",
+      "source_country": null,
+      "source_url": "https://www.welt.de/regionales/hamburg/article6928279e9ee3dea8ed716c88/studie-kaltmiete-in-hamburg-bei-9-11-euro-je-quadratmeter.html",
+      "published_date": "2025-11-27T11:08:16Z",
+      "language": "deu",
+      "image_url": "https://images.welt.de/6928279e9ee3dea8ed716c88/c484588b4c1b2db62d7cc952fc794ccf-master/ci16x9-w1200/wohnungen-in-hamburg",
+      "fetched_at": "2025-12-23 18:27:03",
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "article_type": "news_report"
+    },
+    {
+      "id": 322,
+      "article_uri": "8975146343",
+      "event_id": 20,
+      "title": "Studie: Kaltmiete in Hamburg bei 9,11 Euro je Quadratmeter",
+      "body": "Dieser Beitrag stammt aus dem Nachrichtenangebot der Deutschen Presse-Agentur (dpa) und wurde nicht durch unsere Redaktion bearbeitet.\n\nF\u00fcr die Studie sind den Angaben nach mehr als 283.000 Mietvertr\u00e4ge ausgewertet worden. Im Vergleich zu 2022 sind die Mieten demnach um 8,8 Prozent gestiegen.\n\nHamburg - Die monatliche Nettokaltmiete in Hamburg liegt nach einer Studie der Wohnungswirtschaft derzeit im Schnitt bei 9,11 Euro je Quadratmeter. Im Vergleich zu der zur\u00fcckliegenden Untersuchung 2022 sind die Mieten damit um 8,8 Prozent gestiegen, wie aus einer gemeinsamen Mitteilung der Auftraggeber hervorgeht. Die Nettokaltmiete, h\u00e4ufig nur Kaltmiete genannt, ist die Miete ohne Neben- und Betriebskosten.\n\nDie Studie hat das Center for Real Estate Studies, ein Freiburger Hochschulinstitut, verfasst. Das Institut hat den Angaben nach mehr als 283.000 \u00f6ffentliche, genossenschaftliche und private Mietvertr\u00e4ge ausgewertet. Die Daten haben die Vermieter bereitgestellt.\n\nDie Auftraggeber sind der Verband Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen, der Grundeigent\u00fcmer-Verband Hamburg, der Immobilienverband Deutschland Nord und der Landesverband des Verbands norddeutscher Wohnungsunternehmen sowie das kommunale Wohnungsunternehmen Saga. \u00a9 Deutsche Presse-Agentur",
+      "source_name": "WEB.DE",
+      "source_country": null,
+      "source_url": "https://web.de/magazine/regio/hamburg/studie-kaltmiete-hamburg-911-euro-quadratmeter-41633022",
+      "published_date": "2025-11-27T10:59:26Z",
+      "language": "deu",
+      "image_url": "https://i0.web.de/image/024/41633024,pd=1,f=opengraph/wohnungen-hamburg.jpg",
+      "fetched_at": "2025-12-23 18:27:03",
+      "sentiment_score": -0.1,
+      "sentiment_label": "slightly_negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 321,
+      "article_uri": "8975138401",
+      "event_id": 20,
+      "title": "Verbraucher: Studie: Kaltmiete in Hamburg bei 9,11 Euro je Quadratmeter",
+      "body": "Die monatliche Nettokaltmiete in Hamburg liegt nach einer Studie der Wohnungswirtschaft derzeit im Schnitt bei 9,11 Euro je Quadratmeter. Im Vergleich zu der zur\u00fcckliegenden Untersuchung 2022 sind die Mieten damit um 8,8 Prozent gestiegen, wie aus einer gemeinsamen Mitteilung der Auftraggeber hervorgeht. Die Nettokaltmiete, h\u00e4ufig nur Kaltmiete genannt, ist die Miete ohne Neben- und Betriebskosten.\n\nDie Studie hat das Center for Real Estate Studies, ein Freiburger Hochschulinstitut, verfasst. Das Institut hat den Angaben nach mehr als 283.000 \u00f6ffentliche, genossenschaftliche und private Mietvertr\u00e4ge ausgewertet. Die Daten haben die Vermieter bereitgestellt.\n\nDie Auftraggeber sind der Verband Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen, der Grundeigent\u00fcmer-Verband Hamburg, der Immobilienverband Deutschland Nord und der Landesverband des Verbands norddeutscher Wohnungsunternehmen sowie das kommunale Wohnungsunternehmen Saga.",
+      "source_name": "ZEIT ONLINE",
+      "source_country": null,
+      "source_url": "https://www.zeit.de/news/2025-11/27/studie-kaltmiete-in-hamburg-bei-9-11-euro-je-quadratmeter",
+      "published_date": "2025-11-27T10:52:17Z",
+      "language": "deu",
+      "image_url": "https://img.zeit.de/news/2025-11/27/studie-kaltmiete-in-hamburg-bei-9-11-euro-je-quadratmeter-image-group/wide__1300x731",
+      "fetched_at": "2025-12-23 18:27:03",
+      "sentiment_score": -0.1,
+      "sentiment_label": "slightly_negative",
+      "article_type": "news_report"
+    }
+  ],
+  "popularity_trend": [
+    {
+      "date": "2025-11-27",
+      "count": 8
+    }
+  ],
+  "sentiment_trend": [
+    {
+      "date": "2025-11-27",
+      "avg_sentiment": -0.04375,
+      "count": 8
+    }
+  ],
+  "entities": {
+    "companies": [
+      {
+        "name": "Saga",
+        "count": 6
+      },
+      {
+        "name": "Center for Real Estate Studies",
+        "count": 1
+      }
+    ],
+    "countries": [
+      {
+        "name": "Germany",
+        "count": 6
+      },
+      {
+        "name": "Deutschland",
+        "count": 2
+      },
+      {
+        "name": "Hamburg",
+        "count": 2
+      },
+      {
+        "name": "Freiburg",
+        "count": 1
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Center for Real Estate Studies",
+        "count": 6
+      },
+      {
+        "name": "Mieterverein zu Hamburg",
+        "count": 4
+      },
+      {
+        "name": "Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW) Nord",
+        "count": 3
+      },
+      {
+        "name": "Grundeigent\u00fcmer-Verband Hamburg",
+        "count": 3
+      },
+      {
+        "name": "Immobilienverband Deutschland (IVD) Nord",
+        "count": 3
+      },
+      {
+        "name": "Immobilienverband Deutschland Nord",
+        "count": 3
+      },
+      {
+        "name": "Landesverband des Verbands norddeutscher Wohnungsunternehmen",
+        "count": 3
+      },
+      {
+        "name": "Verband Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen",
+        "count": 3
+      },
+      {
+        "name": "Verband norddeutscher Wohnungsunternehmen",
+        "count": 3
+      },
+      {
+        "name": "Deutsche Presse-Agentur (dpa)",
+        "count": 2
+      },
+      {
+        "name": "Grundeigent\u00fcmer-Verband",
+        "count": 1
+      },
+      {
+        "name": "SZ-Redaktion",
+        "count": 1
+      },
+      {
+        "name": "Verband norddeutscher Wohnungsunternehmen (VNW)",
+        "count": 1
+      },
+      {
+        "name": "Wohnungsverb\u00e4nde",
+        "count": 1
+      },
+      {
+        "name": "Wohnungswirtschaft",
+        "count": 1
+      }
+    ],
+    "politicians": [
+      {
+        "name": "Carl-Christian Franzen (stellvertretender Vorsitzender des Immobilienverbands Deutschland (IVD) Nord)",
+        "count": 3
+      },
+      {
+        "name": "Heike Sudmann (wohnungspolitische Sprecherin der Linksfraktion)",
+        "count": 3
+      },
+      {
+        "name": "Kay Brahmst (Vorstandsvorsitzender des Verbands Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW))",
+        "count": 3
+      },
+      {
+        "name": "Anke Frieling (stadtentwicklungspolitische Sprecherin der CDU-Fraktion)",
+        "count": 2
+      }
+    ]
+  },
+  "financial": {
+    "amounts": [
+      {
+        "amount": 730.0,
+        "currency": "EUR",
+        "context": "monatliche Nettokaltmiete f\u00fcr 80 Quadratmeter Wohnung"
+      },
+      {
+        "amount": 730.0,
+        "currency": "EUR",
+        "context": "average Nettokaltmiete for an 80 square meter apartment"
+      },
+      {
+        "amount": 730.0,
+        "currency": "EUR",
+        "context": "Nettokaltmiete f\u00fcr eine 80 Quadratmeter Wohnung"
+      },
+      {
+        "amount": 10.8,
+        "currency": "%",
+        "context": "Anstieg der Verbraucherpreise im gleichen Zeitraum"
+      },
+      {
+        "amount": 10.8,
+        "currency": "%",
+        "context": "percentage increase in consumer prices"
+      },
+      {
+        "amount": 10.8,
+        "currency": "%",
+        "context": "Anstieg der Verbraucherpreise"
+      },
+      {
+        "amount": 10.8,
+        "currency": "percent",
+        "context": "increase in consumer prices"
+      },
+      {
+        "amount": 9.11,
+        "currency": "EUR",
+        "context": "average monthly net cold rent per square meter in Hamburg"
+      },
+      {
+        "amount": 9.11,
+        "currency": "EUR",
+        "context": "average monthly Nettokaltmiete per square meter in Hamburg"
+      },
+      {
+        "amount": 9.11,
+        "currency": "EUR",
+        "context": "average monthly net cold rent per square meter"
+      },
+      {
+        "amount": 9.11,
+        "currency": "EUR",
+        "context": "monatliche Nettokaltmiete je Quadratmeter"
+      },
+      {
+        "amount": 9.11,
+        "currency": "EUR",
+        "context": "average Nettokaltmiete per square meter"
+      },
+      {
+        "amount": 9.11,
+        "currency": "EUR",
+        "context": "Nettokaltmiete pro Quadratmeter"
+      },
+      {
+        "amount": 9.11,
+        "currency": "EUR",
+        "context": "average cold rent per square meter"
+      },
+      {
+        "amount": 9.0,
+        "currency": "EUR",
+        "context": "Kaltmiete unter der es kaum freie Angebote gibt"
+      },
+      {
+        "amount": 8.8,
+        "currency": "percent",
+        "context": "increase in rent compared to 2022"
+      },
+      {
+        "amount": 8.8,
+        "currency": "percent",
+        "context": "increase in rent compared to 2022"
+      },
+      {
+        "amount": 8.8,
+        "currency": "percent",
+        "context": "increase in rent compared to 2022"
+      },
+      {
+        "amount": 8.8,
+        "currency": "%",
+        "context": "Mietanstieg im Vergleich zu 2022"
+      },
+      {
+        "amount": 8.8,
+        "currency": "%",
+        "context": "percentage increase in rents compared to 2022"
+      },
+      {
+        "amount": 8.8,
+        "currency": "%",
+        "context": "Mietanstieg im Vergleich zu 2022"
+      },
+      {
+        "amount": 8.8,
+        "currency": "percent",
+        "context": "rent increase compared to 2022"
+      },
+      {
+        "amount": 2.2,
+        "currency": "percent",
+        "context": "annual increase in Hamburg rents since 2019"
+      }
+    ],
+    "totals": {
+      "EUR": 2262.770000000001,
+      "%": 58.8,
+      "percent": 48.2
+    }
+  },
+  "quotes": [
+    {
+      "id": 784,
+      "article_id": 323,
+      "speaker": "Carl-Christian Franzen",
+      "speaker_role": "stellvertretender Vorsitzender des IVD Nord",
+      "quote_text": "Der Mietmarkt in unserer Stadt funktioniert",
+      "stance": "support",
+      "article_title": "Mieten in Hamburg - bezahlbar? Kritik an Studie",
+      "source_url": "https://www.mopo.de/hamburg/mieten-in-hamburg-bezahlbar-kritik-an-studie/"
+    },
+    {
+      "id": 785,
+      "article_id": 323,
+      "speaker": "Kay Brahmst",
+      "speaker_role": "Vorstandsvorsitzender des BFW Nord",
+      "quote_text": "Die Mieten in Hamburg sind nicht zu hoch.",
+      "stance": "support",
+      "article_title": "Mieten in Hamburg - bezahlbar? Kritik an Studie",
+      "source_url": "https://www.mopo.de/hamburg/mieten-in-hamburg-bezahlbar-kritik-an-studie/"
+    },
+    {
+      "id": 786,
+      "article_id": 323,
+      "speaker": "Heike Sudmann",
+      "speaker_role": "wohnungspolitische Sprecherin der Linksfraktion",
+      "quote_text": "Wer in Hamburg eine Wohnung sucht, findet bei den \u00fcber 700.000 Mietwohnungen kaum ein freies Angebot unter 9 Euro Kaltmiete.",
+      "stance": "oppose",
+      "article_title": "Mieten in Hamburg - bezahlbar? Kritik an Studie",
+      "source_url": "https://www.mopo.de/hamburg/mieten-in-hamburg-bezahlbar-kritik-an-studie/"
+    },
+    {
+      "id": 787,
+      "article_id": 323,
+      "speaker": "Anke Frieling",
+      "speaker_role": "stadtentwicklungspolitische Sprecherin der CDU-Fraktion",
+      "quote_text": "Der rot-gr\u00fcne Senat hat es \u00fcber Jahre vers\u00e4umt, ausreichend neue Wohnungen zu schaffen und die Stadt f\u00fcr Familien bezahlbar zu halten.",
+      "stance": "oppose",
+      "article_title": "Mieten in Hamburg - bezahlbar? Kritik an Studie",
+      "source_url": "https://www.mopo.de/hamburg/mieten-in-hamburg-bezahlbar-kritik-an-studie/"
+    },
+    {
+      "id": 791,
+      "article_id": 325,
+      "speaker": "Carl-Christian Franzen",
+      "speaker_role": "stellvertretender Vorsitzender des IVD Nord",
+      "quote_text": "Der Mietmarkt in unserer Stadt funktioniert",
+      "stance": "support",
+      "article_title": "Deutlicher Anstieg der Nettokaltmiete in Hamburg im Vergleich zu 2022",
+      "source_url": "https://www.radiohamburg.de/aktuelles/hamburg/Deutlicher-Anstieg-der-Nettokaltmiete-in-Hamburg-im-Vergleich-zu-2022-id1532771.html"
+    },
+    {
+      "id": 792,
+      "article_id": 325,
+      "speaker": "Kay Brahmst",
+      "speaker_role": "Vorstandsvorsitzender des BFW Nord",
+      "quote_text": "Die Mieten in Hamburg sind nicht zu hoch.",
+      "stance": "support",
+      "article_title": "Deutlicher Anstieg der Nettokaltmiete in Hamburg im Vergleich zu 2022",
+      "source_url": "https://www.radiohamburg.de/aktuelles/hamburg/Deutlicher-Anstieg-der-Nettokaltmiete-in-Hamburg-im-Vergleich-zu-2022-id1532771.html"
+    },
+    {
+      "id": 793,
+      "article_id": 325,
+      "speaker": "Heike Sudmann",
+      "speaker_role": "wohnungspolitische Sprecherin der Linksfraktion",
+      "quote_text": "Wer in Hamburg eine Wohnung sucht, findet bei den \u00fcber 700.000 Mietwohnungen kaum ein freies Angebot unter 9 Euro Kaltmiete.",
+      "stance": "oppose",
+      "article_title": "Deutlicher Anstieg der Nettokaltmiete in Hamburg im Vergleich zu 2022",
+      "source_url": "https://www.radiohamburg.de/aktuelles/hamburg/Deutlicher-Anstieg-der-Nettokaltmiete-in-Hamburg-im-Vergleich-zu-2022-id1532771.html"
+    },
+    {
+      "id": 794,
+      "article_id": 325,
+      "speaker": "Anke Frieling",
+      "speaker_role": "stadtentwicklungspolitische Sprecherin der CDU-Fraktion",
+      "quote_text": "Der rot-gr\u00fcne Senat hat es \u00fcber Jahre vers\u00e4umt, ausreichend neue Wohnungen zu schaffen und die Stadt f\u00fcr Familien bezahlbar zu halten.",
+      "stance": "oppose",
+      "article_title": "Deutlicher Anstieg der Nettokaltmiete in Hamburg im Vergleich zu 2022",
+      "source_url": "https://www.radiohamburg.de/aktuelles/hamburg/Deutlicher-Anstieg-der-Nettokaltmiete-in-Hamburg-im-Vergleich-zu-2022-id1532771.html"
+    },
+    {
+      "id": 795,
+      "article_id": 327,
+      "speaker": "Andreas Breitner",
+      "speaker_role": "VNW",
+      "quote_text": "Ja, damit kann man leben. Das ist kein Grund f\u00fcr Hysterie oder Panik. Der Hamburger Wohnungsmarkt ist besser als sein Ruf. Aber er darf auch nicht schlechter werden.",
+      "stance": "support",
+      "article_title": "Hamburgs Mieten wachsen langsamer als Inflation - doch der Streit um bezahlbaren Wohnraum bleibt",
+      "source_url": "https://www.ndr.de/nachrichten/hamburg/studie-hamburger-mieten-weniger-gestiegen-als-verbraucherkosten,wohnungsmarkt-114.html"
+    },
+    {
+      "id": 796,
+      "article_id": 327,
+      "speaker": "Marco W\u00f6lfle",
+      "speaker_role": "Professor",
+      "quote_text": "W\u00e4hrend alles andere teurer wird, ob das die Spaghetti im Supermarkt sind oder das Mehl: Unser Alltag ist so viel schneller teurer geworden. Das was die Mieter bezahlen, hat sich doch moderat entwickelt.",
+      "stance": "neutral",
+      "article_title": "Hamburgs Mieten wachsen langsamer als Inflation - doch der Streit um bezahlbaren Wohnraum bleibt",
+      "source_url": "https://www.ndr.de/nachrichten/hamburg/studie-hamburger-mieten-weniger-gestiegen-als-verbraucherkosten,wohnungsmarkt-114.html"
+    },
+    {
+      "id": 788,
+      "article_id": 324,
+      "speaker": "Carl-Christian Franzen",
+      "speaker_role": "stellvertretender Vorsitzender des IVD Nord",
+      "quote_text": "Der Mietmarkt in unserer Stadt funktioniert",
+      "stance": "support",
+      "article_title": "Hamburg & Schleswig-Holstein: Wohnungswirtschaft h\u00e4lt Mieten f\u00fcr gr\u00f6\u00dftenteils bezahlbar",
+      "source_url": "https://www.n-tv.de/regionales/hamburg-und-schleswig-holstein/Wohnungswirtschaft-haelt-Mieten-fuer-groesstenteils-bezahlbar-id30076355.html"
+    },
+    {
+      "id": 789,
+      "article_id": 324,
+      "speaker": "Kay Brahmst",
+      "speaker_role": "Vorstandsvorsitzender des BFW Nord",
+      "quote_text": "Die Mieten in Hamburg sind nicht zu hoch.",
+      "stance": "support",
+      "article_title": "Hamburg & Schleswig-Holstein: Wohnungswirtschaft h\u00e4lt Mieten f\u00fcr gr\u00f6\u00dftenteils bezahlbar",
+      "source_url": "https://www.n-tv.de/regionales/hamburg-und-schleswig-holstein/Wohnungswirtschaft-haelt-Mieten-fuer-groesstenteils-bezahlbar-id30076355.html"
+    },
+    {
+      "id": 790,
+      "article_id": 324,
+      "speaker": "Heike Sudmann",
+      "speaker_role": "wohnungspolitische Sprecherin der Linksfraktion",
+      "quote_text": "Wer in Hamburg eine Wohnung sucht, findet bei den \u00fcber 700.000 Mietwohnungen kaum ein freies Angebot unter 9 Euro Kaltmiete.",
+      "stance": "oppose",
+      "article_title": "Hamburg & Schleswig-Holstein: Wohnungswirtschaft h\u00e4lt Mieten f\u00fcr gr\u00f6\u00dftenteils bezahlbar",
+      "source_url": "https://www.n-tv.de/regionales/hamburg-und-schleswig-holstein/Wohnungswirtschaft-haelt-Mieten-fuer-groesstenteils-bezahlbar-id30076355.html"
+    }
+  ],
+  "stakeholders": [
+    {
+      "stakeholder": "Mieterverein zu Hamburg",
+      "position": "oppose",
+      "reasoning": "Studie ist eine Beruhigungspille und verschleiert den Mangel an bezahlbarem Wohnraum.",
+      "mention_count": 4
+    },
+    {
+      "stakeholder": "Grundeigent\u00fcmer-Verband Hamburg",
+      "position": "neutral",
+      "reasoning": "Reported data from study",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Immobilienverband Deutschland Nord",
+      "position": "neutral",
+      "reasoning": "Reported data from study",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Landesverband des Verbands norddeutscher Wohnungsunternehmen",
+      "position": "neutral",
+      "reasoning": "Reported data from study",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Saga",
+      "position": "neutral",
+      "reasoning": "Reported data from study",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Verband Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen",
+      "position": "neutral",
+      "reasoning": "Reported data from study",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "CDU-Fraktion",
+      "position": "oppose",
+      "reasoning": "Der Senat hat vers\u00e4umt, ausreichend Wohnraum zu schaffen.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Linksfraktion",
+      "position": "oppose",
+      "reasoning": "Mieten sind zu hoch und es werden keine Ma\u00dfnahmen zur Senkung ergriffen.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW) Nord",
+      "position": "support",
+      "reasoning": "Argues that rents are not too high.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Immobilienverband Deutschland (IVD) Nord",
+      "position": "support",
+      "reasoning": "Believes the rental market functions well.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Linksfraktion (Heike Sudmann)",
+      "position": "oppose",
+      "reasoning": "It is difficult to find affordable housing under 9 EUR/sqm.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Wohnungsverb\u00e4nde & VNW",
+      "position": "support",
+      "reasoning": "Believe the housing market is better than its reputation and rent increases are moderate.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Wohnungswirtschaft",
+      "position": "support",
+      "reasoning": "They assess that most rental apartments in Hamburg are affordable.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Wohnungswirtschaft (IVD, BFW, Verband norddeutscher Wohnungsunternehmen, Saga)",
+      "position": "support",
+      "reasoning": "Mieten sind bezahlbar und der Markt funktioniert.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Wohnungswirtschaft (IVD, BFW, etc.)",
+      "position": "support",
+      "reasoning": "Mieten are largely affordable and the market functions well.",
+      "mention_count": 1
+    }
+  ],
+  "summary_stats": {
+    "total_articles": 8,
+    "sources": 8,
+    "date_range": {
+      "start": "2025-11-27T10:52:17Z",
+      "end": "2025-11-27T17:30:44Z"
+    },
+    "avg_sentiment": -0.04375000000000001,
+    "total_quotes": 13,
+    "total_financial_mentions": 23
+  }
+}

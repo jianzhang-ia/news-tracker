@@ -1,0 +1,228 @@
+{
+  "generated_at": "2025-12-23T20:17:40.378911",
+  "events": [
+    {
+      "id": 21,
+      "event_uri": "deu-2055441",
+      "title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "category": "other",
+      "summary": "Die Gespr\u00e4che in den USA \u00fcber eine Friedensl\u00f6sung f\u00fcr den Ukraine-Krieg sind nach Angaben verschiedener Seiten positiv verlaufen, ohne dass Details oder konkrete Fortschritte bekannt wurden. An den Unterredungen in Miami im US-Bundesstaat Florida, die das gesamte Wochenende \u00fcber andauern sollten, wa...",
+      "first_seen": "2025-12-23T19:30:43.762873",
+      "last_updated": "2025-12-23T20:15:45.228717",
+      "created_at": "2025-12-23 18:30:43",
+      "article_count": 22,
+      "first_article_date": "2025-12-21T01:30:42Z",
+      "last_article_date": "2025-12-22T14:47:19Z",
+      "avg_sentiment": 0.18636363636363643,
+      "positive_articles": 21,
+      "negative_articles": 1,
+      "top_companies": [
+        "IT BOLTWISE",
+        "dpa-AFX",
+        "dpa",
+        "Tass",
+        "Ria Nowosti"
+      ]
+    },
+    {
+      "id": 20,
+      "event_uri": "deu-2043906",
+      "title": "Studie: Kaltmiete in Hamburg bei 9,11 Euro je Quadratmeter - WELT",
+      "category": "other",
+      "summary": "F\u00fcr die Studie sind den Angaben nach mehr als 283.000 Mietvertr\u00e4ge ausgewertet worden. Im Vergleich zu 2022 sind die Mieten demnach um 8,8 Prozent gestiegen.\n\nDie monatliche Nettokaltmiete in Hamburg liegt nach einer Studie der Wohnungswirtschaft derzeit im Schnitt bei 9,11 Euro je Quadratmeter. Im ...",
+      "first_seen": "2025-12-23T19:27:03.434874",
+      "last_updated": "2025-12-23T20:15:44.730877",
+      "created_at": "2025-12-23 18:27:03",
+      "article_count": 8,
+      "first_article_date": "2025-11-27T10:52:17Z",
+      "last_article_date": "2025-11-27T17:30:44Z",
+      "avg_sentiment": -0.04375,
+      "positive_articles": 2,
+      "negative_articles": 5,
+      "top_companies": [
+        "Saga",
+        "Center for Real Estate Studies"
+      ]
+    },
+    {
+      "id": 19,
+      "event_uri": "deu-2056138",
+      "title": "Rutte outlines three levels of security guarantees for Ukraine",
+      "category": "other",
+      "summary": "The main goal of security guarantees for Ukraine is to ensure that it never again becomes a victim of an attack.\n\nNATO Secretary General Mark Rutte spoke about three levels of guarantees in an interview with the German tabloid Bild, according to Ukrinform.\n\n\"We must ensure that Ukraine is never atta...",
+      "first_seen": "2025-12-23T19:22:53.971077",
+      "last_updated": "2025-12-23T20:15:44.615634",
+      "created_at": "2025-12-23 18:22:53",
+      "article_count": 34,
+      "first_article_date": "2025-12-21T17:54:49Z",
+      "last_article_date": "2025-12-23T15:54:11Z",
+      "avg_sentiment": -0.19393939393939394,
+      "positive_articles": 10,
+      "negative_articles": 23,
+      "top_companies": [
+        "Volkswagen",
+        "US defense industry",
+        "Rheinmetall",
+        "Lockheed Martin",
+        "General Dynamics"
+      ]
+    },
+    {
+      "id": 18,
+      "event_uri": "eng-11204245",
+      "title": "\u20ac5.2B EU Emissions Funds for Clean Tech Innovation",
+      "category": "hydrogen",
+      "summary": "The European Commission has announced the opening of three new funding opportunities under the Innovation Fund with a total budget of \u20ac5.2 billion in EU Emissions Trading System (EU ETS) revenues . The 2025 Net-Zero Technologies call with a budget of \u20ac2.9 billion, the third auction for hydrogen prod...",
+      "first_seen": "2025-12-23T19:15:18.907714",
+      "last_updated": "2025-12-23T20:15:43.584907",
+      "created_at": "2025-12-23 18:15:18",
+      "article_count": 7,
+      "first_article_date": "2025-12-03T14:22:16Z",
+      "last_article_date": "2025-12-05T12:20:05Z",
+      "avg_sentiment": 0.7071428571428571,
+      "positive_articles": 7,
+      "negative_articles": 0,
+      "top_companies": [
+        "Soler",
+        "H2 Energiewiss Kielen",
+        "GPSS (Green Power Storage Solutions)"
+      ]
+    },
+    {
+      "id": 17,
+      "event_uri": "deu-2055067",
+      "title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
+      "category": "ev",
+      "summary": "F\u00fcr Finanzminister Klingbeil ist klar: Wer weiterhin auf Verbrenner setzt, bekommt bald Probleme. Beim Umstieg auf E-Autos fordert er Tempo. Verkehrsminister Schnieder verteidigt die neuen Pl\u00e4ne.\n\nNach dem EU-Vorschlag zur Lockerung der CO2-Grenzwerte f\u00fcr Autos hat Bundesfinanzminister Lars Klingbei...",
+      "first_seen": "2025-12-23T18:56:47.220009",
+      "last_updated": "2025-12-23T20:15:43.453108",
+      "created_at": "2025-12-23 17:56:47",
+      "article_count": 21,
+      "first_article_date": "2025-12-20T02:05:15Z",
+      "last_article_date": "2025-12-22T08:26:52Z",
+      "avg_sentiment": 0.12857142857142856,
+      "positive_articles": 18,
+      "negative_articles": 3,
+      "top_companies": [
+        "Autokonzerne",
+        "Autobauer",
+        "Mercedes",
+        "VW",
+        "BMW"
+      ]
+    },
+    {
+      "id": 16,
+      "event_uri": "eng-11246089",
+      "title": "Germany, Nigeria Partners To Build Sustainable Green Hydrogen Energy Future  - Oriental News Nigeria",
+      "category": "hydrogen",
+      "summary": "The 3rd German-Nigerian Hydrogen Symposium marked a major milestone in accelerating global drive to build a sustainable and inclusive hydrogen economy.\n\nCo-hosted by the German Federal Foreign Office, the Federal Ministry of Budget and Economic Planning, the Ministry of Petroleum Resources, and impl...",
+      "first_seen": "2025-12-23T02:51:51.907935",
+      "last_updated": "2025-12-23T20:15:41.087532",
+      "created_at": "2025-12-23 01:51:51",
+      "article_count": 6,
+      "first_article_date": "2025-12-18T02:03:10Z",
+      "last_article_date": "2025-12-19T12:19:19Z",
+      "avg_sentiment": 0.7916666666666666,
+      "positive_articles": 6,
+      "negative_articles": 0,
+      "top_companies": [
+        "GIZ",
+        "AHK Nigeria",
+        "GIZ Nigeria",
+        "Federal University of Technology Owerri"
+      ]
+    },
+    {
+      "id": 15,
+      "event_uri": "deu-2055734",
+      "title": "German auto exports hit hard by Trump tariffs - study",
+      "category": "ev",
+      "summary": "German car exports to the US slumped by almost 14% in the first three quarters of 2025, making it the hardest-hit branch of German industry in US President Donald Trump's trade war, according to a study seen by Reuters today.\n\nUnder an agreement between Washington and Brussels, the US set a 15% base...",
+      "first_seen": "2025-12-23T02:51:51.666802",
+      "last_updated": "2025-12-23T20:15:40.961689",
+      "created_at": "2025-12-23 01:51:51",
+      "article_count": 19,
+      "first_article_date": "2025-12-22T06:46:53Z",
+      "last_article_date": "2025-12-23T17:06:47Z",
+      "avg_sentiment": -0.6055555555555555,
+      "positive_articles": 0,
+      "negative_articles": 18,
+      "top_companies": [
+        "Volkswagen",
+        "Mercedes-Benz",
+        "BMW",
+        "Reuters"
+      ]
+    },
+    {
+      "id": 13,
+      "event_uri": "eng-11234705",
+      "title": "EU drops 2035 combustion engine ban as global EV shift faces reset",
+      "category": "ev",
+      "summary": "European policy on electric vehicles and combustion engine regulations",
+      "first_seen": "2025-12-23T01:26:23.017124",
+      "last_updated": "2025-12-23T20:15:36.957762",
+      "created_at": "2025-12-23 00:26:23",
+      "article_count": 170,
+      "first_article_date": "2025-12-15T17:33:26Z",
+      "last_article_date": "2025-12-19T17:17:26Z",
+      "avg_sentiment": -0.114705882352941,
+      "positive_articles": 46,
+      "negative_articles": 121,
+      "top_companies": [
+        "Volkswagen",
+        "Stellantis",
+        "Tesla",
+        "Polestar",
+        "Ford"
+      ]
+    },
+    {
+      "id": 11,
+      "event_uri": "eng-11241473",
+      "title": "Flagship green project by Energy China in operation",
+      "category": "hydrogen",
+      "summary": "China Energy Engineering Group Co Ltd, or Energy China, has commenced operations of the world's largest integrated green hydrogen, ammonia and methanol project, marking a milestone in China's push to ",
+      "first_seen": "2025-12-23T01:09:54.136386",
+      "last_updated": "2025-12-23T20:15:36.229977",
+      "created_at": "2025-12-23 00:09:54",
+      "article_count": 7,
+      "first_article_date": "2025-12-16T11:06:15Z",
+      "last_article_date": "2025-12-19T00:18:59Z",
+      "avg_sentiment": 0.7642857142857143,
+      "positive_articles": 7,
+      "negative_articles": 0,
+      "top_companies": [
+        "Energy China",
+        "China Energy Engineering Corp (Energy China)",
+        "gasworld Global Insights (GWGI)",
+        "Huadian Group",
+        "Cmb.Tech"
+      ]
+    },
+    {
+      "id": 7,
+      "event_uri": "eng-11222493",
+      "title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "category": "steel",
+      "summary": "German steel giant Thyssenkrupp halts production at two sites due to competition from Asian imports",
+      "first_seen": "2025-12-22T23:52:21.064862",
+      "last_updated": "2025-12-23T20:15:36.110059",
+      "created_at": "2025-12-22 22:52:21",
+      "article_count": 8,
+      "first_article_date": "2025-12-09T06:55:58Z",
+      "last_article_date": "2025-12-12T08:32:23Z",
+      "avg_sentiment": -0.8142857142857143,
+      "positive_articles": 0,
+      "negative_articles": 7,
+      "top_companies": [
+        "Thyssenkrupp",
+        "Thyssenkrupp Steel Europe",
+        "Jindal Steel",
+        "Thyssenkrupp Steel",
+        "Thyssenkrup group"
+      ]
+    }
+  ]
+}

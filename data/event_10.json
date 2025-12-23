@@ -1,0 +1,987 @@
+{
+  "event": {
+    "id": 10,
+    "event_uri": "eng-11226270",
+    "title": "China's credit growth in November stays muted on low demand",
+    "category": "ev",
+    "summary": "Financial institutions extended \u00a5392 billion ($55.6 billion) of new yuan loans in the month, falling short of economists' median forecast of \u00a5450 billion , based on data released by the People's Bank ",
+    "first_seen": "2025-12-23T00:48:07.196247",
+    "last_updated": "2025-12-23T00:48:07.196247",
+    "created_at": "2025-12-22 23:48:07"
+  },
+  "generated_at": "2025-12-23T01:00:42.570367",
+  "articles": [
+    {
+      "id": 39,
+      "article_uri": "2025-12-922029124",
+      "event_id": 10,
+      "title": "EU agrees three-euro small parcel tax to tackle China flood - kuwaitTimes",
+      "body": "BRUSSELS: EU finance ministers agreed Friday to impose a three-euro duty on low-value imports into the bloc from July 2026 to help tackle a flood of small parcels ordered via the likes of Shein and Temu. Last year, 4.6 billion small retail packages entered the European Union -- more than 145 per second -- with 91 percent originating in China and their numbers expected to keep rising.\n\nStarting at three euros, the new fee will apply once per item in cases where packages contain different products, but only once if they contain multiples of the same item, a spokesperson for the European Council told AFP. The move comes a month after the EU agreed to scrap a duty exemption for parcels worth less than 150 euros ($174) imported directly to consumers in the 27-nation bloc, in many cases via Chinese-founded platforms.\n\nThe levy will be introduced on a temporary basis starting July 1, staying in place until the bloc can settle on a permanent solution for taxing such imports. \"This temporary measure responds to the fact that such parcels currently enter the EU duty free, leading to unfair competition for EU sellers, health and safety risks for consumers, high levels of fraud and environmental concerns,\" the Council, which represents EU member states, said in a statement.\n\nEuropean retailers argue they face unfair competition from overseas platforms, such as AliExpress, Shein and Temu, which they claim do not always comply with the EU's stringent rules on products. Key EU power France has made the matter a priority, given the around 800 million such packages shipped to the country last year and strong domestic pressure to take action.\n\nFrench Finance Minister Roland Lescure welcomed the flat tax as \"a major victory for the European Union\". \"Europe is taking concrete steps to protect its single market, its consumers and its sovereignty,\" he said. The move comes as the EU strives to bolster the continent's competitiveness by making the lives of European businesses easier through slashing red tape. Alongside ending the duty exemption, the EU executive in May proposed a small package handling fee worth two euros. -- AFP\n\nEU member states have yet to agree on the level of that fee, but hope it will apply from late 2026. Fed up with waiting, some states have already moved forward with their own plans, including Romania, which has imposed a five-euro fee on small parcels. -- AFP",
+      "source_name": "Kuwait Times",
+      "source_country": null,
+      "source_url": "https://kuwaittimes.com/article/37062/business/eu-agrees-three-euro-small-parcel-tax-to-tackle-china-flood/",
+      "published_date": "2025-12-13T17:29:22Z",
+      "language": "eng",
+      "image_url": "https://kuwaittimes.com/kuwaittimes/uploads/images/2025/12/13/334205.jpg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.4,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 42,
+      "article_uri": "8999426536",
+      "event_id": 10,
+      "title": "EU introduces \u20ac3 tax on parcels from Shein, Temu",
+      "body": "Finance ministers agree to charge low-value imports as bloc moves to tackle flood of online shopping packages\n\nEU finance ministers have agreed to impose a \u20ac3 duty on low-value parcels entering the European Union from July 2026, marking a significant shift in how the bloc handles the surge of cheap imports from Chinese-founded platforms such as Shein and Temu.\n\nThe move comes as the EU grapples with an unprecedented flood of small retail packages. Last year, 4.6 billion parcels entered the European Union, more than 145 per second, with 91 per cent originating in China.\n\nIn the first nine months of 2025 alone, the bloc received more packages than in all of 2024.\n\nThe new fee will apply once per item type in packages containing different products, but only once if they contain multiples of the same item. The measure will end the long-standing duty-free status for packages worth less than \u20ac150, known as the \"de minimis\" exemption.\n\nEuropean officials say the influx has overwhelmed customs authorities and raised serious safety, environmental and consumer protection concerns. According to one EU official, up to 80 per cent of such parcels at some airports fail to comply with EU safety standards, posing risks from unsafe toys and household goods whilst generating large volumes of waste.\n\nFrench Finance Minister Roland Lescure welcomed the flat tax as a major victory for the European Union. \"Europe is taking concrete steps to protect its single market, its consumers and its sovereignty,\" he said.\n\nThe charge will be introduced temporarily starting 1 July 2026, staying in place until the bloc can settle on a permanent solution for taxing such imports, expected by 2028 as part of a broader Customs Union reform.\n\nEuropean retailers have long argued they face unfair competition from overseas platforms, claiming these companies do not always comply with the EU's stringent product rules. France, which received around 800 million small parcels last year, has made the matter a priority and recently suspended access to Shein's online platform.\n\nThe \u20ac3 EU-wide duty is separate from a proposed handling fee aimed at covering customs processing costs. The European Commission has suggested a \u20ac2 handling fee, though member states have yet to agree on its level.\n\nSome countries have already moved forward with their own measures. Romania has imposed a \u20ac5 fee on small parcels, fed up with waiting for EU-wide action.\n\nThe European Council said the temporary measure responds to the fact that such parcels currently enter the EU duty-free, \"leading to unfair competition for EU sellers, health and safety risks for consumers, high levels of fraud and environmental concerns.\"",
+      "source_name": "MaltaToday.com.mt",
+      "source_country": null,
+      "source_url": "https://www.maltatoday.com.mt/news/world/138717/eu_introduces_3_tax_on_parcels_from_shein_temu",
+      "published_date": "2025-12-13T15:09:21Z",
+      "language": "eng",
+      "image_url": "https://content.maltatoday.com.mt/ui_frontend/thumbnail/684/400/grk4pmlwgaaxcof.jpeg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.3,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 45,
+      "article_uri": "8999255384",
+      "event_id": 10,
+      "title": "EU Approves 3 Euro Fee on Small Parcels, Targeting Shein and Temu",
+      "body": "PARIS - European Union finance ministers agreed on Friday to impose a 3 euro customs duty on inexpensive packages entering the bloc, a move aimed at curbing the surge of ultra-low cost e-commerce imports from platforms such as Shein and Temu and easing pressure on domestic retailers.\n\nThe fee will take effect from July 1, 2026, and will apply to all parcels valued at under 150 euros shipped into the EU from outside the bloc.\n\nIt comes weeks after the EU agreed to scrap a longstanding customs duty exemption, a loophole similar to the \"de minimus\" rule in the U.S., that has caused a surge in shipments of inexpensive clothing and goods, many of them originating in China.\n\nWhile the charge will apply to parcels from all non-EU countries, officials made it clear that this is a move to curb Chinese-founded platforms such as , Temu and AliExpress, due to their DTC shipping models built around high volumes of low-priced goods.\n\nUnder the new system, each parcel will be subject to a flat charge of 3 euros. If multiple identical items, such as shirts, are shipped together, the fee will apply once, while parcels containing a mix of products, such as five shirts and one charging cable, the fee will be applied for each product category.\n\nThe fee applies per parcel, not per retailer, meaning platforms that rely on splitting orders into multiple shipments could face significantly higher costs.\n\nAccording to European Commission data, 4.6 billion parcels valued under 150 euros entered the EU in 2024, equaling more than 145 every second. The volume has more than tripled since 2022, overwhelming customs authorities and intensifying complaints from European retailers. About 91 percent originated in China.\n\nRetailers across the bloc have argued that overseas e-commerce platforms benefit from unfair advantages, selling low-cost goods that often bypass EU product safety, environmental and consumer protection standards. The influx of parcels has made it difficult for customs officials to intercept counterfeit or dangerous products.\n\nFrance has been at the forefront of pushing for fees, citing the roughly 800 million small parcels shipped into the country last year.\n\n\"The introduction of a flat-rate charge on small parcels is a major victory for the European Union,\" said French economy minister Roland Lescure. \"Europe is taking concrete steps to protect its single market, its consumers and its sovereignty.\"\n\nThe fee is seen as a stopgap as the EU works to set up a more permanent framework to handle billions of incoming shipments across the bloc. Additional processing fees on small parcels are expected to follow from November 2026 to help fund enhanced customs controls.\n\nEU officials said the 3 euro fee is temporary and will remain in place only until a permanent framework for taxing small parcels is agreed as part of a broader reform of the EU's customs union, currently slated for 2028.",
+      "source_name": "WWD",
+      "source_country": null,
+      "source_url": "https://wwd.com/business-news/government-trade/eu-3-euro-fee-small-parcels-targeting-shein-temu-1238425043/",
+      "published_date": "2025-12-13T12:11:55Z",
+      "language": "eng",
+      "image_url": "https://wwd.com/wp-content/uploads/2025/08/GettyImages-2228253130.jpg?w=1000&h=563&crop=1",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.4,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 48,
+      "article_uri": "8999034847",
+      "event_id": 10,
+      "title": "EU agrees \u20ac3 tax on parcels to tackle surge of Shein and Temu imports - The Malta Independent",
+      "body": "EU finance ministers have agreed to introduce a \u20ac3 tax on low-value parcels entering the European Union from July 2026, marking a major step toward curbing the flood of cheap online imports, particularly from China-based platforms such as Shein and Temu.\n\nThe measure will end the long-standing tax-free status for packages worth less than \u20ac150, known as the \"de minimis\" exemption. Under the new system, a flat \u20ac3 duty will apply per type of item contained in a parcel. For example, a package containing multiple units of the same product will be taxed once, but additional product types will each incur an extra \u20ac3 charge.\n\nThe tax is intended as a temporary solution while the EU works on a broader reform of its Customs Union, expected to be completed by 2028. Once that overhaul is in place, authorities aim to tax imports based on their actual value and product category, a system that requires far greater data sharing than currently exists.\n\nThe European Commission proposed the flat tax in response to an unprecedented surge in small parcels entering the bloc. In the first nine months of 2025 alone, the EU received more packages than in all of 2024, when 4.6 billion parcels arrived-more than 145 per second. Around 91 percent of these shipments originated in China.\n\nEU officials say the influx has overwhelmed customs authorities and raised serious safety, environmental, and consumer protection concerns. According to one EU official, up to 80 percent of such parcels at some airports fail to comply with EU safety standards, posing risks from unsafe toys and household goods while generating large volumes of waste.\n\nEuropean retailers have long complained that overseas platforms benefit from unfair competition by avoiding duties and regulatory scrutiny. France, which received around 800 million small parcels last year, has pushed strongly for action and recently suspended access to Shein's online platform. French Finance Minister Roland Lescure hailed the agreement as \"a major victory,\" saying it protects Europe's single market, consumers, and economic sovereignty.\n\nThe \u20ac3 EU-wide duty is separate from a proposed handling fee aimed at covering customs processing costs. The European Commission has suggested a \u20ac2 handling fee, though member states have yet to agree on its level. Some countries, tired of waiting, have already introduced national measures, including Romania, which now charges \u20ac5 on small parcels.\n\nThe temporary levy will take effect on July 1, 2026, remaining in place until a permanent EU-wide system is agreed.",
+      "source_name": "The Malta Independent Online",
+      "source_country": null,
+      "source_url": "https://www.independent.com.mt/articles/2025-12-13/local-news/EU-agrees-3-tax-on-parcels-to-tackle-surge-of-Shein-and-Temu-imports-6736285620",
+      "published_date": "2025-12-13T08:24:11Z",
+      "language": "eng",
+      "image_url": "https://www.independent.com.mt/file.aspx?f=178339",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.3,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 38,
+      "article_uri": "2025-12-921610540",
+      "event_id": 10,
+      "title": "Parcels from Temu, Shein and others to get a new EU tax from July",
+      "body": "EU finance ministers agreed Friday to impose a duty starting from \u20ac3 on low-value imports into the bloc from July 2026, to help tackle a flood of small parcels ordered via the likes of Shein and Temu.\n\nLast year, 4.6 billion small retail packages entered the European Union -- more than 145 per second -- with 91 per cent originating in China and their numbers expected to keep rising.\n\nStarting at \u20ac3, the new fee will apply once per item in cases where packages contain different products, but only once if they contain multiples of the same item, a spokesperson for the European Council told AFP.\n\nThe move comes a month after the EU agreed to scrap a duty exemption for parcels worth less than \u20ac150 imported directly to consumers in the 27-nation bloc, in many cases via Chinese-founded platforms.\n\nThe levy will be introduced on a temporary basis starting July 1, staying in place until the bloc can settle on a permanent solution for taxing such imports.\n\n\"This temporary measure responds to the fact that such parcels currently enter the EU duty free, leading to unfair competition for EU sellers, health and safety risks for consumers, high levels of fraud and environmental concerns,\" the Council, which represents EU member states, said in a statement.\n\n'Major victory'\n\nEuropean retailers argue they face unfair competition from overseas platforms, such as AliExpress, Shein and Temu, which they claim do not always comply with the EU's stringent rules on products.\n\nKey EU power France has made the matter a priority, given the around 800 million such packages shipped to the country last year and strong domestic pressure to take action.\n\nFrench Finance Minister Roland Lescure welcomed the flat tax as \"a major victory for the European Union\".\n\n\"Europe is taking concrete steps to protect its single market, its consumers and its sovereignty,\" he said.\n\nThe move comes as the EU strives to bolster the continent's competitiveness by making the lives of European businesses easier through slashing red tape.\n\nAlongside ending the duty exemption, the EU executive in May proposed a small package handling fee worth \u20ac2. EU member states have yet to agree on the level of that fee, but hope it will apply from late 2026.\n\nFed up with waiting, some states have already moved forward with their own plans, including Romania, which has imposed a \u20ac5 fee on small parcels.",
+      "source_name": "timesofmalta.com",
+      "source_country": null,
+      "source_url": "https://timesofmalta.com/article/parcels-temu-shein-others-get-new-eu-tax-july.1121100",
+      "published_date": "2025-12-13T06:09:41Z",
+      "language": "eng",
+      "image_url": "https://cdn-attachments.timesofmalta.com/8c47d004b7738100f1ef19836ae9379f249edd76-1765605632-e466c272-1200x630.jpg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.4,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 37,
+      "article_uri": "2025-12-921132163",
+      "event_id": 10,
+      "title": "EU to impose \u20ac3 duty on low-value imports to tackle flood of items ordered from China",
+      "body": "Last year, 4.6 billion small retail packages entered the European Union, with 91% originating in China and their numbers expected to keep rising.\n\nEU FINANCE MINISTERS have agreed to impose a \u20ac3 duty on low-value imports into the bloc from July 2026 to help tackle a flood of small parcels ordered via the likes of Shein and Temu.\n\nLast year, 4.6 billion small retail packages entered the European Union - more than 145 per second - with 91% originating in China and their numbers expected to keep rising.\n\nStarting at \u20ac3, the new fee will apply once per item in cases where packages contain different products, but only once if they contain multiples of the same item, a spokesperson for the European Council told AFP.\n\nThe move comes a month after the EU agreed to scrap a duty exemption for parcels worth less than \u20ac150 imported directly to consumers in the 27-nation bloc, in many cases via Chinese-founded platforms.\n\nThe levy will be introduced on a temporary basis starting 1 July, staying in place until the bloc can settle on a permanent solution for taxing such imports.\n\n\"This temporary measure responds to the fact that such parcels currently enter the EU duty free, leading to unfair competition for EU sellers, health and safety risks for consumers, high levels of fraud and environmental concerns,\" the Council, which represents EU member states, said in a statement.\n\nFianna F\u00e1il MEP Barry Andrews welcomed the decision but said that the \u20ac3 fee will need to be increased \"if it does not prove effective in stemming the flood of cheap deliveries from China\".\n\nHe has previously called for a \u20ac5 fee on purchases from China.\n\n\"There are over 4 billion packages delivered directly to homes in Europe each year, with the vast majority coming from China,\" said Andrews.\n\n\"The constant buying and disposing of low-cost clothing is driving massive environmental pollution, widespread exploitation of workers and the undercutting of more sustainable European businesses.\"\n\nHe added that the current EU custom rules \"unfairly favour 'ultra-fast fashion' and low-cost online giants, such as Shein and Temu, by allowing millions of low-value parcels to enter the EU without full checks or customs charges\".\n\n'Major victory'\n\nEuropean retailers argue they face unfair competition from overseas platforms, such as AliExpress, Shein and Temu, which they claim do not always comply with the EU's stringent rules on products.\n\nKey EU power France has made the matter a priority, given the around 800 million such packages shipped to the country last year and strong domestic pressure to take action.\n\nFrench Finance Minister Roland Lescure welcomed the flat tax as \"a major victory for the European Union\".\n\n\"Europe is taking concrete steps to protect its single market, its consumers and its sovereignty,\" he said.\n\nThe move comes as the EU strives to bolster the continent's competitiveness by making the lives of European businesses easier through slashing red tape.\n\nAlongside ending the duty exemption, the EU executive in May proposed a small package handling fee worth \u20ac2.\n\nEU member states have yet to agree on the level of that fee, but hope it will apply from late 2026.\n\nFed up with waiting, some states have already moved forward with their own plans, including Romania, which has imposed a five-euro fee on small parcels.",
+      "source_name": "TheJournal.ie",
+      "source_country": null,
+      "source_url": "https://www.thejournal.ie/eu-to-impose-e3-duty-on-low-value-imports-6902151-Dec2025/",
+      "published_date": "2025-12-12T15:47:14Z",
+      "language": "eng",
+      "image_url": "https://img2.thejournal.ie/article/6902151/listing?version=6902171&width=590",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.3,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 40,
+      "article_uri": "8998102381",
+      "event_id": 10,
+      "title": "EU agrees three-euro small parcel tax to tackle China flood",
+      "body": "European retailers argue they face unfair competition from overseas platforms such as AliExpress, Shein and Temu\n\nEU finance ministers agreed Friday to impose a three-euro duty on low-value imports into the bloc from July 2026 to help tackle a flood of small parcels ordered via the likes of Shein and Temu.\n\nLast year, 4.6 billion small retail packages entered the European Union -- more than 145 per second -- with 91 percent originating in China and their numbers expected to keep rising.\n\nStarting at three euros, the new fee will apply once per item in cases where packages contain different products, but only once if they contain multiples of the same item, a spokesperson for the European Council told AFP.\n\nThe move comes a month after the EU agreed to scrap a duty exemption for parcels worth less than 150 euros ($174) imported directly to consumers in the 27-nation bloc, in many cases via Chinese-founded platforms.\n\nThe levy will be introduced on a temporary basis starting July 1, staying in place until the bloc can settle on a permanent solution for taxing such imports.\n\n\"This temporary measure responds to the fact that such parcels currently enter the EU duty free, leading to unfair competition for EU sellers, health and safety risks for consumers, high levels of fraud and environmental concerns,\" the Council, which represents EU member states, said in a statement.\n\nEuropean retailers argue they face unfair competition from overseas platforms, such as AliExpress, Shein and Temu, which they claim do not always comply with the EU's stringent rules on products.\n\nKey EU power France has made the matter a priority, given the around 800 million such packages shipped to the country last year and strong domestic pressure to take action.\n\nFrench Finance Minister Roland Lescure welcomed the flat tax as \"a major victory for the European Union\".\n\n\"Europe is taking concrete steps to protect its single market, its consumers and its sovereignty,\" he said.\n\nThe move comes as the EU strives to bolster the continent's competitiveness by making the lives of European businesses easier through slashing red tape.\n\nAlongside ending the duty exemption, the EU executive in May proposed a small package handling fee worth two euros. EU member states have yet to agree on the level of that fee, but hope it will apply from late 2026.\n\nFed up with waiting, some states have already moved forward with their own plans, including Romania, which has imposed a five-euro fee on small parcels.",
+      "source_name": "RTL Today",
+      "source_country": null,
+      "source_url": "https://today.rtl.lu/news/world/eu-agrees-three-euro-small-parcel-tax-to-tackle-china-flood-1437530156",
+      "published_date": "2025-12-12T14:35:29Z",
+      "language": "eng",
+      "image_url": "https://static-prod.rtl.lu/ae/26/ea6f4d6bce2ae74d1c9101fb9217/medias",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.4,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 41,
+      "article_uri": "8998099350",
+      "event_id": 10,
+      "title": "EU agrees three-euro small parcel tax to tackle China flood",
+      "body": "CHECK OUT: How to Start Earning with Copywriting in Just 7 Days - Even if You're a Complete Beginner\n\nEU finance ministers agreed Friday to impose a three-euro duty on low-value imports into the bloc from July 2026 to help tackle a flood of small parcels ordered via the likes of Shein and Temu.\n\nLast year, 4.6 billion small retail packages entered the European Union -- more than 145 per second -- with 91 percent originating in China and their numbers expected to keep rising.\n\nStarting at three euros, the new fee will apply once per item in cases where packages contain different products, but only once if they contain multiples of the same item, a spokesperson for the European Council told AFP.\n\nThe move comes a month after the EU agreed to scrap a duty exemption for parcels worth less than 150 euros ($174) imported directly to consumers in the 27-nation bloc, in many cases via Chinese-founded platforms.\n\nThe levy will be introduced on a temporary basis starting July 1, staying in place until the bloc can settle on a permanent solution for taxing such imports.\n\n\"This temporary measure responds to the fact that such parcels currently enter the EU duty free, leading to unfair competition for EU sellers, health and safety risks for consumers, high levels of fraud and environmental concerns,\" the Council, which represents EU member states, said in a statement.\n\nEuropean retailers argue they face unfair competition from overseas platforms, such as AliExpress, Shein and Temu, which they claim do not always comply with the EU's stringent rules on products.\n\nKey EU power France has made the matter a priority, given the around 800 million such packages shipped to the country last year and strong domestic pressure to take action.\n\nFrench Finance Minister Roland Lescure welcomed the flat tax as \"a major victory for the European Union\".\n\n\"Europe is taking concrete steps to protect its single market, its consumers and its sovereignty,\" he said.\n\nThe move comes as the EU strives to bolster the continent's competitiveness by making the lives of European businesses easier through slashing red tape.\n\nAlongside ending the duty exemption, the EU executive in May proposed a small package handling fee worth two euros. EU member states have yet to agree on the level of that fee, but hope it will apply from late 2026.\n\nFed up with waiting, some states have already moved forward with their own plans, including Romania, which has imposed a five-euro fee on small parcels.",
+      "source_name": "Legit.ng - Nigeria news.",
+      "source_country": null,
+      "source_url": "https://www.legit.ng/business-economy/economy/1687771-eu-agrees-euro-small-parcel-tax-tackle-china-flood/",
+      "published_date": "2025-12-12T14:31:50Z",
+      "language": "eng",
+      "image_url": "https://cdn.legit.ng/images/1200x675/c2655899f8534d34.jpeg?v=1",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.4,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 44,
+      "article_uri": "2025-12-920999744",
+      "event_id": 10,
+      "title": "EU to introduce \u20ac3 import fee to tackle influx of small parcels",
+      "body": "The European Union is imposing an import fee of \u20ac3 ($3.52) on small parcels with a value of less than \u20ac150 from July 2026, EU diplomats told dpa on Friday.\n\nThe fee is a temporary measure and is to remain in place until 2028 when all goods imported into the EU will be subject to customs duties regardless of their value.\n\nThe fee was agreed on Friday by EU finance ministers gathered in Brussels to tackle the influx of cheap e-commerce purchases.\n\nAccording to the European Commission, 4.6 billion low-value parcels of under \u20ac150 were imported into the EU in 2024, equivalent to over 12 million parcels a day.\n\nThe number of small parcels arriving in the EU had doubled annually in recent years. Currently packages with a value of up to \u20ac150 can be imported into the EU duty-free.\n\nThe new fee is likely to affect online retailers shipping out of China, such as Shein, Temu or AliExpress, as 91% of all e-commerce shipments valued under \u20ac150 came from China in 2024.",
+      "source_name": "dpa International",
+      "source_country": null,
+      "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251212-99-907319/",
+      "published_date": "2025-12-12T13:30:01Z",
+      "language": "eng",
+      "image_url": "https://www.dpa-international.com/img/251209-99-876946-v2-w800h450.jpeg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": -0.2,
+      "sentiment_label": "slightly_negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 43,
+      "article_uri": "2025-12-920999743",
+      "event_id": 10,
+      "title": "EU to introduce \u20ac3 import fee to tackle influx of small parcels",
+      "body": "The European Union is imposing an import fee of \u20ac3 ($3.52) on small parcels with a value of less than \u20ac150 from July 2026, as the bloc tackles a huge rise in the number of cheaper e-commerce products being sent to Europe.\n\nThe fee agreed on Friday is a temporary measure and is to remain in place until 2028 when all goods imported into the EU are to be be subject to customs duties regardless of their value, according to a press release.\n\nThe charge was agreed by EU finance ministers gathered in Brussels.\n\n\"This temporary measure responds to the fact that such parcels currently enter the EU duty free, leading to unfair competition for EU sellers, health and safety risks for consumers, high levels of fraud and environmental concerns,\" a press release said.\n\nAccording to the European Commission, 4.6 billion low-value items of under \u20ac150 were imported into the EU in 2024, equivalent to over 12 million parcels a day.\n\nThe number of small parcels arriving in the EU has doubled annually in recent years.\n\nThe new fee is likely to affect online retailers shipping out of China, such as Shein, Temu or AliExpress, as 91% of all e-commerce shipments valued under \u20ac150 came from China in 2024.\n\nThe new rules also aim to combat fraud and to avoid that imports are deliberately declared with an understated value in customs declarations in order avoid paying duties.\n\nFraudulent customs declaration have a detrimental effect on EU companies that are struggling to compete with low-cost imports, the commission said.\n\nAdditionally the commission has argued that duty exemption for smaller imports incentivize importers to split larger orders into smaller packages when shipping to the EU, generate unnecessary packaging waste.",
+      "source_name": "dpa International",
+      "source_country": null,
+      "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251212-99-906958/",
+      "published_date": "2025-12-12T13:30:00Z",
+      "language": "eng",
+      "image_url": "https://www.dpa-international.com/img/251204-99-830980-v3-w800h450.jpeg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": -0.2,
+      "sentiment_label": "slightly_negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 46,
+      "article_uri": "8997998911",
+      "event_id": 10,
+      "title": "EU agrees $4.55 small parcel tax to tackle China flood",
+      "body": "BRUSSELS - EU finance ministers agreed on Nov 12 to impose a \u20ac3 (S$4.54) duty on all small parcels imported into the bloc starting July 1, 2026, to help tackle a flood of cheap imports by the likes of Shein and Temu.\n\nThe move comes a month after the bloc agreed to scrap a duty exemption for packages worth less than \u20ac150 euros imported directly to consumers in the 27-nation bloc, in many cases via Chinese-founded platforms.\n\nThe fixed fee will be introduced on a temporary basis and will stay in place until the bloc can settle on a permanent solution for taxing such imports, an EU spokesperson said.\n\nIn 2024, 4.6 billion such small packages entered the European Union - more than 145 per second - with 91 per cent originating in China.\n\nThe EU expects those numbers to rise.\n\nEuropean retailers argue they face unfair competition from overseas platforms, such as AliExpress, Shein and Temu, which they claim do not often comply with the EU's stringent rules on products.\n\nKey EU power France has made the matter a priority, given the around 800 million such packages shipped to the country in 2024 and strong domestic pressure to take action.\n\nFrench Finance Minister Roland Lescure welcomed the flat tax as \"a major victory for the European Union\".\n\n\"Europe is taking concrete steps to protect its single market, its consumers and its sovereignty,\" he said.\n\nThe move comes as the EU strives to bolster the continent's competitiveness by making the lives of European businesses easier through slashing red tape.\n\nAlongside ending the duty exemption, the EU executive in May proposed a small package handling fee worth \u20ac2.\n\nEU member states have yet to agree on the level of that fee, but hope it will apply from late 2026. AFP",
+      "source_name": "The Straits Times",
+      "source_country": null,
+      "source_url": "https://www.straitstimes.com/world/europe/eu-agrees-4-55-small-parcel-tax-to-tackle-china-flood",
+      "published_date": "2025-12-12T13:17:33Z",
+      "language": "eng",
+      "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/60c50f9ec8a7eb9de394462ade72848fe24be7a67232e3a11839f5d2412db134",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.4,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 47,
+      "article_uri": "8997965042",
+      "event_id": 10,
+      "title": "EU to impose \u20ac3 duty on e-commerce parcels from July 2026",
+      "body": "European Union finance ministers agreed on Friday to set a \u20ac3 ($3.52) customs duty on low-value parcels arriving in the bloc, part of efforts to crack down on cheap Chinese e-commerce imports such as from online retailers Shein and Temu.\n\nThe duty will apply from July 1, 2026, and will be in place until a permanent solution is found to eliminate the \"de minimis\" duties exemption for online purchases below \u20ac150, the EU's Council of its 27 governments said in a statement.\n\nThe bloc was due to remove the exemption in 2028 as part of an overhaul of its customs system, but pressure to act faster has grown amid concerns about Chinese goods being dumped in Europe.\n\n\"This temporary measure responds to the fact that such parcels currently enter the EU duty free, leading to unfair competition for EU sellers, health and safety risks for consumers, high levels of fraud and environmental concerns,\" the Council said.\n\nOnline platforms like Shein, Temu, AliExpress and Amazon Haul send clothes, accessories and gadgets from Chinese factories directly to shoppers at rock-bottom prices.\n\nDue to the customs waiver, the number of low-value e-commerce packages arriving in the bloc doubled last year to 4.6 billion, over 90 per cent of them from China. Imports this year are set to be even higher.\n\nThe EU is also considering a separate handling fee, which the European Commission has proposed should be set at \u20ac2 per parcel. It is not clear when it would be imposed.",
+      "source_name": "Cyprus Mail",
+      "source_country": null,
+      "source_url": "https://cyprus-mail.com/2025/12/12/eu-to-impose-e3-duty-on-e-commerce-parcels-from-july-2026",
+      "published_date": "2025-12-12T12:56:12Z",
+      "language": "eng",
+      "image_url": "https://cyprus-mail.com/wp-content/uploads/2025/12/shein.jpg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": -0.3,
+      "sentiment_label": "slightly_negative",
+      "article_type": "news_report"
+    }
+  ],
+  "popularity_trend": [
+    {
+      "date": "2025-12-12",
+      "count": 7
+    },
+    {
+      "date": "2025-12-13",
+      "count": 5
+    }
+  ],
+  "sentiment_trend": [
+    {
+      "date": "2025-12-12",
+      "avg_sentiment": 0.1142857142857143,
+      "count": 7
+    },
+    {
+      "date": "2025-12-13",
+      "avg_sentiment": 0.36,
+      "count": 5
+    }
+  ],
+  "entities": {
+    "companies": [
+      {
+        "name": "Shein",
+        "count": 12
+      },
+      {
+        "name": "Temu",
+        "count": 12
+      },
+      {
+        "name": "AliExpress",
+        "count": 10
+      },
+      {
+        "name": "Amazon Haul",
+        "count": 1
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "count": 12
+      },
+      {
+        "name": "France",
+        "count": 9
+      },
+      {
+        "name": "Romania",
+        "count": 7
+      },
+      {
+        "name": "Europe",
+        "count": 3
+      },
+      {
+        "name": "EU",
+        "count": 2
+      },
+      {
+        "name": "European Union",
+        "count": 2
+      }
+    ],
+    "organizations": [
+      {
+        "name": "European Union",
+        "count": 10
+      },
+      {
+        "name": "European Commission",
+        "count": 6
+      },
+      {
+        "name": "European Council",
+        "count": 6
+      },
+      {
+        "name": "EU executive",
+        "count": 3
+      },
+      {
+        "name": "EU finance ministers",
+        "count": 3
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "EU",
+        "count": 1
+      },
+      {
+        "name": "EU's Council of its 27 governments",
+        "count": 1
+      },
+      {
+        "name": "European retailers",
+        "count": 1
+      },
+      {
+        "name": "Fianna F\u00e1il",
+        "count": 1
+      }
+    ],
+    "politicians": [
+      {
+        "name": "Roland Lescure",
+        "count": 7
+      },
+      {
+        "name": "French Finance Minister",
+        "count": 5
+      },
+      {
+        "name": "Roland Lescure (French Finance Minister)",
+        "count": 2
+      },
+      {
+        "name": "Barry Andrews (MEP)",
+        "count": 1
+      },
+      {
+        "name": "French economy minister",
+        "count": 1
+      }
+    ]
+  },
+  "financial": {
+    "amounts": [
+      {
+        "amount": 800000000.0,
+        "currency": "EUR",
+        "context": "packages shipped to France last year"
+      },
+      {
+        "amount": 800000000.0,
+        "currency": "EUR",
+        "context": "packages shipped to France last year (approximate)"
+      },
+      {
+        "amount": 800.0,
+        "currency": "million",
+        "context": "packages shipped to France last year"
+      },
+      {
+        "amount": 800.0,
+        "currency": "million",
+        "context": "packages shipped to France last year"
+      },
+      {
+        "amount": 800.0,
+        "currency": "million",
+        "context": "packages shipped to France last year"
+      },
+      {
+        "amount": 800.0,
+        "currency": "million",
+        "context": "small parcels received by France last year"
+      },
+      {
+        "amount": 800.0,
+        "currency": "million",
+        "context": "small parcels shipped into France last year"
+      },
+      {
+        "amount": 800.0,
+        "currency": "million",
+        "context": "packages shipped to France in 2024"
+      },
+      {
+        "amount": 800.0,
+        "currency": "million",
+        "context": "small parcels received by France last year"
+      },
+      {
+        "amount": 174.0,
+        "currency": "USD",
+        "context": "equivalent of 150 EUR"
+      },
+      {
+        "amount": 174.0,
+        "currency": "USD",
+        "context": "equivalent of 150 EUR"
+      },
+      {
+        "amount": 174.0,
+        "currency": "USD",
+        "context": "equivalent of 150 EUR"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "duty exemption threshold scrapped"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "previous duty exemption threshold"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "duty exemption threshold scrapped"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "duty exemption threshold (scrapped)"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "duty exemption threshold scrapped"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "de minimis exemption threshold"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "value threshold for import fee"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "value threshold for import fee"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "parcel value threshold"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "previous duty exemption threshold"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "de minimis duties exemption threshold"
+      },
+      {
+        "amount": 150.0,
+        "currency": "EUR",
+        "context": "previous 'de minimis' exemption threshold"
+      },
+      {
+        "amount": 5.0,
+        "currency": "EUR",
+        "context": "proposed fee by Barry Andrews and imposed by Romania"
+      },
+      {
+        "amount": 5.0,
+        "currency": "EUR",
+        "context": "fee imposed by Romania"
+      },
+      {
+        "amount": 5.0,
+        "currency": "EUR",
+        "context": "fee imposed by Romania"
+      },
+      {
+        "amount": 5.0,
+        "currency": "EUR",
+        "context": "fee imposed by Romania"
+      },
+      {
+        "amount": 5.0,
+        "currency": "EUR",
+        "context": "fee imposed by Romania"
+      },
+      {
+        "amount": 5.0,
+        "currency": "EUR",
+        "context": "fee imposed by Romania"
+      },
+      {
+        "amount": 5.0,
+        "currency": "EUR",
+        "context": "parcel charge in Romania"
+      },
+      {
+        "amount": 4.6,
+        "currency": "billion",
+        "context": "small retail packages entered the EU last year"
+      },
+      {
+        "amount": 4.6,
+        "currency": "billion",
+        "context": "small retail packages entered the EU last year"
+      },
+      {
+        "amount": 4.6,
+        "currency": "billion",
+        "context": "small retail packages entered the EU last year"
+      },
+      {
+        "amount": 4.6,
+        "currency": "billion",
+        "context": "number of parcels entering the EU last year"
+      },
+      {
+        "amount": 4.6,
+        "currency": "billion",
+        "context": "number of low-value items imported in 2024"
+      },
+      {
+        "amount": 4.6,
+        "currency": "billion",
+        "context": "number of low-value parcels imported in 2024"
+      },
+      {
+        "amount": 4.6,
+        "currency": "billion",
+        "context": "parcels entered the EU in 2024"
+      },
+      {
+        "amount": 4.6,
+        "currency": "billion",
+        "context": "number of small packages entering EU in 2024"
+      },
+      {
+        "amount": 4.6,
+        "currency": "billion",
+        "context": "number of low-value e-commerce packages arriving in the bloc last year"
+      },
+      {
+        "amount": 4.6,
+        "currency": "billion",
+        "context": "number of parcels received in 2024"
+      },
+      {
+        "amount": 4.54,
+        "currency": "S$",
+        "context": "equivalent of 3 EUR in Singapore dollars"
+      },
+      {
+        "amount": 3.52,
+        "currency": "USD",
+        "context": "equivalent of \u20ac3"
+      },
+      {
+        "amount": 3.52,
+        "currency": "USD",
+        "context": "equivalent of import fee in USD"
+      },
+      {
+        "amount": 3.52,
+        "currency": "USD",
+        "context": "equivalent of \u20ac3 in USD"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "duty on low-value imports"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "new duty on low-value imports"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "duty on low-value imports"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "duty on low-value imports"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "duty on low-value imports"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "duty on low-value parcels"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "import fee"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "import fee"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "customs duty on small parcels"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "duty on small parcels"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "customs duty on low-value parcels"
+      },
+      {
+        "amount": 3.0,
+        "currency": "EUR",
+        "context": "tax on low-value parcels"
+      },
+      {
+        "amount": 2.0,
+        "currency": "EUR",
+        "context": "proposed package handling fee"
+      },
+      {
+        "amount": 2.0,
+        "currency": "EUR",
+        "context": "proposed package handling fee"
+      },
+      {
+        "amount": 2.0,
+        "currency": "EUR",
+        "context": "proposed small package handling fee"
+      },
+      {
+        "amount": 2.0,
+        "currency": "EUR",
+        "context": "proposed small package handling fee"
+      },
+      {
+        "amount": 2.0,
+        "currency": "EUR",
+        "context": "proposed small package handling fee"
+      },
+      {
+        "amount": 2.0,
+        "currency": "EUR",
+        "context": "proposed handling fee"
+      },
+      {
+        "amount": 2.0,
+        "currency": "EUR",
+        "context": "proposed small package handling fee"
+      },
+      {
+        "amount": 2.0,
+        "currency": "EUR",
+        "context": "proposed handling fee per parcel"
+      },
+      {
+        "amount": 2.0,
+        "currency": "EUR",
+        "context": "proposed handling fee"
+      }
+    ],
+    "totals": {
+      "EUR": 1600001889.0,
+      "million": 5600.0,
+      "USD": 532.56,
+      "billion": 46.00000000000001,
+      "S$": 4.54
+    }
+  },
+  "quotes": [
+    {
+      "id": 58,
+      "article_id": 39,
+      "speaker": "Roland Lescure",
+      "speaker_role": "French Finance Minister",
+      "quote_text": "Europe is taking concrete steps to protect its single market, its consumers and its sovereignty",
+      "stance": "support",
+      "article_title": "EU agrees three-euro small parcel tax to tackle China flood - kuwaitTimes",
+      "source_url": "https://kuwaittimes.com/article/37062/business/eu-agrees-three-euro-small-parcel-tax-to-tackle-china-flood/"
+    },
+    {
+      "id": 62,
+      "article_id": 42,
+      "speaker": "Roland Lescure",
+      "speaker_role": "French Finance Minister",
+      "quote_text": "Europe is taking concrete steps to protect its single market, its consumers and its sovereignty",
+      "stance": "support",
+      "article_title": "EU introduces \u20ac3 tax on parcels from Shein, Temu",
+      "source_url": "https://www.maltatoday.com.mt/news/world/138717/eu_introduces_3_tax_on_parcels_from_shein_temu"
+    },
+    {
+      "id": 66,
+      "article_id": 45,
+      "speaker": "Roland Lescure",
+      "speaker_role": "French economy minister",
+      "quote_text": "The introduction of a flat-rate charge on small parcels is a major victory for the European Union",
+      "stance": "support",
+      "article_title": "EU Approves 3 Euro Fee on Small Parcels, Targeting Shein and Temu",
+      "source_url": "https://wwd.com/business-news/government-trade/eu-3-euro-fee-small-parcels-targeting-shein-temu-1238425043/"
+    },
+    {
+      "id": 69,
+      "article_id": 48,
+      "speaker": "Roland Lescure",
+      "speaker_role": "French Finance Minister",
+      "quote_text": "a major victory,\u201d saying it protects Europe's single market, consumers, and economic sovereignty.",
+      "stance": "support",
+      "article_title": "EU agrees \u20ac3 tax on parcels to tackle surge of Shein and Temu imports - The Malta Independent",
+      "source_url": "https://www.independent.com.mt/articles/2025-12-13/local-news/EU-agrees-3-tax-on-parcels-to-tackle-surge-of-Shein-and-Temu-imports-6736285620"
+    },
+    {
+      "id": 57,
+      "article_id": 38,
+      "speaker": "Roland Lescure",
+      "speaker_role": "French Finance Minister",
+      "quote_text": "Europe is taking concrete steps to protect its single market, its consumers and its sovereignty.",
+      "stance": "support",
+      "article_title": "Parcels from Temu, Shein and others to get a new EU tax from July",
+      "source_url": "https://timesofmalta.com/article/parcels-temu-shein-others-get-new-eu-tax-july.1121100"
+    },
+    {
+      "id": 54,
+      "article_id": 37,
+      "speaker": "Roland Lescure",
+      "speaker_role": "French Finance Minister",
+      "quote_text": "Europe is taking concrete steps to protect its single market, its consumers and its sovereignty.",
+      "stance": "support",
+      "article_title": "EU to impose \u20ac3 duty on low-value imports to tackle flood of items ordered from China",
+      "source_url": "https://www.thejournal.ie/eu-to-impose-e3-duty-on-low-value-imports-6902151-Dec2025/"
+    },
+    {
+      "id": 55,
+      "article_id": 37,
+      "speaker": "Barry Andrews",
+      "speaker_role": "MEP",
+      "quote_text": "if it does not prove effective in stemming the flood of cheap deliveries from China",
+      "stance": "oppose",
+      "article_title": "EU to impose \u20ac3 duty on low-value imports to tackle flood of items ordered from China",
+      "source_url": "https://www.thejournal.ie/eu-to-impose-e3-duty-on-low-value-imports-6902151-Dec2025/"
+    },
+    {
+      "id": 56,
+      "article_id": 37,
+      "speaker": "Barry Andrews",
+      "speaker_role": "MEP",
+      "quote_text": "The constant buying and disposing of low-cost clothing is driving massive environmental pollution, widespread exploitation of workers and the undercutting of more sustainable European businesses.",
+      "stance": "oppose",
+      "article_title": "EU to impose \u20ac3 duty on low-value imports to tackle flood of items ordered from China",
+      "source_url": "https://www.thejournal.ie/eu-to-impose-e3-duty-on-low-value-imports-6902151-Dec2025/"
+    },
+    {
+      "id": 59,
+      "article_id": 40,
+      "speaker": "Roland Lescure",
+      "speaker_role": "French Finance Minister",
+      "quote_text": "Europe is taking concrete steps to protect its single market, its consumers and its sovereignty.",
+      "stance": "support",
+      "article_title": "EU agrees three-euro small parcel tax to tackle China flood",
+      "source_url": "https://today.rtl.lu/news/world/eu-agrees-three-euro-small-parcel-tax-to-tackle-china-flood-1437530156"
+    },
+    {
+      "id": 60,
+      "article_id": 41,
+      "speaker": "Roland Lescure",
+      "speaker_role": "French Finance Minister",
+      "quote_text": "a major victory for the European Union",
+      "stance": "support",
+      "article_title": "EU agrees three-euro small parcel tax to tackle China flood",
+      "source_url": "https://www.legit.ng/business-economy/economy/1687771-eu-agrees-euro-small-parcel-tax-tackle-china-flood/"
+    },
+    {
+      "id": 61,
+      "article_id": 41,
+      "speaker": "Roland Lescure",
+      "speaker_role": "French Finance Minister",
+      "quote_text": "Europe is taking concrete steps to protect its single market, its consumers and its sovereignty",
+      "stance": "support",
+      "article_title": "EU agrees three-euro small parcel tax to tackle China flood",
+      "source_url": "https://www.legit.ng/business-economy/economy/1687771-eu-agrees-euro-small-parcel-tax-tackle-china-flood/"
+    },
+    {
+      "id": 63,
+      "article_id": 43,
+      "speaker": "European Commission",
+      "speaker_role": "Press Release",
+      "quote_text": "This temporary measure responds to the fact that such parcels currently enter the EU duty free, leading to unfair competition for EU sellers, health and safety risks for consumers, high levels of fraud and environmental concerns.",
+      "stance": "support",
+      "article_title": "EU to introduce \u20ac3 import fee to tackle influx of small parcels",
+      "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251212-99-906958/"
+    },
+    {
+      "id": 64,
+      "article_id": 43,
+      "speaker": "European Commission",
+      "speaker_role": "Press Release",
+      "quote_text": "Fraudulent customs declaration have a detrimental effect on EU companies that are struggling to compete with low-cost imports, the commission said.",
+      "stance": "support",
+      "article_title": "EU to introduce \u20ac3 import fee to tackle influx of small parcels",
+      "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251212-99-906958/"
+    },
+    {
+      "id": 65,
+      "article_id": 43,
+      "speaker": "European Commission",
+      "speaker_role": "Press Release",
+      "quote_text": "duty exemption for smaller imports incentivize importers to split larger orders into smaller packages when shipping to the EU, generate unnecessary packaging waste.",
+      "stance": "support",
+      "article_title": "EU to introduce \u20ac3 import fee to tackle influx of small parcels",
+      "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251212-99-906958/"
+    },
+    {
+      "id": 67,
+      "article_id": 46,
+      "speaker": "Roland Lescure",
+      "speaker_role": "French Finance Minister",
+      "quote_text": "Europe is taking concrete steps to protect its single market, its consumers and its sovereignty.",
+      "stance": "support",
+      "article_title": "EU agrees $4.55 small parcel tax to tackle China flood",
+      "source_url": "https://www.straitstimes.com/world/europe/eu-agrees-4-55-small-parcel-tax-to-tackle-china-flood"
+    },
+    {
+      "id": 68,
+      "article_id": 47,
+      "speaker": "EU's Council",
+      "speaker_role": "Council of its 27 governments",
+      "quote_text": "This temporary measure responds to the fact that such parcels currently enter the EU duty free, leading to unfair competition for EU sellers, health and safety risks for consumers, high levels of fraud and environmental concerns.",
+      "stance": "support",
+      "article_title": "EU to impose \u20ac3 duty on e-commerce parcels from July 2026",
+      "source_url": "https://cyprus-mail.com/2025/12/12/eu-to-impose-e3-duty-on-e-commerce-parcels-from-july-2026"
+    }
+  ],
+  "stakeholders": [
+    {
+      "stakeholder": "European Retailers",
+      "position": "support",
+      "reasoning": "face unfair competition from overseas platforms",
+      "mention_count": 5
+    },
+    {
+      "stakeholder": "Shein, Temu, AliExpress",
+      "position": "oppose",
+      "reasoning": "potentially increased costs for consumers and reduced competitiveness",
+      "mention_count": 5
+    },
+    {
+      "stakeholder": "European Union",
+      "position": "support",
+      "reasoning": "protect single market, consumers, and sovereignty",
+      "mention_count": 4
+    },
+    {
+      "stakeholder": "European retailers",
+      "position": "support",
+      "reasoning": "face unfair competition from overseas platforms",
+      "mention_count": 4
+    },
+    {
+      "stakeholder": "Shein & Temu",
+      "position": "oppose",
+      "reasoning": "the duty will increase costs and potentially reduce sales",
+      "mention_count": 4
+    },
+    {
+      "stakeholder": "EU",
+      "position": "support",
+      "reasoning": "to tackle the influx of cheap e-commerce purchases",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "EU sellers",
+      "position": "support",
+      "reasoning": "addresses unfair competition from duty-free imports",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "European Commission",
+      "position": "support",
+      "reasoning": "addresses fraud, health/safety risks, and environmental concerns",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "AliExpress, Shein, Temu",
+      "position": "oppose",
+      "reasoning": "likely to be negatively impacted by the new tax",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Barry Andrews",
+      "position": "oppose",
+      "reasoning": "the \u20ac3 fee may not be effective enough",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "China",
+      "position": "oppose",
+      "reasoning": "impacts exports to EU",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Chinese e-commerce",
+      "position": "oppose",
+      "reasoning": "accounts for 91% of shipments under \u20ac150 and will be directly affected",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Chinese e-commerce platforms (Shein, Temu, AliExpress)",
+      "position": "oppose",
+      "reasoning": "increased costs and potential reduction in sales",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Chinese retailers (Shein, Temu, AliExpress)",
+      "position": "oppose",
+      "reasoning": "increased costs for shipping to the EU",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "EU Member States",
+      "position": "support",
+      "reasoning": "protect single market, consumers, and sovereignty",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "EU consumers",
+      "position": "neutral",
+      "reasoning": "may face higher prices on online purchases",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "France",
+      "position": "support",
+      "reasoning": "Strongly pushed for action due to high volume of parcels received and concerns about unfair competition.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "French Government",
+      "position": "support",
+      "reasoning": "protect domestic market and address high volume of imports",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "French government",
+      "position": "support",
+      "reasoning": "protect domestic market and address concerns about imports",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Romania",
+      "position": "support",
+      "reasoning": "Frustration with waiting for EU-wide action; implemented own fee.",
+      "mention_count": 1
+    }
+  ],
+  "summary_stats": {
+    "total_articles": 12,
+    "sources": 11,
+    "date_range": {
+      "start": "2025-12-12T12:56:12Z",
+      "end": "2025-12-13T17:29:22Z"
+    },
+    "avg_sentiment": 0.21666666666666665,
+    "total_quotes": 16,
+    "total_financial_mentions": 66
+  }
+}

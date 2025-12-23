@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Dashboard - Industrial Policy Analytics</title>
+    <meta name="description" content="Detailed analysis of industrial policy event">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Floating Background Shapes -->
+    <div class="floating-shapes">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+
+    <div class="container">
+        <!-- Dashboard Header -->
+        <header class="dashboard-header" id="dashboardHeader">
+            <a href="index.html" class="back-link">Back to Events</a>
+            <h1 id="eventTitle">Loading...</h1>
+            <p id="eventSummary"></p>
+        </header>
+
+        <!-- Metric Cards -->
+        <div class="metric-cards" id="metricCards">
+            <div class="glass-card-static metric-card">
+                <div class="metric-icon">&#9783;</div>
+                <div class="metric-value" id="totalArticles">-</div>
+                <div class="metric-label">Articles</div>
+            </div>
+            <div class="glass-card-static metric-card">
+                <div class="metric-icon">&#9881;</div>
+                <div class="metric-value" id="totalSources">-</div>
+                <div class="metric-label">Sources</div>
+            </div>
+            <div class="glass-card-static metric-card">
+                <div class="metric-icon">&#10077;</div>
+                <div class="metric-value" id="totalQuotes">-</div>
+                <div class="metric-label">Quotes</div>
+            </div>
+            <div class="glass-card-static metric-card">
+                <div class="metric-icon">&#164;</div>
+                <div class="metric-value" id="financialCount">-</div>
+                <div class="metric-label">Financial Mentions</div>
+            </div>
+        </div>
+
+        <!-- Dashboard Grid -->
+        <div class="dashboard-grid">
+            <!-- Popularity Trend Chart -->
+            <div class="glass-card-static chart-card">
+                <h3>Media Coverage Over Time</h3>
+                <canvas id="popularityChart"></canvas>
+            </div>
+
+            <!-- Sentiment Trend Chart -->
+            <div class="glass-card-static chart-card">
+                <h3>Sentiment Trend</h3>
+                <canvas id="sentimentChart"></canvas>
+            </div>
+
+            <!-- Entities Section -->
+            <div class="glass-card-static chart-card full-width">
+                <h3>Key Entities Mentioned</h3>
+                <div id="entitiesContainer">
+                    <div class="entity-section">
+                        <h4>Companies</h4>
+                        <div class="entity-tags" id="companiesTags"></div>
+                    </div>
+                    <div class="entity-section">
+                        <h4>Politicians</h4>
+                        <div class="entity-tags" id="politiciansTags"></div>
+                    </div>
+                    <div class="entity-section">
+                        <h4>Organizations</h4>
+                        <div class="entity-tags" id="organizationsTags"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Financial Summary -->
+            <div class="glass-card-static chart-card full-width" id="financialSection">
+                <h3>Financial Amounts Mentioned</h3>
+                <div id="financialList"></div>
+            </div>
+
+            <!-- Quotes Section -->
+            <div class="glass-card-static quotes-section" id="quotesSection">
+                <div class="section-header">
+                    <h3>Key Quotes</h3>
+                    <div class="filter-buttons" id="quotesFilter">
+                        <button class="filter-btn active" data-filter="all">All <span class="count"></span></button>
+                        <button class="filter-btn" data-filter="support">Support <span class="count"></span></button>
+                        <button class="filter-btn" data-filter="neutral">Neutral <span class="count"></span></button>
+                        <button class="filter-btn" data-filter="oppose">Oppose <span class="count"></span></button>
+                    </div>
+                </div>
+                <div id="quotesContainer"></div>
+            </div>
+
+            <!-- Articles Section -->
+            <div class="glass-card-static articles-section">
+                <div class="section-header">
+                    <h3>Source Articles</h3>
+                    <div class="filter-buttons" id="articlesFilter">
+                        <button class="filter-btn active" data-filter="all">All <span class="count"></span></button>
+                        <button class="filter-btn" data-filter="positive">Positive <span class="count"></span></button>
+                        <button class="filter-btn" data-filter="neutral">Neutral <span class="count"></span></button>
+                        <button class="filter-btn" data-filter="negative">Negative <span class="count"></span></button>
+                    </div>
+                </div>
+                <ul class="article-list" id="articlesList"></ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="dashboard.js"></script>
+</body>
+
+</html>

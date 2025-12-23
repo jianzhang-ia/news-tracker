@@ -1,0 +1,711 @@
+{
+  "event": {
+    "id": 7,
+    "event_uri": "eng-11222493",
+    "title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+    "category": "steel",
+    "summary": "German steel giant Thyssenkrupp halts production at two sites due to competition from Asian imports",
+    "first_seen": "2025-12-22T23:52:21.064862",
+    "last_updated": "2025-12-23T20:15:36.110059",
+    "created_at": "2025-12-22 22:52:21"
+  },
+  "generated_at": "2025-12-23T20:17:40.546659",
+  "articles": [
+    {
+      "id": 19,
+      "article_uri": "8997594707",
+      "event_id": 7,
+      "title": "World-famous company decides to halt production! Hundreds of people will be left unemployed.",
+      "body": "Cheap steel imports from Asia are putting pressure on Europe, prompting Thyssenkrupp Steel Europe to decide to close its critical facilities in Germany and France. As 1,200 jobs are at risk, the company is preparing to lay off 11,000 people by 2030 and significantly reduce its production capacity.\n\nThyssenkrupp Steel Europe announced that the facility in Gelsenkirchen, Germany, and the Isbergues facility in France will be completely closed until the end of the year starting from mid-December. In a statement from the company, it was noted that the Isbergues facility will operate at only 50% capacity for at least four months starting in January.\n\nThis decision was emphasized as a measure against the significant increase in low-priced steel imports from Asia. The statement indicated that approximately 1200 employees' jobs at the Gelsenkirchen and French subsidiaries are at risk due to the pressure from these imports.\n\nIt was stated that electrical steel, widely preferred in the energy sector, transformers used in substations, and wind turbines, was produced at Thyssenkrupp Steel Europe's Gelsenkirchen and Isbergues facilities. It was pointed out that the company is among the last manufacturers in Europe producing this material, along with Polish Stalprodukt SA.\n\nWhile it was noted that a significant portion of steel imports in the European market is supplied by companies such as China's Baowu, South Korea's POSCO, and Japan's Nippon Steel, it was reported that European manufacturers are under serious pressure due to increasing competition with Asia, rising energy costs following the Russia-Ukraine war, and the slowdown in the global economy.\n\nIt was expressed that the uncontrolled increase in imports occurring at prices significantly below production costs across the European Union is putting pressure on the sector. It was mentioned that steel imports to the EU have tripled since 2022 and are expected to increase by another 50% by 2025, leading to European manufacturers operating at low capacity.\n\nIt was noted that Thyssenkrupp's steel division, which has been under financial pressure for years, plans to lay off approximately 11,000 people by 2030. As part of the restructuring process, the company aims to reduce its production capacity from 11.5 million tons to a range of 8.7 to 9 million tons, while it was stated that Thyssenkrupp Steel Europe currently employs around 27,000 people.",
+      "source_name": "Haberler.com",
+      "source_country": null,
+      "source_url": "https://en.haberler.com/world-famous-company-decides-to-halt-production-19349498/?utm_source=facebook&utm_campaign=tavsiye_et",
+      "published_date": "2025-12-12T08:32:23Z",
+      "language": "eng",
+      "image_url": "https://foto.haberler.com/haber/2025/12/12/dunyaca-unlu-firmadan-uretimi-durdurma-karari-19349498_3684_o.jpg",
+      "fetched_at": "2025-12-22 22:52:54",
+      "sentiment_score": -0.8,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 23,
+      "article_uri": "2025-12-920043283",
+      "event_id": 7,
+      "title": "Thyssenkrupp halts electrical steel production amid market pressure",
+      "body": "Thyssenkrupp Steel is set to temporarily halt production of electrical steel at two plants in Germany and France, the company said on Thursday, citing an \"unchecked rise in low-priced imports\".\n\nOperations at the plants in the German city of Gelsenkirchen and the French city of Isbergues are set to come to a standstill from mid-December until the end of the year, Germany's largest steelmaker said in a statement.\n\nOn top of that, production at Isbergues is set to be reduced to 50% of total capacity for at least four months in response to \"the massively increased inflow of low-priced imports, especially from Asia,\" Thyssenkrupp Steel said.\n\nSo-called grain-oriented electrical steel is a specialized material used in the energy industry for electricity transmission, for example in transformers in substations and wind turbines.\n\nThyssenkrupp is one of two remaining manufacturers in Europe that makes electrical steel, according to the firm.\n\n\"The European market for grain-oriented electrical steel is currently under severe pressure driven by sharply rising import volumes priced well below the average production costs in the EU,\" the statement read, adding that imports have trippled since 2022, rising another 50% in 2025.\n\n\"These developments have led to a dramatic shift in customer orders and, as a result, to substantial underutilization of the European production facilities. Consequently, immediate measures to ensure the economic stabilization of operations are essential.\"\n\nAccording to Thyssenkrupp, some 1,200 jobs in Germany and France may be at risk.\n\n\"Grain-oriented electrical steel is an indispensable element for Europe's energy infrastructure and the energy transition,\" said chief executive Marie Jaroni.\n\n\"We are firmly committed to maintaining production in Europe, and are currently working to ensure effective market protections.\"",
+      "source_name": "dpa International",
+      "source_country": null,
+      "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251211-99-896973/",
+      "published_date": "2025-12-11T16:05:21Z",
+      "language": "eng",
+      "image_url": "https://www.dpa-international.com/img/251211-99-899142-v2-w800h450.jpeg",
+      "fetched_at": "2025-12-22 22:52:54",
+      "sentiment_score": -0.8,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 17,
+      "article_uri": "8996425622",
+      "event_id": 7,
+      "title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "body": "Specialist sites in Gelsenkirchen in western Germany and Isbergues in northern France that make high-end steel often used in power grids would close from mid-December to the end of the year, Thyssenkrupp's steel subsidiary said. - Copyright AFP Kirill KUDRYAVTSEV\n\nEurope's largest steelmaker Thyssenkrupp is to pause steel production at two sites for about two weeks because of Asian competition, the German firm said Thursday, as the European Union considers tightening its steel tariffs.\n\nSpecialist sites in Gelsenkirchen in western Germany and Isbergues in northern France that make high-end steel would close from mid-December to the end of the year, Thyssenkrupp's steel subsidiary said.\n\nThe French site would further run only at half-capacity for at least four months from January, it added.\n\nThe measures were in response \"to a massive increase in low-priced imports, particularly from Asia,\" Thyssenkrupp Steel Europe said.\n\n\"These developments have led to a dramatic change in order volumes and thus to a significant underutilisation of capacity at European production facilities.\"\n\nHammered by exorbitant energy costs and cheaper Asian competition, Germany's steel industry has been mired in deep crisis for several years.\n\nThyssenkrupp Steel Europe said in November last year it would seek to cut or outsource 11,000 jobs by 2030 -- about 40 percent of its workforce -- and cut production capacity to around nine million tons a year, down from 11.5 million.\n\nTaking a leaf from US President Donald Trump's book to shield the bloc's struggling industry from cheap Chinese imports, the EU in October floated plans to double tariffs on foreign steel and cut the amount allowed in tariff-free.\n\n\"The rapid implementation of efficient and appropriate trade protection measures at European level would help to increase capacity utilisation at both locations back to a sustainable level,\" Thyssenkrupp Steel Europe said, adding that about 1,200 people were employed at the two sites.\n\nThe wider Thyssenkrup group said on Tuesday that it expected to make a loss of up to 800 million euros ($932 million) next year, largely driven by the costs of restructuring its steel division.",
+      "source_name": "Digital Journal",
+      "source_country": null,
+      "source_url": "https://www.digitaljournal.com/business/thyssenkrupp-pauses-steel-production-at-two-sites-citing-asian-pressure/article",
+      "published_date": "2025-12-11T13:37:53Z",
+      "language": "eng",
+      "image_url": "https://www.digitaljournal.com/wp-content/uploads/2025/12/5bd9742019f9dfb8bf77d0d3b0fc1d9b842f643d.jpg",
+      "fetched_at": "2025-12-22 22:52:54",
+      "sentiment_score": -0.9,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 20,
+      "article_uri": "2025-12-919812826",
+      "event_id": 7,
+      "title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "body": "Europe's largest steelmaker Thyssenkrupp is to pause steel production at two sites for about two weeks because of Asian competition, the German firm said Thursday, as the European Union considers tightening its steel tariffs.\n\nSpecialist sites in Gelsenkirchen in western Germany and Isbergues in northern France that make high-end steel would close from mid-December to the end of the year, Thyssenkrupp's steel subsidiary said.\n\nThe French site would further run only at half-capacity for at least four months from January, it added.\n\nThe measures were in response \"to a massive increase in low-priced imports, particularly from Asia,\" Thyssenkrupp Steel Europe said.\n\n\"These developments have led to a dramatic change in order volumes and thus to a significant underutilisation of capacity at European production facilities.\"\n\nHammered by exorbitant energy costs and cheaper Asian competition, Germany's steel industry has been mired in deep crisis for several years.\n\nThyssenkrupp Steel Europe said in November last year it would seek to cut or outsource 11,000 jobs by 2030 -- about 40 percent of its workforce -- and cut production capacity to around nine million tons a year, down from 11.5 million.\n\nTaking a leaf from US President Donald Trump's book to shield the bloc's struggling industry from cheap Chinese imports, the EU in October floated plans to double tariffs on foreign steel and cut the amount allowed in tariff-free.\n\n\"The rapid implementation of efficient and appropriate trade protection measures at European level would help to increase capacity utilisation at both locations back to a sustainable level,\" Thyssenkrupp Steel Europe said, adding that about 1,200 people were employed at the two sites.\n\nThe wider Thyssenkrup group said on Tuesday that it expected to make a loss of up to 800 million euros ($932 million) next year, largely driven by the costs of restructuring its steel division.",
+      "source_name": "Yahoo! Finance",
+      "source_country": null,
+      "source_url": "https://uk.finance.yahoo.com/news/thyssenkrupp-pauses-steel-production-two-121403968.html",
+      "published_date": "2025-12-11T12:26:33Z",
+      "language": "eng",
+      "image_url": "https://media.zenfs.com/en/afp.co.uk/45cb862988354f9579b667f5e8011d7d",
+      "fetched_at": "2025-12-22 22:52:54",
+      "sentiment_score": -0.8,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 21,
+      "article_uri": "8996201280",
+      "event_id": 7,
+      "title": "German industrial giant expects huge loss",
+      "body": "The German industrial conglomerate Thyssenkrupp is going through one of the most difficult phases in its history. The company from Essen predicts a net loss of between 400 and 800 million euros in the current financial year. This is a direct consequence of extensive restructuring, especially in their steel division, which was one of the pillars of the business for decades.\n\nThe restructuring plan also includes costs of around 350 million euros, which are mainly related to the steel and automotive sectors. An additional cash outflow of between 300 and 600 million euros is expected. The company's shares reacted immediately; a 13 percent drop was recorded on Tuesday morning.\n\nThe plan envisages a reduction in the number of employees in steel plants by about 40 percent, which means approximately 11,000 fewer workers. Steel production will decrease from 11.5 to around nine million tons. The company plans to invest in low-carbon technologies in order to adapt to modern standards and sustainability. \"This deal lays the groundwork for the sale of the steel division,\" said Thyssenkrupp, which is currently negotiating with India's Jindal Steel.\n\nThe sale of the shipbuilding division earlier this year was a significant step forward, but the fate of the steel business remains uncertain. \"The concern is going through a multi-year restructuring with the aim of separating five main business units and transforming into a holding company,\" they added in the statement.\n\nFor now, expert analysts monitor market trends and emphasize that investments in modernization and sustainability are key to the company's future. Investors are cautious, and the situation in the steel sector in Europe further complicates the outlook.\n\nThus, Thyssenkrupp is at a crossroads - while on the one hand it plans innovation and cost reduction, on the other hand it must balance between job preservation and profitability. This year shows how difficult it is to maintain the position of an industrial giant in a modern, global economic environment.\n\nmany companies had similar problems and challenges they had to face. We will see how they can handle this in the future.",
+      "source_name": "Financial World",
+      "source_country": null,
+      "source_url": "https://www.financial-world.org/news/news/financial/29857/german-industrial-giant-expects-huge-loss/",
+      "published_date": "2025-12-11T11:07:08Z",
+      "language": "eng",
+      "image_url": "https://www.financial-world.org/world/media/image29933.jpg",
+      "fetched_at": "2025-12-22 22:52:54",
+      "sentiment_score": -0.9,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 18,
+      "article_uri": "8992820458",
+      "event_id": 7,
+      "title": "Shares in Germany's Thyssenkrupp slide as it forecasts heavy losses",
+      "body": "Thyssenkrupp is entangled in a restructuring process as it seeks to shore up its finances, hit by high energy costs and cheap competition.\n\nGerman manufacturer Thyssenkrupp saw its share price slide on Tuesday as it predicted a heavy loss for the current financial year.\n\nAs of around 1.30pm Frankfurt, shares had dropped 8.85%, paring more dramatic losses seen earlier in the day.\n\nThe steelmaker and engineering firm said it expects negative free cash flow between \u20ac300mn and \u20ac600mn in its fiscal year that ends on 30 September 2026. That's before mergers and acquisitions.\n\nThyssenkrupp also said it expects to make a loss of between \u20ac400mn and \u20ac800mn in the current fiscal year.\n\n\"Our forecast takes account of the persistently challenging market conditions and of the efficiency and restructuring measures in our segments,\" said Dr. Axel Hamann, chief financial officer of Thyssenkrupp.\n\n\"The determined implementation of our efficiency and cost-cutting programs in all segments is crucial for our earnings development.\"\n\nHamann added that the company had met its financial targets for the year just ended, despite challenging market conditions.\n\nThyssenkrupp generated positive free cash flow of \u20ac363mn during this period, significantly above the prior year's loss of \u20ac110mn. Sales came to \u20ac32.8bn, in line with expectations but marking a 6% year-on-year drop.\n\nIn the year ahead, Thyssenkrupp predicts restructuring costs at \u20ac350mn as it seeks to boost its long-term profitability.\n\nLast week, Thyssenkrupp's steel unit said it would start implementing job cuts after agreeing a long-awaited deal with unions. Under the terms of the agreement, the firm will eliminate 11,000 posts at its steel plants, amounting to 40% of the workforce there. Steel production will be cut by as much as 2.8 mn tonnes, a roughly 25% drop.\n\nThyssenkrupp has become a symbol of Germany's ailing manufacturing industry, hit by Europe's energy price spike and competition from cheaper Asian competitors. Lacklustre market demand, linked to weak post-pandemic growth in Europe, has also shrunk margins -- with carmakers notably reducing their purchases of steel and automotive parts.\n\nOnce a powerhouse with divisions spanning from engineering to elevators and defence, Thyssenkrupp is now looking to spin off its flailing arms into separate businesses.\n\nIndian group Jindal Steel is currently mulling a takeover of Thyssenkrupp's steel unit, replacing contender Daniel K\u0159et\u00ednsk\u00fd -- a Czech billionaire who stepped back from a potential deal earlier this year. K\u0159et\u00ednsk\u00fd returned the 20% stake in the steel unit he had already bought and abandoned plans to raise the holding to 50%. One key priority for the steel unit is decarbonisation, with Thyssenkrupp already investing in low-carbon manufacturing methods.\n\nThyssenkrupp also managed to offload its marine division TKMS earlier this year, listing it on the Frankfurt Stock Exchange.",
+      "source_name": "Euronews English",
+      "source_country": null,
+      "source_url": "http://www.euronews.com/business/2025/12/09/shares-in-germanys-thyssenkrupp-slide-as-it-forecasts-heavy-losses",
+      "published_date": "2025-12-09T13:02:14Z",
+      "language": "eng",
+      "image_url": "https://images.euronews.com/articles/stories/09/57/68/47/1200x675_cmsv2_a70c5886-e200-5661-adcf-f6cc53c015b7-9576847.jpg",
+      "fetched_at": "2025-12-22 22:52:54",
+      "sentiment_score": -0.7,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 22,
+      "article_uri": "2025-12-917356083",
+      "event_id": 7,
+      "title": "Thyssenkrupp points to big net loss this year, shares sink",
+      "body": "(Sharecast News) - ThyssenKrupp said on Tuesday that it expects to big swing into the red this fiscal year on the back of restructuring charges related to its European steel operations, which the German firm is currently trying to sell to Jindal Steel International.\n\nThe Essen-based industrial engineering and steel production company projected a net loss of between \u20ac400m and \u20ac800m over the 12 months to 30 September, compared with a net profit of \u20ac532m over the year just gone.\n\nSales over the coming year are expected to fall by 1-2% amid a \"persistently challenging market environment\", with declines seen in its Automotive Technology and Decarbon Technologies divisions.\n\nThyssenkrupp Steel Europe, which in September received a non-binding proposal from India's Jindal Steel which is currently being reviewed by the board, is currently undergoing a \"strategic realignment\" to cut costs and while avoiding compulsory redundancies.\n\nThe restructuring moves include terminating a long-term supply contract with Krupp Mannesmann due to \"necessary capacity adjustments\", with the annual shipment capacity expected to be reduced from around the current 11.5m tons to a target level of around 8.7m-9m tons.\n\n\"Our forecast takes account of the persistently challenging market conditions and of the efficiency and restructuring measures in our segments. Through the measures that are planned for the current year and already factored in - especially in the steel business and at Automotive Technology - we are creating the basis for sustainably improving our earnings,\" said chief financial officer Axel Hamann.\n\nFor the year just gone, sales fell 6% to \u20ac32.8m, though the order intake jumped 15% to \u20ac37.7bn. Adjusted EBIT increased to \u20ac640m from \u20ac567m.\n\nThyssenkrupp shares were down 9.2% at \u20ac8.68 by 0916 GMT.",
+      "source_name": "London South East",
+      "source_country": null,
+      "source_url": "https://www.lse.co.uk/news/thyssenkrupp-points-to-big-net-loss-this-year-shares-sink-4taiwd8op146qa7.html",
+      "published_date": "2025-12-09T09:45:43Z",
+      "language": "eng",
+      "image_url": "https://static.lse.co.uk/images/logo-og.jpg",
+      "fetched_at": "2025-12-22 22:52:54",
+      "sentiment_score": -0.8,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 24,
+      "article_uri": "2025-12-917193546",
+      "event_id": 7,
+      "title": "Thyssenkrupp posts \u20ac532 mln profit as marine spin-off and steel revamp drive gains By Investing.com",
+      "body": "Investing.com -- Thyssenkrupp AG (ETR:TKAG) on Tuesday reported net income of \u20ac532 million for fiscal year 2024-2025, marking a return to profit after a loss a year earlier, as adjusted EBIT rose 13% to \u20ac640 million despite a 6% decline in sales to \u20ac32.8 billion.\n\nThe German industrial and technology group lifted order intake 15% to \u20ac37.7 billion, while free cash flow before M&A increased to \u20ac363 million.\n\nChief executive Miguel L\u00f3pez described the year as challenging but said the company increased earnings in weaker markets.\n\n\"We succeeded in increasing adjusted EBIT by \u20ac72 million year-on-year to \u20ac640 million, despite a decline in sales of 6%,\" L\u00f3pez said in a statement.\n\nHe added that the performance was supported by the APEX program. \"At \u20ac363 million, free cash flow before M&A was also higher than in the prior year.\"\n\nThyssenkrupp shares climbed 240% during the reporting year, closing at \u20ac11.68 at the end of September after reaching a high of \u20ac11.81 on September 26.\n\nMarket capitalization rose to \u20ac7.27 billion. The company attributed the increase to decisions on the transformation strategy and restructuring progress.\n\nThe Essen-based group confirmed a dividend proposal of \u20ac0.15 per share for the year. Earnings per share rose to \u20ac0.75.\n\nAmong operating segments, Steel Europe generated the highest adjusted EBIT at \u20ac337 million on \u20ac9.79 billion in sales.\n\nAutomotive Technology reported \u20ac187 million on \u20ac7.04 billion in sales, while Materials Services earned \u20ac132 million on \u20ac11.43 billion in revenue.\n\nDecarbon Technologies posted \u20ac71 million in adjusted EBIT on \u20ac3.48 billion in sales, and Marine Systems recorded \u20ac127 million on \u20ac2.19 billion.\n\nThe group advanced major structural changes during the year, including the spin-off and stock market listing of its Marine Systems division.\n\nTKMS became independent on October 20, with about 8,600 employees and an order backlog of \u20ac18.2 billion, while Thyssenkrupp retained a 51% stake. L\u00f3pez called the move a milestone, adding that TKMS is \"ideally positioned as a maritime powerhouse.\"\n\nIn steel, Thyssenkrupp reached a restructuring agreement with the IG Metall trade union in July 2025.\n\nThe plan includes reducing production capacity to support shipments of 8.7 million to 9 million tons, increasing efficiency and investing in a hydrogen-capable direct reduction plant in Duisburg.\n\nThe company said it received a non-binding indicative offer from Jindal Steel International and ended joint-venture talks with EP Group, which returned its 20% stake.\n\nThyssenkrupp anticipates adjusted EBIT of \u20ac500 million to \u20ac900 million for fiscal year 2025/2026, with net sales expected to change between a 2% decline and a 1% increase.\n\nThe company also projects a net loss of \u20ac800 million to \u20ac400 million, primarily due to restructuring expenses at Steel Europe.\n\nThe annual report said the environment remains uncertain and noted that \"the future development of the global economy is still uncertain.\"",
+      "source_name": "Investing.com",
+      "source_country": null,
+      "source_url": "https://www.investing.com/news/earnings/thyssenkrupp-posts-532-mln-profit-as-marine-spinoff-and-steel-revamp-drive-gains-4397576",
+      "published_date": "2025-12-09T06:55:58Z",
+      "language": "eng",
+      "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI0U0HX_L.jpg",
+      "fetched_at": "2025-12-22 22:52:54",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "article_type": null
+    }
+  ],
+  "popularity_trend": [
+    {
+      "date": "2025-12-09",
+      "count": 3
+    },
+    {
+      "date": "2025-12-11",
+      "count": 4
+    },
+    {
+      "date": "2025-12-12",
+      "count": 1
+    }
+  ],
+  "sentiment_trend": [
+    {
+      "date": "2025-12-09",
+      "avg_sentiment": -0.75,
+      "count": 2
+    },
+    {
+      "date": "2025-12-11",
+      "avg_sentiment": -0.8500000000000001,
+      "count": 4
+    },
+    {
+      "date": "2025-12-12",
+      "avg_sentiment": -0.8,
+      "count": 1
+    }
+  ],
+  "entities": {
+    "countries": [
+      {
+        "name": "Germany",
+        "count": 7
+      },
+      {
+        "name": "Europe",
+        "count": 6
+      },
+      {
+        "name": "Asia",
+        "count": 5
+      },
+      {
+        "name": "France",
+        "count": 4
+      },
+      {
+        "name": "China",
+        "count": 3
+      },
+      {
+        "name": "India",
+        "count": 3
+      },
+      {
+        "name": "US",
+        "count": 2
+      },
+      {
+        "name": "Czech",
+        "count": 1
+      },
+      {
+        "name": "Japan",
+        "count": 1
+      },
+      {
+        "name": "Poland",
+        "count": 1
+      },
+      {
+        "name": "Russia",
+        "count": 1
+      },
+      {
+        "name": "South Korea",
+        "count": 1
+      },
+      {
+        "name": "Ukraine",
+        "count": 1
+      }
+    ],
+    "companies": [
+      {
+        "name": "Thyssenkrupp",
+        "count": 6
+      },
+      {
+        "name": "Thyssenkrupp Steel Europe",
+        "count": 4
+      },
+      {
+        "name": "Jindal Steel",
+        "count": 2
+      },
+      {
+        "name": "Baowu",
+        "count": 1
+      },
+      {
+        "name": "Jindal Steel International",
+        "count": 1
+      },
+      {
+        "name": "Krupp Mannesmann",
+        "count": 1
+      },
+      {
+        "name": "Nippon Steel",
+        "count": 1
+      },
+      {
+        "name": "POSCO",
+        "count": 1
+      },
+      {
+        "name": "Stalprodukt SA",
+        "count": 1
+      },
+      {
+        "name": "TKMS",
+        "count": 1
+      },
+      {
+        "name": "ThyssenKrupp",
+        "count": 1
+      },
+      {
+        "name": "Thyssenkrup group",
+        "count": 1
+      },
+      {
+        "name": "Thyssenkrupp Steel",
+        "count": 1
+      }
+    ],
+    "organizations": [
+      {
+        "name": "European Union",
+        "count": 2
+      },
+      {
+        "name": "EU",
+        "count": 1
+      },
+      {
+        "name": "unions",
+        "count": 1
+      }
+    ],
+    "politicians": [
+      {
+        "name": "Donald Trump",
+        "count": 2
+      }
+    ]
+  },
+  "financial": {
+    "amounts": [
+      {
+        "amount": 37700000000.0,
+        "currency": "EUR",
+        "context": "order intake for the year just gone"
+      },
+      {
+        "amount": 32800000000.0,
+        "currency": "EUR",
+        "context": "sales for the year just ended"
+      },
+      {
+        "amount": 932000000.0,
+        "currency": "USD",
+        "context": "expected loss for Thyssenkrup group next year"
+      },
+      {
+        "amount": 932000000.0,
+        "currency": "USD",
+        "context": "expected loss next year largely driven by costs of restructuring steel division"
+      },
+      {
+        "amount": 800000000.0,
+        "currency": "EUR",
+        "context": "expected loss for Thyssenkrup group next year"
+      },
+      {
+        "amount": 800000000.0,
+        "currency": "EUR",
+        "context": "expected loss next year largely driven by costs of restructuring steel division"
+      },
+      {
+        "amount": 800000000.0,
+        "currency": "EUR",
+        "context": "projected net loss (upper bound)"
+      },
+      {
+        "amount": 640000000.0,
+        "currency": "EUR",
+        "context": "Adjusted EBIT for the year just gone"
+      },
+      {
+        "amount": 567000000.0,
+        "currency": "EUR",
+        "context": "Adjusted EBIT for the previous period"
+      },
+      {
+        "amount": 532000000.0,
+        "currency": "EUR",
+        "context": "net profit over the year just gone"
+      },
+      {
+        "amount": 400000000.0,
+        "currency": "EUR",
+        "context": "projected net loss (lower bound)"
+      },
+      {
+        "amount": 363000000.0,
+        "currency": "EUR",
+        "context": "positive free cash flow for the year just ended"
+      },
+      {
+        "amount": 350000000.0,
+        "currency": "EUR",
+        "context": "predicted restructuring costs for the year ahead"
+      },
+      {
+        "amount": 32800000.0,
+        "currency": "EUR",
+        "context": "sales for the year just gone (note: likely typo in source, should be billions)"
+      },
+      {
+        "amount": 2800000.0,
+        "currency": "tonnes",
+        "context": "steel production cut"
+      },
+      {
+        "amount": 11000.0,
+        "currency": "posts",
+        "context": "job cuts"
+      },
+      {
+        "amount": 800.0,
+        "currency": "EUR",
+        "context": "expected net loss (maximum)"
+      },
+      {
+        "amount": 600.0,
+        "currency": "EUR",
+        "context": "expected additional cash outflow (maximum)"
+      },
+      {
+        "amount": 400.0,
+        "currency": "EUR",
+        "context": "expected net loss (minimum)"
+      },
+      {
+        "amount": 350.0,
+        "currency": "EUR",
+        "context": "restructuring costs related to steel and automotive"
+      },
+      {
+        "amount": 300.0,
+        "currency": "EUR",
+        "context": "expected additional cash outflow (minimum)"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "Daniel K\u0159et\u00ednsk\u00fd's planned stake increase"
+      },
+      {
+        "amount": 40.0,
+        "currency": "%",
+        "context": "reduction in steel plant workforce"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "steel production drop"
+      },
+      {
+        "amount": 20.0,
+        "currency": "%",
+        "context": "Daniel K\u0159et\u00ednsk\u00fd's initial stake in steel unit"
+      },
+      {
+        "amount": 8.68,
+        "currency": "EUR",
+        "context": "Thyssenkrupp share price"
+      },
+      {
+        "amount": -6.0,
+        "currency": "%",
+        "context": "year-on-year sales drop"
+      },
+      {
+        "amount": -8.85,
+        "currency": "%",
+        "context": "share price drop"
+      },
+      {
+        "amount": -110000000.0,
+        "currency": "EUR",
+        "context": "prior year's loss"
+      },
+      {
+        "amount": -300000000.0,
+        "currency": "EUR",
+        "context": "expected negative free cash flow (lower bound) for FY ending Sep 2026"
+      },
+      {
+        "amount": -400000000.0,
+        "currency": "EUR",
+        "context": "expected loss (lower bound) for current fiscal year"
+      },
+      {
+        "amount": -600000000.0,
+        "currency": "EUR",
+        "context": "expected negative free cash flow (upper bound) for FY ending Sep 2026"
+      },
+      {
+        "amount": -800000000.0,
+        "currency": "EUR",
+        "context": "expected loss (upper bound) for current fiscal year"
+      }
+    ],
+    "totals": {
+      "EUR": 73574802458.68,
+      "USD": 1864000000.0,
+      "tonnes": 2800000.0,
+      "posts": 11000.0,
+      "%": 120.15
+    }
+  },
+  "quotes": [
+    {
+      "id": 35,
+      "article_id": 23,
+      "speaker": "Thyssenkrupp Steel",
+      "speaker_role": "Company Statement",
+      "quote_text": "The European market for grain-oriented electrical steel is currently under severe pressure driven by sharply rising import volumes priced well below the average production costs in the EU, ... These developments have led to a dramatic shift in customer orders and, as a result, to substantial underutilization of the European production facilities. Consequently, immediate measures to ensure the economic stabilization of operations are essential.",
+      "stance": "oppose",
+      "article_title": "Thyssenkrupp halts electrical steel production amid market pressure",
+      "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251211-99-896973/"
+    },
+    {
+      "id": 36,
+      "article_id": 23,
+      "speaker": "Marie Jaroni",
+      "speaker_role": "chief executive",
+      "quote_text": "Grain-oriented electrical steel is an indispensable element for Europe's energy infrastructure and the energy transition. We are firmly committed to maintaining production in Europe, and are currently working to ensure effective market protections.",
+      "stance": "support",
+      "article_title": "Thyssenkrupp halts electrical steel production amid market pressure",
+      "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251211-99-896973/"
+    },
+    {
+      "id": 24,
+      "article_id": 17,
+      "speaker": "Thyssenkrupp Steel Europe",
+      "speaker_role": "steel subsidiary",
+      "quote_text": "to a massive increase in low-priced imports, particularly from Asia",
+      "stance": "neutral",
+      "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "source_url": "https://www.digitaljournal.com/business/thyssenkrupp-pauses-steel-production-at-two-sites-citing-asian-pressure/article"
+    },
+    {
+      "id": 25,
+      "article_id": 17,
+      "speaker": "Thyssenkrupp Steel Europe",
+      "speaker_role": "steel subsidiary",
+      "quote_text": "These developments have led to a dramatic change in order volumes and thus to a significant underutilisation of capacity at European production facilities.",
+      "stance": "neutral",
+      "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "source_url": "https://www.digitaljournal.com/business/thyssenkrupp-pauses-steel-production-at-two-sites-citing-asian-pressure/article"
+    },
+    {
+      "id": 26,
+      "article_id": 17,
+      "speaker": "Thyssenkrupp Steel Europe",
+      "speaker_role": "steel subsidiary",
+      "quote_text": "The rapid implementation of efficient and appropriate trade protection measures at European level would help to increase capacity utilisation at both locations back to a sustainable level",
+      "stance": "support",
+      "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "source_url": "https://www.digitaljournal.com/business/thyssenkrupp-pauses-steel-production-at-two-sites-citing-asian-pressure/article"
+    },
+    {
+      "id": 29,
+      "article_id": 20,
+      "speaker": "Thyssenkrupp Steel Europe",
+      "speaker_role": "Steel subsidiary",
+      "quote_text": "to a massive increase in low-priced imports, particularly from Asia",
+      "stance": "neutral",
+      "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "source_url": "https://uk.finance.yahoo.com/news/thyssenkrupp-pauses-steel-production-two-121403968.html"
+    },
+    {
+      "id": 30,
+      "article_id": 20,
+      "speaker": "Thyssenkrupp Steel Europe",
+      "speaker_role": "Steel subsidiary",
+      "quote_text": "These developments have led to a dramatic change in order volumes and thus to a significant underutilisation of capacity at European production facilities.",
+      "stance": "neutral",
+      "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "source_url": "https://uk.finance.yahoo.com/news/thyssenkrupp-pauses-steel-production-two-121403968.html"
+    },
+    {
+      "id": 31,
+      "article_id": 20,
+      "speaker": "Thyssenkrupp Steel Europe",
+      "speaker_role": "Steel subsidiary",
+      "quote_text": "The rapid implementation of efficient and appropriate trade protection measures at European level would help to increase capacity utilisation at both locations back to a sustainable level",
+      "stance": "support",
+      "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "source_url": "https://uk.finance.yahoo.com/news/thyssenkrupp-pauses-steel-production-two-121403968.html"
+    },
+    {
+      "id": 32,
+      "article_id": 21,
+      "speaker": "Thyssenkrupp",
+      "speaker_role": "Company",
+      "quote_text": "This deal lays the groundwork for the sale of the steel division",
+      "stance": "neutral",
+      "article_title": "German industrial giant expects huge loss",
+      "source_url": "https://www.financial-world.org/news/news/financial/29857/german-industrial-giant-expects-huge-loss/"
+    },
+    {
+      "id": 33,
+      "article_id": 21,
+      "speaker": "Thyssenkrupp",
+      "speaker_role": "Company",
+      "quote_text": "The concern is going through a multi-year restructuring with the aim of separating five main business units and transforming into a holding company",
+      "stance": "neutral",
+      "article_title": "German industrial giant expects huge loss",
+      "source_url": "https://www.financial-world.org/news/news/financial/29857/german-industrial-giant-expects-huge-loss/"
+    },
+    {
+      "id": 27,
+      "article_id": 18,
+      "speaker": "Dr. Axel Hamann",
+      "speaker_role": "chief financial officer of Thyssenkrupp",
+      "quote_text": "Our forecast takes account of the persistently challenging market conditions and of the efficiency and restructuring measures in our segments.",
+      "stance": "neutral",
+      "article_title": "Shares in Germany's Thyssenkrupp slide as it forecasts heavy losses",
+      "source_url": "http://www.euronews.com/business/2025/12/09/shares-in-germanys-thyssenkrupp-slide-as-it-forecasts-heavy-losses"
+    },
+    {
+      "id": 28,
+      "article_id": 18,
+      "speaker": "Dr. Axel Hamann",
+      "speaker_role": "chief financial officer of Thyssenkrupp",
+      "quote_text": "The determined implementation of our efficiency and cost-cutting programs in all segments is crucial for our earnings development.",
+      "stance": "support",
+      "article_title": "Shares in Germany's Thyssenkrupp slide as it forecasts heavy losses",
+      "source_url": "http://www.euronews.com/business/2025/12/09/shares-in-germanys-thyssenkrupp-slide-as-it-forecasts-heavy-losses"
+    },
+    {
+      "id": 34,
+      "article_id": 22,
+      "speaker": "Axel Hamann",
+      "speaker_role": "chief financial officer",
+      "quote_text": "Our forecast takes account of the persistently challenging market conditions and of the efficiency and restructuring measures in our segments. Through the measures that are planned for the current year and already factored in - especially in the steel business and at Automotive Technology - we are creating the basis for sustainably improving our earnings.",
+      "stance": "neutral",
+      "article_title": "Thyssenkrupp points to big net loss this year, shares sink",
+      "source_url": "https://www.lse.co.uk/news/thyssenkrupp-points-to-big-net-loss-this-year-shares-sink-4taiwd8op146qa7.html"
+    }
+  ],
+  "stakeholders": [
+    {
+      "stakeholder": "European Union",
+      "position": "support",
+      "reasoning": "Considering tightening steel tariffs and cutting tariff-free imports to 'shield the bloc's struggling industry from cheap Chinese imports'.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Thyssenkrupp Steel Europe",
+      "position": "support",
+      "reasoning": "Advocates for 'efficient and appropriate trade protection measures at European level' to counter 'massive increase in low-priced imports' from Asia and increase capacity utilisation.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Asian Steel Companies (e.g., Baowu, POSCO, Nippon Steel)",
+      "position": "support",
+      "reasoning": "Benefit from current market conditions, particularly the ability to supply cheap steel imports to the European market at prices significantly below production costs.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Daniel K\u0159et\u00ednsk\u00fd",
+      "position": "oppose",
+      "reasoning": "Stepped back from a potential takeover deal and abandoned plans to increase his stake in the steel unit.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Expert analysts",
+      "position": "support",
+      "reasoning": "Emphasize that investments in modernization and sustainability are key to the company's future.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Investors",
+      "position": "cautious",
+      "reasoning": "The situation in the steel sector in Europe further complicates the outlook, leading to caution.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Jindal Steel International",
+      "position": "neutral",
+      "reasoning": "Submitted a non-binding proposal to acquire Thyssenkrupp Steel Europe, currently under board review.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "ThyssenKrupp",
+      "position": "support",
+      "reasoning": "Implementing restructuring and efficiency measures to sustainably improve earnings despite challenging market conditions.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Thyssenkrupp",
+      "position": "support",
+      "reasoning": "Implementing restructuring to adapt to modern standards, sustainability, and improve profitability by transforming into a holding company.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Thyssenkrupp (management)",
+      "position": "support",
+      "reasoning": "Determined implementation of efficiency and cost-cutting programs is crucial for earnings development and long-term profitability.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Thyssenkrupp Steel",
+      "position": "oppose",
+      "reasoning": "Opposes the current market situation due to low-priced imports and underutilization, advocating for market protections to ensure economic stabilization and maintain European production.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Thyssenkrupp Steel Europe",
+      "position": "oppose",
+      "reasoning": "Opposes current market conditions (cheap imports, high energy costs); forced to halt production, lay off staff, and restructure to cope with financial pressure.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Unions",
+      "position": "neutral",
+      "reasoning": "Agreed to job cuts, indicating a negotiated compromise rather than outright support or opposition.",
+      "mention_count": 1
+    }
+  ],
+  "summary_stats": {
+    "total_articles": 8,
+    "sources": 8,
+    "date_range": {
+      "start": "2025-12-09T06:55:58Z",
+      "end": "2025-12-12T08:32:23Z"
+    },
+    "avg_sentiment": -0.7125,
+    "total_quotes": 13,
+    "total_financial_mentions": 33
+  }
+}

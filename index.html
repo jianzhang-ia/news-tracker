@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Industrial Policy News Analytics</title>
+    <meta name="description" content="Analytics and trends on industrial policy debates in Germany">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Floating Background Shapes -->
+    <div class="floating-shapes">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>Industrial Policy Analytics</h1>
+            <p>News trends and sentiment analysis on industrial policy debates</p>
+        </header>
+
+        <!-- Search Bar -->
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-input" placeholder="Search events, companies, topics..."
+                autocomplete="off">
+            <div class="search-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+            </div>
+        </div>
+
+        <!-- Sort and Category Controls -->
+        <div class="controls-row">
+            <!-- Category Navigation (left) -->
+            <nav class="category-nav" id="categoryNav">
+                <button class="category-tab active" data-category="all">All Topics</button>
+                <button class="category-tab" data-category="ev">Electric Vehicles</button>
+                <button class="category-tab" data-category="steel">Steel Industry</button>
+                <button class="category-tab" data-category="hydrogen">Hydrogen</button>
+                <button class="category-tab" data-category="other">Other</button>
+            </nav>
+
+            <!-- Sorting Buttons (right) -->
+            <div class="sort-controls" id="sortControls">
+                <span class="sort-label">Sort by</span>
+                <button class="sort-btn active" data-sort="trending">Trending</button>
+                <button class="sort-btn" data-sort="popular">Popular</button>
+                <button class="sort-btn" data-sort="newest">Newest</button>
+            </div>
+        </div>
+
+        <!-- Events Grid -->
+        <div id="eventsContainer">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Loading events...</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

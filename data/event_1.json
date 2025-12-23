@@ -1,0 +1,710 @@
+{
+  "event": {
+    "id": 1,
+    "event_uri": "synthetic:eu-combustion-ban-2035",
+    "title": "EU 2035 Combustion Engine Ban Debate",
+    "category": "ev",
+    "summary": "Coverage of EU planned 2035 ban on combustion engine vehicles",
+    "first_seen": "2025-12-22T20:18:28.774602",
+    "last_updated": "2025-12-22T20:24:29.003461",
+    "created_at": "2025-12-22 19:18:28"
+  },
+  "generated_at": "2025-12-22T23:56:34.043593",
+  "articles": [
+    {
+      "id": 1,
+      "article_uri": "9006569157",
+      "event_id": 1,
+      "title": "Europe's naivety about the China export shock is tragic",
+      "body": "EUROPEAN Union carmakers such as Volkswagen got their wish this week when a combustion engine ban for 2035 onwards was effectively abandoned. It was seen as too ambitious, too costly and a dream for Chinese rivals, whose electric vehicle (EV) head start - powered by subsidies - has given them a 7 per cent share of the continent's auto market. Faced with a choice between climate leadership and protecting jobs, the EU chose the latter.\n\nWhile it is true that the ban failed to spark a true European EV boom, dumping it is nowhere near enough to secure the industry's future. It will not solve Chinese competition. Worse, ditching it sends a signal that carmakers can comfortably take their foot off the investment accelerator. That is the wrong message.\n\nThe tragedy here is Europe's industrial and geopolitical naivety in the face of China's export engine and high-tech ambitions, rather than clumsy bureaucratic overreach. Beijing's trade surplus with the EU has widened to close to US$300 billion this year.",
+      "source_name": "The Business Times",
+      "source_country": null,
+      "source_url": "https://www.businesstimes.com.sg/opinion-features/europes-naivety-about-china-export-shock-tragic",
+      "published_date": "2025-12-18T10:05:59Z",
+      "language": "eng",
+      "image_url": "https://cassette.sphdigital.com.sg/image/businesstimes/957aa57ccc5ad0a2a8c67594ccea4793b8f8d5e5974e2d01c8515ff2972de01c?w=1200&f=webp",
+      "fetched_at": "2025-12-22 19:24:29",
+      "sentiment_score": -0.7,
+      "sentiment_label": "negative",
+      "article_type": "opinion"
+    },
+    {
+      "id": 2,
+      "article_uri": "2025-12-925023485",
+      "event_id": 1,
+      "title": "Tech needs obscure metals. Trump's tariffs are slowing them down.",
+      "body": "With help from Aaron Mak\n\nPresident Donald Trump's efforts to jumpstart American production of important rare earth minerals are colliding with a fairly important global figure: President Donald Trump.\n\nAs Trump tries to fight China's control of numerous critical minerals used in high-tech applications, a number of experts are starting to worry that his own goals are undercut by the tariffs he's using to push his aggressive \"America first\" trade policy.\n\nThe problem they're seeing is that Trump's steep tariffs on imports -- part of a wider strategy to coax industries to relocate manufacturing facilities to the U.S. -- hit foreign-produced machinery necessary for mining operations. The resulting higher outlay for those projects, the centerpiece of the administration's efforts to loosen China's chokehold on the global rare earth and critical minerals supply chain, may blunt private sector interest in such ventures.\n\nDIGITAL FUTURE DAILY readers: We want to hear from you! What do you like in your afternoon tech newsletter? What do you want more of? Please take a few minutes and fill out this survey.\n\nThe anxiety has been building for some time, and came to the fore in Washington Monday at an all-day forum Monday on the outlook for the U.S. rare earths industry hosted by the Center for Strategic and International Studies.\n\n\"We haven't done mining in United States for a long time, and most of the specialty mining equipment isn't necessarily made in China, but it is made in places like Europe and components for minerals are made in Brazil and India,\" Judy Brown, head of external affairs for the Americas division of the Australia-based mining firm South32, said at the event.\n\nBrown urged the White House toward a \"connecting of the dots\" on how high tariffs raise start-up costs for mining.\n\nCritical minerals -- long an obscure industry -- have become a surprisingly powerful point of leverage for China in global trade talks.\n\nBeijing's imposition of export curbs on rare earths earlier this year, part of an escalatory trade conflict that Trump and China's leader Xi Jinping paused after a meeting in South Korea in October, sent shockwaves across U.S. manufacturing. Key segments of the high-tech economy -- artificial intelligence data centers, robotics and electric vehicles -- can't function without rare earths.\n\nThe industry and its supporters are increasingly worried that tariffs could undermine the Trump administration's own initiative to spur the development of a domestic rare earth sector that would fortify the U.S. against potential Chinese export restrictions.\n\n\"This is yet another example of how the president's tariff policy is harming both our economy and strategic interests,\" Rep. Ami Bera (D-Calif.), who also spoke at the CSIS event, told Digital Future Daily. \"We should be using tariffs strategically in conjunction with our allies to reduce demand for PRC-sourced rare earths.\"\n\nTrump has made consistent -- and sometimes very out-of-the-box -- efforts to jumpstart the domestic rare earths and critical mineral production sector. The U.S. government took equity stakes in rare earth magnet manufacturers including MP Materials in July and Vulcan Elements last month. Last week, the administration unveiled a \"Pax Silica Declaration\" aimed at encouraging allies and partners including Israel, Australia and South Korea to cooperate in joint rare earth and critical mineral development initiatives.\n\nThe administration is negotiating at least a dozen more agreements to boost crucial minerals cooperation modeled on a deal with Australia in October, Reggie Singh, the State Department's acting deputy assistant secretary for energy and critical minerals, said at CSIS on Monday.\n\nTariffs could also hurt the profit margins of an expanding U.S. critical minerals industry. Refining of critical minerals, including lithium, cobalt, nickel and cobalt requires large volumes of sulfuric acid.Limited domestic supplies of sulfur will likely require those companies to rely on Canadian sulfur currently imported tariff-free under the terms of the U.S.-Mexico-Canada trade agreement, Craig Jorgenson, president of the industry trade group The Sulphur Institute, told Digital Future Daily.\n\nThe Sulfur Institute's U.S. members -- which include Arizona-based copper giant Freeport-McMoRan Inc. and Nevada-based Lithium Americas, which will begin operations in 2027 -- fear the Trump administration's ongoing renegotiation of the terms of the USMCA may rescind Canada's and Mexico's tariff-free sulfur and sulfuric acid imports.\n\n\"If tariffs are imposed, they'll impose higher costs for an industry that already has extremely tight margins and it will be a powerful disincentive for the expansion of an industry that the Trump administration has decreed to be a major priority in order to reduce dependency on China,\" Jorgenson told Digital Future Daily.\n\nThe White House didn't respond to a request for comment.\n\nJames Bikales contributed to this report.\n\nAs the Trump administration continues to pump up AI, a buzzy new think tank is arguing it's high time for Democratic leaders to solidify their own views on the technology.\n\nThe Searchlight Institute, formed by centrist Democratic operatives, shared its recent public poll on AI exclusively with DFD to back up the argument. Based on more than 2,000 responses, Searchlight found that Americans are tepid on AI, with a 8 percent net favorable rating on whether the technology has a positive impact on society. Respondents were also keen on regulation -- 67 percent said that they were more worried about the government doing too little to rein in AI, as opposed to doing too much. Labor displacement was also a major issue, with 42 percent of respondents naming it as their top concern surrounding AI.\n\n\"Democrats have been weirdly silent, if not playing dead, on AI,\" Ahmad Ali, Searchlight's communications director, told DFD -- though he did note the role of data centers as an issue in the November elections. \"This isn't an ideological or particularly extreme issue.\" He also suggested that Democrats should take advantage of the \"pretty strong consensus\" for regulation that was reflected in the survey, as Republicans are \"ceding a lot of ground\" by taking a permissive approach to AI.\n\nThe European Commission is poised to scale back its plans to implement a combustion engine ban in 2035, POLITICO's Jordyn Dahl and Gerardo Fortuna report.\n\nThe European Union had initially devised a requirement for automakers to lower their emissions by 100 percent, effectively prohibiting the sale of CO2-emitting vehicles by 2023, as part of a plan to accelerate the transition to electric vehicles. Yet multiple officials now tell POLITICO the commission is looking to only require a 90 percent reduction, on the condition automakers use alternative fuels and green steel to offset the remaining 10 percent.\n\nThe reversal is a major win for the auto industry, which has argued the ban would put them at a disadvantage in competing with China's much more advanced EV industry.\n\n* How Big Tech is offloading the risks of the AI boom.\n\n* Google is discontinuing a tool for detecting identity fraud risks on the dark web.\n\n* A controversial data tactic gives traders a 3.2-billionths-of-a-second edge.\n\n* A Discord community for gay gamers wants to kick out Anthropic's chatbot.\n\n* PayPal is applying to form a bank for small business loans.\n\nThanks for reading, and don't forget to take our survey!\n\nStay in touch with the whole team: Aaron Mak ([email protected]); Steve Heuser ([email protected]); Nate Robson ([email protected]); Ruth Reader ([email protected]); and John Hendel ([email protected]).",
+      "source_name": "POLITICO",
+      "source_country": null,
+      "source_url": "https://www.politico.com/newsletters/digital-future-daily/2025/12/16/tech-needs-obscure-metals-trumps-tariffs-are-slowing-them-down-00692851",
+      "published_date": "2025-12-16T21:32:10Z",
+      "language": "eng",
+      "image_url": "https://www.politico.com/dims4/default/95c23d1/2147483647/legacy_thumbnail/1200x782%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F74%2Fcd%2Fe323bf3b43cf927dcf4aff4b11bd%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F106002510",
+      "fetched_at": "2025-12-22 19:24:29",
+      "sentiment_score": -0.5,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 3,
+      "article_uri": "2025-12-920882266",
+      "event_id": 1,
+      "title": "Slovakia Seeks Stronger Ties with Germany Across Economy, Energy, and EU Issues - News - R\u00e1dio RSI English - STVR",
+      "body": "Foreign Minister Juraj Blan\u00e1r emphasized Slovakia's interest in maintaining open dialogue and close long-term cooperation with Germany during a meeting with German Ambassador Thomas Kurz. Both agreed that bilateral relations are strategically important. Slovakia and Germany plan to deepen practical cooperation through an Action Plan for the Enhanced Dialogue 2026-2028, targeting foreign and European affairs and economy among others. Blan\u00e1r highlighted continued engagement in the Slovak-German Reflexive Group for informal discussions on international and EU matters. The ministers also addressed industrial and energy competitiveness, including opposition to the EU's combustion engine ban by 2035, and cooperation on LNG terminal capacity and renewable hydrogen transport. Germany remains Slovakia's top trading partner and fourth-largest investor, with bilateral trade last year reaching nearly 38 billion EUR.",
+      "source_name": "stvr.sk",
+      "source_country": null,
+      "source_url": "https://enrsi.stvr.sk/articles/news/424979/slovakia-seeks-stronger-ties-with-germany-across-economy-energy-and-eu-issues",
+      "published_date": "2025-12-12T11:31:12Z",
+      "language": "eng",
+      "image_url": "https://www.stvr.sk/media/a501/image/file/12/1536/blanar-kurz-velvyslanec-nemecko-mzv-sk.jpg",
+      "fetched_at": "2025-12-22 19:24:29",
+      "sentiment_score": 0.7,
+      "sentiment_label": "positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 4,
+      "article_uri": "2025-11-907191699",
+      "event_id": 1,
+      "title": "Germany pushes back against EU's landmark 2035 combustion engine ban",
+      "body": "German Chancellor Friedrich Merz is pushing for changes to the European Union's landmark combustion engine ban from 2035 after his coalition agreed on a joint position.\n\nMerz said on Friday he would ask the European Commission for comprehensive reforms to the regulation, calling for hybrid vehicles to be allowed beyond the 2035 cut-off date.\n\nMerz wrote a letter to European Commission President Ursula von der Leyen outlining the new German position, which follows months of coalition wrangling and late-night consultations in Berlin on Thursday.\n\nIf hybrid vehicles are allowed beyond 2035, then in return, \"the remaining emissions in the automotive and fuel sector should be offset,\" Merz wrote.\n\nThe EU decided in 2022 that new cars would no longer be allowed to emit carbon dioxide (CO2) from 2035, in an effort to meet the bloc's climate targets.\n\nThe measure effectively amounted to a ban on new petrol and diesel cars, showcasing the EU's efforts to move away from fossil fuels.\n\nFollowing serious criticism from car manufacturers and some EU countries, however, Brussels announced plans to review the ban earlier this year.\n\nThe commission is expected to present a proposal based on the review on December 10, with Germany now set to campaign for major changes.\n\nMerz: No 'hardcut' in 2035\n\nWith Germany's crucial automotive industry facing historic struggles due to global competition and low domestic demand, Merz said in October that the 2035 ban should not come as a \"hard cut.\"\n\nMany jobs in Germany depend on the production of vehicles with combustion engines, while the slow uptake of electric vehicles means carmakers are at risk of missing CO2 reduction targets.\n\nAhead of parliamentary elections in February, Merz's conservative bloc - made up of the Christian Democratic Union (CDU) and the Bavarian-based Christian Social Union (CSU) - campaigned heavily on a reversal of the combustion engine ban.\n\nThe proposal initially faced strong opposition among Merz's junior coalition partners in the Social Democratic Party (SPD), with many left-wing elements in the party rejecting efforts to water down the ban.\n\nBut the party's co-leader, Vice Chancellor Lars Klingbeil, signalled openness to a compromise that offers manufacturers more leeway, drawing on modern combustion engine technology alongside further support for electric vehicles.\n\nOn Friday, Klingbeil said that the future viability of the German automotive industry and job security were the key arguments. \"We will not allow industry and the climate to be played off against each other,\" Klingbeil said.\n\nThe future of the car industry was electric, but there needed to be more technological options and more flexibility, he said.\n\nReacting to the agreement, CSU leader Markus S\u00f6der said he was \"very satisfied\" with the new government position.\n\nThe agreement was reached following extensive negotiations between leaders in the coalition committee, which meets regularly to resolve issues between the CDU/CSU and the SPD.\n\nMerz on Friday said the goal should be \"innovation-friendly and technology-neutral regulation\" that reconciles climate action and industrial competitiveness, Merz said.",
+      "source_name": "dpa International",
+      "source_country": null,
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-772725/",
+      "published_date": "2025-11-28T16:50:57Z",
+      "language": "eng",
+      "image_url": "https://www.dpa-international.com/img/251128-99-770931-v3-w800h450.jpeg",
+      "fetched_at": "2025-12-22 19:24:29",
+      "sentiment_score": 0.2,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 5,
+      "article_uri": "8976930465",
+      "event_id": 1,
+      "title": "Slovenia on board with German position on combustion engine ban",
+      "body": "Berlin, 28 November (STA) - Slovenia endorsed the German stance that internal combustion cars should not be banned in the EU from 2035 as currently planned as Prime Minister Robert Golob held talks with German Chancellor Friedrich Merz in Berlin on Friday. &quot;We support the letter which was sent. ...",
+      "source_name": "STA d.o.o.",
+      "source_country": null,
+      "source_url": "http://www.sta.si/http.php?id=3494035",
+      "published_date": "2025-11-28T13:49:53Z",
+      "language": "eng",
+      "image_url": null,
+      "fetched_at": "2025-12-22 19:24:29",
+      "sentiment_score": 0.1,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 6,
+      "article_uri": "2025-11-906822890",
+      "event_id": 1,
+      "title": "Merz pushes for changes to EU's landmark 2035 combustion engine ban",
+      "body": "German Chancellor Friedrich Merz is pushing for changes to the European Union's landmark combustion engine ban from 2035 after his coalition agreed on a joint position.\n\nFollowing late-night consultations in Berlin, Merz said he would ask the European Commission for comprehensive reforms to the regulation, calling for hybrid vehicles to be allowed beyond the 2035 cut-off date.\n\nMerz is set to write a letter to European Commission President Ursula von der Leyen outlining the new German position, which follows months of coalition wrangling.\n\nThe EU decided in 2022 that new cars would no longer be allowed to emit carbon dioxide (CO2) from 2035, in an effort to meet the bloc's climate targets.\n\nThe measure effectively amounted to a ban on new petrol and diesel cars, showcasing the EU's efforts to move away from fossil fuels.\n\nFollowing serious criticism from car manufacturers and some EU countries, however, Brussels announced plans to review the ban earlier this year.\n\nThe commission is expected to present a proposal based on the review on December 10, with Germany now set to campaign for major changes.\n\nMerz: No \"hard cut\" in 2035\n\nWith Germany's crucial automotive industry facing historic struggles due to global competition and low domestic demand, Merz said in October that the 2035 ban should not come as a \"hard cut.\"\n\nMany jobs in Germany depend on the production of vehicles with combustion engine vehicles, while the slow uptake of electric vehicles means carmakers are at risk of missing CO2 reduction targets.\n\nAhead of parliamentary elections in February, Merz's conservative bloc - made up of the Christian Democratic Union (CDU) and the Bavaria-based Christian Social Union (CSU) - campaigned heavily on a reversal of the combustion engine ban.\n\nThe proposal initially faced strong opposition among Merz's coalition partners in the Social Democratic Party (SPD), with many left-wing elements in the party rejecting efforts to water down the ban.\n\nBut the party's co-leader, Vice Chancellor Lars Klingbeil, signalled openness to a compromise that offers manufacturers more leeway, drawing on modern combustion engine technology alongside further support for electric vehicles.\n\nA paper circulated by Germany's federal states in October pushed for the EU ban to be eased, outlining support for plug-in hybrid vehicles, electric cars with range extenders and climate-friendly fuels.\n\nReacting to the agreement, CSU leader Markus S\u00f6der said he was \"very satisfied\" with the new government position.\n\nThe agreement was reached following extensive negotiations between leaders in the coalition committee, which meets regularly to resolve issues between the CDU/CSU and the SPD.\n\nMerz on Friday said it was important to strike a good balance between the competitiveness of the European automotive industry and climate protection.\n\nThe goal should be \"innovation-friendly and technology-neutral regulation\" that reconciles climate action and industrial competitiveness, Merz said.\n\nThe chancellor said he was very grateful for the efforts taken by his SPD coalition partners to reach a common position.",
+      "source_name": "dpa International",
+      "source_country": null,
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-768781/",
+      "published_date": "2025-11-28T10:24:01Z",
+      "language": "eng",
+      "image_url": "https://www.dpa-international.com/img/251128-99-769349-v3-w800h450.jpeg",
+      "fetched_at": "2025-12-22 19:24:29",
+      "sentiment_score": 0.1,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    }
+  ],
+  "popularity_trend": [
+    {
+      "date": "2025-11-28",
+      "count": 3
+    },
+    {
+      "date": "2025-12-12",
+      "count": 1
+    },
+    {
+      "date": "2025-12-16",
+      "count": 1
+    },
+    {
+      "date": "2025-12-18",
+      "count": 1
+    }
+  ],
+  "sentiment_trend": [
+    {
+      "date": "2025-11-28",
+      "avg_sentiment": 0.13333333333333333,
+      "count": 3
+    },
+    {
+      "date": "2025-12-12",
+      "avg_sentiment": 0.7,
+      "count": 1
+    },
+    {
+      "date": "2025-12-16",
+      "avg_sentiment": -0.5,
+      "count": 1
+    },
+    {
+      "date": "2025-12-18",
+      "avg_sentiment": -0.7,
+      "count": 1
+    }
+  ],
+  "entities": {
+    "countries": [
+      {
+        "name": "Germany",
+        "count": 4
+      },
+      {
+        "name": "China",
+        "count": 2
+      },
+      {
+        "name": "EU",
+        "count": 2
+      },
+      {
+        "name": "Europe",
+        "count": 2
+      },
+      {
+        "name": "Australia",
+        "count": 1
+      },
+      {
+        "name": "Brazil",
+        "count": 1
+      },
+      {
+        "name": "Canada",
+        "count": 1
+      },
+      {
+        "name": "European Union",
+        "count": 1
+      },
+      {
+        "name": "India",
+        "count": 1
+      },
+      {
+        "name": "Israel",
+        "count": 1
+      },
+      {
+        "name": "Mexico",
+        "count": 1
+      },
+      {
+        "name": "PRC",
+        "count": 1
+      },
+      {
+        "name": "Slovakia",
+        "count": 1
+      },
+      {
+        "name": "Slovenia",
+        "count": 1
+      },
+      {
+        "name": "South Korea",
+        "count": 1
+      },
+      {
+        "name": "United States",
+        "count": 1
+      }
+    ],
+    "organizations": [
+      {
+        "name": "European Commission",
+        "count": 3
+      },
+      {
+        "name": "Christian Democratic Union (CDU)",
+        "count": 2
+      },
+      {
+        "name": "Christian Social Union (CSU)",
+        "count": 2
+      },
+      {
+        "name": "European Union",
+        "count": 2
+      },
+      {
+        "name": "Social Democratic Party (SPD)",
+        "count": 2
+      },
+      {
+        "name": "Center for Strategic and International Studies (CSIS)",
+        "count": 1
+      },
+      {
+        "name": "EU",
+        "count": 1
+      },
+      {
+        "name": "EUROPEAN Union",
+        "count": 1
+      },
+      {
+        "name": "The Searchlight Institute",
+        "count": 1
+      },
+      {
+        "name": "The Sulphur Institute",
+        "count": 1
+      }
+    ],
+    "politicians": [
+      {
+        "name": "Friedrich Merz",
+        "count": 3
+      },
+      {
+        "name": "Lars Klingbeil",
+        "count": 2
+      },
+      {
+        "name": "Markus S\u00f6der",
+        "count": 2
+      },
+      {
+        "name": "Ursula von der Leyen",
+        "count": 2
+      },
+      {
+        "name": "Ami Bera (Rep. D-Calif.)",
+        "count": 1
+      },
+      {
+        "name": "Donald Trump (President)",
+        "count": 1
+      },
+      {
+        "name": "Juraj Blan\u00e1r",
+        "count": 1
+      },
+      {
+        "name": "Robert Golob",
+        "count": 1
+      },
+      {
+        "name": "Xi Jinping (China's leader)",
+        "count": 1
+      }
+    ],
+    "companies": [
+      {
+        "name": "Freeport-McMoRan Inc.",
+        "count": 1
+      },
+      {
+        "name": "Lithium Americas",
+        "count": 1
+      },
+      {
+        "name": "MP Materials",
+        "count": 1
+      },
+      {
+        "name": "South32",
+        "count": 1
+      },
+      {
+        "name": "The Sulphur Institute",
+        "count": 1
+      },
+      {
+        "name": "Volkswagen",
+        "count": 1
+      },
+      {
+        "name": "Vulcan Elements",
+        "count": 1
+      }
+    ]
+  },
+  "financial": {
+    "amounts": [
+      {
+        "amount": 38000000000.0,
+        "currency": "EUR",
+        "context": "bilateral trade between Slovakia and Germany last year"
+      },
+      {
+        "amount": 300.0,
+        "currency": "USD",
+        "context": "Beijing's trade surplus with the EU"
+      },
+      {
+        "amount": 3.2,
+        "currency": "billionths",
+        "context": "second edge for traders"
+      }
+    ],
+    "totals": {
+      "EUR": 38000000000.0,
+      "USD": 300.0,
+      "billionths": 3.2
+    }
+  },
+  "quotes": [
+    {
+      "id": 1,
+      "article_id": 2,
+      "speaker": "Judy Brown",
+      "speaker_role": "head of external affairs for the Americas division of South32",
+      "quote_text": "We haven't done mining in United States for a long time, and most of the specialty mining equipment isn't necessarily made in China, but it is made in places like Europe and components for minerals are made in Brazil and India.",
+      "stance": "neutral",
+      "article_title": "Tech needs obscure metals. Trump's tariffs are slowing them down.",
+      "source_url": "https://www.politico.com/newsletters/digital-future-daily/2025/12/16/tech-needs-obscure-metals-trumps-tariffs-are-slowing-them-down-00692851"
+    },
+    {
+      "id": 2,
+      "article_id": 2,
+      "speaker": "Judy Brown",
+      "speaker_role": "head of external affairs for the Americas division of South32",
+      "quote_text": "connecting of the dots",
+      "stance": "support",
+      "article_title": "Tech needs obscure metals. Trump's tariffs are slowing them down.",
+      "source_url": "https://www.politico.com/newsletters/digital-future-daily/2025/12/16/tech-needs-obscure-metals-trumps-tariffs-are-slowing-them-down-00692851"
+    },
+    {
+      "id": 3,
+      "article_id": 2,
+      "speaker": "Ami Bera",
+      "speaker_role": "Rep. (D-Calif.)",
+      "quote_text": "This is yet another example of how the president's tariff policy is harming both our economy and strategic interests. We should be using tariffs strategically in conjunction with our allies to reduce demand for PRC-sourced rare earths.",
+      "stance": "oppose",
+      "article_title": "Tech needs obscure metals. Trump's tariffs are slowing them down.",
+      "source_url": "https://www.politico.com/newsletters/digital-future-daily/2025/12/16/tech-needs-obscure-metals-trumps-tariffs-are-slowing-them-down-00692851"
+    },
+    {
+      "id": 4,
+      "article_id": 2,
+      "speaker": "Ahmad Ali",
+      "speaker_role": "Searchlight's communications director",
+      "quote_text": "Democrats have been weirdly silent, if not playing dead, on AI.",
+      "stance": "neutral",
+      "article_title": "Tech needs obscure metals. Trump's tariffs are slowing them down.",
+      "source_url": "https://www.politico.com/newsletters/digital-future-daily/2025/12/16/tech-needs-obscure-metals-trumps-tariffs-are-slowing-them-down-00692851"
+    },
+    {
+      "id": 5,
+      "article_id": 2,
+      "speaker": "Craig Jorgenson",
+      "speaker_role": "president of The Sulphur Institute",
+      "quote_text": "If tariffs are imposed, they'll impose higher costs for an industry that already has extremely tight margins and it will be a powerful disincentive for the expansion of an industry that the Trump administration has decreed to be a major priority in order to reduce dependency on China.",
+      "stance": "oppose",
+      "article_title": "Tech needs obscure metals. Trump's tariffs are slowing them down.",
+      "source_url": "https://www.politico.com/newsletters/digital-future-daily/2025/12/16/tech-needs-obscure-metals-trumps-tariffs-are-slowing-them-down-00692851"
+    },
+    {
+      "id": 6,
+      "article_id": 3,
+      "speaker": "Juraj Blan\u00e1r",
+      "speaker_role": "Foreign Minister",
+      "quote_text": "Slovakia's interest in maintaining open dialogue and close long-term cooperation with Germany",
+      "stance": "support",
+      "article_title": "Slovakia Seeks Stronger Ties with Germany Across Economy, Energy, and EU Issues - News - R\u00e1dio RSI English - STVR",
+      "source_url": "https://enrsi.stvr.sk/articles/news/424979/slovakia-seeks-stronger-ties-with-germany-across-economy-energy-and-eu-issues"
+    },
+    {
+      "id": 7,
+      "article_id": 4,
+      "speaker": "Friedrich Merz",
+      "speaker_role": "German Chancellor",
+      "quote_text": "the remaining emissions in the automotive and fuel sector should be offset",
+      "stance": "support",
+      "article_title": "Germany pushes back against EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-772725/"
+    },
+    {
+      "id": 8,
+      "article_id": 4,
+      "speaker": "Merz",
+      "speaker_role": "German Chancellor",
+      "quote_text": "should not come as a \"hard cut\"",
+      "stance": "oppose",
+      "article_title": "Germany pushes back against EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-772725/"
+    },
+    {
+      "id": 9,
+      "article_id": 4,
+      "speaker": "Lars Klingbeil",
+      "speaker_role": "Vice Chancellor",
+      "quote_text": "We will not allow industry and the climate to be played off against each other",
+      "stance": "neutral",
+      "article_title": "Germany pushes back against EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-772725/"
+    },
+    {
+      "id": 10,
+      "article_id": 4,
+      "speaker": "Lars Klingbeil",
+      "speaker_role": "Vice Chancellor",
+      "quote_text": "the future viability of the German automotive industry and job security were the key arguments",
+      "stance": "support",
+      "article_title": "Germany pushes back against EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-772725/"
+    },
+    {
+      "id": 11,
+      "article_id": 4,
+      "speaker": "Lars Klingbeil",
+      "speaker_role": "Vice Chancellor",
+      "quote_text": "the future of the car industry was electric, but there needed to be more technological options and more flexibility",
+      "stance": "neutral",
+      "article_title": "Germany pushes back against EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-772725/"
+    },
+    {
+      "id": 12,
+      "article_id": 4,
+      "speaker": "Markus S\u00f6der",
+      "speaker_role": "CSU leader",
+      "quote_text": "very satisfied",
+      "stance": "support",
+      "article_title": "Germany pushes back against EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-772725/"
+    },
+    {
+      "id": 13,
+      "article_id": 4,
+      "speaker": "Merz",
+      "speaker_role": "German Chancellor",
+      "quote_text": "innovation-friendly and technology-neutral regulation",
+      "stance": "support",
+      "article_title": "Germany pushes back against EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-772725/"
+    },
+    {
+      "id": 14,
+      "article_id": 5,
+      "speaker": "Robert Golob",
+      "speaker_role": "Prime Minister of Slovenia",
+      "quote_text": "We support the letter which was sent.",
+      "stance": "support",
+      "article_title": "Slovenia on board with German position on combustion engine ban",
+      "source_url": "http://www.sta.si/http.php?id=3494035"
+    },
+    {
+      "id": 15,
+      "article_id": 6,
+      "speaker": "Friedrich Merz",
+      "speaker_role": "German Chancellor",
+      "quote_text": "hybrid vehicles to be allowed beyond the 2035 cut-off date.",
+      "stance": "support",
+      "article_title": "Merz pushes for changes to EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-768781/"
+    },
+    {
+      "id": 16,
+      "article_id": 6,
+      "speaker": "Friedrich Merz",
+      "speaker_role": "German Chancellor",
+      "quote_text": "the 2035 ban should not come as a \"hard cut.\"",
+      "stance": "oppose",
+      "article_title": "Merz pushes for changes to EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-768781/"
+    },
+    {
+      "id": 17,
+      "article_id": 6,
+      "speaker": "Markus S\u00f6der",
+      "speaker_role": "CSU leader",
+      "quote_text": "he was \"very satisfied\" with the new government position.",
+      "stance": "support",
+      "article_title": "Merz pushes for changes to EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-768781/"
+    },
+    {
+      "id": 18,
+      "article_id": 6,
+      "speaker": "Friedrich Merz",
+      "speaker_role": "German Chancellor",
+      "quote_text": "innovation-friendly and technology-neutral regulation\" that reconciles climate action and industrial competitiveness",
+      "stance": "support",
+      "article_title": "Merz pushes for changes to EU's landmark 2035 combustion engine ban",
+      "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251128-99-768781/"
+    }
+  ],
+  "stakeholders": [
+    {
+      "stakeholder": "European Commission",
+      "position": "neutral",
+      "reasoning": "Expected to present a proposal based on a review of the ban.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Car manufacturers",
+      "position": "oppose",
+      "reasoning": "Expressed serious criticism of the 2035 ban.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Chinese rivals (EV manufacturers)",
+      "position": "benefit",
+      "reasoning": "Benefit from an EV head start powered by subsidies, increasing their market share in Europe.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Christian Democratic Union (CDU) and Christian Social Union (CSU)",
+      "position": "support",
+      "reasoning": "Campaigned heavily on a reversal of the combustion engine ban and are satisfied with the new government position.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "EU",
+      "position": "neutral",
+      "reasoning": "The article describes a planned ban by the EU.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "European Commission/EU Officials",
+      "position": "neutral",
+      "reasoning": "Scaling back plans for a combustion engine ban in 2035, likely due to industry concerns about competitiveness with China.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "European Union",
+      "position": "neutral",
+      "reasoning": "Originally decided on the ban to meet climate targets, but is now reviewing it following criticism.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "European Union",
+      "position": "oppose",
+      "reasoning": "Effectively abandoned the combustion engine ban, prioritizing job protection over climate leadership.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "European Union carmakers",
+      "position": "support",
+      "reasoning": "Got their wish regarding the combustion engine ban, seen as too ambitious and costly.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Experts/Industry Figures (e.g., Judy Brown, Rep. Ami Bera, Craig Jorgenson)",
+      "position": "oppose",
+      "reasoning": "Tariffs are increasing costs for mining and mineral production, undermining the administration's own goals and potentially harming the economy and strategic interests.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "German Chancellor Friedrich Merz",
+      "position": "support",
+      "reasoning": "Wants changes to the 2035 ban, allowing hybrid vehicles and avoiding a 'hard cut', citing the struggles of the German automotive industry and the need for innovation-friendly regulation.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "German automotive industry",
+      "position": "support (implied)",
+      "reasoning": "Facing struggles due to global competition and low domestic demand, at risk of missing CO2 reduction targets.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Germany",
+      "position": "oppose",
+      "reasoning": "Opposes the planned EU ban on internal combustion engine cars from 2035.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Germany",
+      "position": "support",
+      "reasoning": "Agreed that bilateral relations are strategically important and plans to deepen cooperation.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Germany (led by Chancellor Merz)",
+      "position": "support",
+      "reasoning": "Concerns about the automotive industry, job security, and a desire for more flexible, technology-neutral regulation.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Germany's federal states",
+      "position": "support",
+      "reasoning": "Pushed for the EU ban to be eased, supporting plug-in hybrids, electric cars with range extenders, and climate-friendly fuels.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Slovakia",
+      "position": "support",
+      "reasoning": "Seeks stronger ties and close long-term cooperation with Germany, highlighting strategic importance and plans for enhanced dialogue.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Slovakia (represented by Foreign Minister Juraj Blan\u00e1r)",
+      "position": "oppose",
+      "reasoning": "Expressed opposition to the EU's combustion engine ban by 2035.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Slovenia",
+      "position": "oppose",
+      "reasoning": "Endorses German stance against the 2035 EU ban on internal combustion engines.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Social Democratic Party (SPD)",
+      "position": "neutral",
+      "reasoning": "Initially opposed watering down the ban, but signaled openness to a compromise allowing more leeway for manufacturers alongside EV support.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Social Democratic Party (SPD) - co-leader Lars Klingbeil",
+      "position": "neutral",
+      "reasoning": "Signaled openness to compromise, emphasizing technological options and flexibility, while acknowledging the future is electric.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Social Democratic Party (SPD) - left-wing elements",
+      "position": "oppose",
+      "reasoning": "Rejecting efforts to water down the ban.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Some EU countries",
+      "position": "oppose",
+      "reasoning": "Expressed serious criticism of the 2035 ban.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "The Searchlight Institute",
+      "position": "neutral",
+      "reasoning": "Advocating for Democratic leaders to solidify their views on AI, highlighting public concern for regulation and labor displacement.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Trump Administration",
+      "position": "support",
+      "reasoning": "Efforts to jumpstart American production of rare earth minerals and reduce reliance on China.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "U.S. Manufacturing/High-Tech Economy",
+      "position": "oppose",
+      "reasoning": "Reliance on rare earth minerals for critical applications and concern over potential supply chain disruptions exacerbated by tariffs.",
+      "mention_count": 1
+    }
+  ],
+  "summary_stats": {
+    "total_articles": 6,
+    "sources": 5,
+    "date_range": {
+      "start": "2025-11-28T10:24:01Z",
+      "end": "2025-12-18T10:05:59Z"
+    },
+    "avg_sentiment": -0.016666666666666663,
+    "total_quotes": 18,
+    "total_financial_mentions": 3
+  }
+}

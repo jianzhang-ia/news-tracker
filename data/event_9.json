@@ -1,0 +1,1085 @@
+{
+  "event": {
+    "id": 9,
+    "event_uri": "eng-11212673",
+    "title": "Indian Railways to run its first hydrogen train to demonstrate 'Atmanirbhar Bharat'",
+    "category": "hydrogen",
+    "summary": "Indian Railways is launching its first hydrogen train, which showcases new hydrogen-powered train technology. The train, designed and built in India, is the world's longest and most powerful on a broa",
+    "first_seen": "2025-12-23T00:48:06.485130",
+    "last_updated": "2025-12-23T00:48:06.485130",
+    "created_at": "2025-12-22 23:48:06"
+  },
+  "generated_at": "2025-12-23T01:00:42.580660",
+  "articles": [
+    {
+      "id": 32,
+      "article_uri": "2025-12-920286446",
+      "event_id": 9,
+      "title": "Taiwan Provides NT$15M Subsidies for Hydrogen Stations | Fuel Cells Works",
+      "body": "TAIPEI -- The Ministry of Economic Affairs said that starting next year, it will provide up to NT$15 million (US$501,000) in fuel and operating subsidies for hydrogen stations, as part of an initiative to promote green energy use and achieve net-zero carbon emissions.\n\nThe ministry said the program aims to lower the cost of hydrogen infrastructure, per CNA. The subsidy will provide NT$165 for each kg of hydrogen sold, up to a maximum of NT$5 million. An additional NT$10 million will cover operating expenses, including staff, maintenance, electricity, hydrogen tank truck rental and safety assessments.\n\nThe Energy Administration said the subsidy amount was estimated based on an analysis by CPC Corp., which will be the first to qualify for the funding. In 2021, the ministry established a hydrogen promotion department and asked the company to cooperate with the transportation ministry's hydrogen-powered bus program by building hydrogen stations to serve the buses.\n\nCPC's first hydrogen station is set to launch by the end of this year in Kaohsiung's Nanzi District, with a daily capacity of over 245 kg, enough to supply seven buses. To boost the number of stations, the ministry has allowed hydrogen stations to be installed at existing fuel stations.\n\nCPC said it will initially source hydrogen from domestic gas suppliers. As Taiwan depends heavily on hydrogen imports, the ministry noted it has commissioned Kawasaki Heavy Industries to assess the feasibility of building a liquid hydrogen receiving terminal at Kaohsiung Port.\n\nLinde LienHwa Industrial Gases Co. will also launch a hydrogen station by the end of this year at an industrial park in Tainan's Xinshi District and introduce trucks powered by hydrogen fuel cells. However, the ministry noted the company has not applied to be a certified hydrogen station operator and therefore does not qualify for the subsidy.\n\nLinde LienHwa added that hydrogen fuel cell vehicles have advantages over EVs, including faster refueling, longer driving ranges, and lighter vehicle weight that enables greater cargo capacity.",
+      "source_name": "FuelCellsWorks",
+      "source_country": null,
+      "source_url": "https://fuelcellsworks.com/2025/12/11/fuel-cells/taiwan-to-provide-nt-15-million-in-subsidies-for-hydrogen-stations",
+      "published_date": "2025-12-11T21:03:29Z",
+      "language": "eng",
+      "image_url": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/taiwan-to-provide-nt-15-million-in-subsidies-for-hydrogen-stations-2025-12-11T10%3A55%3A36-05%3A00-image.webp",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.6,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 28,
+      "article_uri": "2025-12-919711272",
+      "event_id": 9,
+      "title": "'Atmanirbhar Bharat': Indian Railways' first hydrogen train ready for trials - All you need to know",
+      "body": "In a significant development regarding India's hydrogen train project, the manufacturing of the first hydrogen-powered train set has been completed. The government shared this information in a written reply to a question in the Lok Sabha on Wednesday (10 December). Railway Minister Ashwini Vaishnaw said that the Indian Railways is working on the project on a pilot basis. It is being done according to the specifications framed by the Research, Design, and Standards Organisation.\n\nHydrogen power technology\n\nThe pilot project, which is being developed, will be instrumental in demonstrating hydrogen power technology for future rail operations. The initiative is mainly aimed at showcasing the use of hydrogen as a clean fuel in the railway sector. To take this initiative forward, i.e., to support the operation of hydrogen trains in the country, a hydrogen production plant has been set up at Jind. At this facility, hydrogen is produced through the electrolysis process. The infrastructure being developed will be dedicated to this pilot train set.\n\nIn his reply, Vaishnaw said, \"Indian Railways has taken up a state-of-the-art project for running its first hydrogen train, on a pilot basis, as per specifications framed by the Research, Design & Standards Organisation (RDSO) to demonstrate the use of hydrogen-powered train technology in railways.\"\n\nHydrogen plant Jind!\n\n\"Manufacturing of the hydrogen trainset has been completed. To provide hydrogen for this train set, a hydrogen plant has been proposed in Jind. In this plant, hydrogen is being produced using the electrolysis process, which is a key element of green hydrogen generation,\" the Railway Minister added.\n\nThe major features of the hydrogen trainset include:\n\n* Designed and developed in India under the Central government's Atmanirbhar Bharat initiative.\n\n* Presently, it is said to be the world's longest and most powerful hydrogen train set on the broad-gauge platform.\n\n* It consists of ten coaches, having a total power output of 2400 kilowatts.\n\n* The train is equipped with two driving power cars, each generating 1200 kW, and is supported by eight passenger coaches.\n\n* It produces only water vapour as exhaust, making it a completely zero-carbon dioxide emission system.",
+      "source_name": "India TV News",
+      "source_country": null,
+      "source_url": "https://www.indiatvnews.com/business/news/atmanirbhar-bharat-indian-railways-first-hydrogen-train-ready-for-trials-all-you-need-to-know-2025-12-11-1021285",
+      "published_date": "2025-12-11T10:54:35Z",
+      "language": "eng",
+      "image_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/12/ashwinivaishnavpti-1765449361.jpg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.8,
+      "sentiment_label": "positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 27,
+      "article_uri": "8995147563",
+      "event_id": 9,
+      "title": "China's Hydrogen Industry - Opportunities for Foreign Investors",
+      "body": "China's hydrogen industry is poised for major growth as the country intensifies the development of infrastructure and promotes end-use applications as a low-carbon fuel. In its current form, however, the industry is still heavily reliant on fossil fuels, and the green hydrogen segment is still in its infancy. These realities present both exciting opportunities for early investments and intrinsic early-mover risks, as infrastructure and value chains remain immature and future demand growth is uncertain. Foreign investors can seek to capitalize on the country's bet on the emerging fuel source by selecting strategic and limited entry points and exploring the scope of possibilities.\n\nChina is doubling down on its bet on hydrogen as a potentially revolutionary clean energy source. Viewed as a means of diversifying the country's energy mix and bolstering energy security, the clean-burning fuel may also prove key to decarbonizing hard-to-abate sectors such as transportation, steel, and chemicals. But as in the rest of the world, current production and utilization of hydrogen remain closely tied to the petrochemicals and coal industries. Most hydrogen is currently produced from fossil fuels, and its use is still concentrated in refinery, petrochemicals, and other energy-intensive industrial processes.\n\nChina's green hydrogen industry is still in its infancy, both in terms of large-scale production and diversified end-use applications. Due to its significant potential as a low-carbon energy source, the sector nonetheless enjoys strong government attention and support. It has been outlined as one of six \"future industries\" (along with nuclear fusion energy) of focus for the 15th Five-Year Plan period (2026 to 2030). This creates meaningful potential for future technological development, expanded adoption, and access to government incentives as the sector grows.\n\nAgainst this backdrop, opportunities for foreign investment emerge across multiple segments of the hydrogen value chain. Potential entry points range from production technologies and equipment to storage and transport solutions, to downstream applications in transportation, industrial heating, and chemical processing. These openings reflect both the scale of China's future hydrogen ambitions and the ongoing need for advanced technologies, high-quality equipment, and operational expertise as the industry evolves.\n\nChina is the world's leading producer of hydrogen. In 2024, total hydrogen output grew 3.5 percent year-on-year to 36.5 million metric tons, according to the National Energy Administration (NEA), accounting for over a third of global production.\n\nAs is the case worldwide, China's hydrogen production is primarily based on the coal and petrochemical industries. The majority of hydrogen in China is the so-called \"black\" or \"brown\" hydrogen, which comes from coal, a high-emitting source most commonly produced through the process of gasification. According to the NEA, around 56 percent of China's total hydrogen production came from coal and 21 percent from natural gas. A further 21 percent was produced as an industry by-product (usually from the petrochemical industry). Only around 1 percent was produced through electrolysis, the process of using electricity to split water into oxygen and hydrogen, which, if produced using renewable energy sources, is the cleanest form of hydrogen.\n\nThis proportion aligns with global production trends. According to the International Energy Agency (IEA), less than 1 percent of global hydrogen production in 2024 came from low-emissions sources.\n\nHydrogen production in China is primarily concentrated in the north and northwest, with the provinces of Shandong, Inner Mongolia, Shaanxi, Ningxia, and Shanxi together accounting for 45 percent of total output in 2024.\n\nAccording to NEA data, in 2024, over half of China's hydrogen - a combined 53 percent - was used in the methanol and ammonia synthesis industries, while the refinery industry consumed 16 percent and the coal chemical industry 11 percent. The remaining 20 percent was utilized in industries such as transportation, heating, and metallurgy.\n\nAs with production, hydrogen consumption is mainly concentrated in traditional heavy industrial provinces such as Shandong, Inner Mongolia, Shaanxi, Ningxia, and Shanxi.\n\nWhile green hydrogen accounts for just a small proportion of China's overall hydrogen production, the country is expanding output capacity, in particular in areas with rich renewable energy resources.\n\nAccording to the NEA, there were over 600 planned renewable energy hydrogen electrolysis projects at the end of 2024, of which 94 had been completed, and a further 83 were under construction. The current output of the completed green hydrogen projects at the end of 2024 was 125,000 tonnes per year. Northern and northwestern China account for around 45 percent and 44 percent of this capacity, respectively, driven by these regions' strong traditional industrial bases and rich renewable resources.\n\n2024 alone saw the completion of 35 new green hydrogen products with a combined output capacity of 48,000 tonnes per year. This was an increase of 62 percent in newly added capacity from the previous year. The main downstream uses of this green hydrogen were transport, oil refinery, and ammonia and methanol synthesis, as well as metallurgy, heating, power generation, energy storage, and scientific research.\n\nChina's total green hydrogen capacity may see yet another increase in 2025, with the government actively funding a number of green hydrogen demonstration projects. In April 2025, the National Development and Reform Commission (NDRC) included nine green hydrogen projects in a list of advanced green and low-carbon technology demonstration projects, which will receive government investment. The projects, which cover the production, storage, and transmission of green hydrogen, among other processes, are primarily located in Inner Mongolia, Ningxia, Jiangsu, Tianjin, and Xinjiang.\n\nAccording to a recent report from the Centre for Research on Energy and Clean Air (CREA), the combined capacity of the electrolyzers of these nine projects is 5.9GW - seven times the capacity of the green hydrogen projects included on the 2024 list.\n\nAs in the rest of the world, China's hydrogen fuel cell vehicle (FCV) industry is still in its infancy. According to data from the China Association of Automobile Manufacturers (CAAM) cited by the media, between 2015 and 2024, a total of 24,042 FCVs had been produced in China and 23,501 sold. In 2024, only 5,548 FCVs were manufactured, a year-on-year decline of 10.4 percent. FCV sales were similarly low, with just 5,405 sold, falling 12.6 percent from 2023.\n\nThe industry appears to have fared no better in 2025; CAAM data shows that in the first six months of the year, only 1,364 hydrogen FCVs were produced, a drop of 47.2 percent year-on-year, and only 1,373 were sold, down 46.8 percent year-on-year.\n\nAs the data shows, the industry has not taken off as quickly as hoped. A key hydrogen development plan released by the National Development and Reform Commission (NDRC) in 2022 targeted for China to have a fleet of around 50,000 hydrogen FCVs by 2025 - a figure it appears unlikely to reach. The slow uptake is due in part to the limited production and supportive infrastructure, such as refueling stations, which hamper widespread production and adoption. According to the NEA, there were around 540 hydrogen refueling stations at the end of 2024.\n\nThe NEA nonetheless notes key technological breakthroughs in the deployment of hydrogen and hydrogen-derived fuels for transport in recent years. These include a long-haul hydrogen-powered logistics trial on the Beijing-Shanghai expressway, the rollout of a 2,400-kW hydrogen-powered train, and the first flight of a prototype light hydrogen-combustion aircraft. Progress has also extended to maritime applications, with the methanol-fueled vessel Guoneng Yangtze 01 entering commercial operations, a 5,500-horsepower ammonia-fueled tugboat completing marine ammonia bunkering, and a large methanol-powered container ship carrying out ship-to-ship refueling.\n\nIn 2022, the NDRC released the Medium- and Long-Term Development Plan for the Hydrogen Energy Industry (2021-2035) (the \"2021 to 2030 Development Plan), which sets targets and provides policy guidance for the industry's development.\n\nThis plan called hydrogen energy \"an important component of the future national energy system\" and a \"crucial conveyor for achieving the green and low-carbon transition in energy end uses\", underscoring how the government views the technology as an important tool for both national energy security and decarbonization.\n\nOver the past few years, the Chinese government has elevated the hydrogen industry as one of the \"future industries\" with significant potential for expansion and application. The 14th Five-Year Plan (the national development plan for the period from 2021 to 2025) called for the government to \"organize and implement future industry incubation and acceleration programs, and plan and deploy a number of future industries\", which included hydrogen energy and energy storage.\n\nThe sector was also mentioned in the proposals for the 15th Five-Year Plan, released at the end of October 2025, which acts as the blueprint for the finalized plan, which will be implemented in 2026. It specifically calls for \"proactively planning for future industries, exploring a variety of technological routes, typical application scenarios, feasible business models, and market regulatory rules to promote [...] hydrogen energy\", among other emerging sectors, and to \"innovate regulatory methods, develop venture capital, and establish mechanisms for increasing investment and sharing risks in [these] future industries\".\n\nThe 2021 to 2030 Development Plan sets a series of five-, 10-, and 15-year goals for the development of hydrogen production and adoption. However, it only sets numerical targets for 2025, namely:\n\nBy 2030, China will strive to have formed \"a relatively complete hydrogen energy industry technology innovation system and clean energy hydrogen production and supply system, with a rational and orderly industrial layout. Renewable energy hydrogen production will be widely applied, strongly supporting the achievement of the [2030] carbon peak target\".\n\nBy 2035, \"a hydrogen energy industry system will be formed\", supporting a diversified hydrogen energy application ecosystem that covers transportation, energy storage, and industry. Additionally, the proportion of hydrogen from renewable energy sources in final energy consumption will have \"increased significantly\" and will play \"an important supporting role in the green transformation and development of energy\".\n\nAt the end of 2024, the Ministry of Industry and Information Technology (MIIT) released the Implementation Plan for Accelerating the Application of Clean and Low-Carbon Hydrogen in Industrial Sectors (the \"Green Hydrogen Implementation Plan\"), which builds on the 2021 to 2030 Development Plan to set more granular targets and policy outlines for the production and utilization of green hydrogen.\n\nThe Green Hydrogen Implementation Plan's core aim is to achieve significant progress in \"supporting equipment and promoting technologies for clean and low-carbon hydrogen applications in the industrial sector\" by the year 2027. It highlights key industries for application, including metallurgy, synthetic ammonia, synthetic methanol, and oil refinery. It also calls for deploying demonstration applications in fields such as industrial green microgrids, shipping, aviation, and rail transportation, and to create commercial application models for hydrogen energy in transportation, power generation, and energy storage.\n\nFor foreign investors, China's hydrogen sector offers a combination of challenges and opportunities. While it is a nascent industry with considerable room for growth, many viable applications and benefits of the technology have already been proven across multiple fields. The sector also has strong policy backing and an expectation of rising demand as technologies mature and costs decline. At the same time, early movers face clear risks, from underdeveloped infrastructure and evolving standards to potential setbacks associated with the commercialization of emerging technologies.\n\nDespite these challenges, the outlook of China's hydrogen industry is compelling, and the Chinese government continues to spotlight a number of hydrogen-related segments as priority areas for development. Additionally, the 2022 edition of the Catalogue of Encouraged Industries for Foreign Investment (the \"2022 FI Encouraged Catalogue\") includes several fields related to hydrogen energy, including FCVs, equipment manufacturing, and technology R&D.\n\nEquipment manufacturing remains a strong area of opportunity for foreign investors, particularly as China works to build out the full hydrogen value chain. The 2022 FI Encouraged Catalogue includes green hydrogen production technologies, such as hydrogen from chemical by-products, biological hydrogen production, and renewable-energy-based electrolysis, as well as hydrogen storage, transportation, and liquefaction. This reflects broad openness to foreign firms engaged in the core technologies required to produce and handle hydrogen at scale.\n\nForeign companies with advanced manufacturing expertise and proprietary technologies can find demand across multiple equipment categories. These include electrolyzers, membrane and catalyst materials, compressors, high-pressure storage systems, liquid hydrogen equipment, and purification and transport systems.\n\nIn addition, opportunities exist in upstream technology development. As China seeks to expand green hydrogen production and improve the performance of production and storage systems, companies offering innovations in electrolysis efficiency, materials science, and modular system design are well-positioned to collaborate with local partners or establish localized manufacturing. For foreign investors, this segment offers a pathway to participate in China's emerging hydrogen ecosystem while contributing high-value technologies and capabilities.\n\nOne tangible opportunity for foreign investors in the hydrogen industry is the development of hydrogen FCVs. Although the industry has faced setbacks in recent years, continuous policy support means there is still a strong possibility for the market's future growth.\n\nChina has identified hydrogen-powered transportation as a strategic growth area, offering both policy support and a clear roadmap for industry development. The 2022 FI Encouraged Catalogue explicitly includes several activities related to FCVs. These include the design and R&D of hydrogen fuel cell power systems, the construction and operation of hydrogen refueling stations, and the development, manufacturing, and operation of new energy storage equipment, including hydrogen storage.\n\nPolicy directives outlined in the Green Hydrogen Implementation Plan further reinforce these opportunities. The plan emphasizes technological innovation in fuel cells and hydrogen storage, encouraging the development of high-power, efficient, and long-life fuel cells, high-efficiency hydrogen or ammonia internal combustion engines, and high-pressure, high-density onboard hydrogen storage systems.\n\nDemonstration projects are also being encouraged to integrate renewable hydrogen and high-quality industrial by-product hydrogen, supporting distributed hydrogen production and refueling stations. Simultaneously, the scale-up of FCV use in industrial clusters, such as industrial parks, logistics hubs, ports, and mines, is a priority, creating opportunities for foreign companies to supply vehicles, refueling infrastructure, fleet management systems, and operational expertise. The government also supports the creation of \"district-to-district\" hydrogen energy logistics corridors and city clusters for fuel cell vehicle demonstrations, while initiatives such as \"Hydrogen for All\" promote applications across highways, ports, industrial zones, and commercial equipment, further opening avenues for technology deployment and commercialization.\n\nInvestors should nonetheless be aware of the risks associated with entering an immature industry. China's hydrogen FCV industry has stagnated, despite government support for pilot projects. The sector continues to suffer from high costs for fuel cells and refueling stations, the limited number and inconvenient locations of refueling stations, and the high price of hydrogen due to limited supply.\n\nFor this reason, foreign investors should approach the market with caution, prioritizing cost reduction strategies, such as utilizing lower-cost black or brown hydrogen in the short term and focusing initially on applications that may be easier to commercialize, such as trucks and freight transport, rather than passenger vehicles. Investors may also look at the construction and operation of hydrogen fueling stations, as well as R&D and manufacturing of hydrogen FCV components such as hydrogen circulation pumps, hydrogen ejectors, 70MPa hydrogen cylinders, and vehicle-mounted hydrogen concentration sensors, all of which are listed in the 2022 FI Encouraged Catalog.\n\nAt the same time, policy incentives will remain critical to industry growth, making it essential for investors to closely monitor evolving government support and align market entry or expansion plans accordingly.\n\nChina is placing strong emphasis on replacing fossil-fuel-based hydrogen with cleaner alternatives across its industrial system, creating a range of opportunities for foreign technology providers and project developers.\n\nThe Green Hydrogen Implementation Plan promotes several areas for development in this field. First, major energy- and materials-intensive sectors, such as refining, petrochemicals, coal chemicals, non-ferrous metals, semiconductors, and pharmaceuticals, are being encouraged to substitute conventional fossil-derived hydrogen with clean or low-carbon hydrogen. This shift is expected to generate demand for advanced electrolysis technologies, hydrogen purification systems, and equipment that can be integrated into existing production lines.\n\nSecond, authorities are prioritizing the development of low-cost renewable-energy-based hydrogen production. This includes advancing \"solar + storage\" solutions, promoting integrated \"hydrogen production + hydrogen use\" projects in regions rich in wind and solar resources, and supporting off-grid or weak-grid hydrogen production models. These initiatives open space for foreign firms with expertise in renewable integration, energy storage, and high-efficiency power electronics.\n\nThe plan also highlights frontier areas such as coupling industrial waste heat with high-temperature electrolysis and leveraging offshore wind for hydrogen production. In addition, China is encouraging the scaled-up purification of industrial by-product hydrogen and the installation of carbon capture, utilization, and storage (CCUS) systems at fossil-based hydrogen facilities, creating further opportunities for specialized equipment and engineering services.\n\nChina's hydrogen industry presents a complex but promising landscape for foreign investors. On the demand side, hydrogen's potential role in decarbonizing hard-to-abate sectors positions it as a strategic future energy source with significant long-term growth prospects. This potential is further reinforced by strong government backing, with hydrogen repeatedly identified as a priority emerging industry and a focus of national development planning. These factors create a potentially favorable environment for foreign participation across multiple segments of the value chain.\n\nAt the same time, the industry's immaturity poses inherent risks. Production, infrastructure, and end-use applications are still developing, and recent years have shown that market growth can be slower and more uneven than expected. For this reason, investors should adopt a cautious and selective approach, targeting segments where early commercial opportunities exist, limiting exposure in areas facing high uncertainty, and aligning closely with evolving policy incentives.",
+      "source_name": "China Briefing | The Practical Application of China Business",
+      "source_country": null,
+      "source_url": "https://www.china-briefing.com/news/chinas-hydrogen-industry-opportunities-foreign-investment/",
+      "published_date": "2025-12-10T18:01:32Z",
+      "language": "eng",
+      "image_url": "https://www.china-briefing.com/news/wp-content/uploads/2025/12/Investing-in-Chinas-Hydrogen-Industry.jpg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "article_type": null
+    },
+    {
+      "id": 30,
+      "article_uri": "8994581723",
+      "event_id": 9,
+      "title": "The Role of Blue Hydrogen in Refinery Decarbonization Strategies",
+      "body": "Sponsored by TopsoeReviewed by Andrea SalazarDec 10 2025\n\nMultiple transformation drivers are pushing the global energy sector toward a more decarbonized future, including shifting societal expectations, an evolving regulatory landscape needed to meet Paris Agreement goals, and the widespread adoption of local and international decarbonization targets.\n\nImage Credit: FOTOGRIN/Shutterstock.com\n\nScope 1 and 2 emissions from oil and gas refineries account for approximately 15 % of total global energy-related greenhouse gas (GHG) emissions.1 The emissions intensity of these activities must drop by 50 % by the end of the decade to accommodate the IEA's Net Zero Emissions by 2050 Scenario.\n\nThe industry already has access to a range of decarbonization steps to reach this number, including addressing methane emissions, the cessation of all non-essential flaring, and the introduction of low-carbon hydrogen into their operations, supported by carbon capture and storage (CCS) technologies.\n\nTraditional refining processes use fossil fuels to produce hydrogen, contributing to greenhouse gas emissions. The integration of blue (and green) hydrogen production enables refineries to significantly reduce their carbon footprint, aligning better with increasingly stringent environmental regulations while helping to meet ambitious decarbonization targets. This approach is also crucial for refineries to maintain their licenses, enabling them to continue operating in a sustainable future.\n\nThe Growing Business of Blue Hydrogen\n\nHydrogen plays a range of key roles in refineries, including the hydrocracking and hydrotreating process. Hydrocracking maximizes the yield of transportation fuels from crude oil by breaking down heavy oil into lighter, more valuable products, such as gasoline, jet fuel, and diesel. Hydrotreating, on the other hand, removes sulfur from crude oil fractions and helps produce cleaner fuels that better meet environmental regulations.\n\nProducing hydrogen via low-carbon methods ensures that the hydrogen used in these processes reduces emissions and meets the requirements of current emission protocols. This approach can also help refineries meet future compliance standards, ensuring continued market access and pre-emptively avoiding potential penalties.\n\nGovernments are implementing more incentives, such as tax credits, grants, and subsidies, designed to promote the use of low-carbon and clean energy, including hydrogen. Compliance with these regulations can, therefore, result in financial benefits.\n\nLeveraging Excess Hydrogen as a Revenue Stream\n\nBlue and clean hydrogen demand is expected to skyrocket by 2050, meaning that refineries producing more blue hydrogen than required on-site can take advantage of new business opportunities and potential revenue streams beyond decarbonization benefits for refinery operations.\n\nAlmost all hydrogen currently used globally is grey hydrogen, representing an annual consumption of around 90 million tons (Mtpa). The demand for blue and green hydrogen is expected to rise significantly by 2050, with substantial growth anticipated.\n\nThis could see blue and green hydrogen comprising 73 % to 100 % of the total hydrogen market, with projected usage between 125 and 585 Mtpa (the latter figure corresponding to the Net Zero scenario).2\n\nNew revenue streams and business models are possible via the transition to a surplus hydrogen refinery operation. For example, hydrogen can be employed as a fuel, feedstock, or energy carrier, enabling the straightforward diversification of a refinery's product portfolio.\n\nRefineries can also capitalize on hydrogen's role in the global transportation, industry, and energy sectors as demand for low-carbon energy sources continues to grow.\n\nUses of Excess Blue Hydrogen\n\nThe geographic advantages of regions such as the Middle East and the US make them well-positioned to produce blue hydrogen, particularly due to their capabilities in low-cost natural gas and carbon capture and underground sequestration (CCUS). In contrast, regions such as Europe and Asia are expected to become major net importers of blue hydrogen as they strive to decarbonize their economies.\n\nHydrogen can be converted into ammonia via Haber-Bosch synthesis, enabling its efficient transportation. Ammonia benefits from higher energy density, is carbon-free, and can be reconverted to hydrogen at the destination via the industrially proven ammonia cracking process.\n\nIt is also possible to centralize ammonia cracking on a mega-scale, with the hydrogen then transported to the end-user via hydrogen pipeline systems, such as those planned in Europe.\n\nAmmonia cracking can also be decentralized, large-scale, and co-located with large hydrogen off-takers. This can be potentially achieved through local hydrogen grids. Ammonia cracking can also be small-scale and decentralized, for example, at hydrogen filling stations.\n\nHydrogen's potential to be traded and transported as ammonia enables distribution to new markets, offering refineries a potential opportunity for both decarbonization and new, profitable revenue streams. This flexibility is positioning hydrogen as a central element of the evolving energy landscape.\n\nS&P Global Commodity Insights reports that the global market for ammonia is anticipated to increase three-fold over the coming decades, with almost all of the growth derived from blue ammonia.3\n\nUsing Ammonia as a Maritime Fuel\n\nThe decarbonization of industries such as maritime shipping represents another potential growth market for ammonia. This sector alone is responsible for almost 940 million tons of CO2 emissions per year, accounting for close to 3 % of the world's energy-related CO2 output. These figures highlight the urgent need for a sustainable fuel alternative in this field.\n\nThe maritime industry is currently developing ammonia-powered engines, with a clear plan to begin implementing this technology by 2026. Ammonia has been highlighted as the most viable marine fuel option, both in terms of the transition to more sustainable shipping practices and as a long-term and scalable solution.\n\nAs ammonia is extensively transported across the globe via trains, trucks, ships, and pipelines, infrastructure already exists. There are also advantages associated with the availability of existing infrastructure, with 120 ports worldwide fitted with ammonia terminals and many of these ports boasting their own storage facilities.\n\nThis established network offers a strong base for ensuring that ammonia fuel is available to ships opting to adopt this.\n\nOpportunities Offered by Methanol\n\nThe production of low-carbon methanol represents another opportunity in hydrogen derivatives. Methanol is a multipurpose fuel that can be derived by combining hydrogen with carbon dioxide. It has a wide range of applications, from its role as a standalone fuel to its use in fuel cells and fuel blends.\n\nThe methanol market is projected to grow from 99.03 million tons in 2024 to as much as 118.81 million tons by 2029, with a CAGR of over 3.5 %. It is possible to produce methanol from waste materials and natural resources, or through a combination of low-carbon or renewable hydrogen and recycled CO2. This approach yields lower greenhouse gas emissions compared to the production of methanol from fossil fuels.\n\nThe Adoption of Low-Carbon Hydrogen\n\nThe adoptation of blue hydrogen is a strategic business opportunity and a significant environmental benefit. Integrating blue and green hydrogen refineries' operations allows them to considerably reduce their carbon emissions to better align with tightening regulations.\n\nThe ability to produce excess hydrogen also opens new revenue streams, especially as demand for low-carbon energy sources, including methanol and ammonia, continues to increase globally. This transition is key to both refineries' decarbonization and their capacity to diversify and thrive in the continually evolving energy sector.\n\nReferences and Further Reading IEA (2023). Emissions from Oil and Gas Operations in Net Zero Transitions - Analysis. (online) IEA. Available at: https://www.iea.org/reports/emissions-from-oil-and-gas-operations-in-net-zero-transitions. McKinsey & Company (2024). Global Energy Perspective 2023: Hydrogen outlook. (online) McKinsey & Company. Available at: https://www.mckinsey.com/industries/oil-and-gas/our-insights/global-energy-perspective-2023-hydrogen-outlook. News Release Archive. (2023). Ammonia Market to Triple by 2050 with Nearly All Growth Coming from Low-Carbon Supply. (online) Available at: https://press.spglobal.com/2023-07-11-Ammonia-Market-to-Triple-by-2050-with-Nearly-All-Growth-Coming-from-Low-Carbon-Supply. Acknowledgments\n\nProduced from materials originally authored by Topsoe.\n\nThis information has been sourced, reviewed and adapted from materials provided by Topsoe.\n\nFor more information on this source, please visit Topsoe.",
+      "source_name": "AZoCleantech.com",
+      "source_country": null,
+      "source_url": "https://www.azocleantech.com/article.aspx?ArticleID=2056",
+      "published_date": "2025-12-10T11:16:35Z",
+      "language": "eng",
+      "image_url": "https://www.azocleantech.com/images/Article_Images/ImageForArticle_2056_17645907949478068.jpg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.65,
+      "sentiment_label": "slightly_positive",
+      "article_type": "analysis"
+    },
+    {
+      "id": 35,
+      "article_uri": "2025-12-918561166",
+      "event_id": 9,
+      "title": "India's Hydrogen Train Project Advances As Railways Completes Manufacturing Of First Pilot Train-Set",
+      "body": "Bookmark stories for easy access on any device or the Swarajya app.\n\nThe progress of India's hydrogen train project has reached a key milestone with the manufacturing of the first hydrogen-powered train-set now completed, the government informed the Lok Sabha on Wednesday (10 December).\n\nThe pilot project is being developed to demonstrate hydrogen power technology for future rail operations.\n\nIn a written reply to a question in the Lok Sabha, Railway Minister Ashwini Vaishnaw said Indian Railways has taken up the project on a pilot basis as per specifications framed by the Research, Design and Standards Organisation.\n\nThe initiative aims to showcase the use of hydrogen as a clean fuel in the railway sector.\n\nTo support the operation of the hydrogen train, a dedicated hydrogen production plant has been conceived at Jind.\n\nHydrogen at this facility is being produced through the electrolysis process, which is a core method of green hydrogen generation. The infrastructure is being developed specifically for this pilot train-set.\n\n\"Indian Railways has taken up a state-of-the-art project for running of its first hydrogen train, on pilot basis, as per specifications framed by the Research, Design & Standards Organization (RDSO) to demonstrate the use of hydrogen powered train technology in Railways,\" Vaishnaw said.\n\n\"Manufacturing of Hydrogen Train-set has been completed. For providing hydrogen for use in this train-set, a hydrogen plant has been conceived at Jind. In this plant, hydrogen is being produced using electrolysis process which is key element of green hydrogen generation,\" he added.\n\nAccording to the minister, the prominent features of the hydrogen train-set are:\n\n- It has been designed and developed in India under the Atmanirbhar Bharat initiative.\n\n- At present, it is the world's longest and most powerful hydrogen train-set on the Broad Gauge platform, consisting of ten coaches with a total power output of 2400 kilowatt.\n\n- The train includes two Driving Power Cars of 1200 kilowatt each, along with eight passenger coaches.\n\n- Its only emission is water vapour, making it a zero carbon dioxide emission system.\n\n\"This project involved designing from first stages, prototype manufacturing and first-time development of hydrogen traction technology in Indian Railways,\" the minister said.\n\nVaishnaw said that the project establishes the commitment of Indian Railways towards advancements in alternative energy-powered train travel thereby ensuring a cleaner and greener future for the country's transportation sector.",
+      "source_name": "Swarajyamag",
+      "source_country": null,
+      "source_url": "https://swarajyamag.com/infrastructure/indias-hydrogen-train-project-advances-as-railways-completes-manufacturing-of-first-pilot-train-set",
+      "published_date": "2025-12-10T10:45:38Z",
+      "language": "eng",
+      "image_url": "https://swarajya.gumlet.io/swarajya/2025-12-10/190b6czq/Hydrogen-train.png?w=600&h=315&format=jpg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.8,
+      "sentiment_label": "positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 26,
+      "article_uri": "8993476151",
+      "event_id": 9,
+      "title": "Earth's crust hides enough 'gold' hydrogen to power the world for tens of thousands of years, emerging research suggests",
+      "body": "Scientists long thought that hydrogen didn't accumulate underground, but discoveries over the past 15 years have toppled that theory. (Image credit: Marilyn Perkins)\n\nIn 1987, a worker lit a cigarette by a new water well near the village of Bourakebougou in Mali.\n\nBut as he did, an explosion reverberated inside the well. We now know this was due to previously undetected clouds of flammable hydrogen wafting from a gas reservoir beneath the hole.\n\nThe well was plugged and temporarily abandoned. Then, in 2011, the oil and gas company Petroma (which later became Hydroma) uncemented it to examine whether they could extract hydrogen for profit. By 2012, the company had developed the well to make electricity for Bourakebougou, and the village still relies on this hydrogen for power today.\n\nBourakebougou's well is the world's first and only productive hydrogen well. Mixed with oxygen in fuel cells, hydrogen -- the smallest and simplest molecule in existence -- can generate electricity without greenhouse gas emissions and with only heat and water as byproducts. This makes hydrogen a clean source of energy, and demand for it is expected to rise fivefold by 2050 to produce microelectronics, supply industry, and power vehicles and buildings.\n\nHydrogen is lighter than air and very reactive, so scientists long thought it didn't accumulate inside Earth's crust in the same way fossil fuels do. But the discovery in Bourakebougou, along with more recent finds, has completely shifted this paradigm.\n\nResource exploration companies are now rushing to find reservoirs of natural hydrogen, also known as \"gold\" hydrogen. To help them, scientists have identified the key \"ingredients\" needed to form such accumulations. And thanks to this knowledge, techniques to boost or mimic natural hydrogen generation that were once considered impracticable are gaining traction, experts told Live Science.\n\n\"We just keep finding more and more the more we start looking for it,\" Geoffrey Ellis, a petroleum geochemist with the U.S. Geological Survey, told Live Science.\n\nHydrogen is a source of energy, but it is also a critical component of fertilizer, refined oil and rocket fuel. Industry produces almost all of its hydrogen by heating natural gas with steam to form a mixture of hydrogen and carbon monoxide from which hydrogen can be extracted.\n\nThis method makes \"gray\" hydrogen, and it pumps about 1 billion tons (920 million metric tons) of carbon dioxide into the atmosphere every year -- equivalent to 2.4% of global annual emissions. In theory, renewable energies can replace natural gas to generate \"green\" hydrogen, while \"blue\" hydrogen is made from fossil fuels but with carbon capture, meaning carbon doesn't enter the atmosphere. But these collectively make up a tiny fraction of hydrogen production worldwide.\n\n\"Hydrogen is a clean source of energy, but how you get your hydrogen is critical,\" Chris Ballentine, a professor of geochemistry at the University of Oxford, told Live Science.\n\nHowever, a new source of hydrogen could slash the industry's carbon footprint, as it turns out that huge quantities of hydrogen can accumulate belowground. Scientists have long known that rocks in Earth's crust produce hydrogen, but experts previously concluded that the gas couldn't collect in reservoirs because only tiny concentrations of it were being found in oil and gas wells.\n\nThe discovery in Mali toppled that theory. Researchers realized that the places where companies drill for oil and gas are not the best places to find hydrogen.\n\nThe Mali discovery has kicked off a worldwide hunt for hydrogen reservoirs. But before geologists initiate costly exploration projects, they need a sense of just how much hydrogen might be lurking underground.\n\nNew estimates suggest it's a staggering amount. Earth's continental crust has produced enough hydrogen over the past 1 billion years to meet society's current energy needs for 170,000 years, a recent review by Ballentine and his colleagues found. Though much of this hydrogen has escaped into the atmosphere, the figure is \"a starting point for realizing that the hydrogen generation in the crust is significant,\" Ballentine said.\n\nOther estimates double the figure in the Ballentine paper. Ophiolites are chunks of oceanic crust that have been thrust onto the continental crust, and some estimates suggest these ocean-crust remnants may produce as much hydrogen as the continental crust does, Ballentine said.\n\nBut how much of this hydrogen is left in Earth's crust? In 2024, Ellis and his colleagues calculated that the planet holds 6.2 trillion tons (5.6 trillion metric tons) of hydrogen, or about 26 times the amount of oil known to be left in the ground. Where these hydrogen stocks are located is largely unknown. Most are likely too deep or too far offshore to be accessed, and some reservoirs might be too small to be worth extracting -- but the researchers emphasized that just 2% of the total hydrogen could supplant our current fossil fuels for 200 years.\n\n\"The potential that's down there is quite, quite large,\" Ellis said. What's more, natural hydrogen, unlike the type made via industrial processes, comes with built-in storage because it sits in Earth's crust. It also has a much smaller carbon footprint than manufactured hydrogen, with emissions coming only from extraction, Ellis said.\n\nIn January 2025, Ellis and his colleagues published a map showing where hydrogen reservoirs might exist in the lower 48 U.S. states. The researchers used gravity and magnetic signal data to estimate the composition of rocks throughout Earth's crust and determine where hydrogen may have migrated underground.\n\n\"This was the first time that anyone had attempted to do this type of mapping exercise,\" Ellis said.\n\nThe researchers estimated the likelihood of productive hydrogen reservoirs, known as prospectivity, based on six geological requirements that make and trap hydrogen in Earth's crust. On the map, prospectivity ranges from 0 to 1, with 0 meaning there is likely no hydrogen and 1 indicating hydrogen is very likely present.\n\nTo form a hydrogen reservoir, the first and second requirements are that a region must have abundant groundwater and hydrogen-producing rocks. The water requirement limits hydrogen production to the top 10 miles (16 kilometers) of the crust, Oliver Warr, an assistant professor of geochemistry at the University of Ottawa, told Live Science.\n\nThe best hydrogen-producing rocks are iron-rich rocks, which generate hydrogen through \"hydration reactions,\" where water reacts with the rocks. Other good sources of hydrogen are uranium- and thorium-rich rocks, which produce alpha particles as the radioactive elements decay. These alpha particles can then split water into oxygen and hydrogen -- a process known as radiolysis, Warr said.\n\nIron-rich rocks include basalt and gabbro. Earth's mantle, the layer beneath the crust, heats groundwater, producing steam that reacts with iron and generates hydrogen. Uranium- and thorium-rich rocks include granites, and these can trigger the radiolysis of water.\n\nThe third requirement is that the source rocks be very, very hot -- between 480 and 570 degrees Fahrenheit (250 to 300 degrees Celsius), which guarantees rapid rates of reaction, Ellis said.\n\nFourth, the region must have reservoir rocks that can hold the hydrogen after it is produced and migrates through the crust. Reservoir rocks are typically porous sandstones, but other types of rock can also work if they are highly fragmented, Ellis said.\n\nThe fifth criterion to form a hydrogen reservoir is an impermeable \"seal\" to trap the gas inside the reservoir. \"A thing like a shale, or maybe a salt, would be really ideal to be sitting on top of that porous rock,\" Ellis said. Crucially, the seal must exist when the hydrogen is produced, or else the gas escapes into the atmosphere, he said.\n\nThe sixth and final condition is that there must be minimal microbial activity where hydrogen is generated and accumulates, because microbes consume hydrogen, Warr said.\n\nThese six conditions, or ingredients, occur across all continents, Ballentine said. Currently, hydrogen companies are drilling exploratory wells mostly on the Midcontinent Rift -- where North America started, but ultimately failed, to split apart 1 billion years ago -- which is abundant in iron-rich rocks.\n\nResearchers are also investigating hydrogen deposits in Oman, where there are ophiolites. University of Colorado geologists are running a pilot project in the country to test the feasibility of \"stimulated hydrogen\" production, Ellis said.\n\nStimulated hydrogen production takes inspiration from what scientists have learned about the geology that makes and accumulates hydrogen. It involves injecting water into Earth's crust to kick-start either hydration reactions or radiolysis.\n\nOne year ago, people in the hydrogen industry were skeptical that stimulated hydrogen production would ever materialize, Ellis said. But now, \"I've seen a big shift,\" he said.\n\nIf we can find natural hydrogen and extract it, the gas could reduce emissions across a wide range of sectors. For example, abundant hydrogen is found in mines, because this is where humans drill deepest into the crust, so the gas could power mining operations, Warr said.\n\nNatural hydrogen could also slash emissions from industries such as fertilizer manufacturing. \"If we can replace hydrogen generated from hydrocarbons with clean hydrogen, then we can very rapidly make a massive difference,\" Ballentine said.\n\nNatural hydrogen won't solve the climate crisis, but it can mitigate some of the risks. \"It needs to be one of many strategies,\" Warr said. \"We just need to understand the true potential and how it can best be capitalized on.\"\n\nSome of the key considerations for companies are whether the benefits of developing natural hydrogen reservoirs when we find them would justify the cost of building production plants on-site, or shipping the gas to the industries that need it.\n\n\"If you're remote and you find a really big gas field, it still may not be worthwhile producing it, because the costs of getting hydrogen to market are too great,\" Ballentine said. \"There's a trade-off.\"\n\nBut overall, experts are optimistic. \"There have been, I think, over a dozen wells that have been drilled now in the U.S.,\" Ellis said. \"They've found a lot of hydrogen.\"",
+      "source_name": "livescience.com",
+      "source_country": null,
+      "source_url": "https://www.livescience.com/planet-earth/geology/earths-crust-hides-enough-gold-hydrogen-to-power-the-world-for-tens-of-thousands-of-years-emerging-research-suggests",
+      "published_date": "2025-12-09T20:04:21Z",
+      "language": "eng",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vntC2cepKDJD3nuaJmErQo-1200-80.png",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.75,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 36,
+      "article_uri": "2025-12-917348986",
+      "event_id": 9,
+      "title": "Nikkiso contracted to limit boil-off at California hydrogen bus station",
+      "body": "Nikkiso CE&IG will supply liquid hydrogen equipment for a refuelling station in California that is set to support a local bus fleet.\n\nClean Energy Fuels Corp contracted Nikkiso to supply the required pumps and vaporisers, design components, a boil-off gas compressor, and a liquid hydrogen offload pump designed to mitigate boil-off gas.\n\nWhile liquid hydrogen could reduce hydrogen station delivery costs, high boil-off rates can undermine economics. A Taylor Wharton representative previously warned that boil-off losses ranging from 10% to 50% threaten hydrogen's commercial case.\n\nHowever, Mike Mackey, President of Fuelling Solutions at Nikkiso CE&IG, insisted the company is \"one of the first and few with the cryogenics expertise to manage the volume of liquid hydrogen needed to power full fleets of buses.\"\n\nNikkiso also announced it would build a hydrogen trailer and fuelling station for West Air in Long Beach, designed to reduce boil-off gas losses, earlier this year.\n\nTo develop the facility, Riverside Transit Agency (RTA) contracted Clean Energy. The site is expected to be operational in 2026.\n\nHydrogen will be provided to RTA's new fleet of 40 hydrogen-powered fuel cell buses. The transport operator plans to grow its hydrogen fleet to more than 100 vehicles over the next 10 years.\n\nBoil-off losses are a 'threat' to hydrogen refuelling's commercial case: Taylor Wharton\n\nAs hydrogen refuelling infrastructure developers look to make progress, Taylor Wharton has warned that boil-off losses ranging from 10% to 50% continue to threaten hydrogen's commercial case.\n\nLiquid hydrogen is often considered one of the most effective ways to transport hydrogen due to its higher energy density compared to compressed hydrogen. Most refuelling stations, especially in US, use liquid hydrogen.\n\nHowever, boil-off occurs when liquid hydrogen warms above -253\u00baC and reverts to gas and can lead to losses across the value chain from production to use. This is in addition to high energy consumption of liquefying hydrogen.\n\n\"Hydrogen fuelling stations today face significant boil-off losses ranging from 10% to as much as 50%,\" Aaron Villarreal, Director of Sales & Global Hydrogen at Taylor Wharton explained.",
+      "source_name": "H2 View",
+      "source_country": null,
+      "source_url": "https://www.h2-view.com/story/nikkiso-contracted-to-limit-boil-off-at-california-hydrogen-bus-station/2135710.article/",
+      "published_date": "2025-12-09T09:39:40Z",
+      "language": "eng",
+      "image_url": "https://www.h2-view.com/cdn-cgi/image/width=1200,height=900,fit=contain,quality=75,metadata=none,format=auto,gravity=auto/https://www.h2-view.com/wp-content/files/CE_RTA.jpg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.1,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 31,
+      "article_uri": "2025-12-917313464",
+      "event_id": 9,
+      "title": "Panzhihua, China: Building a Full Hydrogen Energy Industry Chain and Releasing an Investment Portfolio Worth Over 10 Billion Yuan",
+      "body": "PANZHIHUA, China, Dec. 09, 2025 (GLOBE NEWSWIRE) -- On December 5, the 2025 Hydrogen Energy Industry Chain Ecosystem Conference & Panzhihua Hydrogen Energy Industry Investment Promotion Conference was held in Panzhihua, Sichuan Province. The city unveiled a package of key investment opportunities spanning the entire value chain from hydrogen production and storage to transportation and application, with a total investment scale exceeding 10 billion yuan.\n\nIn recent years, Panzhihua has positioned the hydrogen energy sector as a pivotal driver for urban transformation and industrial upgrading. Drawing on its abundant industrial by-product hydrogen, low-cost production, and a solid foundation in vanadium-titanium materials, the city is pursuing full-element growth across the entire hydrogen value chain from production, storage, and transportation to application and equipment manufacturing. It is building a regional hydrogen supply center, a hub for innovation, a storage and logistics node, a highland for application, and a high-end equipment manufacturing base, in a bid to establish itself as a model city for the hydrogen energy sector.\n\nThe newly released opportunity list highlights a wide range of strategically focused projects. The East District is developing an integrated \"PV power generation + hydrogen production + equipment manufacturing\" cluster; the West District is building a large-scale green hydrogen and synthetic ammonia base; Renhe District prioritizes fuel-cell applications and integrated energy stations; and Miyi County, Yanbian County, and the Vanadium-Titanium High-Tech Zone have rolled out high-quality projects in hydrogen equipment manufacturing, hydrogen-storage materials, and integrated utilization, respectively. These initiatives as a whole underscore Panzhihua's commitment to fostering a hydrogen energy ecosystem.\n\nTo date, Panzhihua has nurtured 19 hydrogen-related enterprises and shaped a hydrogen energy ecosystem, with several demonstration projects showing steady progress.\n\nMeanwhile, the city has also released a policy package and a supply-and-demand cooperation list for the hydrogen sector, which provide targeted supportive measures and clarified industrial needs to facilitate efficient matchmaking and clustered development in this field.\n\nSpecifically, the demand list covers products and services such as fuel-cell components, hydrogen-production equipment, and hydrogen-powered vehicles, while the supply list includes fuel-cell systems and key materials. They together present a clear picture of Panzhihua's full hydrogen energy ecosystem spanning production, storage, transportation, and application.\n\nThese efforts are backed by a robust provincial and municipal policy framework that provides all-around support across project development, cost subsidies, financial incentives, and talent attraction. Notable measures include grants of up to 5 million yuan for building hydrogen refueling stations and full toll waivers on expressways for hydrogen fuel-cell vehicles. Through connecting stakeholders, the government has smoothed internal circulation within the industrial chain and lowered barriers to collaboration for businesses.\n\nLeveraging its resource endowments and industrial strengths, Panzhihua is now transforming policy incentives into development momentum. Its bespoke, supply-and-demand-driven approach offers valuable insights for other regions seeking to advance similar industries.\n\nSource: 2025 Hydrogen Energy Industry Chain Ecosystem Conference & Panzhihua Hydrogen Energy Industry Investment Promotion Conference\n\nContact for media only: Contact person: Ms. Hou, Tel: 86-10-63074558 Source: 2025 Hydrogen Energy Industry Chain Ecosystem Conference & Panzhihua Hydrogen Energy Industry Investment Promotion Conference",
+      "source_name": "StreetInsider.com",
+      "source_country": null,
+      "source_url": "https://www.streetinsider.com/Globe+Newswire/Panzhihua,+China:+Building+a+Full+Hydrogen+Energy+Industry+Chain+and+Releasing+an+Investment+Portfolio+Worth+Over+10+Billion+Yuan/25713989.html",
+      "published_date": "2025-12-09T09:08:16Z",
+      "language": "eng",
+      "image_url": "http://www.streetinsider.com/images/silogo-new.png",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.8,
+      "sentiment_label": "positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 33,
+      "article_uri": "2025-12-917298290",
+      "event_id": 9,
+      "title": "Panzhihua, China: Building a Full Hydrogen Energy Industry Chain and Releasing an Investment Portfolio Worth Over 10 Billion Yuan",
+      "body": "PANZHIHUA, China, Dec. 09, 2025 (GLOBE NEWSWIRE) -- On December 5, the 2025 Hydrogen Energy Industry Chain Ecosystem Conference & Panzhihua Hydrogen Energy Industry Investment Promotion Conference was held in Panzhihua, Sichuan Province. The city unveiled a package of key investment opportunities spanning the entire value chain from hydrogen production and storage to transportation and application, with a total investment scale exceeding 10 billion yuan.\n\nIn recent years, Panzhihua has positioned the hydrogen energy sector as a pivotal driver for urban transformation and industrial upgrading. Drawing on its abundant industrial by-product hydrogen, low-cost production, and a solid foundation in vanadium-titanium materials, the city is pursuing full-element growth across the entire hydrogen value chain from production, storage, and transportation to application and equipment manufacturing. It is building a regional hydrogen supply center, a hub for innovation, a storage and logistics node, a highland for application, and a high-end equipment manufacturing base, in a bid to establish itself as a model city for the hydrogen energy sector.\n\nThe newly released opportunity list highlights a wide range of strategically focused projects. The East District is developing an integrated \"PV power generation + hydrogen production + equipment manufacturing\" cluster; the West District is building a large-scale green hydrogen and synthetic ammonia base; Renhe District prioritizes fuel-cell applications and integrated energy stations; and Miyi County, Yanbian County, and the Vanadium-Titanium High-Tech Zone have rolled out high-quality projects in hydrogen equipment manufacturing, hydrogen-storage materials, and integrated utilization, respectively. These initiatives as a whole underscore Panzhihua's commitment to fostering a hydrogen energy ecosystem.\n\nTo date, Panzhihua has nurtured 19 hydrogen-related enterprises and shaped a hydrogen energy ecosystem, with several demonstration projects showing steady progress.\n\nGet the latest news\n\ndelivered to your inbox\n\nSign up for The Manila Times newsletters\n\nBy signing up with an email address, I acknowledge that I have read and agree to the Terms of Service and Privacy Policy.\n\nMeanwhile, the city has also released a policy package and a supply-and-demand cooperation list for the hydrogen sector, which provide targeted supportive measures and clarified industrial needs to facilitate efficient matchmaking and clustered development in this field.\n\nSpecifically, the demand list covers products and services such as fuel-cell components, hydrogen-production equipment, and hydrogen-powered vehicles, while the supply list includes fuel-cell systems and key materials. They together present a clear picture of Panzhihua's full hydrogen energy ecosystem spanning production, storage, transportation, and application.\n\nAdvertisement\n\nThese efforts are backed by a robust provincial and municipal policy framework that provides all-around support across project development, cost subsidies, financial incentives, and talent attraction. Notable measures include grants of up to 5 million yuan for building hydrogen refueling stations and full toll waivers on expressways for hydrogen fuel-cell vehicles. Through connecting stakeholders, the government has smoothed internal circulation within the industrial chain and lowered barriers to collaboration for businesses.\n\nLeveraging its resource endowments and industrial strengths, Panzhihua is now transforming policy incentives into development momentum. Its bespoke, supply-and-demand-driven approach offers valuable insights for other regions seeking to advance similar industries.\n\nSource: 2025 Hydrogen Energy Industry Chain Ecosystem Conference & Panzhihua Hydrogen Energy Industry Investment Promotion Conference\n\nCONTACT: Contact for media only: Contact person: Ms. Hou, Tel: 86-10-63074558",
+      "source_name": "The Manila times",
+      "source_country": null,
+      "source_url": "https://www.manilatimes.net/2025/12/09/tmt-newswire/globenewswire/panzhihua-china-building-a-full-hydrogen-energy-industry-chain-and-releasing-an-investment-portfolio-worth-over-10-billion-yuan/2239591",
+      "published_date": "2025-12-09T08:55:39Z",
+      "language": "eng",
+      "image_url": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.8,
+      "sentiment_label": "positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 25,
+      "article_uri": "2025-12-916844326",
+      "event_id": 9,
+      "title": "Hyundai Shines at World Hydrogen Expo 2025 | Fuel Cells Works",
+      "body": "Hyundai Motor Group Successfully Concludes Its World Hydrogen Expo 2025 Exhibition\n\nHyundai Motor Group announced on Monday the 8th that it successfully concluded its exhibition at the 'World Hydrogen Expo 2025 (WHE 2025)' held at KINTEX in Goyang-si, Gyeonggi-do from Thursday the 4th to Sunday the 7th.\n\nWHE 2025 is a new hydrogen industry expo that will be held this year by integrating 'H2 MEET', Korea's representative hydrogen industry exhibition held since 2020, and Korea's largest international hydrogen conference held during Hydrogen Day (November 2) last year.\n\nUnder the theme \"Hydrogen Pioneers: Innovate, Unite, and Accelerate,\" \"WHE 2025\" attracted over 25,000 visitors over four days, providing insight into the latest hydrogen technology trends and engaging in a variety of hands-on programs. Extending the event over a weekend for the first time, it garnered a particularly strong response from families.\n\nAt this exhibition, seven companies, including Hyundai Motor Company, Kia Motors, Hyundai Steel, Hyundai Engineering & Construction, Hyundai Engineering, Hyundai Glovis, and Hyundai Rotem, set up a joint booth centered around HTWO, Hyundai Motor Group's hydrogen brand and business platform, and showcased their technologies and capabilities across the entire hydrogen value chain, including \u25b2hydrogen production \u25b2hydrogen charging and storage \u25b2hydrogen mobility \u25b2industrial applications, along with various real-world application cases.\n\nSpecifically, Hyundai Motor Group introduced various hydrogen production technologies of its subsidiaries, such as PEM electrolysis, W2H, and ammonia cracking, through mockups and video content to help visitors gain an intuitive understanding.\n\nAdditionally, a charging demonstration of the all-new NEXO was conducted using the Automatic Charging Robot-Hydrogen (ACR-H).\n\nIn addition, the latest hydrogen mobility lineup, which has expanded beyond passenger and commercial vehicles to include agricultural machinery, boats, and defense, including the All New Nexo, Universe hydrogen electric bus, Xcient hydrogen electric truck, and hydrogen-powered light tactical vehicle (ATV, All-Terrain Vehicle), was also exhibited.\n\nIn addition, exhibits were unveiled that could show the fields of hydrogen utilization, such as a diorama that implemented the carbon reduction steel product production process and a reduction roadmap for each process, a 100kW hydrogen fuel cell generator, a hydrogen fuel cell AGV, and a hydrogen fuel cell forklift.\n\nIn particular, the test drive program for Hyundai Motor Company's all-new Nexo hydrogen electric vehicle, which ran from Friday the 5th to Sunday the 7th, was extremely popular with visitors. Approximately 180 visitors, who had pre-registered for a test drive, drove around a 15-kilometer course for approximately 30 minutes, experiencing the vehicle's eco-friendly performance and cutting-edge technology firsthand.\n\nThe All New Nexo is a vehicle with high-efficiency power performance based on a maximum motor output of 150kW and a driving range of up to 720km on a single charge. Recently, it attracted attention by achieving a record of 1,400.9km on a single charge in a long-distance driving challenge by famous YouTubers, which is nearly double the official driving range on a single charge.\n\nIn addition, Hyundai Motor Group ran a Hydrogen Academy lecture program in collaboration with global energy companies and Hydrogen Council members Linde and Air Liquide to help visitors better understand the value of the hydrogen business and how hydrogen is utilized in everyday life.\n\nThe lecture program consisted of three master classes on the topics of \"Why Hydrogen?\", \"Hydrogen Upstream Technology and Business\", and \"Hydrogen Mobility and Various Applications.\" It also introduced core technologies in the hydrogen field and various efforts by global energy companies to accelerate the realization of a hydrogen society.\n\nAdditionally, Hyundai Motor Group discussed ways to cooperate in the hydrogen energy sector with leading global hydrogen companies and associations from around 10 countries, including Korea, the United States, Canada, Japan, Australia, Hong Kong, and Germany.\n\nA Hyundai Motor Group official said, \"Through this World Hydrogen Expo, we wanted to show that hydrogen is already a future-leading solution in our daily lives and across industries,\" and added, \"As visitors directly witnessed the value and potential of hydrogen through various experiential programs and lectures, we will continue to work to expand the use of hydrogen and raise awareness in the future.\"\n\nMeanwhile, Hyundai Motor Group led strategic discussions to expand the global hydrogen ecosystem at the 'Hydrogen Committee CEO Summit' held from Tuesday the 2nd to Thursday the 4th, strengthening close ties with leaders of major global hydrogen companies.\n\nThis year's 'Hydrogen Council CEO Summit,' held for the first time in Korea, was attended by approximately 200 CEOs from 100 global companies and hydrogen industry leaders. As co-chair, Hyundai Motor Group led various discussions aimed at revitalizing the hydrogen ecosystem.",
+      "source_name": "FuelCellsWorks",
+      "source_country": null,
+      "source_url": "https://fuelcellsworks.com/2025/12/08/energy-innovation/hyundai-motor-group-successfully-concludes-its-world-hydrogen-expo-2025-exhibition",
+      "published_date": "2025-12-08T20:14:49Z",
+      "language": "eng",
+      "image_url": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/hyundai-motor-group-successfully-concludes-its-world-hydrogen-expo-2025-exhibition-2025-12-08T09%3A53%3A12-05%3A00-image.webp",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.85,
+      "sentiment_label": "positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 34,
+      "article_uri": "2025-12-916244942",
+      "event_id": 9,
+      "title": "Hyundai Motor Group Showcases Hydrogen Technologies Across the Value Chain at World Hydrogen Expo in Korea",
+      "body": "Hyundai Motor Group showcased its latest hydrogen innovations at the World Hydrogen Expo 2024, held from December 4-7, reaffirming its position as a global leader in hydrogen technology. Korea's largest hydrogen industry exhibition brought together over 250 companies from more than 25 countries under the theme 'Hydrogen Pioneers: Innovate, Unite, Accelerate.'\n\nThe Expo, held for the first time following the combination of the annual H2MEET exhibition and the conference, is supported by four government ministries. Held at KINTEX 2 in Goyang, Korea, it is expected to attract 40,000 attendees, including industry leaders and the general public. The event underscores the country's growing prominence as a global hydrogen hub and the Group's central role in advancing the transition to clean energy.\n\n\"With the rapid increase in power demand driven by the spread of AI, expanding renewable energy is essential. Hydrogen offers the most powerful solution to store and utilize renewable energy, complementing its intermittency and enhancing overall efficiency,\" said Jaehoon Chang, Vice Chair of Hyundai Motor Group. \"By converting surplus electricity into hydrogen, we can ease the burden on power grids and make energy systems more flexible. Hydrogen is the ultimate game changer for the future energy transition,\" he added.\n\nThrough its affiliates Hyundai Motor Company, Kia Corporation, Hyundai Steel Company, Hyundai Engineering & Construction Co. (Hyundai E&C), Hyundai Engineering Co., Hyundai Glovis Co. and Hyundai-Rotem Co., the Group is showcasing innovative hydrogen technologies under the Group's dedicated hydrogen brand and business platform HTWO.\n\nThe Group's booth features various technologies, many of which are being unveiled for the first time (marked below as \"NEW\"). These innovations span the hydrogen value chain and are categorized under Production, Storage & Refueling, Mobility, and Industrial Application. These advancements reflect the Group's commitment to driving sustainable energy innovation and scaling hydrogen applications across industries.\n\nProduction: The Group is advancing diverse hydrogen production technologies to enhance energy efficiency and resilience. At the Expo, interactive displays provide visitors with an intuitive understanding of production processes. Highlights include:\n\n* PEM Electrolysis: The Group's new hydrogen fuel cell production plant in Ulsan will produce high-efficiency polymer electrolyte membrane (PEM) electrolyzers as first production in Korea. Also, the Group is building 1 MW-scale electrolysis-based production sites in Buan and Boryeong. A collaboration with the Jeju government aims to develop 500 MW-scale mass production technology by 2029, with plans for a 1 GW electrolysis facility in the Southwest region.\n\n* Waste-to-Hydrogen (W2H): Innovative projects in Cheongju and Paju convert organic waste into hydrogen, tailored to meet local hydrogen demand. The Group is also leading its first overseas W2H ecosystem project in Indonesia.\n\n* *NEW* Ammonia Cracker: A large-scale hydrogen extraction technology with a production capacity of 640 kg/day, currently in design and demonstration in collaboration with Jeonbuk Special Self-Governing Province.\n\nStorage & Refueling: The Group's advanced hydrogen storage and refueling technologies aim to expand infrastructure, improve operational efficiency, and simplify deployment. Highlights include:\n\n* *NEW* Second generation 700-bar Mobile Hydrogen Refueling Station (HRS): Hyundai Motor developed Korea's first mobile hydrogen refueling station (HRS). The flexible and scalable 350-bar mobile HRS is currently operating in Jeju to supply green hydrogen. A second generation 700-bar mobile HRS is exhibited at the event, mounted on a XCIENT Fuel Cell Tractor.\n\n* *NEW* Packaged HRS Concept: Debuting a modularized, simpler and more space efficient HRS concept, enhancing urban deployment feasibility with multi-level and underground technologies.\n\n* *NEW* Automatic Charging Robot-Hydrogen (ACR-H): A state-of-the-art refueling robot developed by the Hyundai Motor Group's Robotics LAB, leveraging advanced AI technology to automate the entire process from vehicle recognition to refueling fuel cell electrified vehicles (FCEVs) such as the NEXO.\n\n* *NEW* Liquid Hydrogen Storage System: A mock-up demonstrating large-scale hydrogen storage as liquid at temperatures under -253\u00b0C, ensuring safe and efficient energy supply for industrial and commercial use.\n\nMobility: The Group is showcasing a wide array of hydrogen-powered mobility solutions, from passenger and commercial vehicles to groundbreaking applications across various industries. Highlights include:\n\n* Passenger Vehicle: The all-new NEXO\n\n* Commercial Vehicles:\n\n* Innovations Beyond Conventional Vehicles:\n\n* Expanding Fuel Cell System Applications:\n\nIndustrial Application: The Group's innovative hydrogen technologies extend beyond mobility, showcasing the versatility of hydrogen in industrial applications. Highlights include:\n\n* *NEW* Mobile Power Generator: A mock-up mobile power generator, equipped with swappable hydrogen storage modules, capable of replacing hydrogen storage tank using an internal crane, reducing downtime and improving efficiency.\n\n* *NEW* Hydrogen Burner: An eco-friendly system developed by Hyundai Motor utilizes heat generated from burning a hydrogen-air mixture. The burners are applied to paint ovens at Hyundai Motor's Ulsan automobile plant and will be gradually expanded to other high-temperature processes and production sites worldwide.\n\n* 100kW Fuel Cell Power Generator: A power generator developed by Hyundai Motor, leveraging the fast start-up and agile power control capabilities of the engine-type fuel cell system. 100 kW hydrogen fuel cell generators will be introduced and operated at Kia and Hyundai Glovis facilities in Pyeongtaek Port.\n\nHyundai Motor Group's Interactive Engagements at World Hydrogen Expo\n\nThe Group goes beyond exhibition by offering a range of interactive activities at the Expo, aiming to engage visitors directly and showcase the future of a hydrogen-based society in a tangible and impactful way.\n\nAs part of the Expo, the Group is set to host the HTWO Award Ceremony, honoring six transportation industry representatives who have made significant contributions to the expansion of hydrogen electrified commercial vehicles. The recipients are recognized for their efforts in expanding introduction of hydrogen-powered buses, trucks and refueling stations, which are key to accelerating the transition to a hydrogen-based mobility ecosystem.\n\nIn addition, the Group will offer an exclusive Test Drive Program for Hyundai Motor's FCEV, The all-new NEXO, running from December 5 to December 7. Registered participants will have the unique opportunity to experience NEXO's advanced design, spacious interior, and outstanding driving firsthand performance. The 30-minute drive along a 15-kilometer route highlights the vehicle's cutting-edge capabilities and reinforces Hyundai's leadership in hydrogen mobility, providing an immersive experience that brings hydrogen mobility to life.\n\nComplementing these activities, the Group will also host the Hydrogen Academy, an educational program designed to deepen visitors' understanding of Hyundai Motor Group's hydrogen business. Led by executives and experts from the Group affiliates, this program offers attendees an exclusive opportunity to learn about the Group's hydrogen technologies, current business developments, and future vision, fostering broader engagement and knowledge sharing within the hydrogen community.",
+      "source_name": "SolarQuarter",
+      "source_country": null,
+      "source_url": "https://solarquarter.com/2025/12/08/hyundai-motor-group-showcases-hydrogen-technologies-across-the-value-chain-at-world-hydrogen-expo-in-korea/",
+      "published_date": "2025-12-08T09:11:25Z",
+      "language": "eng",
+      "image_url": "https://solarquarter.com/wp-content/uploads/2025/12/mk02.jpg",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.85,
+      "sentiment_label": "positive",
+      "article_type": "news_report"
+    },
+    {
+      "id": 29,
+      "article_uri": "8990736502",
+      "event_id": 9,
+      "title": "The real future of hydrogen in Oman begins",
+      "body": "Oman has taken a measured path: building renewable-energy zones, integrating hydrogen into future industrial plans, developing export corridors and aligning all of this with Vision 2040.\n\nFor years, green hydrogen has been portrayed as the next great pillar of the global energy transition -- a clean fuel capable of decarbonising heavy industry, transforming shipping, and reshaping global trade. Countries released ambitious roadmaps, investors crowded into conferences, and companies raced to announce billion-dollar projects. For a moment, the world seemed to believe that hydrogen's rise would be quick, smooth and unstoppable.\n\nThen the tone shifted. Over the past two years, major energy companies -- including BP, Shell, Engie and Equinor -- have scaled back or cancelled some of their most high-profile hydrogen ventures. BP's withdrawal from one of its planned green-hydrogen projects in Duqm mirrored similar moves in Europe, the UK, and Australia. It is one of two projects -- the other being the HyDuqm venture backed by the ENGIE-POSCO-led consortium -- that authorities recently confirmed had been shelved by mutual agreement. These announcements have prompted understandable questions: Is hydrogen losing momentum? Has the hype evaporated?\n\nThe truth is far more interesting. What we are witnessing is not the collapse of hydrogen, but the collapse of unrealistic expectations. The sector is not dying -- it is maturing.\n\nOman has taken a measured path: building renewable-energy zones, integrating hydrogen into future industrial plans, developing export corridors and aligning all of this with Vision 2040.\n\nGlobal demand for hydrogen reached almost 100 million tonnes in 2024. Yet, as the International Energy Agency reports, less than one percent of that total is \"clean\" hydrogen produced from renewable energy. Most of the world's hydrogen still comes from natural gas and coal, serving long-established industries that have yet to transition. The new markets expected to spark a surge in demand -- green steel, low-carbon shipping, clean industrial heat -- are progressing, but not fast enough to justify the pace of early project announcements.\n\nThis disconnect sits at the heart of today's reset. Many of the large, ambitious projects launched between 2020 and 2023 were built on assumptions about rapid global uptake, generous subsidies and eager buyers. Yet buyers remain cautious, regulations are still evolving, and the infrastructure needed to transport and store hydrogen is far from complete. Without long-term purchase commitments, even promising projects struggle to attract financing.\n\nCosts reinforce this slowdown. Producing green hydrogen remains significantly more expensive than producing conventional hydrogen. Electrolysers are still costly, and renewable electricity prices -- while falling in some regions -- remain volatile. With high global interest rates and investors seeking stable returns, capital naturally flows toward sectors that offer immediate profitability. For major oil and gas companies, hydrogen is a strategic option, not an operational necessity. When financial pressure rises, optional ambitions are the first to be paused.\n\nYet the withdrawal of some industry giants may ultimately be healthy for the sector. When companies that treated hydrogen as a peripheral experiment step aside, they leave space for players with genuine long-term conviction. These include industrial companies seeking to decarbonise production, renewable-energy developers whose futures depend on the transition, sovereign wealth funds investing with 20- to 30-year horizons, and countries that are building integrated hydrogen ecosystems rather than chasing headlines.\n\nThis shift helps filter the noise. The global pipeline of projects is now smaller, but those that remain are more serious, more grounded and more closely linked to real future demand. The hydrogen conversation has moved from marketing announcements to practical planning.\n\nFor Oman, this transition is not a setback but a moment of clarity. The cancellation of a pair of projects does not change the fundamentals that make the Sultanate one of the most promising emerging hydrogen hubs in the region. Oman possesses exceptional solar and wind resources, modern deep-water ports, competitively priced land, a strategic maritime location and, most importantly, a transparent and structured regulatory framework under Hydrom.\n\nUnlike some countries that rushed to announce mega-projects, Oman has taken a measured path: building renewable-energy zones, integrating hydrogen into future industrial plans, developing export corridors and aligning all of this with Vision 2040. This approach recognises a simple truth -- hydrogen is not a short-term opportunity, but a generational one.\n\nThe decisive chapter of the hydrogen economy will unfold between 2035 and 2050. The coming decade will involve refining technologies, lowering costs, strengthening supply chains and gradually expanding industrial demand. Like solar and wind before it, hydrogen will mature slowly and then grow quickly.\n\nThis moment is not a crisis in the hydrogen story -- it is the necessary selection phase. The companies and countries that remain committed today are the ones positioning themselves at the centre of tomorrow's clean-energy landscape. Oman is one of them.\n\nEnergy transitions are rarely linear. They advance in waves of enthusiasm, correction and renewal. What matters is not who enters the race first, but who stays when the excitement fades. That is how real energy systems are built -- not with certainty, but with resilience.\n\n2025 \u00a9 All right reserved for Oman Establishment for Press, Publication and Advertising (OEPPA) Provided by SyndiGate Media Inc. (Syndigate.info).",
+      "source_name": "Zawya.com",
+      "source_country": null,
+      "source_url": "https://www.zawya.com/en/economy/gcc/the-real-future-of-hydrogen-in-oman-begins-rh8nurdq",
+      "published_date": "2025-12-08T07:20:17Z",
+      "language": "eng",
+      "image_url": "https://static.zawya.com/view/acePublic/alias/contentid/Y2M1NDI1ZWItZTM0MS00/165/1179386789.jpeg?f=3%3A2",
+      "fetched_at": "2025-12-22 23:48:07",
+      "sentiment_score": 0.3,
+      "sentiment_label": "slightly_positive",
+      "article_type": "analysis"
+    }
+  ],
+  "popularity_trend": [
+    {
+      "date": "2025-12-08",
+      "count": 3
+    },
+    {
+      "date": "2025-12-09",
+      "count": 4
+    },
+    {
+      "date": "2025-12-10",
+      "count": 3
+    },
+    {
+      "date": "2025-12-11",
+      "count": 2
+    }
+  ],
+  "sentiment_trend": [
+    {
+      "date": "2025-12-08",
+      "avg_sentiment": 0.6666666666666666,
+      "count": 3
+    },
+    {
+      "date": "2025-12-09",
+      "avg_sentiment": 0.6125,
+      "count": 4
+    },
+    {
+      "date": "2025-12-10",
+      "avg_sentiment": 0.7250000000000001,
+      "count": 2
+    },
+    {
+      "date": "2025-12-11",
+      "avg_sentiment": 0.7,
+      "count": 2
+    }
+  ],
+  "entities": {
+    "companies": [
+      {
+        "name": "Hyundai Motor Company",
+        "count": 2
+      },
+      {
+        "name": "Hyundai Motor Group",
+        "count": 2
+      },
+      {
+        "name": "Air Liquide",
+        "count": 1
+      },
+      {
+        "name": "BP",
+        "count": 1
+      },
+      {
+        "name": "CPC Corp.",
+        "count": 1
+      },
+      {
+        "name": "Clean Energy Fuels Corp",
+        "count": 1
+      },
+      {
+        "name": "Engie",
+        "count": 1
+      },
+      {
+        "name": "Equinor",
+        "count": 1
+      },
+      {
+        "name": "Hydrom",
+        "count": 1
+      },
+      {
+        "name": "Hydroma",
+        "count": 1
+      },
+      {
+        "name": "Hyundai E&C",
+        "count": 1
+      },
+      {
+        "name": "Hyundai Engineering",
+        "count": 1
+      },
+      {
+        "name": "Hyundai Engineering & Construction",
+        "count": 1
+      },
+      {
+        "name": "Hyundai Engineering & Construction Co.",
+        "count": 1
+      },
+      {
+        "name": "Hyundai Engineering Co.",
+        "count": 1
+      },
+      {
+        "name": "Hyundai Glovis",
+        "count": 1
+      },
+      {
+        "name": "Hyundai Glovis Co.",
+        "count": 1
+      },
+      {
+        "name": "Hyundai Rotem",
+        "count": 1
+      },
+      {
+        "name": "Hyundai Steel",
+        "count": 1
+      },
+      {
+        "name": "Hyundai Steel Company",
+        "count": 1
+      },
+      {
+        "name": "Hyundai-Rotem Co.",
+        "count": 1
+      },
+      {
+        "name": "Jeju government",
+        "count": 1
+      },
+      {
+        "name": "Kawasaki Heavy Industries",
+        "count": 1
+      },
+      {
+        "name": "Kia Corporation",
+        "count": 1
+      },
+      {
+        "name": "Kia Motors",
+        "count": 1
+      },
+      {
+        "name": "Linde",
+        "count": 1
+      },
+      {
+        "name": "Linde LienHwa Industrial Gases Co.",
+        "count": 1
+      },
+      {
+        "name": "Nikkiso CE&IG",
+        "count": 1
+      },
+      {
+        "name": "POSCO",
+        "count": 1
+      },
+      {
+        "name": "Petroma",
+        "count": 1
+      },
+      {
+        "name": "Riverside Transit Agency (RTA)",
+        "count": 1
+      },
+      {
+        "name": "S&P Global Commodity Insights",
+        "count": 1
+      },
+      {
+        "name": "Shell",
+        "count": 1
+      },
+      {
+        "name": "Taylor Wharton",
+        "count": 1
+      },
+      {
+        "name": "Topsoe",
+        "count": 1
+      },
+      {
+        "name": "U.S. Geological Survey",
+        "count": 1
+      },
+      {
+        "name": "West Air",
+        "count": 1
+      },
+      {
+        "name": "XCIENT",
+        "count": 1
+      }
+    ],
+    "countries": [
+      {
+        "name": "Australia",
+        "count": 2
+      },
+      {
+        "name": "China",
+        "count": 2
+      },
+      {
+        "name": "Europe",
+        "count": 2
+      },
+      {
+        "name": "India",
+        "count": 2
+      },
+      {
+        "name": "Korea",
+        "count": 2
+      },
+      {
+        "name": "US",
+        "count": 2
+      },
+      {
+        "name": "Asia",
+        "count": 1
+      },
+      {
+        "name": "California",
+        "count": 1
+      },
+      {
+        "name": "Canada",
+        "count": 1
+      },
+      {
+        "name": "Germany",
+        "count": 1
+      },
+      {
+        "name": "Hong Kong",
+        "count": 1
+      },
+      {
+        "name": "Indonesia",
+        "count": 1
+      },
+      {
+        "name": "Japan",
+        "count": 1
+      },
+      {
+        "name": "Mali",
+        "count": 1
+      },
+      {
+        "name": "Middle East",
+        "count": 1
+      },
+      {
+        "name": "Oman",
+        "count": 1
+      },
+      {
+        "name": "Taiwan",
+        "count": 1
+      },
+      {
+        "name": "U.S.",
+        "count": 1
+      },
+      {
+        "name": "UK",
+        "count": 1
+      },
+      {
+        "name": "United States",
+        "count": 1
+      }
+    ],
+    "organizations": [
+      {
+        "name": "GLOBE NEWSWIRE",
+        "count": 2
+      },
+      {
+        "name": "Indian Railways",
+        "count": 2
+      },
+      {
+        "name": "Lok Sabha",
+        "count": 2
+      },
+      {
+        "name": "Energy Administration",
+        "count": 1
+      },
+      {
+        "name": "H2 MEET",
+        "count": 1
+      },
+      {
+        "name": "H2MEET",
+        "count": 1
+      },
+      {
+        "name": "HTWO",
+        "count": 1
+      },
+      {
+        "name": "Hydrogen Council",
+        "count": 1
+      },
+      {
+        "name": "IEA",
+        "count": 1
+      },
+      {
+        "name": "International Energy Agency",
+        "count": 1
+      },
+      {
+        "name": "Jeonbuk Special Self-Governing Province",
+        "count": 1
+      },
+      {
+        "name": "Ministry of Economic Affairs",
+        "count": 1
+      },
+      {
+        "name": "Oman Establishment for Press, Publication and Advertising",
+        "count": 1
+      },
+      {
+        "name": "Paris Agreement",
+        "count": 1
+      },
+      {
+        "name": "Research, Design and Standards Organisation (RDSO)",
+        "count": 1
+      },
+      {
+        "name": "Research, Design, and Standards Organisation (RDSO)",
+        "count": 1
+      },
+      {
+        "name": "SyndiGate Media Inc.",
+        "count": 1
+      },
+      {
+        "name": "The Manila Times",
+        "count": 1
+      },
+      {
+        "name": "Transportation Ministry",
+        "count": 1
+      },
+      {
+        "name": "University of Ottawa",
+        "count": 1
+      },
+      {
+        "name": "University of Oxford",
+        "count": 1
+      }
+    ],
+    "politicians": [
+      {
+        "name": "Ashwini Vaishnaw",
+        "count": 2
+      },
+      {
+        "name": "Ashwini Vaishnaw (Railway Minister)",
+        "count": 1
+      }
+    ]
+  },
+  "financial": {
+    "amounts": [
+      {
+        "amount": 10000000000.0,
+        "currency": "yuan",
+        "context": "total investment scale"
+      },
+      {
+        "amount": 10000000000.0,
+        "currency": "yuan",
+        "context": "total investment scale"
+      },
+      {
+        "amount": 1000000000.0,
+        "currency": "tons",
+        "context": "carbon dioxide emissions from gray hydrogen production annually"
+      },
+      {
+        "amount": 920000000.0,
+        "currency": "metric tons",
+        "context": "carbon dioxide emissions from gray hydrogen production annually"
+      },
+      {
+        "amount": 100000000.0,
+        "currency": "tonnes",
+        "context": "Global demand for hydrogen in 2024"
+      },
+      {
+        "amount": 15000000.0,
+        "currency": "NT$",
+        "context": "maximum fuel and operating subsidies for hydrogen stations"
+      },
+      {
+        "amount": 10000000.0,
+        "currency": "NT$",
+        "context": "operating expenses subsidy"
+      },
+      {
+        "amount": 5000000.0,
+        "currency": "yuan",
+        "context": "grants for building hydrogen refueling stations"
+      },
+      {
+        "amount": 5000000.0,
+        "currency": "NT$",
+        "context": "maximum subsidy based on hydrogen sales"
+      },
+      {
+        "amount": 5000000.0,
+        "currency": "yuan",
+        "context": "grants for building hydrogen refueling stations"
+      },
+      {
+        "amount": 501000.0,
+        "currency": "US$",
+        "context": "equivalent of NT$15 million"
+      },
+      {
+        "amount": 2400.0,
+        "currency": null,
+        "context": "total power output of the train-set in kilowatt"
+      },
+      {
+        "amount": 640.0,
+        "currency": "kg/day",
+        "context": "Ammonia Cracker production capacity"
+      },
+      {
+        "amount": 585.0,
+        "currency": "Mtpa",
+        "context": "projected blue and green hydrogen usage (Net Zero scenario)"
+      },
+      {
+        "amount": 500.0,
+        "currency": "MW",
+        "context": "mass production technology development by 2029"
+      },
+      {
+        "amount": 165.0,
+        "currency": "NT$",
+        "context": "subsidy per kg of hydrogen sold"
+      },
+      {
+        "amount": 125.0,
+        "currency": "Mtpa",
+        "context": "projected blue and green hydrogen usage (lower bound)"
+      },
+      {
+        "amount": 118.81,
+        "currency": "million tons",
+        "context": "projected methanol market size in 2029"
+      },
+      {
+        "amount": 100.0,
+        "currency": "kW",
+        "context": "Fuel Cell Power Generator"
+      },
+      {
+        "amount": 100.0,
+        "currency": null,
+        "context": "planned growth of hydrogen fleet vehicles"
+      },
+      {
+        "amount": 99.03,
+        "currency": "million tons",
+        "context": "methanol market size in 2024"
+      },
+      {
+        "amount": 90.0,
+        "currency": "Mtpa",
+        "context": "annual consumption of grey hydrogen"
+      },
+      {
+        "amount": 40.0,
+        "currency": null,
+        "context": "number of hydrogen-powered fuel cell buses"
+      },
+      {
+        "amount": 26.0,
+        "currency": "times",
+        "context": "hydrogen amount compared to remaining oil reserves"
+      },
+      {
+        "amount": 6.2,
+        "currency": "trillion tons",
+        "context": "estimated total hydrogen in Earth's crust"
+      },
+      {
+        "amount": 5.6,
+        "currency": "trillion metric tons",
+        "context": "estimated total hydrogen in Earth's crust"
+      },
+      {
+        "amount": 3.5,
+        "currency": "%",
+        "context": "CAGR of methanol market"
+      },
+      {
+        "amount": 1.0,
+        "currency": "GW",
+        "context": "electrolysis facility in the Southwest region"
+      }
+    ],
+    "totals": {
+      "yuan": 20010000000.0,
+      "tons": 1000000000.0,
+      "metric tons": 920000000.0,
+      "tonnes": 100000000.0,
+      "NT$": 30000165.0,
+      "US$": 501000.0,
+      "null": 2540.0,
+      "kg/day": 640.0,
+      "Mtpa": 800.0,
+      "MW": 500.0,
+      "million tons": 217.84,
+      "kW": 100.0,
+      "times": 26.0,
+      "trillion tons": 6.2,
+      "trillion metric tons": 5.6,
+      "%": 3.5,
+      "GW": 1.0
+    }
+  },
+  "quotes": [
+    {
+      "id": 47,
+      "article_id": 32,
+      "speaker": "Linde LienHwa Industrial Gases Co.",
+      "speaker_role": "Company Representative",
+      "quote_text": "hydrogen fuel cell vehicles have advantages over EVs, including faster refueling, longer driving ranges, and lighter vehicle weight that enables greater cargo capacity.",
+      "stance": "support",
+      "article_title": "Taiwan Provides NT$15M Subsidies for Hydrogen Stations | Fuel Cells Works",
+      "source_url": "https://fuelcellsworks.com/2025/12/11/fuel-cells/taiwan-to-provide-nt-15-million-in-subsidies-for-hydrogen-stations"
+    },
+    {
+      "id": 45,
+      "article_id": 28,
+      "speaker": "Ashwini Vaishnaw",
+      "speaker_role": "Railway Minister",
+      "quote_text": "Indian Railways has taken up a state-of-the-art project for running its first hydrogen train, on a pilot basis, as per specifications framed by the Research, Design & Standards Organisation (RDSO) to demonstrate the use of hydrogen-powered train technology in railways.",
+      "stance": "support",
+      "article_title": "'Atmanirbhar Bharat': Indian Railways' first hydrogen train ready for trials - All you need to know",
+      "source_url": "https://www.indiatvnews.com/business/news/atmanirbhar-bharat-indian-railways-first-hydrogen-train-ready-for-trials-all-you-need-to-know-2025-12-11-1021285"
+    },
+    {
+      "id": 46,
+      "article_id": 28,
+      "speaker": "Ashwini Vaishnaw",
+      "speaker_role": "Railway Minister",
+      "quote_text": "Manufacturing of the hydrogen trainset has been completed. To provide hydrogen for this train set, a hydrogen plant has been proposed in Jind. In this plant, hydrogen is being produced using the electrolysis process, which is a key element of green hydrogen generation",
+      "stance": "support",
+      "article_title": "'Atmanirbhar Bharat': Indian Railways' first hydrogen train ready for trials - All you need to know",
+      "source_url": "https://www.indiatvnews.com/business/news/atmanirbhar-bharat-indian-railways-first-hydrogen-train-ready-for-trials-all-you-need-to-know-2025-12-11-1021285"
+    },
+    {
+      "id": 50,
+      "article_id": 35,
+      "speaker": "Ashwini Vaishnaw",
+      "speaker_role": "Railway Minister",
+      "quote_text": "Indian Railways has taken up a state-of-the-art project for running of its first hydrogen train, on pilot basis, as per specifications framed by the Research, Design & Standards Organization (RDSO) to demonstrate the use of hydrogen powered train technology in Railways.",
+      "stance": "support",
+      "article_title": "India's Hydrogen Train Project Advances As Railways Completes Manufacturing Of First Pilot Train-Set",
+      "source_url": "https://swarajyamag.com/infrastructure/indias-hydrogen-train-project-advances-as-railways-completes-manufacturing-of-first-pilot-train-set"
+    },
+    {
+      "id": 51,
+      "article_id": 35,
+      "speaker": "Ashwini Vaishnaw",
+      "speaker_role": "Railway Minister",
+      "quote_text": "Manufacturing of Hydrogen Train-set has been completed. For providing hydrogen for use in this train-set, a hydrogen plant has been conceived at Jind. In this plant, hydrogen is being produced using electrolysis process which is key element of green hydrogen generation.",
+      "stance": "support",
+      "article_title": "India's Hydrogen Train Project Advances As Railways Completes Manufacturing Of First Pilot Train-Set",
+      "source_url": "https://swarajyamag.com/infrastructure/indias-hydrogen-train-project-advances-as-railways-completes-manufacturing-of-first-pilot-train-set"
+    },
+    {
+      "id": 39,
+      "article_id": 26,
+      "speaker": "Geoffrey Ellis",
+      "speaker_role": "petroleum geochemist with the U.S. Geological Survey",
+      "quote_text": "We just keep finding more and more the more we start looking for it",
+      "stance": "support",
+      "article_title": "Earth's crust hides enough 'gold' hydrogen to power the world for tens of thousands of years, emerging research suggests",
+      "source_url": "https://www.livescience.com/planet-earth/geology/earths-crust-hides-enough-gold-hydrogen-to-power-the-world-for-tens-of-thousands-of-years-emerging-research-suggests"
+    },
+    {
+      "id": 40,
+      "article_id": 26,
+      "speaker": "Chris Ballentine",
+      "speaker_role": "professor of geochemistry at the University of Oxford",
+      "quote_text": "Hydrogen is a clean source of energy, but how you get your hydrogen is critical",
+      "stance": "neutral",
+      "article_title": "Earth's crust hides enough 'gold' hydrogen to power the world for tens of thousands of years, emerging research suggests",
+      "source_url": "https://www.livescience.com/planet-earth/geology/earths-crust-hides-enough-gold-hydrogen-to-power-the-world-for-tens-of-thousands-of-years-emerging-research-suggests"
+    },
+    {
+      "id": 41,
+      "article_id": 26,
+      "speaker": "Geoffrey Ellis",
+      "speaker_role": "petroleum geochemist with the U.S. Geological Survey",
+      "quote_text": "The potential that's down there is quite, quite large",
+      "stance": "support",
+      "article_title": "Earth's crust hides enough 'gold' hydrogen to power the world for tens of thousands of years, emerging research suggests",
+      "source_url": "https://www.livescience.com/planet-earth/geology/earths-crust-hides-enough-gold-hydrogen-to-power-the-world-for-tens-of-thousands-of-years-emerging-research-suggests"
+    },
+    {
+      "id": 42,
+      "article_id": 26,
+      "speaker": "Geoffrey Ellis",
+      "speaker_role": "petroleum geochemist with the U.S. Geological Survey",
+      "quote_text": "This was the first time that anyone had attempted to do this type of mapping exercise",
+      "stance": "neutral",
+      "article_title": "Earth's crust hides enough 'gold' hydrogen to power the world for tens of thousands of years, emerging research suggests",
+      "source_url": "https://www.livescience.com/planet-earth/geology/earths-crust-hides-enough-gold-hydrogen-to-power-the-world-for-tens-of-thousands-of-years-emerging-research-suggests"
+    },
+    {
+      "id": 43,
+      "article_id": 26,
+      "speaker": "Oliver Warr",
+      "speaker_role": "assistant professor of geochemistry at the University of Ottawa",
+      "quote_text": "The water requirement limits hydrogen production to the top 10 miles (16 kilometers) of the crust",
+      "stance": "neutral",
+      "article_title": "Earth's crust hides enough 'gold' hydrogen to power the world for tens of thousands of years, emerging research suggests",
+      "source_url": "https://www.livescience.com/planet-earth/geology/earths-crust-hides-enough-gold-hydrogen-to-power-the-world-for-tens-of-thousands-of-years-emerging-research-suggests"
+    },
+    {
+      "id": 44,
+      "article_id": 26,
+      "speaker": "Geoffrey Ellis",
+      "speaker_role": "petroleum geochemist with the U.S. Geological Survey",
+      "quote_text": "A thing like a shale, or maybe a salt, would be really ideal to be sitting on top of that porous rock",
+      "stance": "neutral",
+      "article_title": "Earth's crust hides enough 'gold' hydrogen to power the world for tens of thousands of years, emerging research suggests",
+      "source_url": "https://www.livescience.com/planet-earth/geology/earths-crust-hides-enough-gold-hydrogen-to-power-the-world-for-tens-of-thousands-of-years-emerging-research-suggests"
+    },
+    {
+      "id": 52,
+      "article_id": 36,
+      "speaker": "Mike Mackey",
+      "speaker_role": "President of Fuelling Solutions at Nikkiso CE&IG",
+      "quote_text": "one of the first and few with the cryogenics expertise to manage the volume of liquid hydrogen needed to power full fleets of buses.",
+      "stance": "support",
+      "article_title": "Nikkiso contracted to limit boil-off at California hydrogen bus station",
+      "source_url": "https://www.h2-view.com/story/nikkiso-contracted-to-limit-boil-off-at-california-hydrogen-bus-station/2135710.article/"
+    },
+    {
+      "id": 53,
+      "article_id": 36,
+      "speaker": "Aaron Villarreal",
+      "speaker_role": "Director of Sales & Global Hydrogen at Taylor Wharton",
+      "quote_text": "Hydrogen fuelling stations today face significant boil-off losses ranging from 10% to as much as 50%.",
+      "stance": "oppose",
+      "article_title": "Nikkiso contracted to limit boil-off at California hydrogen bus station",
+      "source_url": "https://www.h2-view.com/story/nikkiso-contracted-to-limit-boil-off-at-california-hydrogen-bus-station/2135710.article/"
+    },
+    {
+      "id": 37,
+      "article_id": 25,
+      "speaker": "Hyundai Motor Group official",
+      "speaker_role": "official",
+      "quote_text": "Through this World Hydrogen Expo, we wanted to show that hydrogen is already a future-leading solution in our daily lives and across industries",
+      "stance": "support",
+      "article_title": "Hyundai Shines at World Hydrogen Expo 2025 | Fuel Cells Works",
+      "source_url": "https://fuelcellsworks.com/2025/12/08/energy-innovation/hyundai-motor-group-successfully-concludes-its-world-hydrogen-expo-2025-exhibition"
+    },
+    {
+      "id": 38,
+      "article_id": 25,
+      "speaker": "Hyundai Motor Group official",
+      "speaker_role": "official",
+      "quote_text": "As visitors directly witnessed the value and potential of hydrogen through various experiential programs and lectures, we will continue to work to expand the use of hydrogen and raise awareness in the future.",
+      "stance": "support",
+      "article_title": "Hyundai Shines at World Hydrogen Expo 2025 | Fuel Cells Works",
+      "source_url": "https://fuelcellsworks.com/2025/12/08/energy-innovation/hyundai-motor-group-successfully-concludes-its-world-hydrogen-expo-2025-exhibition"
+    },
+    {
+      "id": 48,
+      "article_id": 34,
+      "speaker": "Jaehoon Chang",
+      "speaker_role": "Vice Chair of Hyundai Motor Group",
+      "quote_text": "With the rapid increase in power demand driven by the spread of AI, expanding renewable energy is essential. Hydrogen offers the most powerful solution to store and utilize renewable energy, complementing its intermittency and enhancing overall efficiency.",
+      "stance": "support",
+      "article_title": "Hyundai Motor Group Showcases Hydrogen Technologies Across the Value Chain at World Hydrogen Expo in Korea",
+      "source_url": "https://solarquarter.com/2025/12/08/hyundai-motor-group-showcases-hydrogen-technologies-across-the-value-chain-at-world-hydrogen-expo-in-korea/"
+    },
+    {
+      "id": 49,
+      "article_id": 34,
+      "speaker": "Jaehoon Chang",
+      "speaker_role": "Vice Chair of Hyundai Motor Group",
+      "quote_text": "By converting surplus electricity into hydrogen, we can ease the burden on power grids and make energy systems more flexible. Hydrogen is the ultimate game changer for the future energy transition.",
+      "stance": "support",
+      "article_title": "Hyundai Motor Group Showcases Hydrogen Technologies Across the Value Chain at World Hydrogen Expo in Korea",
+      "source_url": "https://solarquarter.com/2025/12/08/hyundai-motor-group-showcases-hydrogen-technologies-across-the-value-chain-at-world-hydrogen-expo-in-korea/"
+    }
+  ],
+  "stakeholders": [
+    {
+      "stakeholder": "Hydrogen-related enterprises",
+      "position": "support",
+      "reasoning": "Benefiting from policy incentives and investment opportunities",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Hyundai Motor Group",
+      "position": "support",
+      "reasoning": "Actively promoting and investing in hydrogen technology and infrastructure.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Indian Railways",
+      "position": "support",
+      "reasoning": "Implementing a pilot project for hydrogen trains to demonstrate clean fuel technology.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Panzhihua City Government",
+      "position": "support",
+      "reasoning": "Driving urban transformation and industrial upgrading",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "BP, Shell, Engie, Equinor",
+      "position": "oppose",
+      "reasoning": "Scaled back or cancelled hydrogen ventures due to financial pressures and slow market uptake.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Businesses in the hydrogen supply chain",
+      "position": "support",
+      "reasoning": "Lowered barriers to collaboration and efficient matchmaking",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "CPC Corp.",
+      "position": "support",
+      "reasoning": "Will receive funding and is building hydrogen stations.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Central Government",
+      "position": "support",
+      "reasoning": "Supporting the project under the Atmanirbhar Bharat initiative.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Government of India",
+      "position": "support",
+      "reasoning": "Promotes green hydrogen generation and the Atmanirbhar Bharat initiative.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Governments",
+      "position": "support",
+      "reasoning": "Promoting decarbonization and clean energy through incentives.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Industrial companies, renewable-energy developers, sovereign wealth funds",
+      "position": "support",
+      "reasoning": "Genuine long-term conviction in hydrogen's potential for decarbonization and future growth.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Industry",
+      "position": "neutral",
+      "reasoning": "Hydrogen is a critical component of many industrial processes, but the source matters.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Korean Government (four ministries)",
+      "position": "support",
+      "reasoning": "Supporting the World Hydrogen Expo and positioning Korea as a global hydrogen hub.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Linde & Air Liquide",
+      "position": "support",
+      "reasoning": "Collaborating with Hyundai on Hydrogen Academy lectures, indicating commitment to hydrogen development.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Linde LienHwa Industrial Gases Co.",
+      "position": "neutral",
+      "reasoning": "Building a station but not currently eligible for subsidies.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Maritime Industry",
+      "position": "support",
+      "reasoning": "Seeking sustainable fuel alternatives to reduce CO2 emissions.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Ministry of Economic Affairs",
+      "position": "support",
+      "reasoning": "Promote green energy use and achieve net-zero carbon emissions.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Nikkiso CE&IG",
+      "position": "support",
+      "reasoning": "Possesses expertise to manage liquid hydrogen volume for bus fleets.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Oman",
+      "position": "support",
+      "reasoning": "Investing in a measured approach to hydrogen development, leveraging its resources and regulatory framework.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Refineries",
+      "position": "support",
+      "reasoning": "Reducing emissions to comply with regulations and unlock new revenue streams.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Resource exploration companies",
+      "position": "support",
+      "reasoning": "Rushing to find and extract natural hydrogen reservoirs for profit.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Riverside Transit Agency (RTA)",
+      "position": "support",
+      "reasoning": "Investing in a fleet of hydrogen-powered buses.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Scientists",
+      "position": "support",
+      "reasoning": "Believe natural hydrogen is a viable and abundant clean energy source.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Taylor Wharton",
+      "position": "oppose",
+      "reasoning": "High boil-off losses threaten hydrogen's commercial case.",
+      "mention_count": 1
+    }
+  ],
+  "summary_stats": {
+    "total_articles": 12,
+    "sources": 11,
+    "date_range": {
+      "start": "2025-12-08T07:20:17Z",
+      "end": "2025-12-11T21:03:29Z"
+    },
+    "avg_sentiment": 0.6083333333333333,
+    "total_quotes": 17,
+    "total_financial_mentions": 28
+  }
+}
