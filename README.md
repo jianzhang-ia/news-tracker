@@ -23,7 +23,7 @@ A real-time news analytics dashboard for tracking industrial policy developments
 
 ## Live Demo
 
-Visit the live dashboard: https://jianzhang-ia.github.io/News-Tracker/
+Visit the live dashboard: https://jianzhang-ia.github.io/news-tracker/
 
 ## Technology Stack
 
