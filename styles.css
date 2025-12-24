@@ -382,6 +382,23 @@ body {
     border-color: var(--primary-600);
 }
 
+/* Mobile responsive - category tabs */
+@media (max-width: 768px) {
+    .controls-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .category-nav {
+        justify-content: flex-start;
+        width: 100%;
+    }
+
+    .sort-controls {
+        justify-content: center;
+    }
+}
+
 /* =============================================================================
    EVENT CARDS
    ============================================================================= */
