@@ -7,6 +7,7 @@ let allArticles = [];
 let currentQuotesFilter = 'all';
 let currentArticlesFilter = 'all';
 let currentSpeakerFilter = 'all';
+let currentSourceFilter = 'all';
 
 // Get event ID from URL
 function getEventId() {
@@ -343,7 +344,7 @@ function renderQuotes(quotes, sentimentFilter = 'all', speakerFilter = 'all') {
 }
 
 // Render articles list with collapse and filtering
-function renderArticles(articles, filter = 'all') {
+function renderArticles(articles, sentimentFilter = 'all', sourceFilter = 'all') {
     const container = document.getElementById('articlesList');
 
     // Determine sentiment type from label
@@ -358,14 +359,23 @@ function renderArticles(articles, filter = 'all') {
         return 'neutral';
     };
 
-    // Apply filter
+    // Apply both sentiment and source filters
     const filteredArticles = articles.filter(article => {
-        if (filter === 'all') return true;
-        return getSentimentType(article.sentiment_label, article.sentiment_score) === filter;
+        const matchesSentiment = sentimentFilter === 'all' || getSentimentType(article.sentiment_label, article.sentiment_score) === sentimentFilter;
+        const matchesSource = sourceFilter === 'all' || (article.source_name || 'Unknown source') === sourceFilter;
+        return matchesSentiment && matchesSource;
     });
 
     if (filteredArticles.length === 0) {
-        container.innerHTML = `<li style="color: var(--gray-500);">No ${filter === 'all' ? '' : filter + ' '}articles found.</li>`;
+        let filterDesc = '';
+        if (sentimentFilter !== 'all' && sourceFilter !== 'all') {
+            filterDesc = `${sentimentFilter} articles from ${sourceFilter}`;
+        } else if (sentimentFilter !== 'all') {
+            filterDesc = `${sentimentFilter} articles`;
+        } else if (sourceFilter !== 'all') {
+            filterDesc = `articles from ${sourceFilter}`;
+        }
+        container.innerHTML = `<li style="color: var(--gray-500);">No ${filterDesc || 'articles'} found.</li>`;
         return;
     }
 
@@ -493,11 +503,16 @@ function setupFilterListeners() {
             speakerList.classList.toggle('collapsed');
         });
 
-        // Populate speaker buttons from quotes (use filter-btn class for consistent styling)
-        const speakers = [...new Set(allQuotes.map(q => q.speaker || 'Unknown'))].sort();
+        // Populate speaker buttons from quotes with counts (use filter-btn class for consistent styling)
+        const speakerCounts = {};
+        allQuotes.forEach(q => {
+            const speaker = q.speaker || 'Unknown';
+            speakerCounts[speaker] = (speakerCounts[speaker] || 0) + 1;
+        });
+        const speakers = Object.keys(speakerCounts).sort();
         speakerList.innerHTML = `
-            <button class="filter-btn active" data-speaker="all">All Speakers</button>
-            ${speakers.slice(0, 20).map(s => `<button class="filter-btn" data-speaker="${s}">${s}</button>`).join('')}
+            <button class="filter-btn active" data-speaker="all">All Speakers (${allQuotes.length})</button>
+            ${speakers.map(s => `<button class="filter-btn" data-speaker="${s}">${s} (${speakerCounts[s]})</button>`).join('')}
         `;
 
         // Speaker filter button clicks
@@ -517,7 +532,7 @@ function setupFilterListeners() {
         });
     }
 
-    // Articles filter buttons
+    // Articles sentiment filter buttons
     document.querySelectorAll('#articlesFilter .filter-btn').forEach(btn => {
         btn.addEventListener('click', () => {
             // Update active state
@@ -526,9 +541,48 @@ function setupFilterListeners() {
 
             // Apply filter
             currentArticlesFilter = btn.dataset.filter;
-            renderArticles(allArticles, currentArticlesFilter);
+            renderArticles(allArticles, currentArticlesFilter, currentSourceFilter);
         });
     });
+
+    // Source filter toggle
+    const sourceToggle = document.getElementById('sourceFilterToggle');
+    const sourceList = document.getElementById('sourceFilterList');
+
+    if (sourceToggle && sourceList) {
+        sourceToggle.addEventListener('click', () => {
+            sourceToggle.classList.toggle('expanded');
+            sourceList.classList.toggle('collapsed');
+        });
+
+        // Populate source buttons from articles with counts (use filter-btn class for consistent styling)
+        const sourceCounts = {};
+        allArticles.forEach(a => {
+            const source = a.source_name || 'Unknown source';
+            sourceCounts[source] = (sourceCounts[source] || 0) + 1;
+        });
+        const sources = Object.keys(sourceCounts).sort();
+        sourceList.innerHTML = `
+            <button class="filter-btn active" data-source="all">All Sources (${allArticles.length})</button>
+            ${sources.map(s => `<button class="filter-btn" data-source="${s}">${s} (${sourceCounts[s]})</button>`).join('')}
+        `;
+
+        // Source filter button clicks
+        sourceList.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                // Update active state
+                sourceList.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+
+                // Apply filter
+                currentSourceFilter = btn.dataset.source;
+                renderArticles(allArticles, currentArticlesFilter, currentSourceFilter);
+
+                // Update sentiment filter counts based on current source selection
+                updateFilterCounts();
+            });
+        });
+    }
 
     // Update counts
     updateFilterCounts();
@@ -567,9 +621,13 @@ function updateFilterCounts() {
         quoteCounts[stance]++;
     });
 
-    // Count articles by sentiment
-    const articleCounts = { all: allArticles.length, positive: 0, neutral: 0, negative: 0 };
-    allArticles.forEach(a => {
+    // Count articles by sentiment - filter by current source first
+    const sourceFilteredArticles = currentSourceFilter === 'all'
+        ? allArticles
+        : allArticles.filter(a => (a.source_name || 'Unknown source') === currentSourceFilter);
+
+    const articleCounts = { all: sourceFilteredArticles.length, positive: 0, neutral: 0, negative: 0 };
+    sourceFilteredArticles.forEach(a => {
         const sentiment = getSentimentType(a.sentiment_label, a.sentiment_score);
         articleCounts[sentiment]++;
     });

@@ -683,9 +683,8 @@ body {
     flex-wrap: wrap;
     gap: 0.5rem;
     padding: 0.75rem 0;
-    max-height: 200px;
     overflow: hidden;
-    transition: max-height 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
+    transition: max-height 0.4s ease, opacity 0.3s ease, padding 0.3s ease;
     opacity: 1;
 }
 
@@ -717,6 +716,66 @@ body {
     background: var(--primary-500);
     color: white;
     border-color: var(--primary-600);
+}
+
+/* =============================================================================
+   SOURCE FILTER - Collapsible filter by news source (same design as speaker filter)
+   ============================================================================= */
+.articles-filters {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.source-filter-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.5rem 1rem;
+    background: var(--gray-100);
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--gray-600);
+    transition: all var(--transition-base);
+}
+
+.source-filter-toggle:hover {
+    background: var(--gray-200);
+    color: var(--gray-800);
+}
+
+.source-filter-toggle.expanded {
+    background: var(--primary-500);
+    color: white;
+    border-color: var(--primary-600);
+}
+
+.source-filter-toggle svg {
+    transition: transform var(--transition-base);
+}
+
+.source-filter-toggle.expanded svg {
+    transform: rotate(180deg);
+}
+
+.source-filter-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0.75rem 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease, opacity 0.3s ease, padding 0.3s ease;
+    opacity: 1;
+}
+
+.source-filter-list.collapsed {
+    max-height: 0;
+    opacity: 0;
+    padding: 0;
 }
 
 /* =============================================================================

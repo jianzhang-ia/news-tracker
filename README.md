@@ -7,10 +7,12 @@ A real-time news analytics dashboard for tracking industrial policy developments
 - **Real-time News Aggregation** - Tracks news events from multiple sources
 - **Sentiment Analysis** - AI-powered sentiment scoring for each article and event
 - **Interactive Charts** - Popularity trends and sentiment visualization over time
+- **AI Executive Brief** - AI-generated analytical summary for each event
+- **Key Arguments** - AI-extracted arguments FOR and AGAINST each topic
 - **Key Quotes Extraction** - Automatically extracts and categorizes stakeholder quotes
 - **Financial Mentions** - Tracks monetary amounts mentioned in policy discussions
 - **Entity Recognition** - Identifies companies, politicians, and organizations
-- **Smart Filtering** - Filter by category, sentiment, and search across all data
+- **Advanced Filtering** - Filter by category, sentiment, speaker, and source
 
 ## Categories
 
@@ -30,6 +32,7 @@ Visit the live dashboard: https://jianzhang-ia.github.io/news-tracker/
 - **Frontend**: Vanilla JavaScript, HTML5, CSS3
 - **Styling**: Custom glassmorphism design with CSS variables
 - **Charts**: Chart.js for data visualization
+- **AI**: Gemini API for analysis and argument extraction
 - **Data**: Static JSON files (pre-processed from backend pipeline)
 
 ## Usage
@@ -43,8 +46,9 @@ Visit the live dashboard: https://jianzhang-ia.github.io/news-tracker/
 
 ### Event Details Include
 
+- AI-generated executive brief and key arguments
 - Sentiment trend over time
-- Key quotes from stakeholders
+- Key quotes from stakeholders (filterable by speaker)
 - Financial amounts mentioned
 - Top entities (companies, politicians, organizations)
-- Source articles with sentiment indicators
+- Source articles with sentiment indicators (filterable by source)

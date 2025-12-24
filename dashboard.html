@@ -183,12 +183,27 @@
             <div class="glass-card-static articles-section">
                 <div class="section-header">
                     <h3>Source Articles</h3>
-                    <div class="filter-buttons" id="articlesFilter">
-                        <button class="filter-btn active" data-filter="all">All <span class="count"></span></button>
-                        <button class="filter-btn" data-filter="positive">Positive <span class="count"></span></button>
-                        <button class="filter-btn" data-filter="neutral">Neutral <span class="count"></span></button>
-                        <button class="filter-btn" data-filter="negative">Negative <span class="count"></span></button>
+                    <div class="articles-filters">
+                        <button class="source-filter-toggle" id="sourceFilterToggle">
+                            <span>Filter by Source</span>
+                            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M2 4l4 4 4-4" />
+                            </svg>
+                        </button>
+                        <div class="filter-buttons" id="articlesFilter">
+                            <button class="filter-btn active" data-filter="all">All <span class="count"></span></button>
+                            <button class="filter-btn" data-filter="positive">Positive <span
+                                    class="count"></span></button>
+                            <button class="filter-btn" data-filter="neutral">Neutral <span
+                                    class="count"></span></button>
+                            <button class="filter-btn" data-filter="negative">Negative <span
+                                    class="count"></span></button>
+                        </div>
                     </div>
+                </div>
+                <div class="source-filter-list collapsed" id="sourceFilterList">
+                    <button class="filter-btn active" data-source="all">All Sources</button>
                 </div>
                 <ul class="article-list" id="articlesList"></ul>
             </div>
