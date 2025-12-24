@@ -354,17 +354,8 @@ body {
 .category-nav {
     display: flex;
     gap: 0.75rem;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
-    padding-bottom: 0.5rem;
-}
-
-.category-nav::-webkit-scrollbar {
-    display: none;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .category-tab {
@@ -377,8 +368,6 @@ body {
     font-weight: 500;
     transition: all var(--transition-base);
     color: var(--gray-700);
-    white-space: nowrap;
-    flex-shrink: 0;
 }
 
 .category-tab:hover {
