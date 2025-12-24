@@ -635,6 +635,91 @@ body {
 }
 
 /* =============================================================================
+   SPEAKER FILTER - Collapsible filter by speaker name
+   ============================================================================= */
+.quotes-filters {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.speaker-filter-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.5rem 1rem;
+    background: var(--gray-100);
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--gray-600);
+    transition: all var(--transition-base);
+}
+
+.speaker-filter-toggle:hover {
+    background: var(--gray-200);
+    color: var(--gray-800);
+}
+
+.speaker-filter-toggle.expanded {
+    background: var(--primary-500);
+    color: white;
+    border-color: var(--primary-600);
+}
+
+.speaker-filter-toggle svg {
+    transition: transform var(--transition-base);
+}
+
+.speaker-filter-toggle.expanded svg {
+    transform: rotate(180deg);
+}
+
+.speaker-filter-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0.75rem 0;
+    max-height: 200px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
+    opacity: 1;
+}
+
+.speaker-filter-list.collapsed {
+    max-height: 0;
+    opacity: 0;
+    padding: 0;
+}
+
+/* Speaker pills use same style as filter-btn */
+.speaker-filter-list .filter-btn {
+    padding: 0.5rem 1rem;
+    background: var(--gray-100);
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--gray-600);
+    transition: all var(--transition-base);
+}
+
+.speaker-filter-list .filter-btn:hover {
+    background: var(--gray-200);
+    color: var(--gray-800);
+}
+
+.speaker-filter-list .filter-btn.active {
+    background: var(--primary-500);
+    color: white;
+    border-color: var(--primary-600);
+}
+
+/* =============================================================================
    EXECUTIVE BRIEF - Prominent summary for policy makers
    ============================================================================= */
 .executive-brief-card {

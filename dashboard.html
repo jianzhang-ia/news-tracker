@@ -155,12 +155,26 @@
             <div class="glass-card-static quotes-section" id="quotesSection">
                 <div class="section-header">
                     <h3>Key Quotes</h3>
-                    <div class="filter-buttons" id="quotesFilter">
-                        <button class="filter-btn active" data-filter="all">All <span class="count"></span></button>
-                        <button class="filter-btn" data-filter="support">Support <span class="count"></span></button>
-                        <button class="filter-btn" data-filter="neutral">Neutral <span class="count"></span></button>
-                        <button class="filter-btn" data-filter="oppose">Oppose <span class="count"></span></button>
+                    <div class="quotes-filters">
+                        <button class="speaker-filter-toggle" id="speakerFilterToggle">
+                            <span>Filter by Speaker</span>
+                            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M2 4l4 4 4-4" />
+                            </svg>
+                        </button>
+                        <div class="filter-buttons" id="quotesFilter">
+                            <button class="filter-btn active" data-filter="all">All <span class="count"></span></button>
+                            <button class="filter-btn" data-filter="support">Support <span
+                                    class="count"></span></button>
+                            <button class="filter-btn" data-filter="neutral">Neutral <span
+                                    class="count"></span></button>
+                            <button class="filter-btn" data-filter="oppose">Oppose <span class="count"></span></button>
+                        </div>
                     </div>
+                </div>
+                <div class="speaker-filter-list collapsed" id="speakerFilterList">
+                    <button class="filter-btn active" data-speaker="all">All Speakers</button>
                 </div>
                 <div id="quotesContainer"></div>
             </div>

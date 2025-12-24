@@ -6,6 +6,7 @@ let allQuotes = [];
 let allArticles = [];
 let currentQuotesFilter = 'all';
 let currentArticlesFilter = 'all';
+let currentSpeakerFilter = 'all';
 
 // Get event ID from URL
 function getEventId() {
@@ -277,7 +278,7 @@ function toggleCollapse(sectionId, button) {
 }
 
 // Render quotes with collapse and filtering
-function renderQuotes(quotes, filter = 'all') {
+function renderQuotes(quotes, sentimentFilter = 'all', speakerFilter = 'all') {
     const container = document.getElementById('quotesContainer');
 
     // Normalize stance values (AI sometimes returns negative/positive instead of oppose/support)
@@ -289,14 +290,23 @@ function renderQuotes(quotes, filter = 'all') {
         return 'neutral';
     };
 
-    // Apply filter
+    // Apply both sentiment and speaker filters
     const filteredQuotes = quotes.filter(q => {
-        if (filter === 'all') return true;
-        return normalizeStance(q.stance) === filter;
+        const matchesSentiment = sentimentFilter === 'all' || normalizeStance(q.stance) === sentimentFilter;
+        const matchesSpeaker = speakerFilter === 'all' || (q.speaker || 'Unknown') === speakerFilter;
+        return matchesSentiment && matchesSpeaker;
     });
 
     if (filteredQuotes.length === 0) {
-        container.innerHTML = `<p style="color: var(--gray-500);">No ${filter === 'all' ? '' : filter + ' '}quotes found.</p>`;
+        let filterDesc = '';
+        if (sentimentFilter !== 'all' && speakerFilter !== 'all') {
+            filterDesc = `${sentimentFilter} quotes from ${speakerFilter}`;
+        } else if (sentimentFilter !== 'all') {
+            filterDesc = `${sentimentFilter} quotes`;
+        } else if (speakerFilter !== 'all') {
+            filterDesc = `quotes from ${speakerFilter}`;
+        }
+        container.innerHTML = `<p style="color: var(--gray-500);">No ${filterDesc || 'quotes'} found.</p>`;
         return;
     }
 
@@ -460,7 +470,7 @@ async function init() {
 
 // Set up filter button event listeners
 function setupFilterListeners() {
-    // Quotes filter buttons
+    // Quotes sentiment filter buttons
     document.querySelectorAll('#quotesFilter .filter-btn').forEach(btn => {
         btn.addEventListener('click', () => {
             // Update active state
@@ -469,9 +479,43 @@ function setupFilterListeners() {
 
             // Apply filter
             currentQuotesFilter = btn.dataset.filter;
-            renderQuotes(allQuotes, currentQuotesFilter);
+            renderQuotes(allQuotes, currentQuotesFilter, currentSpeakerFilter);
         });
     });
+
+    // Speaker filter toggle
+    const speakerToggle = document.getElementById('speakerFilterToggle');
+    const speakerList = document.getElementById('speakerFilterList');
+
+    if (speakerToggle && speakerList) {
+        speakerToggle.addEventListener('click', () => {
+            speakerToggle.classList.toggle('expanded');
+            speakerList.classList.toggle('collapsed');
+        });
+
+        // Populate speaker buttons from quotes (use filter-btn class for consistent styling)
+        const speakers = [...new Set(allQuotes.map(q => q.speaker || 'Unknown'))].sort();
+        speakerList.innerHTML = `
+            <button class="filter-btn active" data-speaker="all">All Speakers</button>
+            ${speakers.slice(0, 20).map(s => `<button class="filter-btn" data-speaker="${s}">${s}</button>`).join('')}
+        `;
+
+        // Speaker filter button clicks
+        speakerList.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                // Update active state
+                speakerList.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+
+                // Apply filter
+                currentSpeakerFilter = btn.dataset.speaker;
+                renderQuotes(allQuotes, currentQuotesFilter, currentSpeakerFilter);
+
+                // Update sentiment filter counts based on current speaker selection
+                updateFilterCounts();
+            });
+        });
+    }
 
     // Articles filter buttons
     document.querySelectorAll('#articlesFilter .filter-btn').forEach(btn => {
@@ -512,9 +556,13 @@ function updateFilterCounts() {
         return 'neutral';
     };
 
-    // Count quotes by stance
-    const quoteCounts = { all: allQuotes.length, support: 0, neutral: 0, oppose: 0 };
-    allQuotes.forEach(q => {
+    // Count quotes by stance - filter by current speaker first
+    const speakerFilteredQuotes = currentSpeakerFilter === 'all'
+        ? allQuotes
+        : allQuotes.filter(q => (q.speaker || 'Unknown') === currentSpeakerFilter);
+
+    const quoteCounts = { all: speakerFilteredQuotes.length, support: 0, neutral: 0, oppose: 0 };
+    speakerFilteredQuotes.forEach(q => {
         const stance = normalizeStance(q.stance);
         quoteCounts[stance]++;
     });
