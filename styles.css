@@ -522,29 +522,29 @@ body {
 
 .metric-cards {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 1.5rem;
     margin-bottom: 1rem;
 }
 
 .metric-card {
     text-align: center;
-    padding: 1.25rem;
+    padding: 0.875rem;
 }
 
 .metric-card .metric-icon {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.25rem;
 }
 
 .metric-card .metric-value {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 700;
     color: var(--primary-600);
 }
 
 .metric-card .metric-label {
-    font-size: 0.875rem;
+    font-size: 0.75rem;
     color: var(--gray-500);
 }
 
@@ -599,6 +599,100 @@ body {
 
 .quote-attribution strong {
     color: var(--gray-700);
+}
+
+/* =============================================================================
+   EXECUTIVE BRIEF - Prominent summary for policy makers
+   ============================================================================= */
+.executive-brief-card {
+    grid-column: span 12;
+}
+
+.executive-brief-card h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--gray-800);
+}
+
+.executive-brief-content {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: var(--gray-700);
+}
+
+.executive-brief-content p {
+    margin-bottom: 1rem;
+}
+
+.executive-brief-content p:last-child {
+    margin-bottom: 0;
+}
+
+/* =============================================================================
+   KEY ARGUMENTS - Side by side FOR and AGAINST
+   ============================================================================= */
+.key-arguments-card {
+    grid-column: span 12;
+}
+
+.key-arguments-card h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--gray-800);
+}
+
+.arguments-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.arguments-column h4 {
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid;
+}
+
+.arguments-for h4 {
+    color: var(--positive);
+    border-color: var(--positive);
+}
+
+.arguments-against h4 {
+    color: var(--negative);
+    border-color: var(--negative);
+}
+
+.arguments-column ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.arguments-column li {
+    padding: 0.75rem 0;
+    border-bottom: 2px solid var(--gray-300);
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--gray-700);
+}
+
+.arguments-column li:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+@media (max-width: 768px) {
+    .arguments-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
 }
 
 /* =============================================================================

@@ -73,6 +73,14 @@
                 <canvas id="sentimentChart"></canvas>
             </div>
 
+            <!-- Executive Brief -->
+            <div class="glass-card-static executive-brief-card full-width" id="executiveBriefSection"
+                style="display: none;">
+                <h3>Executive Brief</h3>
+                <div id="executiveBriefContent" class="executive-brief-content"></div>
+            </div>
+
+
             <!-- Entities Section -->
             <div class="glass-card-static chart-card full-width">
                 <h3>Key Entities Mentioned</h3>
@@ -96,6 +104,21 @@
             <div class="glass-card-static chart-card full-width" id="financialSection">
                 <h3>Financial Amounts Mentioned</h3>
                 <div id="financialList"></div>
+            </div>
+
+            <!-- Key Arguments -->
+            <div class="glass-card-static key-arguments-card" id="keyArgumentsSection" style="display: none;">
+                <h3>Key Arguments</h3>
+                <div class="arguments-grid">
+                    <div class="arguments-column arguments-for">
+                        <h4>For</h4>
+                        <ul id="argumentsFor"></ul>
+                    </div>
+                    <div class="arguments-column arguments-against">
+                        <h4>Against</h4>
+                        <ul id="argumentsAgainst"></ul>
+                    </div>
+                </div>
             </div>
 
             <!-- Quotes Section -->

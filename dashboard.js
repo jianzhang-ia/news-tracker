@@ -56,6 +56,38 @@ function renderMetrics(stats) {
     document.getElementById('financialCount').textContent = stats.total_financial_mentions || 0;
 }
 
+// Render executive brief
+function renderExecutiveBrief(brief) {
+    const section = document.getElementById('executiveBriefSection');
+    const content = document.getElementById('executiveBriefContent');
+
+    if (!brief) {
+        section.style.display = 'none';
+        return;
+    }
+
+    // Convert newlines to paragraphs
+    const paragraphs = brief.split('\n\n').filter(p => p.trim());
+    content.innerHTML = paragraphs.map(p => `<p>${p.trim()}</p>`).join('');
+    section.style.display = 'block';
+}
+
+// Render key arguments
+function renderKeyArguments(args) {
+    const section = document.getElementById('keyArgumentsSection');
+    const forList = document.getElementById('argumentsFor');
+    const againstList = document.getElementById('argumentsAgainst');
+
+    if (!args || (!args.for?.length && !args.against?.length)) {
+        section.style.display = 'none';
+        return;
+    }
+
+    forList.innerHTML = (args.for || []).map(arg => `<li>${arg}</li>`).join('');
+    againstList.innerHTML = (args.against || []).map(arg => `<li>${arg}</li>`).join('');
+    section.style.display = 'block';
+}
+
 // Render popularity chart
 function renderPopularityChart(trendData) {
     const ctx = document.getElementById('popularityChart').getContext('2d');
@@ -389,6 +421,12 @@ async function init() {
         document.getElementById('eventTitle').textContent = data.event.title || 'Event Dashboard';
         document.getElementById('eventSummary').textContent = data.event.summary || '';
         document.title = `${data.event.title} - Industrial Policy Analytics`;
+
+        // Render executive brief (if available)
+        renderExecutiveBrief(data.executive_brief);
+
+        // Render key arguments (if available)
+        renderKeyArguments(data.key_arguments);
 
         // Render all sections
         renderMetrics(data.summary_stats || {});
