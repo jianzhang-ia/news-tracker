@@ -8,11 +8,20 @@ A real-time news analytics dashboard for tracking industrial policy developments
 - **Sentiment Analysis** - AI-powered sentiment scoring for each article and event
 - **Interactive Charts** - Popularity trends and sentiment visualization over time
 - **AI Executive Brief** - AI-generated analytical summary for each event
-- **Key Arguments** - AI-extracted arguments FOR and AGAINST each topic
-- **Key Quotes Extraction** - Automatically extracts and categorizes stakeholder quotes
+- **What's at Stake** - Winners, losers, risks and opportunities analysis
+- **Quote Network** - Visual insights showing Top Speakers, Controversial entities (mixed reactions), and Consensus entities (agreement)
+- **Source Coverage Bias** - Grouped view of sources by sentiment (positive/neutral/negative) with expandable lists
+- **Key Quotes Extraction** - Color-coded by stance (support/neutral/oppose) with speaker filtering
 - **Financial Mentions** - Tracks monetary amounts mentioned in policy discussions
 - **Entity Recognition** - Identifies companies, politicians, and organizations
-- **Advanced Filtering** - Filter by category, sentiment, speaker, and source
+
+## Design
+
+- **Glassmorphism UI** - Modern glass-effect cards with subtle transparency
+- **Animated Gradient Background** - Dynamic blue-to-purple gradient animation
+- **Consistent Card Styling** - Unified design with colored left borders and subtle backgrounds
+- **Responsive Grids** - Adaptive layouts that adjust based on content availability
+- **Color-coded Stances** - Green (support), Red (oppose), Gray (neutral) throughout
 
 ## Categories
 
@@ -46,9 +55,11 @@ Visit the live dashboard: https://jianzhang-ia.github.io/news-tracker/
 
 ### Event Details Include
 
-- AI-generated executive brief and key arguments
-- Sentiment trend over time
-- Key quotes from stakeholders (filterable by speaker)
+- AI-generated executive brief and What's at Stake analysis
+- Quote Network with speaker insights and controversial/consensus entities
+- Source Coverage Bias showing media sentiment distribution
+- Key quotes from stakeholders (color-coded by stance, filterable by speaker)
 - Financial amounts mentioned
+- Sentiment trend and popularity charts
 - Top entities (companies, politicians, organizations)
 - Source articles with sentiment indicators (filterable by source)

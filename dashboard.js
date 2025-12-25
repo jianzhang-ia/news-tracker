@@ -90,6 +90,253 @@ function renderKeyArguments(args) {
     section.style.display = 'block';
 }
 
+// Render What's at Stake
+function renderWhatsAtStake(stake) {
+    const section = document.getElementById('whatsAtStakeSection');
+
+    if (!stake || (!stake.winners?.length && !stake.losers?.length && !stake.risks?.length && !stake.opportunities?.length)) {
+        section.style.display = 'none';
+        return;
+    }
+
+    document.getElementById('stakeWinners').innerHTML = (stake.winners || []).map(w => `<li>${w}</li>`).join('');
+    document.getElementById('stakeLosers').innerHTML = (stake.losers || []).map(l => `<li>${l}</li>`).join('');
+    document.getElementById('stakeRisks').innerHTML = (stake.risks || []).map(r => `<li>${r}</li>`).join('');
+    document.getElementById('stakeOpportunities').innerHTML = (stake.opportunities || []).map(o => `<li>${o}</li>`).join('');
+    section.style.display = 'block';
+}
+
+// Render Source Bias Map
+function renderSourceBias(biasData) {
+    const section = document.getElementById('sourceBiasSection');
+    const zonesContainer = document.getElementById('biasZones');
+
+    if (!biasData || !biasData.summary?.total_count) {
+        section.style.display = 'none';
+        return;
+    }
+
+    const summary = biasData.summary;
+    const zones = biasData.zones;
+    const MAX_VISIBLE = 5;
+
+    // Render summary
+    document.getElementById('biasSummary').innerHTML = `
+        <span class="bias-stat total">${summary.total_count} sources</span>
+        <span class="bias-stat positive">${summary.positive_count} positive</span>
+        <span class="bias-stat neutral">${summary.neutral_count} neutral</span>
+        <span class="bias-stat negative">${summary.negative_count} negative</span>
+    `;
+
+    // Render zones dynamically with collapse
+    const zoneConfigs = [
+        { key: 'positive', label: 'Positive Coverage', sources: zones.positive || [] },
+        { key: 'neutral', label: 'Neutral Coverage', sources: zones.neutral || [] },
+        { key: 'negative', label: 'Negative Coverage', sources: zones.negative || [] }
+    ];
+
+    zonesContainer.innerHTML = zoneConfigs.filter(z => z.sources.length > 0).map(zone => {
+        const visible = zone.sources.slice(0, MAX_VISIBLE);
+        const hidden = zone.sources.slice(MAX_VISIBLE);
+        const hiddenId = `bias-hidden-${zone.key}`;
+
+        return `
+            <div class="bias-zone bias-${zone.key}">
+                <h4>${zone.label} (${zone.sources.length})</h4>
+                <ul class="bias-list">
+                    ${visible.map(s => `
+                        <li>
+                            <span class="source-name">${s.source}</span>
+                            <span class="source-stats">${s.article_count}×, ${s.avg_sentiment > 0 ? '+' : ''}${s.avg_sentiment.toFixed(2)}</span>
+                        </li>
+                    `).join('')}
+                </ul>
+                ${hidden.length > 0 ? `
+                    <ul class="bias-list collapsible-section collapsed" id="${hiddenId}">
+                        ${hidden.map(s => `
+                            <li>
+                                <span class="source-name">${s.source}</span>
+                                <span class="source-stats">${s.article_count}×, ${s.avg_sentiment > 0 ? '+' : ''}${s.avg_sentiment.toFixed(2)}</span>
+                            </li>
+                        `).join('')}
+                    </ul>
+                    <button class="expand-btn-small" onclick="toggleCollapse('${hiddenId}', this)">
+                        +${hidden.length} more ▼
+                    </button>
+                ` : ''}
+            </div>
+        `;
+    }).join('');
+
+    section.style.display = 'block';
+}
+
+// Render Quote Network as compact insight panel
+function renderQuoteNetwork(connections) {
+    const section = document.getElementById('quoteNetworkSection');
+    const container = document.getElementById('networkConnections');
+
+    if (!connections || connections.length === 0) {
+        section.style.display = 'none';
+        return;
+    }
+
+    // Normalize stance
+    const normalizeStance = (stance) => {
+        if (!stance) return 'neutral';
+        const s = stance.toLowerCase();
+        if (s === 'support' || s === 'positive') return 'support';
+        if (s === 'oppose' || s === 'negative') return 'oppose';
+        return 'neutral';
+    };
+
+    // Analyze the network
+    const speakers = {};
+    const entities = {};
+
+    connections.forEach(c => {
+        const stance = normalizeStance(c.stance);
+
+        // Track speakers
+        if (!speakers[c.from]) {
+            speakers[c.from] = { support: 0, oppose: 0, neutral: 0, total: 0 };
+        }
+        speakers[c.from][stance]++;
+        speakers[c.from].total++;
+
+        // Track entities
+        if (!entities[c.to]) {
+            entities[c.to] = { support: 0, oppose: 0, neutral: 0, total: 0, speakers: new Set() };
+        }
+        entities[c.to][stance]++;
+        entities[c.to].total++;
+        entities[c.to].speakers.add(c.from);
+    });
+
+    // Find controversial entities (have both support AND oppose) - get all for expandable
+    const controversialAll = Object.entries(entities)
+        .filter(([_, e]) => e.support > 0 && e.oppose > 0)
+        .sort((a, b) => (b[1].support + b[1].oppose) - (a[1].support + a[1].oppose));
+
+    // Find consensus entities (only one type of stance: only support, only oppose, or only neutral)
+    const consensusAll = Object.entries(entities)
+        .filter(([_, e]) => {
+            const hasSupport = e.support > 0;
+            const hasOppose = e.oppose > 0;
+            const hasNeutral = e.neutral > 0;
+            // Only one type of stance
+            return (hasSupport && !hasOppose && !hasNeutral) ||
+                (hasOppose && !hasSupport && !hasNeutral) ||
+                (hasNeutral && !hasSupport && !hasOppose);
+        })
+        .sort((a, b) => b[1].total - a[1].total);
+
+    // Top speakers by activity - get all for expandable
+    const topSpeakersAll = Object.entries(speakers)
+        .sort((a, b) => b[1].total - a[1].total);
+
+    const MAX_VISIBLE = 5;
+
+    // Helper to render bars with optional expand
+    const renderBarRows = (items, type) => {
+        const visible = items.slice(0, MAX_VISIBLE);
+        const hidden = items.slice(MAX_VISIBLE);
+        const hiddenId = `network-hidden-${type}`;
+
+        const renderRow = ([name, data]) => {
+            if (type === 'consensus') {
+                // Single bar for consensus (only one stance type)
+                const stanceType = data.support > 0 ? 'support' : data.oppose > 0 ? 'oppose' : 'neutral';
+                const count = data.support || data.oppose || data.neutral;
+                return `
+                    <div class="entity-bar-row">
+                        <span class="entity-name">${name}</span>
+                        <div class="stance-bar">
+                            <div class="bar-${stanceType}" style="width: 100%">${count}</div>
+                        </div>
+                    </div>
+                `;
+            } else {
+                // Multi-bar for speakers and controversial
+                const total = data.support + data.oppose + data.neutral || 1;
+                const supportPct = Math.round((data.support / total) * 100);
+                const opposePct = Math.round((data.oppose / total) * 100);
+                const neutralPct = 100 - supportPct - opposePct;
+                return `
+                    <div class="entity-bar-row">
+                        <span class="entity-name">${name}</span>
+                        <div class="stance-bar">
+                            ${data.support > 0 ? `<div class="bar-support" style="width: ${supportPct}%">${data.support}</div>` : ''}${data.neutral > 0 ? `<div class="bar-neutral" style="width: ${neutralPct}%">${data.neutral}</div>` : ''}${data.oppose > 0 ? `<div class="bar-oppose" style="width: ${opposePct}%">${data.oppose}</div>` : ''}
+                        </div>
+                    </div>
+                `;
+            }
+        };
+
+        return `
+            ${visible.map(renderRow).join('')}
+            ${hidden.length > 0 ? `
+                <div class="collapsible-section collapsed" id="${hiddenId}">
+                    ${hidden.map(renderRow).join('')}
+                </div>
+                <button class="expand-btn-small" onclick="toggleCollapse('${hiddenId}', this)">
+                    Show ${hidden.length} more ▼
+                </button>
+            ` : ''}
+        `;
+    };
+
+    // Stats
+    const totalSpeakers = Object.keys(speakers).length;
+    const totalEntities = Object.keys(entities).length;
+    const supportCount = connections.filter(c => normalizeStance(c.stance) === 'support').length;
+    const opposeCount = connections.filter(c => normalizeStance(c.stance) === 'oppose').length;
+    const neutralCount = connections.filter(c => normalizeStance(c.stance) === 'neutral').length;
+
+    container.innerHTML = `
+        <div class="network-insights">
+            <div class="network-stats-row">
+                <span class="stat-pill">${totalSpeakers} Speakers</span>
+                <span class="stat-pill">${totalEntities} Entities</span>
+                <span class="stat-pill positive">${supportCount} Support</span>
+                <span class="stat-pill neutral">${neutralCount} Neutral</span>
+                <span class="stat-pill negative">${opposeCount} Oppose</span>
+            </div>
+            
+            <div class="insight-grid-dynamic">
+                ${topSpeakersAll.length > 0 ? `
+                <div class="insight-section speakers">
+                    <h4>Top Speakers</h4>
+                    <div class="entity-bars">
+                        ${renderBarRows(topSpeakersAll, 'speakers')}
+                    </div>
+                </div>
+                ` : ''}
+                
+                ${controversialAll.length > 0 ? `
+                <div class="insight-section controversial">
+                    <h4>Controversial</h4>
+                    <div class="entity-bars">
+                        ${renderBarRows(controversialAll, 'controversial')}
+                    </div>
+                </div>
+                ` : ''}
+                
+                ${consensusAll.length > 0 ? `
+                <div class="insight-section consensus">
+                    <h4>Consensus</h4>
+                    <div class="entity-bars">
+                        ${renderBarRows(consensusAll, 'consensus')}
+                    </div>
+                </div>
+                ` : ''}
+            </div>
+        </div>
+    `;
+
+    section.style.display = 'block';
+}
+
 // Render popularity chart
 function renderPopularityChart(trendData) {
     const ctx = document.getElementById('popularityChart').getContext('2d');
@@ -233,7 +480,7 @@ function renderFinancial(financial) {
         return true;
     });
 
-    const COLLAPSE_THRESHOLD = 30;
+    const COLLAPSE_THRESHOLD = 16;
     const needsCollapse = uniqueAmounts.length > COLLAPSE_THRESHOLD;
     const visibleAmounts = needsCollapse ? uniqueAmounts.slice(0, COLLAPSE_THRESHOLD) : uniqueAmounts;
     const hiddenAmounts = needsCollapse ? uniqueAmounts.slice(COLLAPSE_THRESHOLD) : [];
@@ -278,6 +525,19 @@ function toggleCollapse(sectionId, button) {
     }
 }
 
+// Toggle expand/collapse for quote sources
+function toggleSources(hiddenId, button) {
+    const hidden = document.getElementById(hiddenId);
+    if (hidden.style.display === 'none') {
+        hidden.style.display = 'inline';
+        button.textContent = 'show less';
+    } else {
+        hidden.style.display = 'none';
+        const count = button.dataset.count;
+        button.textContent = `+${count} more`;
+    }
+}
+
 // Render quotes with collapse and filtering
 function renderQuotes(quotes, sentimentFilter = 'all', speakerFilter = 'all') {
     const container = document.getElementById('quotesContainer');
@@ -291,12 +551,42 @@ function renderQuotes(quotes, sentimentFilter = 'all', speakerFilter = 'all') {
         return 'neutral';
     };
 
-    // Apply both sentiment and speaker filters
-    const filteredQuotes = quotes.filter(q => {
+    // Build article ID to source name mapping
+    const articleSourceMap = {};
+    allArticles.forEach(a => {
+        articleSourceMap[a.id] = a.source_name || 'Unknown source';
+    });
+
+    // Group quotes by speaker + quote_text (normalized for comparison)
+    const groupedQuotes = {};
+    quotes.forEach(q => {
+        const key = `${(q.speaker || 'Unknown').toLowerCase()}|||${q.quote_text.toLowerCase().trim()}`;
+        if (!groupedQuotes[key]) {
+            groupedQuotes[key] = {
+                speaker: q.speaker || 'Unknown',
+                speaker_role: q.speaker_role,
+                quote_text: q.quote_text,
+                stance: q.stance,
+                sources: []
+            };
+        }
+        // Add source from this quote
+        const sourceName = articleSourceMap[q.article_id] || 'Unknown source';
+        if (!groupedQuotes[key].sources.includes(sourceName)) {
+            groupedQuotes[key].sources.push(sourceName);
+        }
+    });
+
+    // Convert to array and apply filters
+    const groupedArray = Object.values(groupedQuotes);
+    const filteredQuotes = groupedArray.filter(q => {
         const matchesSentiment = sentimentFilter === 'all' || normalizeStance(q.stance) === sentimentFilter;
-        const matchesSpeaker = speakerFilter === 'all' || (q.speaker || 'Unknown') === speakerFilter;
+        const matchesSpeaker = speakerFilter === 'all' || q.speaker === speakerFilter;
         return matchesSentiment && matchesSpeaker;
     });
+
+    // Sort by number of sources (most reported first)
+    filteredQuotes.sort((a, b) => b.sources.length - a.sources.length);
 
     if (filteredQuotes.length === 0) {
         let filterDesc = '';
@@ -316,25 +606,44 @@ function renderQuotes(quotes, sentimentFilter = 'all', speakerFilter = 'all') {
     const visibleQuotes = needsCollapse ? filteredQuotes.slice(0, COLLAPSE_THRESHOLD) : filteredQuotes;
     const hiddenQuotes = needsCollapse ? filteredQuotes.slice(COLLAPSE_THRESHOLD) : [];
 
-    const renderQuote = q => {
+    const renderQuote = (q, index) => {
         const stance = normalizeStance(q.stance);
+        const sourceCount = q.sources.length;
+        const MAX_VISIBLE = 3;
+        const visibleSources = q.sources.slice(0, MAX_VISIBLE);
+        const hiddenSources = q.sources.slice(MAX_VISIBLE);
+        const hiddenCount = hiddenSources.length;
+
+        let sourcesHtml = visibleSources.join(', ');
+        if (hiddenCount > 0) {
+            const hiddenId = `hidden-sources-${index}`;
+            sourcesHtml += `<span class="sources-hidden" id="${hiddenId}" style="display: none;">, ${hiddenSources.join(', ')}</span>`;
+            sourcesHtml += ` <span class="sources-more" data-count="${hiddenCount}" onclick="toggleSources('${hiddenId}', this)">+${hiddenCount} more</span>`;
+        }
+
+        // Determine stance class for colored background
+        const stanceClass = stance === 'support' ? 'quote-support' : stance === 'oppose' ? 'quote-oppose' : 'quote-neutral';
+
         return `
-            <div class="quote-card">
+            <div class="quote-card ${stanceClass}">
                 <div class="quote-text">"${q.quote_text}"</div>
                 <div class="quote-attribution">
-                    <strong>${q.speaker || 'Unknown'}</strong>
-                    ${q.speaker_role ? `, ${q.speaker_role}` : ''}
-                    ${stance ? ` <span class="sentiment-badge sentiment-${stance === 'support' ? 'positive' : stance === 'oppose' ? 'negative' : 'neutral'}">${stance}</span>` : ''}
+                    <div class="quote-speaker-info">
+                        <strong>${q.speaker}</strong>
+                        ${q.speaker_role ? `, ${q.speaker_role}` : ''}
+                        ${stance ? ` <span class="sentiment-badge sentiment-${stance === 'support' ? 'positive' : stance === 'oppose' ? 'negative' : 'neutral'}">${stance}</span>` : ''}
+                    </div>
+                    <div class="quote-sources">${sourceCount > 1 ? `<span class="source-count">${sourceCount}×</span> ` : ''}${sourcesHtml}</div>
                 </div>
             </div>
         `;
     };
 
     container.innerHTML = `
-        ${visibleQuotes.map(renderQuote).join('')}
+        ${visibleQuotes.map((q, i) => renderQuote(q, i)).join('')}
         ${needsCollapse ? `
             <div class="collapsible-section collapsed" id="quotesHidden">
-                ${hiddenQuotes.map(renderQuote).join('')}
+                ${hiddenQuotes.map((q, i) => renderQuote(q, i + visibleQuotes.length)).join('')}
             </div>
             <button class="expand-btn" onclick="toggleCollapse('quotesHidden', this)">
                 Show ${hiddenQuotes.length} more ▼
@@ -448,12 +757,20 @@ async function init() {
         // Render key arguments (if available)
         renderKeyArguments(data.key_arguments);
 
+        // Render What's at Stake (if available)
+        renderWhatsAtStake(data.whats_at_stake);
+
         // Render all sections
         renderMetrics(data.summary_stats || {});
         renderPopularityChart(data.popularity_trend);
         renderSentimentChart(data.sentiment_trend);
         renderEntities(data.entities || {});
         renderFinancial(data.financial || {});
+
+        // Render data-driven analysis
+        renderSourceBias(data.source_bias);
+        renderQuoteNetwork(data.quote_network);
+
         renderQuotes(allQuotes, currentQuotesFilter);
         renderArticles(allArticles, currentArticlesFilter);
 

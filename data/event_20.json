@@ -6,10 +6,10 @@
     "category": "other",
     "summary": "F\u00fcr die Studie sind den Angaben nach mehr als 283.000 Mietvertr\u00e4ge ausgewertet worden. Im Vergleich zu 2022 sind die Mieten demnach um 8,8 Prozent gestiegen.\n\nDie monatliche Nettokaltmiete in Hamburg liegt nach einer Studie der Wohnungswirtschaft derzeit im Schnitt bei 9,11 Euro je Quadratmeter. Im ...",
     "first_seen": "2025-12-23T19:27:03.434874",
-    "last_updated": "2025-12-24T02:37:31.068552",
+    "last_updated": "2025-12-24T22:42:51.872965",
     "created_at": "2025-12-23 18:27:03"
   },
-  "generated_at": "2025-12-24T02:39:31.507337",
+  "generated_at": "2025-12-25T02:02:36.572401",
   "articles": [
     {
       "id": 323,
@@ -619,6 +619,105 @@
       "mention_count": 1
     }
   ],
+  "source_bias": {
+    "all_sources": [
+      {
+        "source": "MOPO.de",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Radio Hamburg",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "N-tv",
+        "avg_sentiment": -0.15,
+        "article_count": 1
+      },
+      {
+        "source": "WEB.DE",
+        "avg_sentiment": -0.1,
+        "article_count": 1
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "avg_sentiment": -0.1,
+        "article_count": 1
+      },
+      {
+        "source": "DIE WELT",
+        "avg_sentiment": 0.0,
+        "article_count": 1
+      },
+      {
+        "source": "Norddeutscher Rundfunk",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "S\u00fcddeutsche Zeitung",
+        "avg_sentiment": 0.3,
+        "article_count": 1
+      }
+    ],
+    "zones": {
+      "negative": [
+        {
+          "source": "MOPO.de",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Radio Hamburg",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "N-tv",
+          "avg_sentiment": -0.15,
+          "article_count": 1
+        }
+      ],
+      "neutral": [
+        {
+          "source": "DIE WELT",
+          "avg_sentiment": 0.0,
+          "article_count": 1
+        },
+        {
+          "source": "Norddeutscher Rundfunk",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "WEB.DE",
+          "avg_sentiment": -0.1,
+          "article_count": 1
+        },
+        {
+          "source": "ZEIT ONLINE",
+          "avg_sentiment": -0.1,
+          "article_count": 1
+        }
+      ],
+      "positive": [
+        {
+          "source": "S\u00fcddeutsche Zeitung",
+          "avg_sentiment": 0.3,
+          "article_count": 1
+        }
+      ]
+    },
+    "summary": {
+      "negative_count": 3,
+      "neutral_count": 4,
+      "positive_count": 1,
+      "total_count": 8
+    }
+  },
+  "quote_network": [],
   "summary_stats": {
     "total_articles": 8,
     "sources": 8,
@@ -630,17 +729,39 @@
     "total_quotes": 13,
     "total_financial_mentions": 23
   },
-  "executive_brief": "A recent study indicates the average monthly net cold rent in Hamburg is \u20ac9.11 per square meter, representing an 8.8% increase since 2022, based on analysis of over 283,000 rental contracts. This news is covered by 8 sources, with a slightly negative overall sentiment (-0.04), and is significant because housing affordability is a major concern for residents and a key political issue in the city, especially given consumer price increases of 11% in the same period. The study\u2019s release is sparking debate about whether Hamburg\u2019s rental market is functioning effectively and if current policies are sufficient to address the housing shortage. \n\nThe stakeholder landscape is divided, with industry representatives like Carl-Christian Franzen of IVD Nord asserting that \u201cthe rental market in our city functions\u201d and Kay Brahmst of BFW Nord stating \u201cthe rents in Hamburg are not too high.\u201d Conversely, opposition parties like the Linksfraktion, through Heike Sudmann, argue that \u201cwhoever is looking for an apartment in Hamburg will hardly find an offer under 9 euros cold rent,\u201d and the CDU-Fraktion, via Anke Frieling, blames the governing coalition for failing to create enough affordable housing. The financial implication is that a typical 80 square meter apartment now costs around \u20ac730 per month in net cold rent, placing a significant burden on household budgets.",
+  "executive_brief": "A recent study indicates the average monthly net cold rent in Hamburg is \u20ac9.11 per square meter, representing an 8.8% increase since 2022, based on analysis of over 283,000 rental contracts. This news is covered by 8 sources, with a slightly negative overall sentiment (-0.04), and is significant because housing affordability is a major concern for residents and a key political issue in the city, especially given the broader context of an 11% increase in consumer prices. The study\u2019s release is sparking debate about the effectiveness of current housing policies and the overall health of Hamburg\u2019s rental market. \n\nThe debate is sharply divided, with organizations like the Immobilienverband Deutschland (IVD) Nord and Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW) Nord arguing the market \u201cfunctions\u201d and rents aren\u2019t \u201ctoo high,\u201d as stated by Carl-Christian Franzen and Kay Brahmst respectively. Conversely, the Linksfraktion, through Heike Sudmann, contends that affordable options are scarce, with few rentals available under \u20ac9 per square meter, while the CDU-Fraktion, represented by Anke Frieling, blames the current governing coalition for failing to create sufficient housing supply. The financial implication is a monthly cost of \u20ac730 for an 80 square meter apartment, a figure that is contested as either reasonable or unaffordable depending on the stakeholder.",
   "key_arguments": {
     "for": [
-      "The Hamburg rental market is functioning adequately, as evidenced by the study\u2019s findings and supported by industry representatives.",
-      "The 8.8% increase in rent is not excessive, especially when considered alongside the 11% rise in consumer prices, suggesting rents are keeping pace with broader economic inflation.",
-      "The study, based on a large sample size of over 283,000 contracts, provides a reliable overview of the rental situation in Hamburg."
+      "The Hamburg rental market is functioning effectively, as evidenced by the reported average rent and the lack of widespread crisis signals.",
+      "The increase in rents is proportionate to broader economic inflation, suggesting the market is responding to normal economic pressures.",
+      "The study provides a data-driven assessment of the rental market, offering a more objective view than anecdotal evidence."
     ],
     "against": [
-      "The average net cold rent of \u20ac9.11 per square meter is effectively pricing many residents out of the market, as highlighted by Heike Sudmann who states finding an apartment under \u20ac9 is \u201chardly\u201d possible.",
-      "The governing coalition has failed to address the housing shortage, leading to high rents and limited availability, according to Anke Frieling of the CDU-Fraktion.",
-      "The study is a \u201ccalming pill\u201d that obscures the real lack of affordable housing, according to the Mieterverein zu Hamburg, suggesting the data doesn\u2019t reflect the lived experience of renters."
+      "The study downplays the lack of affordable housing options, as highlighted by Heike Sudmann\u2019s statement that finding rentals under \u20ac9/sqm is nearly impossible.",
+      "The current governing coalition has failed to address the housing shortage, leading to increased rents and reduced affordability, according to Anke Frieling.",
+      "The reported average rent does not reflect the lived experience of many Hamburg residents who struggle to find suitable and affordable housing."
+    ]
+  },
+  "whats_at_stake": {
+    "winners": [
+      "Saga and other property management companies - They benefit from increased rental income and a stable market.",
+      "Grundeigent\u00fcmer-Verband Hamburg - They see their property values potentially increase with rising rents.",
+      "Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW) Nord - They benefit from a narrative that supports their business model and avoids stricter regulations."
+    ],
+    "losers": [
+      "Low-income renters - They face increasing financial strain and limited housing options.",
+      "Potential Hamburg residents - The high cost of living may deter people from moving to the city.",
+      "Linksfraktion - Their political platform advocating for affordable housing is undermined by the study\u2019s findings, potentially impacting their electoral prospects."
+    ],
+    "risks": [
+      "Further increases in rental prices could exacerbate the housing crisis and lead to social unrest.",
+      "A lack of new housing construction could worsen the affordability problem and hinder economic growth.",
+      "Political backlash against the governing coalition if they fail to address the housing shortage effectively."
+    ],
+    "opportunities": [
+      "Increased investment in affordable housing initiatives could alleviate the crisis and improve living conditions.",
+      "Policy reforms aimed at streamlining the construction process could accelerate the supply of new housing.",
+      "The study could serve as a catalyst for a broader discussion about housing policy and affordability in Hamburg."
     ]
   }
 }

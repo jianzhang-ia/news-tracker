@@ -6,10 +6,10 @@
     "category": "other",
     "summary": "Die Gespr\u00e4che in den USA \u00fcber eine Friedensl\u00f6sung f\u00fcr den Ukraine-Krieg sind nach Angaben verschiedener Seiten positiv verlaufen, ohne dass Details oder konkrete Fortschritte bekannt wurden. An den Unterredungen in Miami im US-Bundesstaat Florida, die das gesamte Wochenende \u00fcber andauern sollten, wa...",
     "first_seen": "2025-12-23T19:30:43.762873",
-    "last_updated": "2025-12-24T02:37:31.297005",
+    "last_updated": "2025-12-24T22:42:52.049995",
     "created_at": "2025-12-23 18:30:43"
   },
-  "generated_at": "2025-12-24T02:39:31.476684",
+  "generated_at": "2025-12-25T02:02:36.536162",
   "articles": [
     {
       "id": 349,
@@ -1676,6 +1676,298 @@
       "mention_count": 1
     }
   ],
+  "source_bias": {
+    "all_sources": [
+      {
+        "source": "taz.de",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "wallstreet:online",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "Handelsblatt",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "Freie Presse",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "Weser Kurier",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "Der Tagesspiegel",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "TAG24",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Livesystems",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "NWZ Online",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "finanzen.at",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Main-Spitze",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Frankfurter Neue Presse",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Badische Zeitung",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "op-online.de",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Frankfurter Allgemeine",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "IT News zu den Themen K\u00fcnstliche Intelligenz, Roboter und Maschinelles Lernen - IT BOLTWISE\u00ae x Artificial Intelligence",
+        "avg_sentiment": 0.25,
+        "article_count": 2
+      },
+      {
+        "source": "Trierischer Volksfreund. Die Zeitung f\u00fcr die Region Trier/Mosel",
+        "avg_sentiment": 0.25,
+        "article_count": 2
+      },
+      {
+        "source": "BRF Nachrichten",
+        "avg_sentiment": 0.3,
+        "article_count": 1
+      },
+      {
+        "source": "stern.de",
+        "avg_sentiment": 0.3,
+        "article_count": 1
+      },
+      {
+        "source": "Vienna Online",
+        "avg_sentiment": 0.4,
+        "article_count": 1
+      }
+    ],
+    "zones": {
+      "negative": [
+        {
+          "source": "taz.de",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        }
+      ],
+      "neutral": [
+        {
+          "source": "wallstreet:online",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "Handelsblatt",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "Freie Presse",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "Weser Kurier",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "Der Tagesspiegel",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        }
+      ],
+      "positive": [
+        {
+          "source": "Vienna Online",
+          "avg_sentiment": 0.4,
+          "article_count": 1
+        },
+        {
+          "source": "BRF Nachrichten",
+          "avg_sentiment": 0.3,
+          "article_count": 1
+        },
+        {
+          "source": "stern.de",
+          "avg_sentiment": 0.3,
+          "article_count": 1
+        },
+        {
+          "source": "IT News zu den Themen K\u00fcnstliche Intelligenz, Roboter und Maschinelles Lernen - IT BOLTWISE\u00ae x Artificial Intelligence",
+          "avg_sentiment": 0.25,
+          "article_count": 2
+        },
+        {
+          "source": "Trierischer Volksfreund. Die Zeitung f\u00fcr die Region Trier/Mosel",
+          "avg_sentiment": 0.25,
+          "article_count": 2
+        },
+        {
+          "source": "TAG24",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Livesystems",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "NWZ Online",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "finanzen.at",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Main-Spitze",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Frankfurter Neue Presse",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Badische Zeitung",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "op-online.de",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Frankfurter Allgemeine",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        }
+      ]
+    },
+    "summary": {
+      "negative_count": 1,
+      "neutral_count": 5,
+      "positive_count": 14,
+      "total_count": 20
+    }
+  },
+  "quote_network": [
+    {
+      "from": "Wolodymyr Selenskyj",
+      "to": "USA",
+      "stance": "neutral",
+      "quote_snippet": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mi"
+    },
+    {
+      "from": "Wolodymyr Selenskyj",
+      "to": "Ukraine",
+      "stance": "neutral",
+      "quote_snippet": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mi"
+    },
+    {
+      "from": "Mark Rutte",
+      "to": "Kreml",
+      "stance": "support",
+      "quote_snippet": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Ei"
+    },
+    {
+      "from": "Emmanuel Macron",
+      "to": "Ukraine",
+      "stance": "neutral",
+      "quote_snippet": "es n\u00fctzlich sein k\u00f6nnte f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der D"
+    },
+    {
+      "from": "Emmanuel Macron",
+      "to": "Europa",
+      "stance": "neutral",
+      "quote_snippet": "es n\u00fctzlich sein k\u00f6nnte f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der D"
+    },
+    {
+      "from": "Volodymyr Selenskyj",
+      "to": "USA",
+      "stance": "neutral",
+      "quote_snippet": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mi"
+    },
+    {
+      "from": "Volodymyr Selenskyj",
+      "to": "Ukraine",
+      "stance": "neutral",
+      "quote_snippet": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mi"
+    },
+    {
+      "from": "Juri Uschakow",
+      "to": "Ukraine",
+      "stance": "oppose",
+      "quote_snippet": "\"Ich bin sicher, dass die Vorschl\u00e4ge, die die Europ\u00e4er und Ukrainer gemacht haben ... die M\u00f6glichkei"
+    },
+    {
+      "from": "Juri Uschakow",
+      "to": "Europ\u00e4er",
+      "stance": "oppose",
+      "quote_snippet": "\"Ich bin sicher, dass die Vorschl\u00e4ge, die die Europ\u00e4er und Ukrainer gemacht haben ... die M\u00f6glichkei"
+    },
+    {
+      "from": "Emmanuel Macron",
+      "to": "Ukraine",
+      "stance": "support",
+      "quote_snippet": "Es k\u00f6nnte n\u00fctzlich sein f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der D"
+    },
+    {
+      "from": "Emmanuel Macron",
+      "to": "Europa",
+      "stance": "support",
+      "quote_snippet": "Es k\u00f6nnte n\u00fctzlich sein f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der D"
+    },
+    {
+      "from": "Wolodymyr Selenskyj",
+      "to": "Ukraine",
+      "stance": "oppose",
+      "quote_snippet": "\"Es ist nicht an Putin, zu entscheiden, wann und in welchem Format Wahlen in der Ukraine stattfinden"
+    }
+  ],
   "summary_stats": {
     "total_articles": 22,
     "sources": 20,
@@ -1687,17 +1979,39 @@
     "total_quotes": 73,
     "total_financial_mentions": 0
   },
-  "executive_brief": "High-level, multi-party talks regarding a potential resolution to the Ukraine conflict took place in Miami from December 21st to 22nd, 2025, generating 22 articles from 20 sources. While details remain scarce, initial reports indicate a generally positive atmosphere, suggesting a renewed, albeit cautious, diplomatic effort to de-escalate the war; this is significant as it represents one of the first reported instances of all sides engaging in direct talks since June 2024. The timing and location suggest a deliberate attempt to create a neutral ground for discussion, potentially facilitated by the incoming US administration. \n\nStakeholder positions are complex and reveal underlying tensions. Both the US and Ukrainian governments characterize the talks as \u201cproductive and constructive,\u201d with Ukrainian officials stating they are \u201cworking constructively and sachlich\u201d and anticipating \u201cfurther advancements.\u201d However, Russian officials, while also describing the discussions as \u201cconstructive,\u201d maintain that Russia\u2019s conditions for a ceasefire, unchanged since June 2024, remain paramount, and Juri Uschakow believes European and Ukrainian proposals \u201cdefinitely do not improve the possibility of a long-term peace.\u201d No significant financial implications are currently reported, but the success or failure of these talks will undoubtedly have substantial economic consequences for all involved parties.",
+  "executive_brief": "Confidential talks involving representatives from Ukraine, Russia, and the US took place in Miami, aiming for a potential resolution to the ongoing conflict. The event garnered significant, though not overwhelming, media attention with 22 articles originating from 20 sources between December 21st and 22nd, 2025, and a generally positive sentiment (average score of 0.19). This is significant as it represents a renewed, albeit discreet, effort to find a diplomatic path forward after prolonged fighting, potentially altering the geopolitical landscape and impacting global stability. \n\nStakeholder positions are nuanced; while the US and Ukraine characterize the talks as \u201cproductive and constructive,\u201d Russia, through Juri Uschakow, expresses skepticism about European and Ukrainian proposals. Wladimir Putin maintains Russia\u2019s existing conditions for a ceasefire. Notably, Donald Trump and NATO are receiving praise for engagement. There are no significant financial implications directly mentioned in the coverage, suggesting the focus remains on political and security considerations at this stage.",
   "key_arguments": {
     "for": [
-      "Engaging in dialogue, even with preconditions, is a necessary step towards a potential resolution, as evidenced by the US government\u2019s characterization of the talks as \u201cproductive and constructive\u201d.",
-      "The participation of all key stakeholders \u2013 including Russia, Ukraine, the US, and European nations \u2013 demonstrates a willingness to explore diplomatic solutions, as highlighted by Putin\u2019s expressed readiness for dialogue with Macron.",
-      "Positive initial sentiment, with 16 out of 22 articles reporting a positive tone, suggests a potential shift towards a more conciliatory approach from at least some parties involved."
+      "Engaging in dialogue, even with preconditions, offers a potential off-ramp from a devastating conflict, as evidenced by the US and Ukrainian governments\u2019 positive assessments.",
+      "The involvement of key international actors like France, with Emmanuel Macron\u2019s willingness to speak directly with Putin, demonstrates a commitment to exploring all diplomatic avenues.",
+      "The participation of Kirill Dmitrijew, a Russian negotiator, suggests a degree of openness from the Russian side to discuss potential solutions."
     ],
     "against": [
-      "Russia\u2019s insistence on its existing conditions for a ceasefire, as stated by Putin, indicates a lack of flexibility and a potential impediment to meaningful progress, as it suggests a willingness to continue the conflict if those conditions are not met.",
-      "Deep-seated distrust and conflicting perspectives, exemplified by Uschakow\u2019s dismissal of European and Ukrainian proposals, raise doubts about the possibility of reaching a mutually acceptable agreement.",
-      "Selenskyj\u2019s assertion that \u201cIt is not up to Putin to decide when and in what format elections will take place in Ukraine\u201d underscores fundamental disagreements on core issues, suggesting a significant gap between the parties\u2019 positions."
+      "Russia\u2019s insistence on its existing conditions for a ceasefire, as stated by Putin, indicates a lack of flexibility and a potential unwillingness to compromise.",
+      "Juri Uschakow\u2019s dismissal of European and Ukrainian proposals suggests a fundamental disagreement on the path to a lasting peace.",
+      "Wolodymyr Selenskyj\u2019s assertion that Putin should not dictate Ukrainian electoral processes highlights a core issue of sovereignty and self-determination that complicates negotiations."
+    ]
+  },
+  "whats_at_stake": {
+    "winners": [
+      "USA - The US positions itself as a key mediator and facilitator, enhancing its diplomatic influence.",
+      "NATO - NATO benefits from any de-escalation of the conflict and the potential for a more stable European security environment, as acknowledged in the coverage.",
+      "Donald Trump - Receiving praise for engagement in ending the war could boost his political standing."
+    ],
+    "losers": [
+      "Ukraine - Continued insistence on preconditions by Russia could prolong the conflict and further damage Ukraine\u2019s territory and infrastructure.",
+      "European Union - Uschakow\u2019s criticism of European proposals suggests a potential fracturing of diplomatic efforts and a diminished role for the EU in the peace process.",
+      "Global Stability - A failed negotiation could lead to an escalation of the conflict, with wider geopolitical consequences."
+    ],
+    "risks": [
+      "Negotiations could collapse due to irreconcilable differences between Russia and Ukraine, leading to a resumption of large-scale hostilities.",
+      "The talks could be a stalling tactic by Russia to consolidate gains and prepare for future offensives.",
+      "Misinformation and propaganda from all sides could undermine public trust in the peace process and fuel further conflict."
+    ],
+    "opportunities": [
+      "A successful negotiation could lead to a ceasefire and a framework for a lasting peace in Ukraine.",
+      "The talks could pave the way for increased international cooperation on security issues.",
+      "A resolution could unlock economic opportunities for reconstruction and development in Ukraine and the wider region."
     ]
   }
 }

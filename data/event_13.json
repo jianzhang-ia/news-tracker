@@ -6,10 +6,10 @@
     "category": "ev",
     "summary": "European policy on electric vehicles and combustion engine regulations",
     "first_seen": "2025-12-23T01:26:23.017124",
-    "last_updated": "2025-12-24T02:37:29.023183",
+    "last_updated": "2025-12-24T22:42:49.762509",
     "created_at": "2025-12-23 00:26:23"
   },
-  "generated_at": "2025-12-24T02:39:44.450574",
+  "generated_at": "2025-12-25T02:02:36.719146",
   "articles": [
     {
       "id": 231,
@@ -12515,6 +12515,2018 @@
       "mention_count": 1
     }
   ],
+  "source_bias": {
+    "all_sources": [
+      {
+        "source": "Financial Times News",
+        "avg_sentiment": -0.45,
+        "article_count": 1
+      },
+      {
+        "source": "Eurasia Review",
+        "avg_sentiment": -0.45,
+        "article_count": 1
+      },
+      {
+        "source": "Economic Times",
+        "avg_sentiment": -0.45,
+        "article_count": 1
+      },
+      {
+        "source": "autoevolution",
+        "avg_sentiment": -0.45,
+        "article_count": 1
+      },
+      {
+        "source": "Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion",
+        "avg_sentiment": -0.4,
+        "article_count": 1
+      },
+      {
+        "source": "The Irish Times",
+        "avg_sentiment": -0.4,
+        "article_count": 1
+      },
+      {
+        "source": "Le Monde.fr",
+        "avg_sentiment": -0.4,
+        "article_count": 2
+      },
+      {
+        "source": "TheJournal.ie",
+        "avg_sentiment": -0.4,
+        "article_count": 1
+      },
+      {
+        "source": "The Philadelphia Inquirer",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "SpaceDaily",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "Intellinews                        ",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "IO+",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "Global Times \u73af\u7403\u65f6\u62a5\u82f1\u6587\u7248",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "eNCAnews",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "SO KONNECT",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "ETV Bharat News",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "RT",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "KTBS",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "Daily Mail Online",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "newseu.cgtn.com",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "WRAL",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "The Detroit News",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "Cyprus Mail",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "CNBC",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "The Straits Times",
+        "avg_sentiment": -0.275,
+        "article_count": 2
+      },
+      {
+        "source": "Chosun.com",
+        "avg_sentiment": -0.275,
+        "article_count": 2
+      },
+      {
+        "source": "The Korea Herald",
+        "avg_sentiment": -0.25,
+        "article_count": 1
+      },
+      {
+        "source": "NZ Herald",
+        "avg_sentiment": -0.25,
+        "article_count": 2
+      },
+      {
+        "source": "The Boston Globe",
+        "avg_sentiment": -0.25,
+        "article_count": 1
+      },
+      {
+        "source": "Investing.com South Africa",
+        "avg_sentiment": -0.25,
+        "article_count": 1
+      },
+      {
+        "source": "GMA Network",
+        "avg_sentiment": -0.25,
+        "article_count": 1
+      },
+      {
+        "source": "Daily Sabah",
+        "avg_sentiment": -0.25,
+        "article_count": 1
+      },
+      {
+        "source": "1470 & 100.3 WMBD",
+        "avg_sentiment": -0.25,
+        "article_count": 1
+      },
+      {
+        "source": "FNN - Fleet NewsNet",
+        "avg_sentiment": -0.25,
+        "article_count": 1
+      },
+      {
+        "source": "DNyuz",
+        "avg_sentiment": -0.25,
+        "article_count": 1
+      },
+      {
+        "source": "RTE.ie",
+        "avg_sentiment": -0.225,
+        "article_count": 2
+      },
+      {
+        "source": "ETAuto.com",
+        "avg_sentiment": -0.208,
+        "article_count": 6
+      },
+      {
+        "source": "Honest John",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "CAR magazine",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "CAR Magazine",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Energy in Demand - Sustainable Energy - Rod Janssen",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "New Era Live",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "idnfinancials.com",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "International Business Times UK",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Carbon Brief",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Top Gear",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "RFI",
+        "avg_sentiment": -0.2,
+        "article_count": 2
+      },
+      {
+        "source": "DT News",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "The Local",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Hurriyet Daily News",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "global.chinadaily.com.cn",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "EMSNow",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "UPI",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Carscoops",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Pravda EN",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "South China Morning Post",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Inside The Star-Studded World",
+        "avg_sentiment": -0.2,
+        "article_count": 2
+      },
+      {
+        "source": "Yass Tribune",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Albanian Daily News",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "The Grand Junction Daily Sentinel",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "TheLiberal.ie",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Nikkei Asia",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "BGNES: Breaking News, Latest News and Videos",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Ya Libnan",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "The Guardian",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "The Business Times",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Zero Hedge",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "EuropeTimes",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "EconoTimes",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "The Japan Times",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Argus Media",
+        "avg_sentiment": -0.2,
+        "article_count": 1
+      },
+      {
+        "source": "China News",
+        "avg_sentiment": -0.183,
+        "article_count": 3
+      },
+      {
+        "source": "Yahoo",
+        "avg_sentiment": -0.183,
+        "article_count": 3
+      },
+      {
+        "source": "ExBulletin",
+        "avg_sentiment": -0.175,
+        "article_count": 2
+      },
+      {
+        "source": "Head Topics",
+        "avg_sentiment": -0.175,
+        "article_count": 2
+      },
+      {
+        "source": "AOL.com",
+        "avg_sentiment": -0.15,
+        "article_count": 1
+      },
+      {
+        "source": "Forbes",
+        "avg_sentiment": -0.15,
+        "article_count": 1
+      },
+      {
+        "source": "Perth Now",
+        "avg_sentiment": -0.15,
+        "article_count": 1
+      },
+      {
+        "source": "This is Money",
+        "avg_sentiment": -0.15,
+        "article_count": 1
+      },
+      {
+        "source": "CBC News",
+        "avg_sentiment": -0.15,
+        "article_count": 1
+      },
+      {
+        "source": "2 News Nevada",
+        "avg_sentiment": -0.15,
+        "article_count": 1
+      },
+      {
+        "source": "electrive.com",
+        "avg_sentiment": -0.15,
+        "article_count": 1
+      },
+      {
+        "source": "Financial World",
+        "avg_sentiment": -0.15,
+        "article_count": 1
+      },
+      {
+        "source": "Tuoi tre news",
+        "avg_sentiment": -0.1,
+        "article_count": 3
+      },
+      {
+        "source": "MaltaToday.com.mt",
+        "avg_sentiment": -0.1,
+        "article_count": 1
+      },
+      {
+        "source": "Yahoo! Finance",
+        "avg_sentiment": -0.075,
+        "article_count": 4
+      },
+      {
+        "source": "Business Day",
+        "avg_sentiment": -0.075,
+        "article_count": 2
+      },
+      {
+        "source": "Times LIVE",
+        "avg_sentiment": -0.05,
+        "article_count": 2
+      },
+      {
+        "source": "Republic World",
+        "avg_sentiment": -0.05,
+        "article_count": 2
+      },
+      {
+        "source": "Breaking News.ie",
+        "avg_sentiment": -0.05,
+        "article_count": 2
+      },
+      {
+        "source": "POLITICO",
+        "avg_sentiment": -0.05,
+        "article_count": 2
+      },
+      {
+        "source": "Terra Daily",
+        "avg_sentiment": -0.025,
+        "article_count": 4
+      },
+      {
+        "source": "Automotive Logistics",
+        "avg_sentiment": 0.0,
+        "article_count": 1
+      },
+      {
+        "source": "Euronews English",
+        "avg_sentiment": 0.0,
+        "article_count": 3
+      },
+      {
+        "source": "Auto Express",
+        "avg_sentiment": 0.0,
+        "article_count": 2
+      },
+      {
+        "source": "News Directory 3",
+        "avg_sentiment": 0.0,
+        "article_count": 2
+      },
+      {
+        "source": "Yahoo Autos",
+        "avg_sentiment": 0.0,
+        "article_count": 2
+      },
+      {
+        "source": "Motor1.com",
+        "avg_sentiment": 0.033,
+        "article_count": 3
+      },
+      {
+        "source": "Devdiscourse",
+        "avg_sentiment": 0.05,
+        "article_count": 8
+      },
+      {
+        "source": "Claims Journal",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "The How-To Geek",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "StreetInsider.com",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "Waterford News and Star",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "Deutsche Welle",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "Haberler.com",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "The Times of India",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "EurActiv.com",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "Nigeria Sun",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "dpa International",
+        "avg_sentiment": 0.125,
+        "article_count": 2
+      },
+      {
+        "source": "energia.gr",
+        "avg_sentiment": 0.15,
+        "article_count": 1
+      },
+      {
+        "source": "Balkan Green Energy News",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Just-Auto",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "F&L Asia",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "clickittefaq",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "Novinite.com",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "The Star ",
+        "avg_sentiment": 0.2,
+        "article_count": 2
+      },
+      {
+        "source": "The Irish News",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
+        "source": "surinenglish.com",
+        "avg_sentiment": 0.3,
+        "article_count": 1
+      },
+      {
+        "source": "yicaiglobal.com",
+        "avg_sentiment": 0.3,
+        "article_count": 1
+      },
+      {
+        "source": "autotechinsight.spglobal.com",
+        "avg_sentiment": 0.3,
+        "article_count": 1
+      },
+      {
+        "source": "Anadolu Ajans\u0131",
+        "avg_sentiment": 0.4,
+        "article_count": 1
+      },
+      {
+        "source": "Paul Tan's Automotive News",
+        "avg_sentiment": 0.6,
+        "article_count": 1
+      },
+      {
+        "source": "Innovation News Network",
+        "avg_sentiment": 0.65,
+        "article_count": 1
+      }
+    ],
+    "zones": {
+      "negative": [
+        {
+          "source": "Financial Times News",
+          "avg_sentiment": -0.45,
+          "article_count": 1
+        },
+        {
+          "source": "Eurasia Review",
+          "avg_sentiment": -0.45,
+          "article_count": 1
+        },
+        {
+          "source": "Economic Times",
+          "avg_sentiment": -0.45,
+          "article_count": 1
+        },
+        {
+          "source": "autoevolution",
+          "avg_sentiment": -0.45,
+          "article_count": 1
+        },
+        {
+          "source": "Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion",
+          "avg_sentiment": -0.4,
+          "article_count": 1
+        },
+        {
+          "source": "The Irish Times",
+          "avg_sentiment": -0.4,
+          "article_count": 1
+        },
+        {
+          "source": "Le Monde.fr",
+          "avg_sentiment": -0.4,
+          "article_count": 2
+        },
+        {
+          "source": "TheJournal.ie",
+          "avg_sentiment": -0.4,
+          "article_count": 1
+        },
+        {
+          "source": "The Philadelphia Inquirer",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "SpaceDaily",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "Intellinews                        ",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "IO+",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "Global Times \u73af\u7403\u65f6\u62a5\u82f1\u6587\u7248",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "eNCAnews",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "SO KONNECT",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "ETV Bharat News",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "RT",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "KTBS",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "Daily Mail Online",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "newseu.cgtn.com",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "WRAL",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "The Detroit News",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "Cyprus Mail",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "CNBC",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "The Straits Times",
+          "avg_sentiment": -0.275,
+          "article_count": 2
+        },
+        {
+          "source": "Chosun.com",
+          "avg_sentiment": -0.275,
+          "article_count": 2
+        },
+        {
+          "source": "The Korea Herald",
+          "avg_sentiment": -0.25,
+          "article_count": 1
+        },
+        {
+          "source": "NZ Herald",
+          "avg_sentiment": -0.25,
+          "article_count": 2
+        },
+        {
+          "source": "The Boston Globe",
+          "avg_sentiment": -0.25,
+          "article_count": 1
+        },
+        {
+          "source": "Investing.com South Africa",
+          "avg_sentiment": -0.25,
+          "article_count": 1
+        },
+        {
+          "source": "GMA Network",
+          "avg_sentiment": -0.25,
+          "article_count": 1
+        },
+        {
+          "source": "Daily Sabah",
+          "avg_sentiment": -0.25,
+          "article_count": 1
+        },
+        {
+          "source": "1470 & 100.3 WMBD",
+          "avg_sentiment": -0.25,
+          "article_count": 1
+        },
+        {
+          "source": "FNN - Fleet NewsNet",
+          "avg_sentiment": -0.25,
+          "article_count": 1
+        },
+        {
+          "source": "DNyuz",
+          "avg_sentiment": -0.25,
+          "article_count": 1
+        },
+        {
+          "source": "RTE.ie",
+          "avg_sentiment": -0.225,
+          "article_count": 2
+        },
+        {
+          "source": "ETAuto.com",
+          "avg_sentiment": -0.208,
+          "article_count": 6
+        },
+        {
+          "source": "Honest John",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "CAR magazine",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "CAR Magazine",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Energy in Demand - Sustainable Energy - Rod Janssen",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "New Era Live",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "idnfinancials.com",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "International Business Times UK",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Carbon Brief",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Top Gear",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "RFI",
+          "avg_sentiment": -0.2,
+          "article_count": 2
+        },
+        {
+          "source": "DT News",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "The Local",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Hurriyet Daily News",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "global.chinadaily.com.cn",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "EMSNow",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "UPI",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Carscoops",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Pravda EN",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "South China Morning Post",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Inside The Star-Studded World",
+          "avg_sentiment": -0.2,
+          "article_count": 2
+        },
+        {
+          "source": "Yass Tribune",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Albanian Daily News",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "The Grand Junction Daily Sentinel",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "TheLiberal.ie",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Nikkei Asia",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "BGNES: Breaking News, Latest News and Videos",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Ya Libnan",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "The Guardian",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "The Business Times",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Zero Hedge",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "EuropeTimes",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "EconoTimes",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "The Japan Times",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Argus Media",
+          "avg_sentiment": -0.2,
+          "article_count": 1
+        },
+        {
+          "source": "China News",
+          "avg_sentiment": -0.183,
+          "article_count": 3
+        },
+        {
+          "source": "Yahoo",
+          "avg_sentiment": -0.183,
+          "article_count": 3
+        },
+        {
+          "source": "ExBulletin",
+          "avg_sentiment": -0.175,
+          "article_count": 2
+        },
+        {
+          "source": "Head Topics",
+          "avg_sentiment": -0.175,
+          "article_count": 2
+        },
+        {
+          "source": "AOL.com",
+          "avg_sentiment": -0.15,
+          "article_count": 1
+        },
+        {
+          "source": "Forbes",
+          "avg_sentiment": -0.15,
+          "article_count": 1
+        },
+        {
+          "source": "Perth Now",
+          "avg_sentiment": -0.15,
+          "article_count": 1
+        },
+        {
+          "source": "This is Money",
+          "avg_sentiment": -0.15,
+          "article_count": 1
+        },
+        {
+          "source": "CBC News",
+          "avg_sentiment": -0.15,
+          "article_count": 1
+        },
+        {
+          "source": "2 News Nevada",
+          "avg_sentiment": -0.15,
+          "article_count": 1
+        },
+        {
+          "source": "electrive.com",
+          "avg_sentiment": -0.15,
+          "article_count": 1
+        },
+        {
+          "source": "Financial World",
+          "avg_sentiment": -0.15,
+          "article_count": 1
+        }
+      ],
+      "neutral": [
+        {
+          "source": "Automotive Logistics",
+          "avg_sentiment": 0.0,
+          "article_count": 1
+        },
+        {
+          "source": "Euronews English",
+          "avg_sentiment": 0.0,
+          "article_count": 3
+        },
+        {
+          "source": "Auto Express",
+          "avg_sentiment": 0.0,
+          "article_count": 2
+        },
+        {
+          "source": "News Directory 3",
+          "avg_sentiment": 0.0,
+          "article_count": 2
+        },
+        {
+          "source": "Yahoo Autos",
+          "avg_sentiment": 0.0,
+          "article_count": 2
+        },
+        {
+          "source": "Terra Daily",
+          "avg_sentiment": -0.025,
+          "article_count": 4
+        },
+        {
+          "source": "Motor1.com",
+          "avg_sentiment": 0.033,
+          "article_count": 3
+        },
+        {
+          "source": "Times LIVE",
+          "avg_sentiment": -0.05,
+          "article_count": 2
+        },
+        {
+          "source": "Republic World",
+          "avg_sentiment": -0.05,
+          "article_count": 2
+        },
+        {
+          "source": "Breaking News.ie",
+          "avg_sentiment": -0.05,
+          "article_count": 2
+        },
+        {
+          "source": "POLITICO",
+          "avg_sentiment": -0.05,
+          "article_count": 2
+        },
+        {
+          "source": "Devdiscourse",
+          "avg_sentiment": 0.05,
+          "article_count": 8
+        },
+        {
+          "source": "Yahoo! Finance",
+          "avg_sentiment": -0.075,
+          "article_count": 4
+        },
+        {
+          "source": "Business Day",
+          "avg_sentiment": -0.075,
+          "article_count": 2
+        },
+        {
+          "source": "Claims Journal",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "The How-To Geek",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "Tuoi tre news",
+          "avg_sentiment": -0.1,
+          "article_count": 3
+        },
+        {
+          "source": "StreetInsider.com",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "Waterford News and Star",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "Deutsche Welle",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "Haberler.com",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "The Times of India",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "EurActiv.com",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "MaltaToday.com.mt",
+          "avg_sentiment": -0.1,
+          "article_count": 1
+        },
+        {
+          "source": "Nigeria Sun",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        }
+      ],
+      "positive": [
+        {
+          "source": "Innovation News Network",
+          "avg_sentiment": 0.65,
+          "article_count": 1
+        },
+        {
+          "source": "Paul Tan's Automotive News",
+          "avg_sentiment": 0.6,
+          "article_count": 1
+        },
+        {
+          "source": "Anadolu Ajans\u0131",
+          "avg_sentiment": 0.4,
+          "article_count": 1
+        },
+        {
+          "source": "surinenglish.com",
+          "avg_sentiment": 0.3,
+          "article_count": 1
+        },
+        {
+          "source": "yicaiglobal.com",
+          "avg_sentiment": 0.3,
+          "article_count": 1
+        },
+        {
+          "source": "autotechinsight.spglobal.com",
+          "avg_sentiment": 0.3,
+          "article_count": 1
+        },
+        {
+          "source": "Balkan Green Energy News",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Just-Auto",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "F&L Asia",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "clickittefaq",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "Novinite.com",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "The Star ",
+          "avg_sentiment": 0.2,
+          "article_count": 2
+        },
+        {
+          "source": "The Irish News",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
+          "source": "energia.gr",
+          "avg_sentiment": 0.15,
+          "article_count": 1
+        },
+        {
+          "source": "dpa International",
+          "avg_sentiment": 0.125,
+          "article_count": 2
+        }
+      ]
+    },
+    "summary": {
+      "negative_count": 83,
+      "neutral_count": 25,
+      "positive_count": 15,
+      "total_count": 123
+    }
+  },
+  "quote_network": [
+    {
+      "from": "Ferdinand Dudenh\u00f6ffer",
+      "to": "China",
+      "stance": "neutral",
+      "quote_snippet": "In the future, China will define the rules of the car industry."
+    },
+    {
+      "from": "Ferdinand Dudenh\u00f6ffer",
+      "to": "Carmakers",
+      "stance": "negative",
+      "quote_snippet": "Western manufacturers \"earn some kind of short-term windfall. But in the long term, they lose a lot."
+    },
+    {
+      "from": "Spain PM",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "What was approved yesterday constitutes a historic mistake for Europe, because competitiveness is en"
+    },
+    {
+      "from": "Dominic Phinn",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "this is a \u2018tragic win\u2019 for conventional combustion engine use. \u2018The watering down of the petrol and "
+    },
+    {
+      "from": "Ursula von der Leyen",
+      "to": "Ford",
+      "stance": "support",
+      "quote_snippet": "Millions of Europeans want to buy affordable European cars, so we should also invest in small, affor"
+    },
+    {
+      "from": "Ursula von der Leyen",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "Millions of Europeans want to buy affordable European cars, so we should also invest in small, affor"
+    },
+    {
+      "from": "Thomas Sch\u00e4fer",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "The future in this segment is electric."
+    },
+    {
+      "from": "Phil Dunne",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "The Commission has allowed Europe's car industry to make choices and have a chance to compete."
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "Volkswagen",
+      "stance": "neutral",
+      "quote_snippet": "There has been a lot of pushback from automotive brands in Europe, such as the Volkswagen Group and "
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "Stellantis",
+      "stance": "neutral",
+      "quote_snippet": "There has been a lot of pushback from automotive brands in Europe, such as the Volkswagen Group and "
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "Volkswagen Group",
+      "stance": "neutral",
+      "quote_snippet": "There has been a lot of pushback from automotive brands in Europe, such as the Volkswagen Group and "
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "EU",
+      "stance": "neutral",
+      "quote_snippet": "There has been a lot of pushback from automotive brands in Europe, such as the Volkswagen Group and "
+    },
+    {
+      "from": "Pekka Pesonen",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "Farmers are not against sustainability, but the pace and scale of these targets are disconnected fro"
+    },
+    {
+      "from": "VW spokesperson",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "Opening up the market to vehicles with combustion engines while compensating for emissions is pragma"
+    },
+    {
+      "from": "BMW spokesperson",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "It is an important first step that the EU Commission no longer pursues technology bans as a guiding "
+    },
+    {
+      "from": "BMW spokesperson",
+      "to": "EU Commission",
+      "stance": "support",
+      "quote_snippet": "It is an important first step that the EU Commission no longer pursues technology bans as a guiding "
+    },
+    {
+      "from": "Mercedes-Benz",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "a step in the right direction towards more flexibility for manufacturers and \"the necessary technolo"
+    },
+    {
+      "from": "Renault",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "addresses some of the major challenges facing the European industry"
+    },
+    {
+      "from": "Volvo Cars' spokesperson",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "Weakening long-term commitments for short-term gain risks undermining Europe's competitiveness for y"
+    },
+    {
+      "from": "Stellantis spokesperson",
+      "to": "GM",
+      "stance": "oppose",
+      "quote_snippet": "The proposals do not meaningfully address the issues that the industry is facing right now...the pac"
+    },
+    {
+      "from": "William Todts",
+      "to": "China",
+      "stance": "oppose",
+      "quote_snippet": "Every euro diverted into plug-in hybrids is a euro not spent on EVs, while China races further ahead"
+    },
+    {
+      "from": "William Todts",
+      "to": "European automakers",
+      "stance": "oppose",
+      "quote_snippet": "Every euro diverted into plug-in hybrids is a euro not spent on EVs, while China races further ahead"
+    },
+    {
+      "from": "William Todts",
+      "to": "automakers",
+      "stance": "oppose",
+      "quote_snippet": "Every euro diverted into plug-in hybrids is a euro not spent on EVs, while China races further ahead"
+    },
+    {
+      "from": "William Todts",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "Every euro diverted into plug-in hybrids is a euro not spent on EVs, while China races further ahead"
+    },
+    {
+      "from": "William Todts",
+      "to": "RTE",
+      "stance": "oppose",
+      "quote_snippet": "Every euro diverted into plug-in hybrids is a euro not spent on EVs, while China races further ahead"
+    },
+    {
+      "from": "Sigrid de Vries",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "Today's proposals rightly recognise the need for more flexibility and technology neutrality to make "
+    },
+    {
+      "from": "St\u00e9phane S\u00e9journ\u00e9",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "a \"lifeline\" for Europe's automotive industry while insisting the bloc's climate objectives were sti"
+    },
+    {
+      "from": "Monique Barbut",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "France will do \"all we can\" to stop the proposal from becoming law when it is put to EU member state"
+    },
+    {
+      "from": "Monique Barbut",
+      "to": "EU member states",
+      "stance": "oppose",
+      "quote_snippet": "France will do \"all we can\" to stop the proposal from becoming law when it is put to EU member state"
+    },
+    {
+      "from": "Monique Barbut",
+      "to": "member states",
+      "stance": "oppose",
+      "quote_snippet": "France will do \"all we can\" to stop the proposal from becoming law when it is put to EU member state"
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "NIO",
+      "stance": "support",
+      "quote_snippet": "We only can win the fight against climate change if we combine it with an economically reasonable ap"
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "Nio",
+      "stance": "support",
+      "quote_snippet": "We only can win the fight against climate change if we combine it with an economically reasonable ap"
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "European Union",
+      "stance": "support",
+      "quote_snippet": "We only can win the fight against climate change if we combine it with an economically reasonable ap"
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "We only can win the fight against climate change if we combine it with an economically reasonable ap"
+    },
+    {
+      "from": "Michael Bloss",
+      "to": "China",
+      "stance": "oppose",
+      "quote_snippet": "The real problem facing Europe's car industry is not a law that takes effect in 10 years. It is the "
+    },
+    {
+      "from": "Michael Bloss",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "The real problem facing Europe's car industry is not a law that takes effect in 10 years. It is the "
+    },
+    {
+      "from": "Chris Heron",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "It's the wrong time for Europe to take the wind out of its own sails. Europe's electric car markets "
+    },
+    {
+      "from": "Chris Heron",
+      "to": "Ram",
+      "stance": "neutral",
+      "quote_snippet": "Once the dust has settled, we're confident the core of the 2035 framework will still matter more for"
+    },
+    {
+      "from": "Hildegard M\u00fcller",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "In times when European economic strength is crucial, this entire package from Brussels is disastrous"
+    },
+    {
+      "from": "Hildegard M\u00fcller",
+      "to": "Brussels",
+      "stance": "oppose",
+      "quote_snippet": "In times when European economic strength is crucial, this entire package from Brussels is disastrous"
+    },
+    {
+      "from": "Stellantis",
+      "to": "Ford",
+      "stance": "oppose",
+      "quote_snippet": "The introduction of technology neutrality through the revision of the 2035 CO\u2082 reduction target is a"
+    },
+    {
+      "from": "Stellantis",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "The introduction of technology neutrality through the revision of the 2035 CO\u2082 reduction target is a"
+    },
+    {
+      "from": "Volkswagen",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "Opening the market to combustion-engine vehicles while compensating for emissions is a pragmatic ste"
+    },
+    {
+      "from": "Michael Lohscheller",
+      "to": "HIF",
+      "stance": "oppose",
+      "quote_snippet": "A shift from a clear 100% zero-emissions target to 90% may seem small, but if we step back now, we w"
+    },
+    {
+      "from": "Michael Lohscheller",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "A shift from a clear 100% zero-emissions target to 90% may seem small, but if we step back now, we w"
+    },
+    {
+      "from": "Oliver Zipse",
+      "to": "Ford",
+      "stance": "support",
+      "quote_snippet": "A correction of the 100% BEV target for 2035 as part of a comprehensive CO2-reduction package would "
+    },
+    {
+      "from": "Oliver Zipse",
+      "to": "China",
+      "stance": "support",
+      "quote_snippet": "A correction of the 100% BEV target for 2035 as part of a comprehensive CO2-reduction package would "
+    },
+    {
+      "from": "Oliver Zipse",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "A correction of the 100% BEV target for 2035 as part of a comprehensive CO2-reduction package would "
+    },
+    {
+      "from": "Oliver Zipse",
+      "to": "Ram",
+      "stance": "support",
+      "quote_snippet": "To maintain the successful course, a strictly technology-agnostic path within the policy framework i"
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "RTE",
+      "stance": "support",
+      "quote_snippet": "the EU was planning to scrap the ban and indicated that he supported the new plan."
+    },
+    {
+      "from": "Andy Palmer",
+      "to": "Ram",
+      "stance": "oppose",
+      "quote_snippet": "It becomes very difficult because if the EU drops their ban the factories there won't ramp up their "
+    },
+    {
+      "from": "Andy Palmer",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "It becomes very difficult because if the EU drops their ban the factories there won't ramp up their "
+    },
+    {
+      "from": "Wopke Hoekstra",
+      "to": "EPP",
+      "stance": "support",
+      "quote_snippet": "Today we are stepping up to ensure a successful, clean future for the automotive sector. We are intr"
+    },
+    {
+      "from": "Neil Unmack",
+      "to": "Carmakers",
+      "stance": "oppose",
+      "quote_snippet": "Europe's backsliding on electric vehicles is a measly Christmas stocking-filler for carmakers."
+    },
+    {
+      "from": "Neil Unmack",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "Europe's backsliding on electric vehicles is a measly Christmas stocking-filler for carmakers."
+    },
+    {
+      "from": "Felipe Munoz",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "It was obvious that the European industry was never prepared to meet this ambitious/unrealistic goal"
+    },
+    {
+      "from": "Felipe Munoz",
+      "to": "EPA",
+      "stance": "support",
+      "quote_snippet": "It was obvious that the European industry was never prepared to meet this ambitious/unrealistic goal"
+    },
+    {
+      "from": "Sigfried de Vries",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "Auto makers have invested hundreds of billions of euros and put over 300 electrified models on the m"
+    },
+    {
+      "from": "Friedrich Merz",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "Europe must remain open to different technologies."
+    },
+    {
+      "from": "Wopke Hoekstra",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "We want to help this hugely important industry (autos) not just survive but thrive. But this is goin"
+    },
+    {
+      "from": "Ursula von der Leyen",
+      "to": "EU",
+      "stance": "neutral",
+      "quote_snippet": "Europe's man on the Moon moment"
+    },
+    {
+      "from": "Ferdinand Dudenhoffer",
+      "to": "China",
+      "stance": "oppose",
+      "quote_snippet": "\"In the future, China will define the rules of the car industry.\""
+    },
+    {
+      "from": "Stephane Sejourne",
+      "to": "GM",
+      "stance": "neutral",
+      "quote_snippet": "\"We're taking a pragmatic approach to the economic and geopolitical situation.\""
+    },
+    {
+      "from": "Vula Tsetsi",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "\"Climate neutrality cannot be achieved with half-measures or loopholes for polluting technologies.\""
+    },
+    {
+      "from": "Wopke Hoekstra",
+      "to": "EU",
+      "stance": "neutral",
+      "quote_snippet": "The EU is staying the course towards zero-emissions mobility, but introducing some flexibilities for"
+    },
+    {
+      "from": "Stphane Sjourn",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "Stphane Sjourn",
+      "to": "European Commission",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "Stphane Sjourn",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "Neil Makaroff",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "To claim that tomorrows jobs and innovations still lie in diesel or petrol engines, when the rest of"
+    },
+    {
+      "from": "St\u00e9phane S\u00e9journ\u00e9",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "St\u00e9phane S\u00e9journ\u00e9",
+      "to": "European Commission",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "Hildegard Mueller",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "In times of increasing international competition, in times when European economic power is crucial, "
+    },
+    {
+      "from": "Hildegard Mueller",
+      "to": "Brussels",
+      "stance": "oppose",
+      "quote_snippet": "In times of increasing international competition, in times when European economic power is crucial, "
+    },
+    {
+      "from": "Germany's Volkswagen",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "\"Opening up the market to vehicles with combustion engines while compensating for emissions is pragm"
+    },
+    {
+      "from": "Volvo spokesperson",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "risks undermining Europe's competitiveness for years to come."
+    },
+    {
+      "from": "Daniel Kollar",
+      "to": "EU",
+      "stance": "neutral",
+      "quote_snippet": "It's really sinking in that the US or EU can't catch up."
+    },
+    {
+      "from": "Daniel Kollar",
+      "to": "Ford",
+      "stance": "neutral",
+      "quote_snippet": "Legacy carmakers like Ford are realising they need to provide EVs that meet local needs."
+    },
+    {
+      "from": "Daniel Kollar",
+      "to": "Carmakers",
+      "stance": "neutral",
+      "quote_snippet": "Legacy carmakers like Ford are realising they need to provide EVs that meet local needs."
+    },
+    {
+      "from": "Yale Zhang",
+      "to": "European Commission",
+      "stance": "oppose",
+      "quote_snippet": "The European Commission's retreat from banning exhaust pipe emissions by 2035 shows a lack of will t"
+    },
+    {
+      "from": "Yale Zhang",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "The European Commission's retreat from banning exhaust pipe emissions by 2035 shows a lack of will t"
+    },
+    {
+      "from": "William Todts",
+      "to": "Carmakers",
+      "stance": "oppose",
+      "quote_snippet": "Clinging to combustion engines won't make European carmakers great again."
+    },
+    {
+      "from": "Feng Shiming",
+      "to": "EU",
+      "stance": "neutral",
+      "quote_snippet": "the core technologies of pure electric vehicles are not in the hands of Europeans."
+    },
+    {
+      "from": "Feng Shiming",
+      "to": "Chinese EVs",
+      "stance": "neutral",
+      "quote_snippet": "Even after factoring in the higher tariffs, the steep cost advantage of Chinese EVs ensures they sti"
+    },
+    {
+      "from": "Stephane Sejourne",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "Stephane Sejourne",
+      "to": "European Commission",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "Stephane Sejourne",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "Martin Kaiser",
+      "to": "Ford",
+      "stance": "oppose",
+      "quote_snippet": "This backward industrial policy is bad news for jobs, air quality, the climate, and would slow down "
+    },
+    {
+      "from": "Volkswagen",
+      "to": "European Commission",
+      "stance": "support",
+      "quote_snippet": "The European Commission's pragmatic draft proposal for new CO2 targets is economically sound overall"
+    },
+    {
+      "from": "Volkswagen",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "The European Commission's pragmatic draft proposal for new CO2 targets is economically sound overall"
+    },
+    {
+      "from": "John Elkann",
+      "to": "EPA",
+      "stance": "neutral",
+      "quote_snippet": "light commercial vehicles should have their own emission targets separate from passenger vehicles."
+    },
+    {
+      "from": "European Commission",
+      "to": "Ram",
+      "stance": "neutral",
+      "quote_snippet": "The commission framed the initiative as a targeted adjustment rather than a rollback, stressing that"
+    },
+    {
+      "from": "European Commission",
+      "to": "EU",
+      "stance": "neutral",
+      "quote_snippet": "The commission framed the initiative as a targeted adjustment rather than a rollback, stressing that"
+    },
+    {
+      "from": "St\u00e9phane S\u00e9journ\u00e9",
+      "to": "GM",
+      "stance": "neutral",
+      "quote_snippet": "We're taking a pragmatic approach to the economic and geopolitical situation."
+    },
+    {
+      "from": "St\u00e9phane S\u00e9journ\u00e9",
+      "to": "Ram",
+      "stance": "neutral",
+      "quote_snippet": "the overall objective remains unchanged, but flexibility is needed in light of consumer behavior and"
+    },
+    {
+      "from": "Svetoslav Benchev",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "no energy source disappears overnight and warned against abruptly phasing out petroleum products in "
+    },
+    {
+      "from": "European Commission representative",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "European Commission representative",
+      "to": "European Commission",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "European Commission representative",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "The European Commission has chosen an approach that is both pragmatic and consistent with its climat"
+    },
+    {
+      "from": "Volkswagen representative",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "pragmatic and economically sound"
+    },
+    {
+      "from": "Jim Farley",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "warned the EU that its previous targets were too stringent"
+    },
+    {
+      "from": "Lucien Mathieu",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "The world is going electric and this will happen with or without Europe."
+    },
+    {
+      "from": "Joanna Kyriazis",
+      "to": "GM",
+      "stance": "neutral",
+      "quote_snippet": "I think that the EU is taking a pragmatic approach."
+    },
+    {
+      "from": "Joanna Kyriazis",
+      "to": "EU",
+      "stance": "neutral",
+      "quote_snippet": "I think that the EU is taking a pragmatic approach."
+    },
+    {
+      "from": "Lucien Mathieu",
+      "to": "China",
+      "stance": "oppose",
+      "quote_snippet": "This is a global race to electric cars. China is currently racing ahead, and Europe will not be able"
+    },
+    {
+      "from": "Transport & Environment",
+      "to": "Chinese EV-makers",
+      "stance": "oppose",
+      "quote_snippet": "This will divert investment away from electrification at a time when European manufacturers urgently"
+    },
+    {
+      "from": "Transport & Environment",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "This will divert investment away from electrification at a time when European manufacturers urgently"
+    },
+    {
+      "from": "Valdis Dombrovskis",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "Europe's automotive sector has reached a crossroads. We need to act now to ensure it remains an inte"
+    },
+    {
+      "from": "William Todts",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "electrifying corporate fleets is the \"low hanging fruit\" of European industrial policy and \"it's gre"
+    },
+    {
+      "from": "Chris Heron",
+      "to": "China",
+      "stance": "oppose",
+      "quote_snippet": "While China accelerates, Europe is hesitating, and hesitation is not a strategy."
+    },
+    {
+      "from": "Delvin Lane",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "If parts of Europe slow down on 2035, the UK has a real opportunity by holding firm on ZEV."
+    },
+    {
+      "from": "Wopke Hoekstra",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "ambitious, balanced and pragmatic"
+    },
+    {
+      "from": "Merz",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "It's good that...the (European) Commission is now opening up regulation in the automotive sector"
+    },
+    {
+      "from": "EU Commission",
+      "to": "HIF",
+      "stance": "support",
+      "quote_snippet": "These measures will improve the cost competitiveness of the sector, secure upstream supply chains, a"
+    },
+    {
+      "from": "EU Commission",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "These measures will improve the cost competitiveness of the sector, secure upstream supply chains, a"
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "European Commission",
+      "stance": "oppose",
+      "quote_snippet": "The European Commission will be putting forward a clear proposal to abolish the ban on combustion en"
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "The European Commission will be putting forward a clear proposal to abolish the ban on combustion en"
+    },
+    {
+      "from": "Wopke Hoekstra",
+      "to": "China",
+      "stance": "neutral",
+      "quote_snippet": "China is aggressively competing in key technologies including E.V.s and batteries, while the U.S. co"
+    },
+    {
+      "from": "Dr Douglas Parr",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "The UK must not join Europe in this act of economic self-sabotage"
+    },
+    {
+      "from": "Friedrich Merz",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "the developments as pragmatic steps aligning technology openness with economic realities"
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "European Commission",
+      "stance": "support",
+      "quote_snippet": "The European Commission will be putting forward a clear proposal to abolish the ban on combustion en"
+    },
+    {
+      "from": "Stephane Sejourne",
+      "to": "EU",
+      "stance": "neutral",
+      "quote_snippet": "Europe's car industry was in \"mortal danger\"."
+    },
+    {
+      "from": "Roderic O'Gorman",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "At a time when Irish consumers are looking for choice and looking for better value, the EU is moving"
+    },
+    {
+      "from": "Roderic O'Gorman",
+      "to": "Chinese companies",
+      "stance": "oppose",
+      "quote_snippet": "The big winners here are the Chinese companies, the big EV companies, who are selling into the Europ"
+    },
+    {
+      "from": "Manfred Weber",
+      "to": "HIF",
+      "stance": "support",
+      "quote_snippet": "Weber highlighted that this directive means that only new energy-efficient engines will be permissib"
+    },
+    {
+      "from": "Friedrich Merz",
+      "to": "Ram",
+      "stance": "support",
+      "quote_snippet": "Large parts of the automotive industry in Europe, including in Germany, and I am referring in partic"
+    },
+    {
+      "from": "Hildegard M\u00fcller",
+      "to": "GM",
+      "stance": "support",
+      "quote_snippet": "For the German automotive industry, it is and remains crucial that a technology-neutral, pragmatic a"
+    },
+    {
+      "from": "Hildegard M\u00fcller",
+      "to": "EU",
+      "stance": "support",
+      "quote_snippet": "For the German automotive industry, it is and remains crucial that a technology-neutral, pragmatic a"
+    }
+  ],
   "summary_stats": {
     "total_articles": 170,
     "sources": 123,
@@ -12526,17 +14538,39 @@
     "total_quotes": 482,
     "total_financial_mentions": 234
   },
-  "executive_brief": "The European Union has reversed its 2035 ban on the sale of new combustion engine vehicles, a significant policy shift generating substantial debate and coverage \u2013 170 articles from 123 sources indicate widespread attention. This decision stems from concerns about the pace of the electric vehicle transition, particularly in light of increasing competition from Chinese manufacturers and anxieties regarding affordability for European consumers, signaling a recalibration of the EU\u2019s Green Deal ambitions. The move represents a compromise between environmental goals and the economic realities facing the European automotive industry. \n\nStakeholder positions are deeply divided, with automakers and Germany largely supporting the change, citing the need for \u201cgreater flexibility\u201d (Friedrich Merz) and a chance to \u201ccatch up with the Chinese\u201d (Phil Dunne). Conversely, environmental groups and Spain\u2019s Prime Minister condemn the decision as a \u201chistoric mistake\u201d that weakens climate commitments. The industry anticipates saving EUR 706 million due to red tape cuts, while Porsche is investing GBP 61 million in e-fuel production, but concerns remain about long-term competitiveness, as Ferdinand Dudenh\u00f6ffer warns Western manufacturers will \u201close a lot\u201d in the face of Chinese dominance.",
+  "executive_brief": "The European Union has reversed its 2035 ban on the sale of new combustion engine vehicles, a significant policy shift covered by 170 articles from 123 sources, indicating widespread media attention. This decision stems from growing concerns about the pace of the electric vehicle transition, particularly in light of increasing competition from Chinese automakers and anxieties about affordability for European consumers, and represents a major recalibration of the EU\u2019s Green Deal ambitions. The move is highly consequential, impacting the future of the European automotive industry, climate goals, and international trade dynamics. \n\nStakeholder positions are deeply divided, with automakers like Volkswagen and Germany supporting the change due to economic pressures and the need for technological flexibility, as evidenced by Friedrich Merz\u2019s statement about \u201cgreater openness to technology.\u201d Conversely, environmental groups like Climate Group decry the decision as a \u201ctragic win\u201d for combustion engines, while Spain\u2019s Prime Minister calls it a \u201chistoric mistake.\u201d Financially, the auto industry is projected to save EUR 706 million due to red tape cuts, but Ferdinand Dudenh\u00f6ffer warns of long-term disadvantages against Chinese competitors, highlighting the complex economic implications of this policy reversal.",
   "key_arguments": {
     "for": [
-      "The policy change allows European automakers to remain competitive, particularly against Chinese manufacturers, by providing time to develop cost-competitive EVs, as highlighted by Phil Dunne\u2019s statement that the Commission has allowed Europe\u2019s industry \u201ca chance to compete.\u201d",
-      "The decision addresses affordability concerns for consumers, acknowledging that \u201cMillions of Europeans want to buy affordable European cars\u201d (Ursula von der Leyen), and allows for continued production of smaller, less expensive vehicles.",
-      "The revised approach offers \u201cmore openness to technology and greater flexibility\u201d (Friedrich Merz), potentially fostering innovation in alternative fuels and hybrid technologies alongside full electrification."
+      "Allowing continued production of combustion engines provides flexibility for automakers struggling with the costly and slow transition to EVs, as supported by Volkswagen\u2019s CEO Thomas Sch\u00e4fer.",
+      "Easing the ban addresses affordability concerns for consumers, ensuring access to cheaper vehicles, a point emphasized by Ursula von der Leyen\u2019s focus on \u201caffordable European cars.\u201d",
+      "The policy change allows European automakers to better compete with Chinese manufacturers who are rapidly gaining market share, as highlighted by Phil Dunne\u2019s comment about catching up with China."
     ],
     "against": [
-      "The rollback weakens the EU\u2019s commitment to climate goals, described by Dominic Phinn as a \u201ctragic win\u201d for combustion engine use, and undermines the urgency needed to transition to a zero-emission transportation sector.",
-      "The change creates uncertainty for businesses and investors, as E-Mobility Europe argues that changing rules mid-game \u201cundermines business confidence and slows down progress.\u201d",
-      "The decision risks allowing European automakers to delay full electrification, potentially ceding long-term market share to competitors like China, as Ferdinand Dudenh\u00f6ffer predicts Western manufacturers will ultimately \u201close a lot\u201d."
+      "Reversing the 2035 ban undermines the EU\u2019s climate commitments and slows down the necessary decarbonization of the transportation sector, according to Dominic Phinn of the Climate Group.",
+      "The policy creates uncertainty for businesses that have already invested heavily in EV technology, potentially discouraging further investment, as voiced by E-Mobility Europe.",
+      "The decision prioritizes short-term economic gains for the automotive industry over long-term environmental sustainability, as argued by the Spanish Prime Minister."
+    ]
+  },
+  "whats_at_stake": {
+    "winners": [
+      "European automakers (Volkswagen, Stellantis, BMW, Renault) - They gain breathing room to manage the EV transition and address current economic challenges.",
+      "Germany - The government successfully lobbied for a more flexible approach that supports its powerful automotive industry.",
+      "Consumers (potentially) - May have continued access to more affordable combustion engine vehicles in the short to medium term."
+    ],
+    "losers": [
+      "Environmental groups (Climate Group, T&E) - Their efforts to accelerate the transition to zero-emission vehicles are significantly hampered.",
+      "EV manufacturers (Tesla, Polestar) - Face reduced pressure on competitors and potentially slower market growth.",
+      "Companies heavily invested in EV infrastructure - May see a slower return on investment due to delayed EV adoption."
+    ],
+    "risks": [
+      "Delayed decarbonization of the transportation sector, hindering the EU\u2019s climate goals.",
+      "Increased reliance on fossil fuels and continued air pollution.",
+      "Loss of competitiveness for European automakers in the long run if they fail to innovate and adapt to the changing market."
+    ],
+    "opportunities": [
+      "Development of alternative fuels like e-fuels, as demonstrated by Porsche\u2019s GBP 61 million investment.",
+      "Innovation in hybrid technologies as a bridge to full electrification.",
+      "Potential for a more balanced and sustainable automotive industry that caters to diverse consumer needs and economic realities."
     ]
   }
 }
