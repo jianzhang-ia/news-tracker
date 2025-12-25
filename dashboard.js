@@ -77,16 +77,29 @@ function renderExecutiveBrief(brief) {
 // Render key arguments
 function renderKeyArguments(args) {
     const section = document.getElementById('keyArgumentsSection');
-    const forList = document.getElementById('argumentsFor');
-    const againstList = document.getElementById('argumentsAgainst');
+    const forCol = document.querySelector('.arguments-for');
+    const againstCol = document.querySelector('.arguments-against');
 
     if (!args || (!args.for?.length && !args.against?.length)) {
         section.style.display = 'none';
         return;
     }
 
-    forList.innerHTML = (args.for || []).map(arg => `<li>${arg}</li>`).join('');
-    againstList.innerHTML = (args.against || []).map(arg => `<li>${arg}</li>`).join('');
+    // Show/hide columns based on content
+    if (args.for?.length) {
+        document.getElementById('argumentsFor').innerHTML = args.for.map(arg => `<li>${arg}</li>`).join('');
+        forCol.style.display = 'block';
+    } else {
+        forCol.style.display = 'none';
+    }
+
+    if (args.against?.length) {
+        document.getElementById('argumentsAgainst').innerHTML = args.against.map(arg => `<li>${arg}</li>`).join('');
+        againstCol.style.display = 'block';
+    } else {
+        againstCol.style.display = 'none';
+    }
+
     section.style.display = 'block';
 }
 
@@ -99,10 +112,40 @@ function renderWhatsAtStake(stake) {
         return;
     }
 
-    document.getElementById('stakeWinners').innerHTML = (stake.winners || []).map(w => `<li>${w}</li>`).join('');
-    document.getElementById('stakeLosers').innerHTML = (stake.losers || []).map(l => `<li>${l}</li>`).join('');
-    document.getElementById('stakeRisks').innerHTML = (stake.risks || []).map(r => `<li>${r}</li>`).join('');
-    document.getElementById('stakeOpportunities').innerHTML = (stake.opportunities || []).map(o => `<li>${o}</li>`).join('');
+    // Render each column and hide if empty
+    const winnersCol = document.querySelector('.stake-winners');
+    const losersCol = document.querySelector('.stake-losers');
+    const risksCol = document.querySelector('.stake-risks');
+    const oppsCol = document.querySelector('.stake-opportunities');
+
+    if (stake.winners?.length) {
+        document.getElementById('stakeWinners').innerHTML = stake.winners.map(w => `<li>${w}</li>`).join('');
+        winnersCol.style.display = 'block';
+    } else {
+        winnersCol.style.display = 'none';
+    }
+
+    if (stake.losers?.length) {
+        document.getElementById('stakeLosers').innerHTML = stake.losers.map(l => `<li>${l}</li>`).join('');
+        losersCol.style.display = 'block';
+    } else {
+        losersCol.style.display = 'none';
+    }
+
+    if (stake.risks?.length) {
+        document.getElementById('stakeRisks').innerHTML = stake.risks.map(r => `<li>${r}</li>`).join('');
+        risksCol.style.display = 'block';
+    } else {
+        risksCol.style.display = 'none';
+    }
+
+    if (stake.opportunities?.length) {
+        document.getElementById('stakeOpportunities').innerHTML = stake.opportunities.map(o => `<li>${o}</li>`).join('');
+        oppsCol.style.display = 'block';
+    } else {
+        oppsCol.style.display = 'none';
+    }
+
     section.style.display = 'block';
 }
 
