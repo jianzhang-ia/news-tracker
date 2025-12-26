@@ -1355,6 +1355,13 @@ body {
     background: rgba(59, 130, 246, 0.08);
 }
 
+.fi-context-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.5rem;
+}
+
 .fi-value {
     font-size: 1rem;
     font-weight: 600;
@@ -1365,6 +1372,12 @@ body {
     font-size: 0.8rem;
     color: var(--gray-500);
     line-height: 1.4;
+}
+
+.fi-count {
+    font-weight: 600;
+    color: var(--primary-500);
+    font-size: 0.85rem;
 }
 
 /* =============================================================================

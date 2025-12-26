@@ -512,41 +512,42 @@ function renderFinancial(financial) {
         return;
     }
 
-    // Deduplicate amounts with same value, currency, and context
-    const seen = new Set();
-    const uniqueAmounts = amounts.filter(item => {
+    // Deduplicate amounts and count occurrences
+    const countMap = new Map();
+    amounts.forEach(item => {
         const key = `${item.amount}|${item.currency}|${item.context}`;
-        if (seen.has(key)) {
-            return false;
+        if (countMap.has(key)) {
+            countMap.get(key).count++;
+        } else {
+            countMap.set(key, { ...item, count: 1 });
         }
-        seen.add(key);
-        return true;
     });
+    const uniqueAmounts = Array.from(countMap.values()).sort((a, b) => b.count - a.count);
 
     const COLLAPSE_THRESHOLD = 16;
     const needsCollapse = uniqueAmounts.length > COLLAPSE_THRESHOLD;
     const visibleAmounts = needsCollapse ? uniqueAmounts.slice(0, COLLAPSE_THRESHOLD) : uniqueAmounts;
     const hiddenAmounts = needsCollapse ? uniqueAmounts.slice(COLLAPSE_THRESHOLD) : [];
 
+    const renderItem = (item) => `
+        <div class="financial-item">
+            <span class="fi-value">${formatCurrency(item.amount, item.currency)}</span>
+            <div class="fi-context-row">
+                <span class="fi-context">${item.context || 'No context'}</span>
+                ${item.count > 1 ? `<span class="fi-count">${item.count}×</span>` : ''}
+            </div>
+        </div>
+    `;
+
     // Build compact 3-column grid - value + context visible at once
     container.innerHTML = `
         <div class="financial-grid">
-            ${visibleAmounts.map(item => `
-                <div class="financial-item">
-                    <span class="fi-value">${formatCurrency(item.amount, item.currency)}</span>
-                    <span class="fi-context">${item.context || 'No context'}</span>
-                </div>
-            `).join('')}
+            ${visibleAmounts.map(renderItem).join('')}
         </div>
         ${needsCollapse ? `
             <div class="collapsible-section collapsed" id="financialHidden">
                 <div class="financial-grid">
-                    ${hiddenAmounts.map(item => `
-                        <div class="financial-item">
-                            <span class="fi-value">${formatCurrency(item.amount, item.currency)}</span>
-                            <span class="fi-context">${item.context || 'No context'}</span>
-                        </div>
-                    `).join('')}
+                    ${hiddenAmounts.map(renderItem).join('')}
                 </div>
             </div>
             <button class="expand-btn" onclick="toggleCollapse('financialHidden', this)">
