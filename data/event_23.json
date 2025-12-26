@@ -6,11 +6,28 @@
     "category": "other",
     "summary": "Les quatre principaux syndicats agricoles vont \u00eatre re\u00e7us par le Pr\u00e9sident de la R\u00e9publique, pour \u00e9changer \u00e0 propos de l'accord UE-Mercosur.\n\nLa FNSEA, les Jeunes agriculteurs (JA), la Coordination rurale et la Conf\u00e9d\u00e9ration paysanne vont \u00eatre re\u00e7us \u00e0 16h30, mardi 23 d\u00e9cembre, par le pr\u00e9sident Emman...",
     "first_seen": "2025-12-25T22:48:15.030316",
-    "last_updated": "2025-12-25T23:39:13.586452",
+    "last_updated": "2025-12-26T21:27:23.720088",
     "created_at": "2025-12-25 21:48:15"
   },
-  "generated_at": "2025-12-26T00:06:53.779995",
+  "generated_at": "2025-12-26T21:28:40.328153",
   "articles": [
+    {
+      "id": 460,
+      "article_uri": "2025-12-933964065",
+      "event_id": 23,
+      "title": "French farmers maintain road blockades through Christmas over livestock culls and trade deal",
+      "body": "French farmers maintain road blockades through Christmas over livestock culls and trade deal\n\nFrench farmers continued their road blockades across southwestern regions during Christmas, defying the holiday to protest government policy mandating the culling of cattle infected with lumpy skin disease. Demonstrations, which began over ten days ago, have disrupted major routes near Bordeaux, Toulouse, and the Pyrenees-Atlantiques.\n\nProtesters also gathered over 300 people for a Christmas mass near Toulouse, underlining the depth of rural discontent. Farmers are planning further actions, including a tractor parade, as frustrations grow over what they view as heavy-handed health measures and unfair trade competition.\n\nThe protests also target the EU's pending trade agreement with Mercosur, which farmers argue threatens domestic agriculture by favoring cheaper imports. Prime Minister Sebastien Lecornu has offered to meet with farmers' unions in early January, but for now, the rural standoff shows no signs of easing.\n\nFollow @RESTinvestigate on Telegram | \ud835\udd4f",
+      "source_name": "Pravda EN",
+      "source_country": null,
+      "source_url": "https://news-pravda.com/eu/2025/12/26/1957449.html",
+      "published_date": "2025-12-26T15:25:20Z",
+      "language": "eng",
+      "image_url": "https://news-pravda.com/img/20251226/483f6075cd04f16809bed0c26e572f1a_o.jpg",
+      "fetched_at": "2025-12-26 20:27:23",
+      "sentiment_score": -0.6,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
     {
       "id": 421,
       "article_uri": "2025-12-933155191",
@@ -738,6 +755,10 @@
     {
       "date": "2025-12-25",
       "count": 3
+    },
+    {
+      "date": "2025-12-26",
+      "count": 1
     }
   ],
   "sentiment_trend": [
@@ -755,13 +776,18 @@
       "date": "2025-12-25",
       "avg_sentiment": -0.5333333333333333,
       "count": 3
+    },
+    {
+      "date": "2025-12-26",
+      "avg_sentiment": -0.6,
+      "count": 1
     }
   ],
   "entities": {
     "countries": [
       {
         "name": "France",
-        "count": 42
+        "count": 43
       },
       {
         "name": "Brazil",
@@ -800,11 +826,11 @@
         "count": 6
       },
       {
-        "name": "Belgium",
-        "count": 3
+        "name": "EU",
+        "count": 4
       },
       {
-        "name": "EU",
+        "name": "Belgium",
         "count": 3
       },
       {
@@ -862,6 +888,10 @@
         "count": 2
       },
       {
+        "name": "Sebastien Lecornu",
+        "count": 2
+      },
+      {
         "name": "Annie Genevard",
         "count": 1
       },
@@ -887,10 +917,6 @@
       },
       {
         "name": "Pierrick Horel (pr\u00e9sident de Jeunes agriculteurs)",
-        "count": 1
-      },
-      {
-        "name": "Sebastien Lecornu",
         "count": 1
       },
       {
@@ -936,11 +962,11 @@
         "count": 15
       },
       {
-        "name": "AFP",
-        "count": 10
+        "name": "Mercosur",
+        "count": 11
       },
       {
-        "name": "Mercosur",
+        "name": "AFP",
         "count": 10
       },
       {
@@ -972,6 +998,10 @@
         "count": 4
       },
       {
+        "name": "farmers' unions",
+        "count": 4
+      },
+      {
         "name": "Confederation Paysanne",
         "count": 3
       },
@@ -984,11 +1014,11 @@
         "count": 3
       },
       {
-        "name": "farmers' unions",
-        "count": 3
+        "name": "Bison Fut\u00e9",
+        "count": 2
       },
       {
-        "name": "Bison Fut\u00e9",
+        "name": "EU",
         "count": 2
       },
       {
@@ -1005,10 +1035,6 @@
       },
       {
         "name": "Cirad",
-        "count": 1
-      },
-      {
-        "name": "EU",
         "count": 1
       },
       {
@@ -2001,6 +2027,12 @@
       "mention_count": 8
     },
     {
+      "stakeholder": "French farmers",
+      "position": "oppose",
+      "reasoning": "Disagreement over a trade deal and concerns about a cow disease.",
+      "mention_count": 6
+    },
+    {
       "stakeholder": "French Farmers",
       "position": "oppose",
       "reasoning": "Fear of being overwhelmed by cheaper South American agricultural products.",
@@ -2010,12 +2042,6 @@
       "stakeholder": "French Government",
       "position": "neutral",
       "reasoning": "Attempting to secure concessions for French farmers while navigating the trade agreement.",
-      "mention_count": 5
-    },
-    {
-      "stakeholder": "French farmers",
-      "position": "oppose",
-      "reasoning": "Disagreement over a trade deal and concerns about a cow disease.",
       "mention_count": 5
     },
     {
@@ -2124,6 +2150,12 @@
       "stakeholder": "Coordination rurale & Conf\u00e9d\u00e9ration paysanne",
       "position": "oppose",
       "reasoning": "Opposition to the treaty and dissatisfaction with the government's handling of the bovine dermatosis crisis.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "EU",
+      "position": "neutral",
+      "reasoning": "Implementing trade agreements.",
       "mention_count": 1
     },
     {
@@ -2247,6 +2279,12 @@
       "mention_count": 1
     },
     {
+      "stakeholder": "Sebastien Lecornu",
+      "position": "neutral",
+      "reasoning": "Offering to meet with unions, attempting to address concerns.",
+      "mention_count": 1
+    },
+    {
       "stakeholder": "S\u00e9bastien Lecornu",
       "position": "oppose",
       "reasoning": "Agreement must not harm French industries or create unfair competition.",
@@ -2314,6 +2352,11 @@
         "source": "Yahoo actualit\u00e9s",
         "avg_sentiment": -0.633,
         "article_count": 3
+      },
+      {
+        "source": "Pravda EN",
+        "avg_sentiment": -0.6,
+        "article_count": 1
       },
       {
         "source": "anews",
@@ -2479,6 +2522,11 @@
           "article_count": 3
         },
         {
+          "source": "Pravda EN",
+          "avg_sentiment": -0.6,
+          "article_count": 1
+        },
+        {
           "source": "anews",
           "avg_sentiment": -0.6,
           "article_count": 1
@@ -2613,10 +2661,10 @@
       "positive": []
     },
     "summary": {
-      "negative_count": 32,
+      "negative_count": 33,
       "neutral_count": 0,
       "positive_count": 0,
-      "total_count": 32
+      "total_count": 33
     }
   },
   "quote_network": [
@@ -2766,44 +2814,43 @@
     }
   ],
   "summary_stats": {
-    "total_articles": 42,
-    "sources": 32,
+    "total_articles": 43,
+    "sources": 33,
     "date_range": {
       "start": "2025-12-23T14:52:10Z",
-      "end": "2025-12-25T12:45:52Z"
+      "end": "2025-12-26T15:25:20Z"
     },
-    "avg_sentiment": -0.4785714285714286,
+    "avg_sentiment": -0.48139534883720936,
     "total_quotes": 88,
     "total_financial_mentions": 4
   },
-  "executive_brief": "French agricultural unions are meeting with President Emmanuel Macron to discuss the EU-Mercosur trade agreement, amidst widespread farmer protests and blockades. The event is receiving significant media coverage (42 articles from 32 sources) and is occurring during the Christmas holiday, highlighting the urgency and intensity of the situation. The overwhelmingly negative sentiment (-0.48) suggests deep dissatisfaction with the potential agreement and the government's response. \n\nThe core of the dispute centers on fears that the Mercosur agreement will expose French farmers to unfair competition from cheaper South American agricultural products. Stakeholders like Arnaud Rousseau (FNSEA) and St\u00e9phane Galais (Conf\u00e9d\u00e9ration paysanne) express strong opposition, stating the agreement offers no concrete solutions and is even a \u201cnon-sens.\u201d While the French government, through Jean-No\u00ebl Barrot, claims to have secured concessions, these are not viewed as sufficient by the unions. The protests are already impacting the economy, with reported blockades costing EUR 1,000,000 in Pyr\u00e9n\u00e9es-Atlantiques, and there are concerns about potential reductions in PAC aids (20%).",
+  "executive_brief": "French agricultural unions are meeting with President Emmanuel Macron to discuss the EU-Mercosur trade agreement, amidst widespread farmer protests and road blockades. This event is receiving significant media coverage (43 articles from 33 sources) and is occurring during the Christmas holiday, highlighting the urgency and intensity of the situation. The overwhelmingly negative sentiment (-0.48) suggests deep dissatisfaction with the current state of negotiations and a lack of confidence in the government's response. \n\nThe core of the dispute centers on fears that the Mercosur agreement will expose French farmers to unfair competition from South American agricultural products. Key stakeholders, including the FNSEA and Conf\u00e9d\u00e9ration paysanne, express strong opposition, with Arnaud Rousseau of the FNSEA calling the agreement a \"non-sens.\" While the French government, represented by Jean-No\u00ebl Barrot, claims to be securing concessions, these are deemed insufficient by both farmers and some government officials like S\u00e9bastien Lecornu. The protests are also linked to concerns over a cow disease and potential reductions in PAC aids (20% reduction announced), with financial impacts already visible through EUR 1,000,000 in blockage costs.",
   "key_arguments": {
     "for": [
-      "Jean-No\u00ebl Barrot (Minister of Foreign Affairs) argues that the French government is securing concessions from the Mercosur agreement that will benefit French farmers, even if the agreement is not ultimately signed: \"Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions in\u00e9dites au b\u00e9n\u00e9fice de nos agriculteurs, que cet accord soit sign\u00e9 ou qu'il ne le soit pas\""
+      "Jean-No\u00ebl Barrot claims the French government is obtaining \"concessions in\u00e9dites\" for French farmers, even if the agreement isn't signed."
     ],
     "against": [
-      "Arnaud Rousseau (pr\u00e9sident de la FNSEA) believes the agreement is fundamentally flawed for French farmers: \"cet accord de \" non-sens pour les agriculteurs de France \"\"",
-      "S\u00e9bastien Lecornu (Premier ministre) states that no agreement will be accepted if it harms French agricultural sectors or creates unfair competition: \"Aucun accord ne sera accept\u00e9 s'il fragilise nos fili\u00e8res ou impose une concurrence d\u00e9loyale.\"",
-      "St\u00e9phane Galais (porte-parole national de la Conf\u00e9d\u00e9ration paysanne) feels the government's proposals lack substance: \"L'id\u00e9e du Pr\u00e9sident, c'\u00e9tait d'\u00e9teindre un peu l'incendie de la col\u00e8re agricole en nous pr\u00e9sentant des strat\u00e9gies [...] mais on n'a rien de concret\"",
-      "J\u00e9r\u00f4me Bayle (\u00e9leveur de bovins en Haute-Garonne) expresses disappointment with the state's lack of solutions and intends to continue protesting."
+      "Arnaud Rousseau (FNSEA) believes the agreement is a \"non-sens\" for French farmers.",
+      "S\u00e9bastien Lecornu (Prime Minister) states that no agreement will be accepted if it \"fragilise nos fili\u00e8res ou impose une concurrence d\u00e9loyale.\"",
+      "St\u00e9phane Galais (Conf\u00e9d\u00e9ration paysanne) states that the President's strategies are insufficient, stating \"on n'a rien de concret.\"",
+      "J\u00e9r\u00f4me Bayle (\u00e9leveur) expresses disappointment with the state's lack of solutions."
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "Mercosur - Potential access to the European market, though concessions are being sought."
+      "Mercosur - Potential access to the European market, though the agreement's future is uncertain."
     ],
     "losers": [
-      "French Farmers - Risk of increased competition and potential economic hardship if the agreement is ratified without sufficient protections.",
-      "FNSEA - Dissatisfied with the current state of negotiations and concessions offered.",
-      "Conf\u00e9d\u00e9ration paysanne - Views the agreement as lacking concrete solutions and failing to address farmer concerns.",
-      "Coordination rurale - Shares the opposition to the agreement with other agricultural unions.",
-      "Jeunes agriculteurs (JA) - Shares the opposition to the agreement with other agricultural unions."
+      "French farmers - Face potential economic hardship due to increased competition from South American agricultural products.",
+      "FNSEA - Dissatisfied with the current concessions offered by the government.",
+      "Conf\u00e9d\u00e9ration paysanne - Expresses a lack of concrete solutions from the government.",
+      "Coordination rurale - Shares the opposition to the agreement with other unions."
     ],
     "risks": [
-      "Further escalation of farmer protests and blockades, disrupting transportation and the economy.",
-      "Potential reduction in PAC aids (20%) impacting farmer income.",
-      "Damage to French agricultural sectors due to increased competition.",
-      "Unfair competition from South American agricultural products."
+      "Continued farmer protests and road blockades, disrupting economic activity.",
+      "Potential decrease in PAC aids (20% reduction announced).",
+      "Unfair competition for French farmers from cheaper South American products.",
+      "Damage to French agricultural sectors ('fragilise nos fili\u00e8res')."
     ],
     "opportunities": []
   }

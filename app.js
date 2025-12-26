@@ -21,18 +21,18 @@ const CATEGORY_LABELS = {
 // Sorting functions
 function sortEvents(events, sortType) {
     const now = new Date();
-    const oneWeekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+    const oneMonthAgo = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
 
     const sorted = [...events];
 
     switch (sortType) {
         case 'trending':
-            // Most articles in the past week
+            // Most articles in the past month
             sorted.sort((a, b) => {
                 const aDate = new Date(a.last_article_date || 0);
                 const bDate = new Date(b.last_article_date || 0);
-                const aRecent = aDate >= oneWeekAgo ? a.article_count : 0;
-                const bRecent = bDate >= oneWeekAgo ? b.article_count : 0;
+                const aRecent = aDate >= oneMonthAgo ? a.article_count : 0;
+                const bRecent = bDate >= oneMonthAgo ? b.article_count : 0;
                 // If both have recent activity, sort by article count
                 if (aRecent > 0 && bRecent > 0) {
                     return bRecent - aRecent;
