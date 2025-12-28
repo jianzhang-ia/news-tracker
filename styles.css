@@ -141,6 +141,28 @@
     display: block;
 }
 
+/* Mobile: smaller, less intrusive toggle */
+@media (max-width: 768px) {
+    .theme-toggle {
+        width: 36px;
+        height: 36px;
+        top: 0.5rem;
+        right: 0.5rem;
+        opacity: 0.7;
+        box-shadow: none;
+    }
+
+    .theme-toggle:hover,
+    .theme-toggle:active {
+        opacity: 1;
+    }
+
+    .theme-toggle svg {
+        width: 18px;
+        height: 18px;
+    }
+}
+
 /* =============================================================================
    BASE STYLES
    ============================================================================= */
