@@ -141,20 +141,14 @@
     display: block;
 }
 
-/* Mobile: smaller, less intrusive toggle */
+/* Mobile: Make toggle less intrusive - position at top, smaller */
 @media (max-width: 768px) {
     .theme-toggle {
+        position: absolute;
         width: 36px;
         height: 36px;
-        top: 0.5rem;
-        right: 0.5rem;
-        opacity: 0.7;
-        box-shadow: none;
-    }
-
-    .theme-toggle:hover,
-    .theme-toggle:active {
-        opacity: 1;
+        top: 0.75rem;
+        right: 0.75rem;
     }
 
     .theme-toggle svg {
