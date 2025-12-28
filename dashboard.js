@@ -396,8 +396,8 @@ function renderPopularityChart(trendData) {
             datasets: [{
                 label: 'Articles Published',
                 data: trendData.map(d => d.count),
-                backgroundColor: 'rgba(99, 102, 241, 0.7)',
-                borderColor: 'rgba(99, 102, 241, 1)',
+                backgroundColor: 'rgba(14, 165, 233, 0.7)',
+                borderColor: 'rgba(14, 165, 233, 1)',
                 borderWidth: 1,
                 borderRadius: 4
             }]
@@ -433,8 +433,8 @@ function renderSentimentChart(trendData) {
             datasets: [{
                 label: 'Average Sentiment',
                 data: trendData.map(d => d.avg_sentiment),
-                borderColor: '#6366F1',
-                backgroundColor: 'rgba(99, 102, 241, 0.1)',
+                borderColor: '#0ea5e9',
+                backgroundColor: 'rgba(14, 165, 233, 0.1)',
                 fill: true,
                 tension: 0.4,
                 pointBackgroundColor: trendData.map(d => getSentimentColor(d.avg_sentiment)),
@@ -732,7 +732,7 @@ function renderArticles(articles, sentimentFilter = 'all', sourceFilter = 'all')
         return;
     }
 
-    const COLLAPSE_THRESHOLD = 10;
+    const COLLAPSE_THRESHOLD = 6;
     const needsCollapse = filteredArticles.length > COLLAPSE_THRESHOLD;
     const visibleArticles = needsCollapse ? filteredArticles.slice(0, COLLAPSE_THRESHOLD) : filteredArticles;
     const hiddenArticles = needsCollapse ? filteredArticles.slice(COLLAPSE_THRESHOLD) : [];
