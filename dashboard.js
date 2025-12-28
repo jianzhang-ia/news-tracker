@@ -524,7 +524,7 @@ function renderFinancial(financial) {
     });
     const uniqueAmounts = Array.from(countMap.values()).sort((a, b) => b.count - a.count);
 
-    const COLLAPSE_THRESHOLD = 16;
+    const COLLAPSE_THRESHOLD = 12;
     const needsCollapse = uniqueAmounts.length > COLLAPSE_THRESHOLD;
     const visibleAmounts = needsCollapse ? uniqueAmounts.slice(0, COLLAPSE_THRESHOLD) : uniqueAmounts;
     const hiddenAmounts = needsCollapse ? uniqueAmounts.slice(COLLAPSE_THRESHOLD) : [];
