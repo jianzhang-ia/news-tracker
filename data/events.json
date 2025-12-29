@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T10:25:11.537320",
+  "generated_at": "2025-12-29T10:29:48.275059",
   "events": [
     {
       "id": 30,
@@ -18,6 +18,29 @@
       "negative_articles": 16,
       "top_companies": [
         "Tesla"
+      ]
+    },
+    {
+      "id": 28,
+      "event_uri": "eng-11210875",
+      "title": "China's exports grow 5.9% in November, while US shipments drop 29%",
+      "category": "other",
+      "summary": "HONG KONG (AP) -- China's exports returned to growth in November following an unexpected contraction the month before, although shipments to the United States dropped nearly 29% from a year earlier in an eighth straight month of double-digit declines.\n\nOverall exports from China in November were 5.9...",
+      "first_seen": "2025-12-28T11:37:33.088218",
+      "last_updated": "2025-12-29T10:25:07.297278",
+      "created_at": "2025-12-28 10:37:33",
+      "article_count": 140,
+      "first_article_date": "2025-12-05T04:57:28Z",
+      "last_article_date": "2025-12-09T07:47:40Z",
+      "avg_sentiment": 0.11798561151079141,
+      "positive_articles": 102,
+      "negative_articles": 37,
+      "top_companies": [
+        "Morgan Stanley",
+        "ING Bank",
+        "BNP Paribas Asset Management",
+        "ING",
+        "Reuters"
       ]
     },
     {
