@@ -1300,7 +1300,7 @@ body {
 }
 
 .entity-tag.company {
-    background: var(--secondary-500);
+    background: #10b981;
 }
 
 .entity-tag.politician {
@@ -2085,8 +2085,8 @@ body {
 }
 
 [data-theme="dark"] .entity-tag.company {
-    background: rgba(6, 182, 212, 0.25);
-    color: #22d3ee;
+    background: rgba(16, 185, 129, 0.25);
+    color: #34d399;
 }
 
 [data-theme="dark"] .entity-tag.politician {
