@@ -6,10 +6,10 @@
     "category": "steel",
     "summary": "Hennigsdorf - Nach rund einem Jahr Kurzarbeit nimmt das Stahlwerk in Hennigsdorf (Oberhavel) seine Produktion wieder auf. Das teilten Gesch\u00e4ftsf\u00fchrung und Betriebsrat der Hennigsdorfer Elektrostahlwerke GmbH am Vormittag mit. Sie h\u00e4tten sich auf einen gemeinsamen \"Zukunftspakt\" f\u00fcr das Werk verst\u00e4nd...",
     "first_seen": "2025-12-28T11:35:06.045020",
-    "last_updated": "2025-12-29T10:25:06.824158",
+    "last_updated": "2025-12-29T17:31:00.421657",
     "created_at": "2025-12-28 10:35:06"
   },
-  "generated_at": "2025-12-29T10:30:10.131651",
+  "generated_at": "2025-12-29T17:32:00.006328",
   "articles": [
     {
       "id": 463,
@@ -41,7 +41,7 @@
       "language": "deu",
       "image_url": "https://www.n-tv.de/img/30164515/1766160131/Img_16_9/1200/Die-Hennigsdorfer-Elektrostahlwerke-GmbH-nimmt-nach-rund-einem-Jahr-Kurzarbeit-die-Produktion-wieder-auf.jpg",
       "fetched_at": "2025-12-28 10:35:06",
-      "sentiment_score": 0.2,
+      "sentiment_score": 0.3,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -126,7 +126,7 @@
       "language": "deu",
       "image_url": "https://images.welt.de/69454392f6fc544dba9ad891/95dab472b3701f747e2a92d9e4889b78-master/ci16x9-w1200/stahlwerk-in-henningsdorf",
       "fetched_at": "2025-12-28 10:35:06",
-      "sentiment_score": 0.6,
+      "sentiment_score": 0.7,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -174,18 +174,18 @@
   "sentiment_trend": [
     {
       "date": "2025-12-19",
-      "avg_sentiment": -0.09999999999999999,
+      "avg_sentiment": -0.07777777777777778,
       "count": 9
     }
   ],
   "entities": {
     "countries": [
       {
-        "name": "Deutschland",
-        "count": 8
+        "name": "Germany",
+        "count": 9
       },
       {
-        "name": "Europa",
+        "name": "Europe",
         "count": 7
       },
       {
@@ -195,56 +195,48 @@
     ],
     "companies": [
       {
-        "name": "Hennigsdorfer Elektrostahlwerke GmbH",
+        "name": "Hennigsdorfer Elektrostahlwerke",
         "count": 7
       },
       {
-        "name": "Riva-Konzern",
+        "name": "Riva",
         "count": 7
-      },
-      {
-        "name": "Hennigsdorfer Elektrostahlwerke GmbH (HES)",
-        "count": 1
       },
       {
         "name": "Stahlwerk Hennigsdorf",
         "count": 1
       }
     ],
-    "organizations": [
+    "politicians": [
       {
-        "name": "EU-Kommission",
+        "name": "Friedrich Merz",
         "count": 6
       },
       {
-        "name": "Betriebsrat",
+        "name": "Daniel Keller",
         "count": 2
+      }
+    ],
+    "organizations": [
+      {
+        "name": "EU-Kommission",
+        "count": 3
       },
       {
-        "name": "Deutsche Presse-Agentur (dpa)",
+        "name": "European Union",
+        "count": 3
+      },
+      {
+        "name": "Deutsche Presse-Agentur",
+        "count": 1
+      },
+      {
+        "name": "Hennigsdorfer Elektrostahlwerke GmbH",
         "count": 1
       },
       {
         "name": "IG Metall",
         "count": 1
-      },
-      {
-        "name": "SZ-Redaktion",
-        "count": 1
-      }
-    ],
-    "politicians": [
-      {
-        "name": "Friedrich Merz (CDU)",
-        "count": 4
-      },
-      {
-        "name": "Daniel Keller (SPD)",
-        "count": 2
-      },
-      {
-        "name": "Friedrich Merz (Bundeskanzler)",
-        "count": 2
       }
     ]
   },
@@ -252,17 +244,22 @@
     "amounts": [
       {
         "amount": 460.0,
-        "currency": null,
-        "context": "number of employees"
+        "currency": "people",
+        "context": "number of employees at the steel plant"
+      },
+      {
+        "amount": 460.0,
+        "currency": "people",
+        "context": "number of employees at the Hennigsdorf steel plant"
       }
     ],
     "totals": {
-      "null": 460.0
+      "people": 920.0
     }
   },
   "quotes": [
     {
-      "id": 1094,
+      "id": 4019,
       "article_id": 463,
       "speaker": "Daniel Keller",
       "speaker_role": "Brandenburgs Wirtschaftsminister",
@@ -272,27 +269,17 @@
       "source_url": "https://www.mz.de/panorama/stahlwerk-hennigsdorf-nimmt-2026-produktion-wieder-auf-4168973"
     },
     {
-      "id": 1095,
-      "article_id": 463,
-      "speaker": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
-      "speaker_role": "Hennigsdorfer Elektrostahlwerke GmbH",
-      "quote_text": "Es ist h\u00f6chste Zeit, den bisher immer nur angek\u00fcndigten Kurswechsel hin zu einer zukunftsorientierten Industriepolitik endlich entschlossen umzusetzen und die Rahmenbedingungen f\u00fcr eine nachhaltige und klimafreundliche Stahlindustrie in Deutschland grundlegend zu verbessern.",
-      "stance": "support",
-      "article_title": "Stahlwerk Hennigsdorf nimmt 2026 Produktion wieder auf",
-      "source_url": "https://www.mz.de/panorama/stahlwerk-hennigsdorf-nimmt-2026-produktion-wieder-auf-4168973"
-    },
-    {
-      "id": 1096,
+      "id": 4020,
       "article_id": 463,
       "speaker": "Friedrich Merz",
       "speaker_role": "Bundeskanzler",
-      "quote_text": "Er unterst\u00fctzt Vorschl\u00e4ge der EU-Kommission, die heimische Stahlindustrie mit deutlich h\u00f6heren Z\u00f6llen vor billiger Konkurrenz aus L\u00e4ndern wie China zu sch\u00fctzen.",
+      "quote_text": "Nach einem \"Stahlgipfel\" im November eine gro\u00dfe Anstrengung der Bundesregierung, um die deutsche Stahlindustrie zu erhalten.",
       "stance": "support",
       "article_title": "Stahlwerk Hennigsdorf nimmt 2026 Produktion wieder auf",
       "source_url": "https://www.mz.de/panorama/stahlwerk-hennigsdorf-nimmt-2026-produktion-wieder-auf-4168973"
     },
     {
-      "id": 1091,
+      "id": 4017,
       "article_id": 462,
       "speaker": "Daniel Keller",
       "speaker_role": "Brandenburgs Wirtschaftsminister",
@@ -302,243 +289,139 @@
       "source_url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Stahlwerk-Hennigsdorf-nimmt-2026-Produktion-wieder-auf-id30163491.html"
     },
     {
-      "id": 1092,
-      "article_id": 462,
-      "speaker": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
-      "speaker_role": "Hennigsdorfer Elektrostahlwerke GmbH",
-      "quote_text": "Es ist h\u00f6chste Zeit, den bisher immer nur angek\u00fcndigten Kurswechsel hin zu einer zukunftsorientierten Industriepolitik endlich entschlossen umzusetzen und die Rahmenbedingungen f\u00fcr eine nachhaltige und klimafreundliche Stahlindustrie in Deutschland grundlegend zu verbessern.",
-      "stance": "support",
-      "article_title": "Berlin & Brandenburg: Stahlwerk Hennigsdorf nimmt 2026 Produktion wieder auf",
-      "source_url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Stahlwerk-Hennigsdorf-nimmt-2026-Produktion-wieder-auf-id30163491.html"
-    },
-    {
-      "id": 1093,
+      "id": 4018,
       "article_id": 462,
       "speaker": "Friedrich Merz",
       "speaker_role": "Bundeskanzler",
-      "quote_text": "versprach nach einem \"Stahlgipfel\" im November eine gro\u00dfe Anstrengung der Bundesregierung, um die deutsche Stahlindustrie zu erhalten.",
+      "quote_text": "Nach einem \"Stahlgipfel\" im November eine gro\u00dfe Anstrengung der Bundesregierung, um die deutsche Stahlindustrie zu erhalten.",
       "stance": "support",
       "article_title": "Berlin & Brandenburg: Stahlwerk Hennigsdorf nimmt 2026 Produktion wieder auf",
       "source_url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Stahlwerk-Hennigsdorf-nimmt-2026-Produktion-wieder-auf-id30163491.html"
     },
     {
-      "id": 1102,
+      "id": 4023,
       "article_id": 466,
-      "speaker": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
-      "speaker_role": "Hennigsdorfer Elektrostahlwerke GmbH",
+      "speaker": "Friedrich Merz",
+      "speaker_role": "Bundeskanzler (CDU)",
       "quote_text": "Es ist h\u00f6chste Zeit, den bisher immer nur angek\u00fcndigten Kurswechsel hin zu einer zukunftsorientierten Industriepolitik endlich entschlossen umzusetzen und die Rahmenbedingungen f\u00fcr eine nachhaltige und klimafreundliche Stahlindustrie in Deutschland grundlegend zu verbessern.",
       "stance": "support",
       "article_title": "Nach einem Jahr Kurzarbeit: Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
       "source_url": "https://www.tagesspiegel.de/potsdam/brandenburg/krise-in-stahlindustrie-stahlwerk-hennigsdorf-nimmt-produktion-wieder-auf-15067586.html"
     },
     {
-      "id": 1103,
-      "article_id": 466,
-      "speaker": "Friedrich Merz",
-      "speaker_role": "Bundeskanzler (CDU)",
-      "quote_text": "versprach nach einem \"Stahlgipfel\" im November eine gro\u00dfe Anstrengung der Bundesregierung, um die deutsche Stahlindustrie zu erhalten.",
-      "stance": "support",
-      "article_title": "Nach einem Jahr Kurzarbeit: Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
-      "source_url": "https://www.tagesspiegel.de/potsdam/brandenburg/krise-in-stahlindustrie-stahlwerk-hennigsdorf-nimmt-produktion-wieder-auf-15067586.html"
-    },
-    {
-      "id": 1088,
-      "article_id": 461,
-      "speaker": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
-      "speaker_role": "Hennigsdorfer Elektrostahlwerke GmbH",
-      "quote_text": "\"Beide Seiten setzen dabei ausdr\u00fccklich auf die volle Unterst\u00fctzung der Besch\u00e4ftigten und Partner, um die Produktionsf\u00e4higkeit am Standort Hennigsdorf kurzfristig zu stabilisieren und langfristig zu sichern\"",
-      "stance": "support",
-      "article_title": "Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
-      "source_url": "https://www.mz.de/panorama/stahlwerk-hennigsdorf-nimmt-produktion-wieder-auf-4168973"
-    },
-    {
-      "id": 1089,
-      "article_id": 461,
-      "speaker": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
-      "speaker_role": "Hennigsdorfer Elektrostahlwerke GmbH",
-      "quote_text": "\"Es ist h\u00f6chste Zeit, den bisher immer nur angek\u00fcndigten Kurswechsel hin zu einer zukunftsorientierten Industriepolitik endlich entschlossen umzusetzen und die Rahmenbedingungen f\u00fcr eine nachhaltige und klimafreundliche Stahlindustrie in Deutschland grundlegend zu verbessern.\"",
-      "stance": "support",
-      "article_title": "Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
-      "source_url": "https://www.mz.de/panorama/stahlwerk-hennigsdorf-nimmt-produktion-wieder-auf-4168973"
-    },
-    {
-      "id": 1090,
+      "id": 4016,
       "article_id": 461,
       "speaker": "Friedrich Merz",
       "speaker_role": "Bundeskanzler",
-      "quote_text": "Versprach eine gro\u00dfe Anstrengung der Bundesregierung, um die deutsche Stahlindustrie zu erhalten.",
+      "quote_text": "Es ist h\u00f6chste Zeit, den bisher immer nur angek\u00fcndigten Kurswechsel hin zu einer zukunftsorientierten Industriepolitik endlich entschlossen umzusetzen und die Rahmenbedingungen f\u00fcr eine nachhaltige und klimafreundliche Stahlindustrie in Deutschland grundlegend zu verbessern.",
       "stance": "support",
       "article_title": "Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
       "source_url": "https://www.mz.de/panorama/stahlwerk-hennigsdorf-nimmt-produktion-wieder-auf-4168973"
     },
     {
-      "id": 1099,
+      "id": 4022,
       "article_id": 465,
-      "speaker": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
-      "speaker_role": "Hennigsdorfer Elektrostahlwerke GmbH",
-      "quote_text": "Beide Seiten setzen dabei ausdr\u00fccklich auf die volle Unterst\u00fctzung der Besch\u00e4ftigten und Partner, um die Produktionsf\u00e4higkeit am Standort Hennigsdorf kurzfristig zu stabilisieren und langfristig zu sichern",
-      "stance": "support",
-      "article_title": "Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
-      "source_url": "https://www.sueddeutsche.de/wirtschaft/krise-in-stahlindustrie-stahlwerk-hennigsdorf-nimmt-produktion-wieder-auf-dpa.urn-newsml-dpa-com-20090101-251219-930-446218"
-    },
-    {
-      "id": 1100,
-      "article_id": 465,
-      "speaker": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
-      "speaker_role": "Hennigsdorfer Elektrostahlwerke GmbH",
+      "speaker": "Friedrich Merz",
+      "speaker_role": "Bundeskanzler (CDU)",
       "quote_text": "Es ist h\u00f6chste Zeit, den bisher immer nur angek\u00fcndigten Kurswechsel hin zu einer zukunftsorientierten Industriepolitik endlich entschlossen umzusetzen und die Rahmenbedingungen f\u00fcr eine nachhaltige und klimafreundliche Stahlindustrie in Deutschland grundlegend zu verbessern.",
       "stance": "support",
       "article_title": "Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
       "source_url": "https://www.sueddeutsche.de/wirtschaft/krise-in-stahlindustrie-stahlwerk-hennigsdorf-nimmt-produktion-wieder-auf-dpa.urn-newsml-dpa-com-20090101-251219-930-446218"
     },
     {
-      "id": 1101,
-      "article_id": 465,
+      "id": 4021,
+      "article_id": 464,
       "speaker": "Friedrich Merz",
       "speaker_role": "Bundeskanzler (CDU)",
-      "quote_text": "versprach nach einem \"Stahlgipfel\" im November eine gro\u00dfe Anstrengung der Bundesregierung, um die deutsche Stahlindustrie zu erhalten.",
-      "stance": "support",
-      "article_title": "Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
-      "source_url": "https://www.sueddeutsche.de/wirtschaft/krise-in-stahlindustrie-stahlwerk-hennigsdorf-nimmt-produktion-wieder-auf-dpa.urn-newsml-dpa-com-20090101-251219-930-446218"
-    },
-    {
-      "id": 1097,
-      "article_id": 464,
-      "speaker": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
-      "speaker_role": "Hennigsdorfer Elektrostahlwerke GmbH",
       "quote_text": "Es ist h\u00f6chste Zeit, den bisher immer nur angek\u00fcndigten Kurswechsel hin zu einer zukunftsorientierten Industriepolitik endlich entschlossen umzusetzen und die Rahmenbedingungen f\u00fcr eine nachhaltige und klimafreundliche Stahlindustrie in Deutschland grundlegend zu verbessern.",
       "stance": "support",
       "article_title": "Berlin & Brandenburg: Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
       "source_url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Stahlwerk-Hennigsdorf-nimmt-Produktion-wieder-auf-id30163491.html"
     },
     {
-      "id": 1098,
-      "article_id": 464,
-      "speaker": "Friedrich Merz",
-      "speaker_role": "Bundeskanzler (CDU)",
-      "quote_text": "versprach nach einem \"Stahlgipfel\" im November eine gro\u00dfe Anstrengung der Bundesregierung, um die deutsche Stahlindustrie zu erhalten.",
-      "stance": "support",
-      "article_title": "Berlin & Brandenburg: Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
-      "source_url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Stahlwerk-Hennigsdorf-nimmt-Produktion-wieder-auf-id30163491.html"
-    },
-    {
-      "id": 1108,
+      "id": 4027,
       "article_id": 468,
-      "speaker": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
-      "speaker_role": "Management and Works Council",
-      "quote_text": "\"Beide Seiten setzen dabei ausdr\u00fccklich auf die volle Unterst\u00fctzung der Besch\u00e4ftigten und Partner, um die Produktionsf\u00e4higkeit am Standort Hennigsdorf kurzfristig zu stabilisieren und langfristig zu sichern\"",
+      "speaker": null,
+      "speaker_role": null,
+      "quote_text": "Beide Seiten setzen dabei ausdr\u00fccklich auf die volle Unterst\u00fctzung der Besch\u00e4ftigten und Partner, um die Produktionsf\u00e4higkeit am Standort Hennigsdorf kurzfristig zu stabilisieren und langfristig zu sichern",
       "stance": "support",
       "article_title": "Stahlwerk Hennigsdorf nimmt Produktion wieder auf - WELT",
       "source_url": "https://www.welt.de/regionales/berlin/article69454392f6fc544dba9ad891/stahlwerk-hennigsdorf-nimmt-produktion-wieder-auf.html"
     },
     {
-      "id": 1109,
+      "id": 4028,
       "article_id": 469,
-      "speaker": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
-      "speaker_role": "Management and Works Council",
-      "quote_text": "\"Es ist h\u00f6chste Zeit, den bisher immer nur angek\u00fcndigten Kurswechsel hin zu einer zukunftsorientierten Industriepolitik endlich entschlossen umzusetzen und die Rahmenbedingungen f\u00fcr eine nachhaltige und klimafreundliche Stahlindustrie in Deutschland grundlegend zu verbessern.\"",
+      "speaker": null,
+      "speaker_role": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
+      "quote_text": "Es ist h\u00f6chste Zeit, den bisher immer nur angek\u00fcndigten Kurswechsel hin zu einer zukunftsorientierten Industriepolitik endlich entschlossen umzusetzen und die Rahmenbedingungen f\u00fcr eine nachhaltige und klimafreundliche Stahlindustrie in Deutschland grundlegend zu verbessern.",
       "stance": "support",
       "article_title": "Stahlwerk Hennigsdorf nimmt Produktion wieder auf",
       "source_url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/krise-in-stahlindustrie--stahlwerk-hennigsdorf-nimmt-produktion-wieder-auf-36978958.html"
     },
     {
-      "id": 1104,
+      "id": 4024,
       "article_id": 467,
-      "speaker": "Unternehmenssprecher",
-      "speaker_role": "Sprecher",
+      "speaker": "Unknown Spokesperson",
+      "speaker_role": "Company Spokesperson",
       "quote_text": "Mit diesem mutigen und wirtschaftlich anspruchsvollen Schritt nimmt das Unternehmen - trotz unver\u00e4ndert schwieriger Rahmenbedingungen - nach einj\u00e4hriger, durch die externen Faktoren aufgezwungener Kurzarbeit die Produktion wieder auf",
       "stance": "support",
       "article_title": "Kurzarbeit im Stahlwerk endet: Nun steht fest, wie es im Hennigsdorfer Werk weitergeht",
       "source_url": "https://www.maz-online.de/lokales/oberhavel/hennigsdorf/hennigsdorf-zukunftspakt-fuer-das-stahlwerk-soll-die-produktion-sichern-H3ILDH6ONRF25MGUKKO3UVBMTU.html"
     },
     {
-      "id": 1105,
+      "id": 4025,
       "article_id": 467,
-      "speaker": "Unternehmenssprecher",
-      "speaker_role": "Sprecher",
+      "speaker": "Unknown Spokesperson",
+      "speaker_role": "Company Spokesperson",
       "quote_text": "Es ist h\u00f6chste Zeit, den bisher immer nur angek\u00fcndigten Kurswechsel hin zu einer zukunftsorientierten Industriepolitik endlich entschlossen umzusetzen und die Rahmenbedingungen f\u00fcr eine nachhaltige und klimafreundliche Stahlindustrie in Deutschland grundlegend zu verbessern",
       "stance": "support",
       "article_title": "Kurzarbeit im Stahlwerk endet: Nun steht fest, wie es im Hennigsdorfer Werk weitergeht",
       "source_url": "https://www.maz-online.de/lokales/oberhavel/hennigsdorf/hennigsdorf-zukunftspakt-fuer-das-stahlwerk-soll-die-produktion-sichern-H3ILDH6ONRF25MGUKKO3UVBMTU.html"
     },
     {
-      "id": 1106,
+      "id": 4026,
       "article_id": 467,
-      "speaker": "Unternehmenssprecher",
-      "speaker_role": "Sprecher",
+      "speaker": "Unknown Spokesperson",
+      "speaker_role": "Company Spokesperson",
       "quote_text": "Hinzu kommen anhaltender Importdruck, investitionshemmende B\u00fcrokratie, langwierige und teure Genehmigungsverfahren sowie ein weiterhin stagnierender Bausektor. Diese Faktoren verhindern ein dringend ben\u00f6tigtes Wiedererstarken der Industrie in Deutschland und Europa",
       "stance": "oppose",
-      "article_title": "Kurzarbeit im Stahlwerk endet: Nun steht fest, wie es im Hennigsdorfer Werk weitergeht",
-      "source_url": "https://www.maz-online.de/lokales/oberhavel/hennigsdorf/hennigsdorf-zukunftspakt-fuer-das-stahlwerk-soll-die-produktion-sichern-H3ILDH6ONRF25MGUKKO3UVBMTU.html"
-    },
-    {
-      "id": 1107,
-      "article_id": 467,
-      "speaker": "Unternehmenssprecher",
-      "speaker_role": "Sprecher",
-      "quote_text": "Hier geht das Unternehmen in Vorleistung.",
-      "stance": "support",
       "article_title": "Kurzarbeit im Stahlwerk endet: Nun steht fest, wie es im Hennigsdorfer Werk weitergeht",
       "source_url": "https://www.maz-online.de/lokales/oberhavel/hennigsdorf/hennigsdorf-zukunftspakt-fuer-das-stahlwerk-soll-die-produktion-sichern-H3ILDH6ONRF25MGUKKO3UVBMTU.html"
     }
   ],
   "stakeholders": [
     {
-      "stakeholder": "Hennigsdorfer Elektrostahlwerke GmbH",
+      "stakeholder": "Hennigsdorfer Elektrostahlwerke",
       "position": "support",
-      "reasoning": "Seeking government support for a sustainable future.",
-      "mention_count": 6
+      "reasoning": "Seeking political support for a sustainable future.",
+      "mention_count": 7
     },
     {
       "stakeholder": "Friedrich Merz",
       "position": "support",
       "reasoning": "Committed to preserving the German steel industry.",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "stakeholder": "German Steel Industry",
       "position": "oppose",
-      "reasoning": "Facing unfair competition and high costs.",
-      "mention_count": 5
-    },
-    {
-      "stakeholder": "Betriebsrat (Works Council)",
-      "position": "support",
-      "reasoning": "Agreed on the 'Zukunftspakt' to secure the future of the plant.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Brandenburgs Wirtschaftsminister Daniel Keller",
-      "position": "support",
-      "reasoning": "Relief at the resumption of production and the return to work for employees.",
-      "mention_count": 1
+      "reasoning": "Facing unfair competition and high energy costs.",
+      "mention_count": 6
     },
     {
       "stakeholder": "Daniel Keller",
       "position": "support",
-      "reasoning": "Positive impact on employment and regional economy.",
-      "mention_count": 1
+      "reasoning": "Relief at the resumption of production and the preservation of jobs.",
+      "mention_count": 2
     },
     {
-      "stakeholder": "Friedrich Merz (CDU)",
+      "stakeholder": "Gesch\u00e4ftsf\u00fchrung und Betriebsrat",
       "position": "support",
-      "reasoning": "Committed to preserving the German steel industry.",
+      "reasoning": "Advocating for a future-oriented industrial policy and improved framework conditions.",
       "mention_count": 1
     },
     {
-      "stakeholder": "German Steel Industry",
-      "position": "support",
-      "reasoning": "Seeking government intervention to address unfair competition and high costs.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Hennigsdorfer Elektrostahlwerke GmbH (HES)",
-      "position": "support",
-      "reasoning": "Wants to restart production and needs better political and economic conditions.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Hennigsdorfer Elektrostahlwerke GmbH (Management)",
+      "stakeholder": "Hennigsdorfer Elektrostahlwerke GmbH",
       "position": "support",
       "reasoning": "Agreed on a 'future pact' to stabilize and secure production.",
       "mention_count": 1
@@ -546,19 +429,25 @@
     {
       "stakeholder": "IG Metall",
       "position": "support",
-      "reasoning": "Organized a demonstration to raise awareness about the plant's future.",
+      "reasoning": "Advocating for the future of the plant and workers' rights.",
       "mention_count": 1
     },
     {
       "stakeholder": "Political Decision-Makers",
       "position": "neutral",
-      "reasoning": "The article calls for action from them, but their current position is not stated.",
+      "reasoning": "Awaiting action to improve industrial policy and framework conditions.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Stahlwerk Hennigsdorf (Management & Works Council)",
+      "stakeholder": "Riva",
       "position": "support",
-      "reasoning": "Seeking government action to improve competitiveness and sustainability.",
+      "reasoning": "Resuming production at its Hennigsdorf plant.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Stahlwerk Hennigsdorf",
+      "position": "support",
+      "reasoning": "Seeking policy changes to improve competitiveness and sustainability.",
       "mention_count": 1
     }
   ],
@@ -585,18 +474,18 @@
         "article_count": 1
       },
       {
-        "source": "N-tv",
-        "avg_sentiment": -0.05,
-        "article_count": 2
-      },
-      {
         "source": "mz.de",
         "avg_sentiment": 0.0,
         "article_count": 2
       },
       {
+        "source": "N-tv",
+        "avg_sentiment": 0.0,
+        "article_count": 2
+      },
+      {
         "source": "DIE WELT",
-        "avg_sentiment": 0.6,
+        "avg_sentiment": 0.7,
         "article_count": 1
       }
     ],
@@ -631,14 +520,14 @@
         },
         {
           "source": "N-tv",
-          "avg_sentiment": -0.05,
+          "avg_sentiment": 0.0,
           "article_count": 2
         }
       ],
       "positive": [
         {
           "source": "DIE WELT",
-          "avg_sentiment": 0.6,
+          "avg_sentiment": 0.7,
           "article_count": 1
         }
       ]
@@ -650,14 +539,7 @@
       "total_count": 7
     }
   },
-  "quote_network": [
-    {
-      "from": "Friedrich Merz",
-      "to": "EU-Kommission",
-      "stance": "support",
-      "quote_snippet": "Er unterst\u00fctzt Vorschl\u00e4ge der EU-Kommission, die heimische Stahlindustrie mit deutlich h\u00f6heren Z\u00f6lle"
-    }
-  ],
+  "quote_network": [],
   "summary_stats": {
     "total_articles": 9,
     "sources": 7,
@@ -665,38 +547,39 @@
       "start": "2025-12-19T10:07:23Z",
       "end": "2025-12-19T15:31:54Z"
     },
-    "avg_sentiment": -0.09999999999999999,
-    "total_quotes": 22,
-    "total_financial_mentions": 1
+    "avg_sentiment": -0.07777777777777778,
+    "total_quotes": 13,
+    "total_financial_mentions": 2
   },
-  "executive_brief": "Hennigsdorfer Elektrostahlwerke GmbH is restarting production after a year of short-time work, as reported in 9 articles from 7 sources. This event is significant due to its impact on the 460 employees and the broader German steel industry, which is facing challenges from international competition and domestic economic factors. The resumption of production is framed as a result of a 'Zukunftspakt' (future pact) between management and the works council, signaling a collaborative effort to secure the plant's future.\n\nStakeholders largely express support for the restart, with Brandenburgs Wirtschaftsminister Daniel Keller highlighting relief for employees and their families. Friedrich Merz, as Bundeskanzler, supports measures to protect the domestic steel industry from competition, particularly from China, through increased tariffs. However, an unnamed Unternehmenssprecher points to ongoing issues like import pressure, bureaucracy, and a stagnant construction sector as hindering factors. The Hennigsdorfer Elektrostahlwerke GmbH and the Betriebsrat are seeking a more supportive industrial policy and improved economic conditions.",
+  "executive_brief": "The Stahlwerk Hennigsdorf (Hennigsdorfer Elektrostahlwerke GmbH) is resuming production after approximately one year of reduced working hours. This event is covered by 9 articles from 7 sources, occurring within a single day (2025-12-19), but the overall sentiment is slightly negative (-0.08), indicating underlying concerns despite the positive news of restarting production. The resumption is significant as it impacts 460 employees and represents a potential stabilization of the German steel industry, which has been under pressure. \n\nStakeholders largely support the resumption, with Daniel Keller and Friedrich Merz highlighting the importance of the event and the efforts made to preserve jobs. However, a company spokesperson points to ongoing challenges including import pressure, bureaucratic hurdles, and a stagnant construction sector. The Hennigsdorfer Elektrostahlwerke and IG Metall are advocating for a future-oriented industrial policy, while the German Steel Industry faces broader issues of competitiveness. The financial implication centers around the preservation of 460 jobs at the Hennigsdorf plant.",
   "key_arguments": {
     "for": [
-      "The resumption of production provides relief for the 460 employees and their families (Daniel Keller).",
-      "The German steel industry needs protection from unfair competition, particularly from countries like China, through higher tariffs (Friedrich Merz).",
-      "It is time for a decisive shift towards a future-oriented industrial policy and improved framework conditions for sustainable development (Gesch\u00e4ftsf\u00fchrung und Betriebsrat)."
+      "Daniel Keller states that the resumption of production is a relief for the 460 employees and their families.",
+      "Friedrich Merz emphasizes a 'large effort' by the federal government to preserve the German steel industry following a 'Stahlgipfel' in November.",
+      "Hennigsdorfer Elektrostahlwerke GmbH and Riva have agreed on a 'future pact' to stabilize and secure production."
     ],
     "against": [
-      "Ongoing import pressure, bureaucratic hurdles, lengthy and costly approval processes, and a stagnant construction sector are preventing a full recovery (Unternehmenssprecher)."
+      "A company spokesperson cites 'anhaltender Importdruck, investitionshemmende B\u00fcrokratie, langwierige und teure Genehmigungsverfahren sowie ein weiterhin stagnierender Bausektor' as factors preventing a full recovery."
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "Hennigsdorfer Elektrostahlwerke GmbH - Resumption of production and a 'Zukunftspakt' to secure its future.",
-      "460 employees - Return to work after a year of short-time work.",
-      "Daniel Keller - Positive impact on employment in Brandenburg."
+      "Hennigsdorfer Elektrostahlwerke - Resumption of production and agreement on a 'future pact'.",
+      "Riva - Resuming production at its Hennigsdorf plant.",
+      "460 Employees - Preservation of jobs.",
+      "Friedrich Merz - Demonstrates success of government efforts to support the steel industry."
     ],
     "losers": [
-      "German Steel Industry - Facing challenges from import pressure and domestic economic factors."
+      "German Steel Industry - Facing ongoing challenges from import pressure and bureaucratic hurdles."
     ],
     "risks": [
-      "Continued import pressure from countries like China.",
-      "Bureaucracy and lengthy/costly approval processes.",
-      "Stagnant construction sector."
+      "Import pressure",
+      "Bureaucratic hurdles and lengthy/expensive approval processes",
+      "Stagnant construction sector",
+      "Lack of a 'zukunftsorientierten Industriepolitik' (future-oriented industrial policy)"
     ],
     "opportunities": [
-      "Implementation of a 'future-oriented industrial policy' to support the German steel industry.",
-      "Increased tariffs on imported steel to protect domestic producers."
+      "Implementation of a 'zukunftsorientierten Industriepolitik' to improve framework conditions for the German steel industry."
     ]
   }
 }

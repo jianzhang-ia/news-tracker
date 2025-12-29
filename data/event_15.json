@@ -6,10 +6,10 @@
     "category": "ev",
     "summary": "Die von US-Pr\u00e4sident Donald Trump eingef\u00fchrten hohen Z\u00f6lle lassen die Exporte der deutschen Autoindustrie besonders stark einbrechen. In den ersten drei Quartalen 2025 sind sie um 14 Prozent niedriger ausgefallen als im Vorjahreszeitraum, hei\u00dft es in der Untersuchung des Instituts der deutschen Wirt...",
     "first_seen": "2025-12-23T02:51:51.666802",
-    "last_updated": "2025-12-29T10:24:58.048706",
+    "last_updated": "2025-12-29T17:30:57.492091",
     "created_at": "2025-12-23 01:51:51"
   },
-  "generated_at": "2025-12-29T10:30:10.317110",
+  "generated_at": "2025-12-29T17:34:29.254110",
   "articles": [
     {
       "id": 459,
@@ -58,7 +58,7 @@
       "language": "eng",
       "image_url": "https://i0.wp.com/www.globaltrademag.com/wp-content/uploads/2025/08/2epeaxsc.png?fit=672%2C448&ssl=1",
       "fetched_at": "2025-12-24 21:42:50",
-      "sentiment_score": -0.65,
+      "sentiment_score": -0.6,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -77,7 +77,7 @@
       "fetched_at": "2025-12-25 22:36:15",
       "sentiment_score": -0.65,
       "sentiment_label": "negative",
-      "article_type": "news_report"
+      "article_type": "analysis"
     },
     {
       "id": 438,
@@ -160,8 +160,8 @@
       "language": "deu",
       "image_url": "https://img.main-spitze.de/wirtschaft/wirtschaft-deutschland/nvq7jm-container-terminal-tollerort-im-hamburger-hafen/alternates/OG_IMAGE_1200/container%20terminal%20tollerort%20im%20hamburger%20hafen",
       "fetched_at": "2025-12-25 22:36:15",
-      "sentiment_score": -0.6,
-      "sentiment_label": "negative",
+      "sentiment_score": -0.4,
+      "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
     {
@@ -177,7 +177,7 @@
       "language": "deu",
       "image_url": "https://www.giessener-allgemeine.de/assets/images/40/925/40925644-container-terminal-tollerort-im-hamburger-hafen-35ef.jpg",
       "fetched_at": "2025-12-25 22:36:15",
-      "sentiment_score": -0.2,
+      "sentiment_score": -0.3,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -194,7 +194,7 @@
       "language": "deu",
       "image_url": "https://www.az-online.de/assets/images/40/925/40925644-container-terminal-tollerort-im-hamburger-hafen-35ef.jpg",
       "fetched_at": "2025-12-25 22:36:15",
-      "sentiment_score": -0.2,
+      "sentiment_score": -0.3,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -228,7 +228,7 @@
       "language": "deu",
       "image_url": "https://www.soester-anzeiger.de/assets/images/40/925/40925644-container-terminal-tollerort-im-hamburger-hafen-35ef.jpg",
       "fetched_at": "2025-12-25 22:36:15",
-      "sentiment_score": -0.2,
+      "sentiment_score": -0.3,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -296,7 +296,7 @@
       "language": "eng",
       "image_url": "https://www.albawaba.com/sites/default/files/styles/default/public/2025-12/23-12-2025%20German%20cars%20AFP__20250514__46MU9UB__v1__HighRes__GermanyIndustryProductionAutomobileVolkswagenVw.jpg?itok=oprBKLlI",
       "fetched_at": "2025-12-23 17:26:35",
-      "sentiment_score": -0.6,
+      "sentiment_score": -0.65,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -364,7 +364,7 @@
       "language": "eng",
       "image_url": "https://i.headtopics.com/images/2025/12/22/bdlivesa/german-car-exports-to-us-slump-as-trump-era-tariff-german-car-exports-to-us-slump-as-trump-era-tariff-02DD004A26459F02064F2C8E23660E82.webp",
       "fetched_at": "2025-12-23 01:51:51",
-      "sentiment_score": -0.4,
+      "sentiment_score": -0.6,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -416,7 +416,7 @@
       "image_url": null,
       "fetched_at": "2025-12-23 01:51:51",
       "sentiment_score": -0.6,
-      "sentiment_label": "slightly_negative",
+      "sentiment_label": "negative",
       "article_type": "analysis"
     },
     {
@@ -467,7 +467,7 @@
       "image_url": "https://media.zenfs.com/en/rfi_english_75/375c818593dbdaad7aa02dd0f56ecab8",
       "fetched_at": "2025-12-23 01:51:51",
       "sentiment_score": -0.6,
-      "sentiment_label": "slightly_negative",
+      "sentiment_label": "negative",
       "article_type": "news_report"
     },
     {
@@ -534,7 +534,7 @@
       "language": "deu",
       "image_url": "https://finanzmarktwelt.de/wp-content/uploads/2025/02/containerschiff-shutterdin-Freepik.com_-scaled.jpeg",
       "fetched_at": "2025-12-25 22:36:14",
-      "sentiment_score": -0.65,
+      "sentiment_score": -0.6,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -551,8 +551,8 @@
       "language": "deu",
       "image_url": "https://www.cash.ch/fp/1200/675/2016/1154/sites/default/files/images/library/hamburg_hafen_transport_handel_export_import_deutschland.jpg",
       "fetched_at": "2025-12-25 22:36:15",
-      "sentiment_score": -0.6,
-      "sentiment_label": "negative",
+      "sentiment_score": -0.4,
+      "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
     {
@@ -568,7 +568,7 @@
       "language": "deu",
       "image_url": "https://www.it-boltwise.de/wp-content/uploads/2025/12/ai-german-exports-usa-1.jpg",
       "fetched_at": "2025-12-25 22:36:15",
-      "sentiment_score": -0.65,
+      "sentiment_score": -0.6,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -789,7 +789,7 @@
       "language": "deu",
       "image_url": "https://news25.de/mmnews-dts-bilder/dts_image_19786_befenocpqf_1073_210_130.jpg",
       "fetched_at": "2025-12-25 22:36:15",
-      "sentiment_score": -0.6,
+      "sentiment_score": -0.65,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -857,7 +857,7 @@
       "language": "deu",
       "image_url": "https://img.diepresse.com/public/incoming/eirrbt-imago-images-100545024/alternates/DPR_SOCIAL_NACHRICHTEN/imago%20images%20100545024",
       "fetched_at": "2025-12-25 22:36:14",
-      "sentiment_score": -0.65,
+      "sentiment_score": -0.6,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -891,7 +891,7 @@
       "language": "deu",
       "image_url": "https://images.onvista.com/onvista-media/image/upload/w_600,h_300,c_pad,b_white/v1/ov/umwft5kcunw69jfvtslb.png",
       "fetched_at": "2025-12-25 22:36:14",
-      "sentiment_score": -0.65,
+      "sentiment_score": -0.6,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -925,9 +925,9 @@
       "language": "eng",
       "image_url": "https://www.rte.ie/images/0023a99f-1600.jpg",
       "fetched_at": "2025-12-23 01:51:51",
-      "sentiment_score": null,
-      "sentiment_label": null,
-      "article_type": null
+      "sentiment_score": -0.6,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
     },
     {
       "id": 427,
@@ -1040,17 +1040,17 @@
   "sentiment_trend": [
     {
       "date": "2025-12-22",
-      "avg_sentiment": -0.5962500000000001,
-      "count": 40
+      "avg_sentiment": -0.5926829268292683,
+      "count": 41
     },
     {
       "date": "2025-12-23",
-      "avg_sentiment": -0.42500000000000004,
+      "avg_sentiment": -0.43749999999999994,
       "count": 12
     },
     {
       "date": "2025-12-24",
-      "avg_sentiment": -0.6375,
+      "avg_sentiment": -0.625,
       "count": 4
     },
     {
@@ -1067,72 +1067,52 @@
   "entities": {
     "countries": [
       {
-        "name": "USA",
-        "count": 36
-      },
-      {
-        "name": "Deutschland",
-        "count": 34
-      },
-      {
         "name": "Germany",
-        "count": 24
+        "count": 59
+      },
+      {
+        "name": "United States",
+        "count": 58
       },
       {
         "name": "China",
         "count": 16
       },
       {
-        "name": "Europa",
-        "count": 13
-      },
-      {
-        "name": "United States",
-        "count": 13
-      },
-      {
         "name": "Europe",
-        "count": 11
-      },
-      {
-        "name": "EU",
-        "count": 10
-      },
-      {
-        "name": "US",
-        "count": 7
-      },
-      {
-        "name": "Polen",
-        "count": 6
-      },
-      {
-        "name": "Schweiz",
-        "count": 6
-      },
-      {
-        "name": "Spanien",
-        "count": 6
-      },
-      {
-        "name": "Indien",
-        "count": 5
-      },
-      {
-        "name": "Indonesien",
-        "count": 5
-      },
-      {
-        "name": "S\u00fcdamerika",
-        "count": 4
+        "count": 14
       },
       {
         "name": "India",
-        "count": 3
+        "count": 8
       },
       {
         "name": "Indonesia",
-        "count": 3
+        "count": 8
+      },
+      {
+        "name": "Poland",
+        "count": 6
+      },
+      {
+        "name": "Spain",
+        "count": 6
+      },
+      {
+        "name": "Switzerland",
+        "count": 6
+      },
+      {
+        "name": "South America",
+        "count": 5
+      },
+      {
+        "name": "Argentina",
+        "count": 2
+      },
+      {
+        "name": "Brazil",
+        "count": 2
       },
       {
         "name": "France",
@@ -1143,19 +1123,11 @@
         "count": 2
       },
       {
-        "name": "Vereinigte Staaten",
-        "count": 2
-      },
-      {
-        "name": "Argentinien",
+        "name": "Austria",
         "count": 1
       },
       {
-        "name": "Brasilien",
-        "count": 1
-      },
-      {
-        "name": "North America",
+        "name": "Paraguay",
         "count": 1
       },
       {
@@ -1163,41 +1135,33 @@
         "count": 1
       },
       {
-        "name": "South America",
+        "name": "United Kingdom",
         "count": 1
       },
       {
-        "name": "S\u00fcdamerikanische Mercosur-Staaten",
-        "count": 1
-      },
-      {
-        "name": "U.S.",
-        "count": 1
-      },
-      {
-        "name": "Vereinigtes K\u00f6nigreich",
+        "name": "Uruguay",
         "count": 1
       }
     ],
     "politicians": [
       {
         "name": "Donald Trump",
-        "count": 33
-      },
-      {
-        "name": "Trump",
-        "count": 5
+        "count": 40
       },
       {
         "name": "Samina Sultan",
-        "count": 3
+        "count": 2
       },
       {
-        "name": "Donald Trump (US-Pr\u00e4sident)",
+        "name": "Carsten Brzeski",
         "count": 1
       },
       {
-        "name": "Gwynne Dyer",
+        "name": "Christina Otte",
+        "count": 1
+      },
+      {
+        "name": "Dirk Jandura",
         "count": 1
       },
       {
@@ -1205,23 +1169,19 @@
         "count": 1
       },
       {
-        "name": "Joe Biden (Vorg\u00e4nger von Trump)",
+        "name": "Joe Biden",
         "count": 1
       },
       {
-        "name": "Marco Rubio",
+        "name": "J\u00fcrgen Matthes",
         "count": 1
       },
       {
-        "name": "Robert Habeck (German Economy Minister)",
+        "name": "Robert Habeck",
         "count": 1
       },
       {
-        "name": "Songezo Zibi",
-        "count": 1
-      },
-      {
-        "name": "Trump administration",
+        "name": "Scott Bessent",
         "count": 1
       },
       {
@@ -1231,59 +1191,47 @@
     ],
     "organizations": [
       {
-        "name": "Institut der deutschen Wirtschaft (IW)",
+        "name": "Institut der deutschen Wirtschaft",
         "count": 24
       },
       {
+        "name": "European Union",
+        "count": 22
+      },
+      {
         "name": "Reuters",
-        "count": 12
-      },
-      {
-        "name": "EU",
-        "count": 11
-      },
-      {
-        "name": "German Economic Institute (IW)",
-        "count": 7
-      },
-      {
-        "name": "Brussels",
-        "count": 6
-      },
-      {
-        "name": "Washington",
-        "count": 6
-      },
-      {
-        "name": "Institut der deutschen Wirtschaft K\u00f6ln (IW)",
-        "count": 5
+        "count": 14
       },
       {
         "name": "IW",
-        "count": 4
+        "count": 9
       },
       {
-        "name": "dpa",
-        "count": 4
+        "name": "Institut der deutschen Wirtschaft K\u00f6ln",
+        "count": 8
+      },
+      {
+        "name": "Brussels",
+        "count": 7
+      },
+      {
+        "name": "German Economic Institute",
+        "count": 7
+      },
+      {
+        "name": "Washington",
+        "count": 7
       },
       {
         "name": "Federal Foreign Office",
         "count": 3
       },
       {
-        "name": "IW (Institut der deutschen Wirtschaft K\u00f6ln)",
-        "count": 3
-      },
-      {
-        "name": "Xinhua",
-        "count": 3
-      },
-      {
-        "name": "Europ\u00e4ische Union",
+        "name": "EU",
         "count": 2
       },
       {
-        "name": "German Association of the Automotive Industry (VDA)",
+        "name": "Europ\u00e4ische Union",
         "count": 2
       },
       {
@@ -1291,11 +1239,11 @@
         "count": 2
       },
       {
-        "name": "Germany Trade & Invest (GTAI)",
+        "name": "Xinhua",
         "count": 2
       },
       {
-        "name": "APA/Reuters",
+        "name": "APA",
         "count": 1
       },
       {
@@ -1311,19 +1259,11 @@
         "count": 1
       },
       {
-        "name": "Council on Foreign Relations (CFR)",
+        "name": "Council on Foreign Relations",
         "count": 1
       },
       {
-        "name": "Deutsche Presse-Agentur (dpa)",
-        "count": 1
-      },
-      {
-        "name": "European Union",
-        "count": 1
-      },
-      {
-        "name": "Europ\u00e4ische Kommission",
+        "name": "Deutsche Presse-Agentur",
         "count": 1
       },
       {
@@ -1335,11 +1275,19 @@
         "count": 1
       },
       {
-        "name": "Federation of German Wholesale, Foreign Trade and Services (BGA)",
+        "name": "Federation of German Wholesale, Foreign Trade and Services",
         "count": 1
       },
       {
         "name": "GTAI",
+        "count": 1
+      },
+      {
+        "name": "German Association of the Automotive Industry",
+        "count": 1
+      },
+      {
+        "name": "German Association of the Automotive Industry (VDA)",
         "count": 1
       },
       {
@@ -1359,10 +1307,6 @@
         "count": 1
       },
       {
-        "name": "ING",
-        "count": 1
-      },
-      {
         "name": "IW K\u00f6ln",
         "count": 1
       },
@@ -1371,15 +1315,11 @@
         "count": 1
       },
       {
-        "name": "Institute for the German Economy (IW)",
+        "name": "Institut der deutschen Wirtschaft (IW)",
         "count": 1
       },
       {
-        "name": "Mercosur",
-        "count": 1
-      },
-      {
-        "name": "Mercosur-Staaten",
+        "name": "Institute for the German Economy",
         "count": 1
       },
       {
@@ -1391,19 +1331,11 @@
         "count": 1
       },
       {
-        "name": "Transport & Environment (T&E)",
+        "name": "Transport & Environment",
         "count": 1
       },
       {
-        "name": "U.S.-EU",
-        "count": 1
-      },
-      {
-        "name": "US Justice Department",
-        "count": 1
-      },
-      {
-        "name": "US-Grenzschutzbeh\u00f6rde (Customs and Border Protection)",
+        "name": "US-Grenzschutzbeh\u00f6rde",
         "count": 1
       },
       {
@@ -1415,7 +1347,7 @@
         "count": 1
       },
       {
-        "name": "Verband der Chemischen Industrie (VCI)",
+        "name": "Verband der Chemischen Industrie",
         "count": 1
       },
       {
@@ -1433,19 +1365,27 @@
     ],
     "companies": [
       {
+        "name": "Volkswagen",
+        "count": 6
+      },
+      {
         "name": "BMW",
         "count": 5
       },
       {
         "name": "Mercedes-Benz",
-        "count": 5
+        "count": 4
       },
       {
-        "name": "Volkswagen",
-        "count": 5
+        "name": "Germany Trade & Invest",
+        "count": 2
       },
       {
-        "name": "IW (Institut der deutschen Wirtschaft K\u00f6ln)",
+        "name": "Daimler",
+        "count": 1
+      },
+      {
+        "name": "ING",
         "count": 1
       },
       {
@@ -1453,7 +1393,7 @@
         "count": 1
       },
       {
-        "name": "Reuters",
+        "name": "Tesla",
         "count": 1
       }
     ]
@@ -1461,179 +1401,264 @@
   "financial": {
     "amounts": [
       {
-        "amount": 844000.0,
-        "currency": "vehicles",
-        "context": "Vehicles produced by German makers in the US in 2024"
-      },
-      {
-        "amount": 450000.0,
-        "currency": "vehicles",
-        "context": "Vehicles shipped from Germany to the US in 2024"
-      },
-      {
-        "amount": 100000.0,
-        "currency": "N/A",
-        "context": "Jobs at risk in automotive supply chains"
-      },
-      {
-        "amount": 900.0,
-        "currency": "USD",
-        "context": "Budget des Pentagons f\u00fcr 2026"
-      },
-      {
-        "amount": 300.0,
-        "currency": "USD",
-        "context": "Erwartete Zolleinnahmen bis Jahresende (laut Scott Bessent)"
-      },
-      {
-        "amount": 235.0,
-        "currency": "USD",
-        "context": "Zolleinnahmen der USA seit J\u00e4nner"
-      },
-      {
-        "amount": 200.0,
+        "amount": 1500000000000.0,
         "currency": "EUR",
-        "context": "Umrechnung der Zolleinnahmen"
+        "context": "German annual export value"
       },
       {
-        "amount": 168.0,
-        "currency": "billion EUR",
+        "amount": 1000000000000.0,
+        "currency": "USD",
+        "context": "China's Trade Surplus"
+      },
+      {
+        "amount": 900000000000.0,
+        "currency": "USD",
+        "context": "Pentagon budget for 2026"
+      },
+      {
+        "amount": 300000000000.0,
+        "currency": "USD",
+        "context": "Projected US tariff revenue by Scott Bessent"
+      },
+      {
+        "amount": 235000000000.0,
+        "currency": "USD",
+        "context": "US tariff revenue since January"
+      },
+      {
+        "amount": 200000000000.0,
+        "currency": "EUR",
+        "context": "Equivalent of US tariff revenue in Euros"
+      },
+      {
+        "amount": 168000000000.0,
+        "currency": "EUR",
         "context": "predicted value of imports from China"
       },
       {
-        "amount": 131.3,
-        "currency": "billion euros",
-        "context": "total exports in October"
+        "amount": 131300000000.0,
+        "currency": "EUR",
+        "context": "Total exports in October"
       },
       {
-        "amount": 100.0,
-        "currency": "%",
-        "context": "Z\u00f6lle auf europ\u00e4ische Produkte (zeitweise)"
-      },
-      {
-        "amount": 100.0,
-        "currency": "%",
-        "context": "potential tariffs on pharmaceuticals"
-      },
-      {
-        "amount": 100.0,
-        "currency": "%",
-        "context": "zeitweise im Raum stehende Z\u00f6lle auf Pharmaprodukte"
-      },
-      {
-        "amount": 100.0,
-        "currency": "%",
-        "context": "zeitweise in Raum stehende Z\u00f6lle auf Pharmaprodukte"
-      },
-      {
-        "amount": 90.0,
+        "amount": 90000000000.0,
         "currency": "EUR",
         "context": "trade deficit with China"
       },
       {
-        "amount": 90.0,
+        "amount": 90000000000.0,
         "currency": "EUR",
-        "context": "trade deficit with China (billion)"
+        "context": "Germany's trade deficit with China"
       },
       {
-        "amount": 90.0,
+        "amount": 90000000000.0,
+        "currency": "EUR",
+        "context": "Germany's trade deficit with China"
+      },
+      {
+        "amount": 90000000000.0,
         "currency": "EUR",
         "context": "trade deficit with China"
       },
       {
-        "amount": 90.0,
-        "currency": "EUR",
-        "context": "trade deficit with China"
-      },
-      {
-        "amount": 81.0,
+        "amount": 81000000000.0,
         "currency": "EUR",
         "context": "projected German exports to China in 2025"
       },
       {
-        "amount": 81.0,
+        "amount": 81000000000.0,
         "currency": "EUR",
-        "context": "projected exports to China in the current year"
+        "context": "predicted exports to China"
       },
       {
-        "amount": 81.0,
-        "currency": "billion EUR",
+        "amount": 81000000000.0,
+        "currency": "EUR",
         "context": "predicted value of exports to China"
       },
       {
-        "amount": 80.0,
-        "currency": "%",
-        "context": "Rentabilit\u00e4tsschwelle in der Chemiebranche"
-      },
-      {
-        "amount": 80.0,
-        "currency": "percent",
-        "context": "Gesunkener Preis von Eiern (laut Trump)"
-      },
-      {
-        "amount": 70.0,
-        "currency": "%",
-        "context": "Auslastung der Anlagen in der Chemiebranche"
-      },
-      {
-        "amount": 70.0,
-        "currency": "%",
-        "context": "Anteil des Exportr\u00fcckgangs auf Auto, Chemie und Maschinenbau"
-      },
-      {
-        "amount": 70.0,
-        "currency": "%",
-        "context": "percentage of export decline attributed to specific sectors"
-      },
-      {
-        "amount": 70.0,
-        "currency": "%",
-        "context": "percentage of German exports to Europe"
-      },
-      {
-        "amount": 70.0,
-        "currency": "percent",
-        "context": "EU share of German exports"
-      },
-      {
-        "amount": 61.4,
+        "amount": 61400000000.0,
         "currency": "EUR",
         "context": "German exports to China in the first three quarters"
       },
       {
-        "amount": 61.4,
+        "amount": 61400000000.0,
         "currency": "EUR",
-        "context": "deutsche Warenexporte nach China in den ersten drei Quartalen"
+        "context": "German exports to China in the first three quarters"
       },
       {
-        "amount": 61.4,
+        "amount": 61400000000.0,
         "currency": "EUR",
-        "context": "deutsche Warenexporte nach China in den ersten drei Quartalen"
+        "context": "German exports to China in the first three quarters"
       },
       {
-        "amount": 61.4,
+        "amount": 61400000000.0,
         "currency": "EUR",
-        "context": "deutsche Warenexporte nach China in den ersten drei Quartalen"
+        "context": "German exports to China in the first three quarters"
       },
       {
-        "amount": 61.4,
+        "amount": 61400000000.0,
         "currency": "EUR",
-        "context": "deutsche Warenexporte nach China in den ersten drei Quartalen"
+        "context": "German exports to China in the first three quarters"
       },
       {
-        "amount": 61.4,
+        "amount": 61400000000.0,
         "currency": "EUR",
-        "context": "deutsche Warenexporte nach China in den ersten drei Quartalen"
+        "context": "German exports to China in the first three quarters"
+      },
+      {
+        "amount": 36800000000.0,
+        "currency": "EUR",
+        "context": "Value of German vehicle exports to US in 2024"
+      },
+      {
+        "amount": 11300000000.0,
+        "currency": "EUR",
+        "context": "Exports to the US in October"
+      },
+      {
+        "amount": 7900000000.0,
+        "currency": "EUR",
+        "context": "Value of German vehicle imports from US in 2024"
+      },
+      {
+        "amount": 5000000000.0,
+        "currency": "EUR",
+        "context": "Potential cost to Volkswagen due to tariffs"
+      },
+      {
+        "amount": 844000.0,
+        "currency": "vehicles",
+        "context": "Vehicles produced in US by German makers in 2024"
+      },
+      {
+        "amount": 450000.0,
+        "currency": "vehicles",
+        "context": "Vehicles shipped from Germany to US in 2024"
+      },
+      {
+        "amount": 100000.0,
+        "currency": "people",
+        "context": "Jobs at risk across automotive supply chains"
+      },
+      {
+        "amount": 100.0,
+        "currency": "%",
+        "context": "zeitweise Z\u00f6lle auf Pharmaprodukte"
+      },
+      {
+        "amount": 100.0,
+        "currency": "%",
+        "context": "Potential tariffs on pharmaceutical products"
+      },
+      {
+        "amount": 100.0,
+        "currency": "%",
+        "context": "Potential tariffs on pharmaceuticals (temporarily avoided)"
+      },
+      {
+        "amount": 100.0,
+        "currency": "%",
+        "context": "potential tariffs on pharmaceutical products"
+      },
+      {
+        "amount": 80.0,
+        "currency": "%",
+        "context": "Capacity utilization needed for profitability in the chemical industry"
+      },
+      {
+        "amount": 80.0,
+        "currency": "%",
+        "context": "Price decrease of eggs according to Trump"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "portion of export decline attributable to automotive, chemical, and mechanical engineering sectors"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "percentage of export drop from automotive, chemicals, and mechanical engineering"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "portion of export decline attributable to auto, chemical, and mechanical engineering sectors"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "Capacity utilization in the chemical industry in 2025"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "portion of export decline attributable to auto, chemical, and mechanical engineering sectors"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "Export decline share for key industries"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "Percentage of export decline attributed to auto, chemical, and mechanical engineering industries"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "Percentage of export decline attributed to automotive, chemical, and mechanical engineering industries"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "Exportr\u00fcckgang"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "percentage of export decline attributed to auto, chemical, and machinery industries"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "percentage of export decline attributed to auto, chemical, and mechanical engineering industries"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "Share of exports to European partners"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "share of German exports going to Europe"
+      },
+      {
+        "amount": 70.0,
+        "currency": "%",
+        "context": "EU share of German exports"
+      },
+      {
+        "amount": 66.67,
+        "currency": "%",
+        "context": "Firms expecting revenue losses due to tariffs"
       },
       {
         "amount": 58.0,
-        "currency": "percent",
-        "context": "plummet in Volkswagen profits"
+        "currency": "%",
+        "context": "Volkswagen profit plummet"
       },
       {
         "amount": 55.0,
-        "currency": "percent",
-        "context": "Anteil der Z\u00f6lle, der im Oktober an Konsumenten weitergegeben wurde"
+        "currency": "%",
+        "context": "Percentage of tariffs passed to consumers in October (CFR)"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "US tariff on steel and aluminium products"
       },
       {
         "amount": 50.0,
@@ -1653,7 +1678,7 @@
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "tariff rate on machinery related to steel and aluminium"
+        "context": "tariff rate on machinery related to steel and aluminium products"
       },
       {
         "amount": 50.0,
@@ -1667,12 +1692,12 @@
       },
       {
         "amount": 50.0,
-        "currency": "USD",
+        "currency": "%",
         "context": "US tariff on steel and aluminium products"
       },
       {
         "amount": 50.0,
-        "currency": "USD",
+        "currency": "%",
         "context": "US tariff on steel and aluminium products"
       },
       {
@@ -1698,17 +1723,17 @@
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "tariffs imposed on steel, aluminium and related products"
-      },
-      {
-        "amount": 50.0,
-        "currency": "%",
         "context": "tariff imposed on steel, aluminium and related products"
       },
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "tariffs imposed on steel, aluminium and related products"
+        "context": "Tariffs imposed on steel, aluminium and related products"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "Tariffs imposed on steel, aluminium and related products"
       },
       {
         "amount": 50.0,
@@ -1718,12 +1743,12 @@
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "tariff on steel, aluminum and products"
+        "context": "tariff on steel and aluminum products"
       },
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "tariff on steel, aluminum and products"
+        "context": "tariff on steel and aluminum"
       },
       {
         "amount": 50.0,
@@ -1738,17 +1763,7 @@
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "tariff on steel and aluminum"
-      },
-      {
-        "amount": 50.0,
-        "currency": "%",
-        "context": "tariff on steel, aluminum and products thereof"
-      },
-      {
-        "amount": 50.0,
-        "currency": "%",
-        "context": "Zollsatz f\u00fcr Stahl und Aluminium"
+        "context": "tariff on steel, aluminum, and products thereof"
       },
       {
         "amount": 50.0,
@@ -1763,17 +1778,47 @@
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "US tariffs on steel, aluminum, and products made from them"
+        "context": "US tariffs on steel and aluminum"
       },
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "tariff on steel and aluminum"
+        "context": "tariff on steel and aluminum products"
       },
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "Zollsatz f\u00fcr Stahl und Aluminium"
+        "context": "US tariffs on steel and aluminum"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "Higher tariff on steel and aluminum"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "US tariffs on steel and aluminum"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "US-Z\u00f6lle auf Stahl und Aluminium"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "Tariff on steel and aluminum"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "US tariffs on steel and aluminum"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "US tariffs on steel and aluminum"
       },
       {
         "amount": 50.0,
@@ -1793,57 +1838,22 @@
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "Z\u00f6lle auf Stahl und Aluminium"
-      },
-      {
-        "amount": 50.0,
-        "currency": "%",
-        "context": "US tariffs on steel, aluminum, and products made from them"
-      },
-      {
-        "amount": 50.0,
-        "currency": "%",
         "context": "US tariffs on steel and aluminum"
       },
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "US-Z\u00f6lle auf Stahl und Aluminium"
-      },
-      {
-        "amount": 50.0,
-        "currency": "%",
-        "context": "US tariffs on steel and aluminum"
-      },
-      {
-        "amount": 50.0,
-        "currency": "%",
-        "context": "US tariffs on steel and aluminum"
-      },
-      {
-        "amount": 50.0,
-        "currency": "%",
-        "context": "US-Z\u00f6lle auf Stahl und Aluminium"
-      },
-      {
-        "amount": 50.0,
-        "currency": "percent",
         "context": "tariffs on steel, aluminum, and related products"
       },
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "tariffs on steel and aluminum"
+        "context": "tariff on steel and aluminum"
       },
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "US tariff on steel, aluminum, and products thereof"
-      },
-      {
-        "amount": 36.8,
-        "currency": "EUR",
-        "context": "German vehicle exports to the US in 2024"
+        "context": "US tariff on steel, aluminum, and products made from them"
       },
       {
         "amount": 25.0,
@@ -1853,17 +1863,22 @@
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "Trump's initial tariff rate"
+        "context": "Trump's initial tariff rate on cars from Europe"
       },
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "initial proposed U.S. tariff on cars from Europe"
+        "context": "Trump's initial tariff rate on cars from Europe"
       },
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "initial auto tariff rate"
+        "context": "initial U.S. tariff proposal on cars imported from Europe"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "initial tariff rate on autos"
       },
       {
         "amount": 25.0,
@@ -1877,23 +1892,13 @@
       },
       {
         "amount": 25.0,
-        "currency": "USD",
-        "context": "Trump's initial proposal of a tariff on cars from Europe"
-      },
-      {
-        "amount": 25.0,
-        "currency": "USD",
+        "currency": "%",
         "context": "Trump's initial proposed tariff on cars from Europe"
       },
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "Initially proposed US tariff on European vehicles"
-      },
-      {
-        "amount": 25.0,
-        "currency": "%",
-        "context": "Trump's initial tariff rate"
+        "context": "Trump's initial tariff proposal"
       },
       {
         "amount": 25.0,
@@ -1902,8 +1907,13 @@
       },
       {
         "amount": 25.0,
-        "currency": "USD",
-        "context": "Initial tariff on European vehicles"
+        "currency": "%",
+        "context": "Trump's initial tariff rate on cars from Europe"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "Initial tariffs on European vehicles"
       },
       {
         "amount": 25.0,
@@ -1913,7 +1923,22 @@
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "initial US tariff on cars and parts"
+        "context": "initial additional tariff on US exports of cars and parts"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "initial US tariff on Kraftwagen and Kraftwagenteile"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "initial additional tariff on US exports of cars and car parts"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "initial US tariff on German cars and parts"
       },
       {
         "amount": 25.0,
@@ -1923,52 +1948,57 @@
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "initial US tariff on cars"
-      },
-      {
-        "amount": 25.0,
-        "currency": "%",
         "context": "initial US tariff on cars and parts"
       },
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "additional tariff on cars and parts"
+        "context": "initial additional tariff on US exports of cars and parts"
       },
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "initial additional tariff on cars and parts"
+        "context": "zusatzzollsatz von 25 Prozentpunkten"
       },
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "Zusatzzollsatz f\u00fcr Kraftwagen und Kraftwagenteile"
+        "context": "Initial additional tariff on US exports of cars and car parts"
       },
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "Zusatzzollsatz f\u00fcr Kraftwagen und Kraftwagenteile"
+        "context": "Initial additional tariff on cars and parts"
       },
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "Zusatzzollsatz f\u00fcr Kraftwagen und Kraftwagenteile"
-      },
-      {
-        "amount": 25.0,
-        "currency": "%",
-        "context": "Zollsatz auf Kraftwagen und -teile (April 2025)"
-      },
-      {
-        "amount": 25.0,
-        "currency": "percent",
         "context": "Total decline in exports to China since 2022"
       },
       {
         "amount": 25.0,
-        "currency": "percent",
-        "context": "Einbruch der Exporte seit 2022"
+        "currency": "%",
+        "context": "Total decline in exports to China since 2022"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "Total decline in exports to China since 2022"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "Total decline in exports to China since 2022"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "Total decline in exports to China since 2022"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "Total decline in exports since 2022"
       },
       {
         "amount": 25.0,
@@ -1978,67 +2008,32 @@
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "initial US tariff on cars and light commercial vehicles"
+        "context": "US tariff on cars and light commercial vehicles"
       },
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "potential decrease in E-Auto sales in Europe until 2035"
+        "context": "potential decrease in E-car sales in Europe by 2035 if Verbrenner sales are allowed"
+      },
+      {
+        "amount": 23.5,
+        "currency": "%",
+        "context": "Drop in German car exports to US in April and May"
       },
       {
         "amount": 22.0,
-        "currency": "percent",
-        "context": "Anteil der Z\u00f6lle, der im Juni an Konsumenten weitergegeben wurde"
+        "currency": "%",
+        "context": "Percentage of tariffs passed to consumers in June (CFR)"
       },
       {
         "amount": 20.0,
-        "currency": "USD",
-        "context": "Potential blanket tariff on European goods"
-      },
-      {
-        "amount": 15.0,
         "currency": "%",
-        "context": "U.S. baseline tariff on cars from Europe"
+        "context": "Potential blanket tariffs on European goods"
       },
       {
-        "amount": 15.0,
+        "amount": 20.0,
         "currency": "%",
-        "context": "U.S. baseline tariff on cars imported from Europe"
-      },
-      {
-        "amount": 15.0,
-        "currency": "%",
-        "context": "baseline tariffs on autos"
-      },
-      {
-        "amount": 15.0,
-        "currency": "%",
-        "context": "base tariff on European cars"
-      },
-      {
-        "amount": 15.0,
-        "currency": "%",
-        "context": "U.S. baseline tariff on European cars"
-      },
-      {
-        "amount": 15.0,
-        "currency": "USD",
-        "context": "baseline import tariff on cars from Europe"
-      },
-      {
-        "amount": 15.0,
-        "currency": "USD",
-        "context": "US import tariff on cars from Europe"
-      },
-      {
-        "amount": 15.0,
-        "currency": "%",
-        "context": "decline in automotive exports"
-      },
-      {
-        "amount": 15.0,
-        "currency": "%",
-        "context": "US baseline tariff on European vehicles"
+        "context": "Year-on-year collapse in exports to America"
       },
       {
         "amount": 15.0,
@@ -2048,12 +2043,67 @@
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "decline in automotive exports"
+        "context": "U.S. baseline tariff on cars from Europe"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "drop in automotive exports"
+        "context": "US baseline tariff on cars from Europe"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "U.S. baseline tariff on cars imported from Europe"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "baseline tariffs on autos set by Washington and Brussels"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "base tariff on European cars imposed by the USA"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "U.S. baseline tariff on European cars"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "US import tariff on cars from Europe"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "US import tariff on cars from Europe"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "decline in automotive exports (passenger cars and car parts)"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "US baseline tariff on cars from Europe"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "US baseline tariff on European vehicles"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "decline in passenger car and car parts exports"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "drop in exports of passenger cars and auto parts"
       },
       {
         "amount": 15.0,
@@ -2067,8 +2117,13 @@
       },
       {
         "amount": 15.0,
-        "currency": "USD",
-        "context": "Reduced tariff on European vehicles"
+        "currency": "%",
+        "context": "Reduced tariffs on European vehicles"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "Decline in German luxury vehicle imports"
       },
       {
         "amount": 15.0,
@@ -2078,6 +2133,21 @@
       {
         "amount": 15.0,
         "currency": "%",
+        "context": "general tariff rate after EU-US agreement"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "general US tariff after EU-US agreement"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "general tariff rate after EU-US agreement"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
         "context": "general US tariff after EU-US agreement"
       },
       {
@@ -2088,32 +2158,17 @@
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "general US tariff on cars after agreement"
+        "context": "general US tariff on cars and parts after agreement"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "general US tariff after EU-US agreement"
+        "context": "general tariff rate after EU-US agreement"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "general tariff rate after agreement"
-      },
-      {
-        "amount": 15.0,
-        "currency": "%",
-        "context": "general tariff rate after agreement"
-      },
-      {
-        "amount": 15.0,
-        "currency": "%",
-        "context": "genereller Zollsatz"
-      },
-      {
-        "amount": 15.0,
-        "currency": "%",
-        "context": "genereller Zollsatz"
+        "context": "generelle Zollsatz von 15 Prozent"
       },
       {
         "amount": 15.0,
@@ -2128,12 +2183,17 @@
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "genereller Zollsatz"
+        "context": "decrease in automobile exports"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "decrease in automobile exports"
+        "context": "General tariff rate after EU-US agreement"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "decline in automobile exports"
       },
       {
         "amount": 15.0,
@@ -2148,22 +2208,17 @@
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "decrease in automobile exports"
+        "context": "Decline in car and parts exports"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "R\u00fcckgang der Ausfuhren von Kraftwagen und Kraftwagenteilen"
+        "context": "Tariff on cars and parts after agreement"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "Zollsatz auf Fahrzeuge und Fahrzeugteile (Sommer 2025)"
-      },
-      {
-        "amount": 15.0,
-        "currency": "%",
-        "context": "Anstieg der Metallexporte im ersten Quartal"
+        "context": "Metal export increase in Q1"
       },
       {
         "amount": 15.0,
@@ -2173,22 +2228,27 @@
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "decrease in automobile exports to the USA"
+        "context": "Decline in automotive exports"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "increase in metal exports in Q1"
+        "context": "Metal export increase in the first quarter"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "R\u00fcckgang der Ausfuhren von Kraftwagen und -teilen"
+        "context": "Decline in automobile exports to the USA"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "Anstieg der Metallexporte im ersten Quartal"
+        "context": "Increase in metal exports in the first three quarters (due to anticipation of tariffs)"
+      },
+      {
+        "amount": 15.0,
+        "currency": "%",
+        "context": "R\u00fcckgang der Ausfuhren von Pkw und Autoteilen"
       },
       {
         "amount": 15.0,
@@ -2198,22 +2258,17 @@
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "decline in automobile exports"
+        "context": "decline in automotive exports"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "R\u00fcckgang der Ausfuhren von Kraftwagen und -teilen"
+        "context": "increase in metal exports in the first three quarters (initial effect)"
       },
       {
         "amount": 15.0,
         "currency": "%",
-        "context": "Anstieg der Metallexporte im ersten Quartal"
-      },
-      {
-        "amount": 15.0,
-        "currency": "%",
-        "context": "decrease in automobile exports"
+        "context": "decrease in automobile and auto part exports"
       },
       {
         "amount": 15.0,
@@ -2221,14 +2276,19 @@
         "context": "reduced US tariff on auto imports after EU deal"
       },
       {
-        "amount": 15.0,
-        "currency": "percent",
-        "context": "baseline tariff on EU goods entering the US"
+        "amount": 14.7,
+        "currency": "%",
+        "context": "German vehicle shipments to US increase in Q1"
       },
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "decline in German car exports to the U.S."
+        "context": "decline in German car exports to the US"
+      },
+      {
+        "amount": 14.0,
+        "currency": "%",
+        "context": "Decline in German car exports to the United States"
       },
       {
         "amount": 14.0,
@@ -2248,37 +2308,47 @@
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "decrease in German car exports to the USA"
+        "context": "decrease in German car exports to the United States"
       },
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "drop in German car exports to U.S."
+        "context": "drop in German car exports to the U.S. in 2025"
       },
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "slump in German car exports"
+        "context": "decline in German car exports to the United States"
       },
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "decline in German car exports to the US"
+        "context": "German car export drop to US in Q1-Q3 2025"
       },
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "fall in German automotive exports to the US"
-      },
-      {
-        "amount": 14.0,
-        "currency": "%",
-        "context": "fall in German automotive exports to the US"
+        "context": "German car exports to the US decline"
       },
       {
         "amount": 14.0,
         "currency": "%",
         "context": "fall in German automotive exports to the US"
+      },
+      {
+        "amount": 14.0,
+        "currency": "%",
+        "context": "Decline in German car exports to the U.S."
+      },
+      {
+        "amount": 14.0,
+        "currency": "%",
+        "context": "Decline in German automotive exports to the US"
+      },
+      {
+        "amount": 14.0,
+        "currency": "%",
+        "context": "Decline in German automotive exports to the US"
       },
       {
         "amount": 14.0,
@@ -2288,7 +2358,22 @@
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "decrease in German auto exports"
+        "context": "decrease in German auto exports in first three quarters of 2025"
+      },
+      {
+        "amount": 14.0,
+        "currency": "%",
+        "context": "decline in German auto exports in the first three quarters of 2025"
+      },
+      {
+        "amount": 14.0,
+        "currency": "%",
+        "context": "decline in German auto exports in the first three quarters of 2025"
+      },
+      {
+        "amount": 14.0,
+        "currency": "%",
+        "context": "decline in German auto exports in the first three quarters of 2025"
       },
       {
         "amount": 14.0,
@@ -2298,52 +2383,82 @@
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "decrease in auto exports"
-      },
-      {
-        "amount": 14.0,
-        "currency": "%",
-        "context": "decrease in German auto exports to the US"
-      },
-      {
-        "amount": 14.0,
-        "currency": "%",
         "context": "decrease in German auto exports"
       },
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "decrease in German auto exports"
+        "context": "decrease in German auto exports in first three quarters of 2025"
       },
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "R\u00fcckgang der Autoexporte"
+        "context": "Decline in German auto exports in the first three quarters of 2025"
       },
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "decrease in German auto exports to the US"
-      },
-      {
-        "amount": 14.0,
-        "currency": "percent",
-        "context": "R\u00fcckgang der deutschen Autoexporte in die USA"
+        "context": "Decline in German auto exports to the US"
       },
       {
         "amount": 14.0,
         "currency": "%",
-        "context": "decrease in auto exports to USA"
+        "context": "decrease in German automobile exports to the US"
+      },
+      {
+        "amount": 14.0,
+        "currency": "%",
+        "context": "decrease in German car and parts exports to the US"
       },
       {
         "amount": 13.9,
         "currency": "%",
-        "context": "decrease in German auto industry exports to the USA"
+        "context": "decrease in German auto industry exports to the US"
       },
       {
         "amount": 12.0,
-        "currency": "percent",
-        "context": "Decline in exports to China"
+        "currency": "%",
+        "context": "Decline in German luxury vehicle imports"
+      },
+      {
+        "amount": 12.0,
+        "currency": "%",
+        "context": "Decline in exports to China compared to the previous year"
+      },
+      {
+        "amount": 12.0,
+        "currency": "%",
+        "context": "Decline in German exports to China compared to the previous year"
+      },
+      {
+        "amount": 12.0,
+        "currency": "%",
+        "context": "Decline in German exports to China compared to the previous year"
+      },
+      {
+        "amount": 12.0,
+        "currency": "%",
+        "context": "Decline in German exports to China compared to the previous year"
+      },
+      {
+        "amount": 12.0,
+        "currency": "%",
+        "context": "decrease in exports to China in the first three quarters of the year"
+      },
+      {
+        "amount": 12.0,
+        "currency": "%",
+        "context": "Decline in German exports to China"
+      },
+      {
+        "amount": 12.0,
+        "currency": "%",
+        "context": "Decline in exports compared to the previous year"
+      },
+      {
+        "amount": 12.0,
+        "currency": "%",
+        "context": "decrease in exports to China in the first three quarters of 2025"
       },
       {
         "amount": 12.0,
@@ -2351,74 +2466,69 @@
         "context": "decrease in exports to China"
       },
       {
-        "amount": 12.0,
-        "currency": "percent",
-        "context": "R\u00fcckgang der Exporte im Vergleich zum Vorjahreszeitraum"
-      },
-      {
-        "amount": 12.0,
-        "currency": "%",
-        "context": "decrease in exports to China"
-      },
-      {
-        "amount": 12.0,
-        "currency": "percent",
-        "context": "decrease in exports to China"
-      },
-      {
-        "amount": 12.0,
-        "currency": "percent",
-        "context": "share of imports from China"
-      },
-      {
         "amount": 11.3,
-        "currency": "billion EUR",
-        "context": "exports to the U.S. in October"
-      },
-      {
-        "amount": 11.3,
-        "currency": "billion euros",
-        "context": "exports to the US in October"
+        "currency": "EUR billion",
+        "context": "German exports to the U.S. in October 2025"
       },
       {
         "amount": 10.9,
-        "currency": "billion EUR",
-        "context": "exports to the U.S. in August (4-year low)"
+        "currency": "EUR billion",
+        "context": "German exports to the U.S. in August 2025"
       },
       {
         "amount": 10.0,
         "currency": "%",
-        "context": "decline in German engineering exports to the US"
+        "context": "decline in German engineering firm exports to the US"
       },
       {
         "amount": 10.0,
         "currency": "%",
-        "context": "decline in mechanical engineering shipments"
+        "context": "decline in mechanical engineering and chemical shipments"
       },
       {
         "amount": 10.0,
         "currency": "%",
-        "context": "decline in chemical shipments"
+        "context": "projected fall in German exports to China in 2025"
       },
       {
         "amount": 10.0,
         "currency": "%",
-        "context": "durchschnittliches j\u00e4hrliches Wachstum der Arzneimittelausfuhren zwischen 2016 und 2024"
+        "context": "R\u00fcckgang im Maschinenbau und der chemischen Industrie"
       },
       {
         "amount": 10.0,
         "currency": "%",
-        "context": "R\u00fcckgang in Maschinenbau und Chemie"
+        "context": "durchschnittliches Wachstum der Arzneimittelausfuhren zwischen 2016 und 2024"
       },
       {
         "amount": 10.0,
         "currency": "%",
-        "context": "decrease in machinery exports"
+        "context": "Decline in mechanical engineering and chemical industry exports"
       },
       {
         "amount": 10.0,
         "currency": "%",
-        "context": "decrease in chemical industry exports"
+        "context": "Average annual growth of pharmaceutical exports between 2016 and 2024"
+      },
+      {
+        "amount": 10.0,
+        "currency": "%",
+        "context": "Decline in mechanical engineering exports"
+      },
+      {
+        "amount": 10.0,
+        "currency": "%",
+        "context": "Decline in chemical industry exports"
+      },
+      {
+        "amount": 10.0,
+        "currency": "%",
+        "context": "Average annual growth of pharmaceutical exports between 2016 and 2024"
+      },
+      {
+        "amount": 10.0,
+        "currency": "%",
+        "context": "decline in mechanical engineering and chemical industry exports"
       },
       {
         "amount": 10.0,
@@ -2428,37 +2538,12 @@
       {
         "amount": 10.0,
         "currency": "%",
-        "context": "R\u00fcckgang im Maschinenbau und der chemischen Industrie"
-      },
-      {
-        "amount": 10.0,
-        "currency": "%",
-        "context": "durchschnittliches Wachstum der Arzneimittelausfuhren zwischen 2016 und 2024"
-      },
-      {
-        "amount": 10.0,
-        "currency": "%",
-        "context": "R\u00fcckgang im Maschinenbau und der chemischen Industrie"
-      },
-      {
-        "amount": 10.0,
-        "currency": "%",
-        "context": "durchschnittliches Wachstum der Arzneimittelausfuhren zwischen 2016 und 2024"
-      },
-      {
-        "amount": 10.0,
-        "currency": "percent",
         "context": "predicted decrease in exports to China"
       },
       {
-        "amount": 9.5,
+        "amount": 10.0,
         "currency": "%",
-        "context": "decline in German engineering exports to the U.S."
-      },
-      {
-        "amount": 9.5,
-        "currency": "%",
-        "context": "decline in German chemical exports to the U.S."
+        "context": "predicted decrease in exports to China"
       },
       {
         "amount": 9.5,
@@ -2473,37 +2558,12 @@
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decline in German engineering and chemical exports to the U.S."
+        "context": "Decline in German engineering exports to the U.S."
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in German mechanical engineering exports to the USA"
-      },
-      {
-        "amount": 9.5,
-        "currency": "%",
-        "context": "decrease in chemical industry exports"
-      },
-      {
-        "amount": 9.5,
-        "currency": "%",
-        "context": "drop in German engineering exports"
-      },
-      {
-        "amount": 9.5,
-        "currency": "%",
-        "context": "drop in German chemicals exports"
-      },
-      {
-        "amount": 9.5,
-        "currency": "USD",
-        "context": "drop in exports from the chemical industry to the US"
-      },
-      {
-        "amount": 9.5,
-        "currency": "USD",
-        "context": "Drop in exports from the chemical industry to the US"
+        "context": "Decline in chemical industry exports to the U.S."
       },
       {
         "amount": 9.5,
@@ -2513,12 +2573,62 @@
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decline in German chemical industry exports to the US"
+        "context": "decline in chemical industry exports to the US"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "drop in German machinery exports"
+        "context": "decline in German engineering exports to the U.S."
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decline in German chemical exports to the U.S."
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decrease in German mechanical engineering exports to the USA"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decrease in chemical industry exports to the United States"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "drop in German engineering exports"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "dip in German chemicals exports"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "Drop in exports from the chemical industry to the US"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "Fall in chemical industry exports to the US"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "Reduced exports of German engineering firms to US"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "Decline in German engineering exports to the US"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "Decline in chemical industry exports to the US"
       },
       {
         "amount": 9.5,
@@ -2528,12 +2638,22 @@
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "drop in German machinery exports"
+        "context": "Decline in German machinery exports to the US"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decline in mechanical engineering/machinery and chemicals exports"
+        "context": "Decline in German machinery exports to the US"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decline in mechanical engineering/machinery exports"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decline in chemical exports"
       },
       {
         "amount": 9.5,
@@ -2548,22 +2668,52 @@
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in German machine exports"
+        "context": "decline in German machinery exports to the US"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in German chemical exports"
+        "context": "decline in German chemical exports to the US"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in machine exports"
+        "context": "decline in German machine exports"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in chemical exports"
+        "context": "decline in German chemical exports"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decline in German machinery exports to the US"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decline in German chemical exports to the US"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decrease in German machinery exports"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decrease in German chemical industry exports"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decrease in German machinery exports"
+      },
+      {
+        "amount": 9.5,
+        "currency": "%",
+        "context": "decrease in German chemical industry business"
       },
       {
         "amount": 9.5,
@@ -2573,87 +2723,67 @@
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in German chemical exports to the US"
+        "context": "Ausfuhren der deutschen Maschinenbauer"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in machine exports"
+        "context": "US-Gesch\u00e4ft der Chemiebranche"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in chemical exports"
+        "context": "decline in German machine exports to the US"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in German machine exports"
+        "context": "decline in chemical industry exports to the US"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in German chemical exports"
+        "context": "Decline in German machine tool exports"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "R\u00fcckgang der Maschinenausfuhren"
+        "context": "Decline in German chemical exports"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "R\u00fcckgang der Ausfuhren der deutschen Maschinenbauer"
+        "context": "decrease in German machinery and chemical industry exports to the US"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "R\u00fcckgang des US-Gesch\u00e4fts der Chemiebranche"
+        "context": "Decline in German machine exports to the US"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decline in exports of German machinery to the US"
+        "context": "Decline in German chemical exports to the US"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decline in US business of the chemical industry"
+        "context": "decrease in German machine exports to the US"
       },
       {
         "amount": 9.5,
         "currency": "%",
-        "context": "decrease in German machinery exports to the US"
-      },
-      {
-        "amount": 9.5,
-        "currency": "%",
-        "context": "decrease in German chemical exports to the US"
-      },
-      {
-        "amount": 9.5,
-        "currency": "%",
-        "context": "decrease in German machinery and chemical industry exports to the USA"
-      },
-      {
-        "amount": 9.5,
-        "currency": "percent",
-        "context": "R\u00fcckgang der deutschen Maschinenausfuhren in die USA"
-      },
-      {
-        "amount": 9.5,
-        "currency": "percent",
-        "context": "R\u00fcckgang des US-Gesch\u00e4fts der deutschen Chemiebranche"
-      },
-      {
-        "amount": 9.5,
-        "currency": "%",
-        "context": "decrease in machine exports to USA"
+        "context": "decrease in German machine exports to the US"
       },
       {
         "amount": 8.5,
         "currency": "%",
-        "context": "MoM increase in February exports"
+        "context": "MoM increase in February exports ahead of tariffs"
+      },
+      {
+        "amount": 8.3,
+        "currency": "%",
+        "context": "YoY decline in exports in October 2025"
       },
       {
         "amount": 8.0,
@@ -2668,22 +2798,17 @@
       {
         "amount": 8.0,
         "currency": "%",
-        "context": "drop in German exports to the US"
+        "context": "drop in German exports to the US in first three quarters of 2025"
       },
       {
         "amount": 8.0,
         "currency": "%",
-        "context": "decline in overall German exports to the U.S."
+        "context": "year-on-year decline in overall German exports to the U.S."
       },
       {
         "amount": 8.0,
         "currency": "%",
-        "context": "decrease in exports to the USA"
-      },
-      {
-        "amount": 8.0,
-        "currency": "%",
-        "context": "decrease in exports to the USA"
+        "context": "decrease in exports to the US"
       },
       {
         "amount": 8.0,
@@ -2693,47 +2818,7 @@
       {
         "amount": 8.0,
         "currency": "%",
-        "context": "decrease in exports to the USA"
-      },
-      {
-        "amount": 8.0,
-        "currency": "%",
-        "context": "decrease in exports"
-      },
-      {
-        "amount": 8.0,
-        "currency": "%",
-        "context": "R\u00fcckgang der deutschen US-Exporte"
-      },
-      {
-        "amount": 8.0,
-        "currency": "%",
-        "context": "decrease in exports to the USA"
-      },
-      {
-        "amount": 8.0,
-        "currency": "%",
-        "context": "decrease in German exports to the USA"
-      },
-      {
-        "amount": 8.0,
-        "currency": "%",
-        "context": "R\u00fcckgang der deutschen US-Exporte in den ersten drei Quartalen"
-      },
-      {
-        "amount": 8.0,
-        "currency": "percent",
-        "context": "R\u00fcckgang der Warenexporte in die USA"
-      },
-      {
-        "amount": 8.0,
-        "currency": "%",
-        "context": "R\u00fcckgang der Warenexporte in die USA"
-      },
-      {
-        "amount": 8.0,
-        "currency": "%",
-        "context": "R\u00fcckgang der deutschen US-Exporte in den ersten drei Quartalen"
+        "context": "decrease in exports to the US"
       },
       {
         "amount": 8.0,
@@ -2743,42 +2828,92 @@
       {
         "amount": 8.0,
         "currency": "%",
-        "context": "decrease in exports"
+        "context": "German US-Exporte R\u00fcckgang in den ersten drei Quartalen"
       },
       {
         "amount": 8.0,
         "currency": "%",
-        "context": "R\u00fcckgang der Warenexporte in die USA"
+        "context": "decrease in exports to the USA"
       },
       {
         "amount": 8.0,
         "currency": "%",
-        "context": "decrease in exports to USA"
-      },
-      {
-        "amount": 8.0,
-        "currency": "percent",
-        "context": "R\u00fcckgang der Warenexporte in die USA"
+        "context": "German US-Exports decline"
       },
       {
         "amount": 8.0,
         "currency": "%",
-        "context": "decrease in exports to USA"
+        "context": "decrease in exports to the US"
       },
       {
         "amount": 8.0,
-        "currency": "percent",
-        "context": "decrease in exports to USA"
+        "currency": "%",
+        "context": "German US-Exports decline in first three quarters"
       },
       {
-        "amount": 7.9,
-        "currency": "EUR",
-        "context": "German vehicle imports from the US in 2024"
+        "amount": 8.0,
+        "currency": "%",
+        "context": "German exports to the USA decreased by nearly 8 percent"
+      },
+      {
+        "amount": 8.0,
+        "currency": "%",
+        "context": "Decline in German exports to the USA in the first three quarters of 2025"
+      },
+      {
+        "amount": 8.0,
+        "currency": "%",
+        "context": "Decline in German exports to the USA in the first three quarters of 2025"
+      },
+      {
+        "amount": 8.0,
+        "currency": "%",
+        "context": "decline in German exports to the US in the first three quarters"
+      },
+      {
+        "amount": 8.0,
+        "currency": "%",
+        "context": "decline in exports to the USA"
+      },
+      {
+        "amount": 8.0,
+        "currency": "%",
+        "context": "decrease in exports compared to the previous year"
+      },
+      {
+        "amount": 8.0,
+        "currency": "%",
+        "context": "Decline in German exports to the USA in the first three quarters of 2025"
+      },
+      {
+        "amount": 8.0,
+        "currency": "%",
+        "context": "decrease in exports to the USA in the first three quarters of the year"
+      },
+      {
+        "amount": 8.0,
+        "currency": "%",
+        "context": "Decline in German exports to the USA"
+      },
+      {
+        "amount": 8.0,
+        "currency": "%",
+        "context": "decrease in exports to the USA in the first three quarters of 2025"
+      },
+      {
+        "amount": 8.0,
+        "currency": "%",
+        "context": "decrease in exports to the USA"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "year-on-year decline in German exports to the U.S."
+        "context": "year-on-year decline in German exports to the US"
+      },
+      {
+        "amount": 7.8,
+        "currency": "%",
+        "context": "Year-on-year decline in German exports to the U.S."
       },
       {
         "amount": 7.8,
@@ -2793,62 +2928,77 @@
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "overall decrease in German exports to the USA"
+        "context": "overall decrease in German exports to the United States"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "overall drop in German exports to U.S."
+        "context": "year-on-year drop in German exports to the U.S."
       },
       {
         "amount": 7.8,
-        "currency": "USD",
-        "context": "overall drop in German exports to the US"
+        "currency": "%",
+        "context": "Overall drop in German exports to the US"
       },
       {
         "amount": 7.8,
-        "currency": "USD",
+        "currency": "%",
         "context": "Drop in German exports to the US"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "year-on-year decline in German exports to the US"
+        "context": "German exports to US dip YoY"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "fall in German exports to the US in first three quarters of 2025"
+        "context": "Year-on-year decline in German exports to the US"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "fall in German exports to the US"
+        "context": "fall in German exports to the United States in the first three quarters of 2025"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "fall in German exports to the US"
+        "context": "Decline in German exports to the United States in the first three quarters of 2025"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "decline in German exports to the U.S. year-on-year"
+        "context": "Decline in German exports to the United States in the first three quarters of 2025"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "average decrease in German exports to USA"
+        "context": "decline in German exports to the U.S. in the first nine months of 2025"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "average decrease in German exports to USA"
+        "context": "MoM decline in exports from September to October 2025"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "average decrease in exports"
+        "context": "average decrease in German exports to the US in first three quarters"
+      },
+      {
+        "amount": 7.8,
+        "currency": "%",
+        "context": "average decline in German exports to the US in the first three quarters of the year"
+      },
+      {
+        "amount": 7.8,
+        "currency": "%",
+        "context": "average decline in German exports to the US in the first three quarters of the year"
+      },
+      {
+        "amount": 7.8,
+        "currency": "%",
+        "context": "average decline in German exports to the US in the first three quarters of the year"
       },
       {
         "amount": 7.8,
@@ -2858,37 +3008,47 @@
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "average decrease in German exports to USA"
+        "context": "Average decline in German exports to the US in the first three quarters of the year"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "durchschnittlicher R\u00fcckgang der deutschen Exporte in die USA"
+        "context": "Export decline"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "decrease in German exports to the USA in the first three quarters of the year"
-      },
-      {
-        "amount": 7.8,
-        "currency": "percent",
-        "context": "R\u00fcckgang der deutschen Exporte in die USA (durchschnittlich)"
-      },
-      {
-        "amount": 7.8,
-        "currency": "percent",
-        "context": "decrease in German exports to the USA in the first three quarters of 2025"
+        "context": "decrease in German exports to the US in the first three quarters of the year"
       },
       {
         "amount": 7.8,
         "currency": "%",
-        "context": "average decrease in German US-exports (Jan-Sept 2025)"
+        "context": "Average decline in German exports to the US"
       },
       {
         "amount": 7.8,
-        "currency": "percent",
-        "context": "drop in exports to the US"
+        "currency": "%",
+        "context": "decrease in German exports to the US in the first three quarters of 2025"
+      },
+      {
+        "amount": 7.8,
+        "currency": "%",
+        "context": "average decrease in German US-exports across all sectors"
+      },
+      {
+        "amount": 7.8,
+        "currency": "%",
+        "context": "Drop in exports to the US"
+      },
+      {
+        "amount": 7.3,
+        "currency": "%",
+        "context": "Overall decline in German exports to the U.S."
+      },
+      {
+        "amount": 7.0,
+        "currency": "%",
+        "context": "increase in imports from China"
       },
       {
         "amount": 5.4,
@@ -2903,67 +3063,62 @@
       {
         "amount": 5.2,
         "currency": "%",
-        "context": "decline in German exports to the US due to specific sectors"
+        "context": "Decline in German exports to the US due to specific sectors"
       },
       {
         "amount": 5.2,
         "currency": "%",
-        "context": "decline in German exports to US due to specific sectors"
+        "context": "Decline in German exports to the US due to three key sectors"
       },
       {
         "amount": 5.2,
-        "currency": "percent",
-        "context": "reduction in US exports due to three sectors"
+        "currency": "%",
+        "context": "impact of three sectors on overall export decline to the US"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average growth of German exports to the U.S. (2016-2024)"
+        "context": "average growth of German exports to the US from 2016 to 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average growth in comparable periods of 2016 to 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average growth rate of German exports to the U.S. (2016-2024)"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average increase in exports from 2016 to 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average growth of German exports to U.S. between 2016 and 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average annual increase in exports between 2016 and 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average annual increase in exports between 2016 and 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average annual growth of German exports to the US (2016-2024)"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average annual growth of exports between 2016 and 2024"
+        "context": "Average growth of German exports to the U.S. from 2016 to 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
         "context": "average growth of German exports to the US (2016-2024)"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average growth rate between 2016 and 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average increase in German exports from 2016 to 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average growth of German exports to the U.S. between 2016 and 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average annual increase in exports to the US between 2016 and 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "Average growth of German exports to US from 2016-2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average annual increase in exports between 2016 and 2024"
       },
       {
         "amount": 5.0,
@@ -2973,32 +3128,52 @@
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average annual growth of German exports to the US (2016-2024)"
+        "context": "average annual rise in exports between 2016 and 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average annual growth of exports to US (2016-2024)"
+        "context": "Average growth of German exports to the US from 2016 to 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average annual growth of German exports to the U.S. from 2016-2024"
+        "context": "average annual growth of German exports to the US between 2016 and 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average growth of German exports to USA (2016-2024)"
+        "context": "Average annual growth of German exports to the US between 2016 and 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average growth of German exports to USA (2016-2024)"
+        "context": "Average annual growth of German exports to the US between 2016 and 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average growth in exports (2016-2024)"
+        "context": "average annual growth of German exports from 2016-2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average growth of German exports to the US from 2016-2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average growth of German exports to the US between 2016 and 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average growth of German exports to the US between 2016 and 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average growth of German exports to the US between 2016 and 2024"
       },
       {
         "amount": 5.0,
@@ -3008,77 +3183,22 @@
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average growth in German exports to USA (2016-2024)"
+        "context": "average annual increase in exports to the US from 2016 to 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average annual increase in exports to the USA (2016-2024)"
+        "context": "average annual increase in exports to the USA from 2016 to 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average annual increase in exports to the USA (2016-2024)"
+        "context": "average annual increase in exports to the US from 2016 to 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "durchschnittliches Wachstum der deutschen Exporte in die USA (2016-2024)"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average annual increase in exports to the USA (2016-2024)"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "durchschnittliches j\u00e4hrliches Wachstum der Ausfuhren zwischen 2016 und 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average annual increase in exports to the USA (2016-2024)"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average annual increase in exports (2016-2024)"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "durchschnittliches j\u00e4hrliches Wachstum der Ausfuhren zwischen 2016 und 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average annual increase in exports to the USA (2016-2024)"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average export growth between 2016 and 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "durchschnittliches Wachstum der Ausfuhren zwischen 2016 und 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "average annual growth of German exports to the USA between 2016 and 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "%",
-        "context": "durchschnittliches Wachstum der Ausfuhren zwischen 2016 und 2024"
-      },
-      {
-        "amount": 5.0,
-        "currency": "percent",
-        "context": "Durchschnittliches Wachstum der deutschen Exporte in die USA (2016-2024)"
+        "context": "Average growth of German exports to the US between 2016 and 2024"
       },
       {
         "amount": 5.0,
@@ -3088,27 +3208,72 @@
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average export growth per year (2016-2024)"
+        "context": "durchschnittliches Wachstum der Ausfuhren zwischen 2016 und 2024"
       },
       {
         "amount": 5.0,
         "currency": "%",
-        "context": "average export growth (2016-2024)"
+        "context": "average annual increase in exports from 2016 to 2024"
       },
       {
         "amount": 5.0,
-        "currency": "billion euros",
-        "context": "potential cost to Volkswagen due to tariffs"
+        "currency": "%",
+        "context": "Average annual export growth between 2016 and 2024"
       },
       {
         "amount": 5.0,
-        "currency": "percent",
-        "context": "predicted production decline in mechanical engineering"
+        "currency": "%",
+        "context": "average annual increase in exports 2016-2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "Average annual growth of exports between 2016 and 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "Average annual export growth between 2016 and 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average annual growth of German exports to the US between 2016 and 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average annual growth of exports between 2016 and 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "Average growth of German exports to the US (2016-2024)"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average annual growth of exports to the USA from 2016 to 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average annual export growth from 2016 to 2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "average export growth in the same period 2016-2024"
+      },
+      {
+        "amount": 5.0,
+        "currency": "%",
+        "context": "Predicted production decline in mechanical engineering"
       },
       {
         "amount": 3.3,
-        "currency": "percent",
-        "context": "decrease in non-EU sales"
+        "currency": "%",
+        "context": "Decrease in non-EU exports"
       },
       {
         "amount": 3.0,
@@ -3117,18 +3282,18 @@
       },
       {
         "amount": 3.0,
-        "currency": "percent",
-        "context": "export plus to EU"
+        "currency": "%",
+        "context": "increase in exports to EU"
       },
       {
         "amount": 2.7,
-        "currency": "percent",
-        "context": "Inflationsrate in den USA"
+        "currency": "%",
+        "context": "US inflation rate"
       },
       {
         "amount": 2.7,
-        "currency": "percent",
-        "context": "increase in EU sales"
+        "currency": "%",
+        "context": "Increase in EU exports"
       },
       {
         "amount": 2.5,
@@ -3138,17 +3303,22 @@
       {
         "amount": 2.5,
         "currency": "%",
-        "context": "existing levy"
+        "context": "Existing levy on cars from Europe"
       },
       {
         "amount": 2.5,
         "currency": "%",
-        "context": "existing U.S. tariff on cars from Europe"
+        "context": "existing levy on cars from Europe"
       },
       {
         "amount": 2.5,
         "currency": "%",
-        "context": "previous auto levy"
+        "context": "existing U.S. tariff on cars imported from Europe"
+      },
+      {
+        "amount": 2.5,
+        "currency": "%",
+        "context": "previous levy on autos"
       },
       {
         "amount": 2.5,
@@ -3157,13 +3327,18 @@
       },
       {
         "amount": 2.5,
-        "currency": "USD",
-        "context": "existing levy on cars from Europe"
+        "currency": "%",
+        "context": "Existing levy before Trump's proposal"
       },
       {
         "amount": 2.5,
-        "currency": "USD",
+        "currency": "%",
         "context": "Existing levy before Trump's proposal"
+      },
+      {
+        "amount": 2.5,
+        "currency": "%",
+        "context": "existing levy on cars from Europe"
       },
       {
         "amount": 2.5,
@@ -3173,12 +3348,7 @@
       {
         "amount": 2.5,
         "currency": "%",
-        "context": "existing levy"
-      },
-      {
-        "amount": 2.5,
-        "currency": "%",
-        "context": "existing levy on cars from Europe"
+        "context": "Existing levy on cars from Europe"
       },
       {
         "amount": 2.5,
@@ -3186,162 +3356,143 @@
         "context": "previous US tariff on imported cars"
       },
       {
-        "amount": 1.5,
-        "currency": "EUR",
-        "context": "Germany's annual export revenue"
+        "amount": 2.0,
+        "currency": "%",
+        "context": "overall increase in German exports due to EU"
       },
       {
         "amount": 1.5,
         "currency": "%",
-        "context": "overall decrease in German exports due to USA and China"
+        "context": "overall negative impact on German exports due to USA and China"
       },
       {
         "amount": 1.5,
         "currency": "%",
-        "context": "negative impact on overall export change rate"
+        "context": "negative impact on overall German exports due to USA and China declines"
       },
       {
         "amount": 1.5,
-        "currency": "percent",
+        "currency": "%",
         "context": "negative impact on total exports from USA and China"
       },
       {
         "amount": 1.5,
-        "currency": "percent",
+        "currency": "%",
         "context": "positive contribution to exports from EU"
       },
       {
         "amount": 1.2,
         "currency": "%",
-        "context": "Anstieg der Pharmaprodukte"
+        "context": "Anstieg der Pharmaprodukte-Exporte"
       },
       {
         "amount": 1.2,
         "currency": "%",
-        "context": "increase in pharmaceutical exports"
+        "context": "Increase in pharmaceutical product exports"
       },
       {
         "amount": 1.2,
         "currency": "%",
-        "context": "Anstieg der Exporte von Pharmaprodukten"
+        "context": "Increase in pharmaceutical exports to the USA"
       },
       {
         "amount": 1.2,
         "currency": "%",
-        "context": "Anstieg der Exporte von Pharmaprodukten"
-      },
-      {
-        "amount": 1.0,
-        "currency": "Trillion",
-        "context": "China's Trade Surplus"
+        "context": "increase in pharmaceutical product exports"
       },
       {
         "amount": 0.81,
         "currency": "%",
-        "context": "decrease in German exports due to USA"
+        "context": "negative impact on German exports due to USA"
       },
       {
         "amount": 0.81,
-        "currency": "percent",
+        "currency": "%",
         "context": "negative impact on total exports from USA"
       },
       {
         "amount": 0.74,
         "currency": "%",
-        "context": "decrease in German exports due to China"
+        "context": "negative impact on German exports due to China"
       },
       {
         "amount": 0.74,
-        "currency": "percent",
+        "currency": "%",
         "context": "negative impact on total exports from China"
       },
       {
         "amount": 0.7,
         "currency": "%",
-        "context": "decrease in real exports"
+        "context": "decrease in real exports in the first three quarters"
       },
       {
         "amount": 0.7,
-        "currency": "percent",
-        "context": "decrease in exports considering inflation"
+        "currency": "%",
+        "context": "decrease in exports adjusted for inflation"
       },
       {
         "amount": 0.3,
-        "currency": "percentage points",
-        "context": "estimated tariff impact on GDP"
-      },
-      {
-        "amount": 0.25,
-        "currency": "percent",
-        "context": "Zuwachs der deutschen Exporte zwischen Januar und September"
+        "currency": "%",
+        "context": "negative impact on GDP (estimated range)"
       },
       {
         "amount": 0.25,
         "currency": "%",
-        "context": "Zuwachs der deutschen Exporte zwischen Januar und September"
+        "context": "Increase in overall German exports between January and September"
       },
       {
         "amount": 0.25,
         "currency": "%",
-        "context": "Zuwachs der deutschen Exporte zwischen Januar und September"
-      },
-      {
-        "amount": 0.25,
-        "currency": "percent",
-        "context": "Zuwachs der deutschen Exporte zwischen Januar und September"
+        "context": "Increase in overall German exports between January and September"
       },
       {
         "amount": 0.25,
         "currency": "%",
-        "context": "increase in overall exports"
+        "context": "Increase in overall German exports between January and September"
       },
       {
         "amount": 0.25,
-        "currency": "percent",
+        "currency": "%",
+        "context": "Increase in overall German exports"
+      },
+      {
+        "amount": 0.25,
+        "currency": "%",
+        "context": "increase in overall German exports"
+      },
+      {
+        "amount": 0.25,
+        "currency": "%",
         "context": "nominal increase in exports"
       },
       {
         "amount": 0.1,
-        "currency": "percentage points",
-        "context": "estimated tariff impact on GDP"
-      },
-      {
-        "amount": -0.2,
         "currency": "%",
-        "context": "German economic contraction in 2024"
-      },
-      {
-        "amount": -0.3,
-        "currency": "%",
-        "context": "German economic contraction in 2023"
+        "context": "negative impact on GDP (estimated range)"
       }
     ],
     "totals": {
+      "EUR": 3031700000000.0,
+      "USD": 2435000000000.0,
       "vehicles": 1294000.0,
-      "N/A": 100000.0,
-      "USD": 1714.6,
-      "EUR": 1136.6000000000001,
-      "billion EUR": 271.2,
-      "billion euros": 147.60000000000002,
-      "%": 5199.600000000001,
-      "percent": 571.3,
-      "Trillion": 1.0,
-      "percentage points": 0.4
+      "people": 100000.0,
+      "%": 7133.570000000003,
+      "EUR billion": 22.200000000000003
     }
   },
   "quotes": [
     {
-      "id": 1087,
+      "id": 4015,
       "article_id": 459,
       "speaker": "Dirk Jandura",
-      "speaker_role": "President of the Federation of German Wholesale, Foreign Trade and Services (BGA)",
+      "speaker_role": "President of the Federation of German Wholesale, Foreign Trade and Services",
       "quote_text": "Germany was losing market share in key non-EU regions, particularly in the US and China.",
       "stance": "oppose",
       "article_title": "Trump's Tariffs Cast A Long Shadow Over Germany's Export-Reliant Economy - OpEd",
       "source_url": "https://www.eurasiareview.com/26122025-trumps-tariffs-cast-a-long-shadow-over-germanys-export-reliant-economy-oped/"
     },
     {
-      "id": 1054,
+      "id": 3979,
       "article_id": 435,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Expertin",
@@ -3351,7 +3502,7 @@
       "source_url": "https://ecomento.de/2025/12/25/us-zoelle-deutsche-auto-ausfuhren-in-die-usa-brechen-um-15-prozent-ein/"
     },
     {
-      "id": 1055,
+      "id": 3980,
       "article_id": 435,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Expertin",
@@ -3361,47 +3512,37 @@
       "source_url": "https://ecomento.de/2025/12/25/us-zoelle-deutsche-auto-ausfuhren-in-die-usa-brechen-um-15-prozent-ein/"
     },
     {
-      "id": 881,
+      "id": 3825,
       "article_id": 356,
-      "speaker": "IW study",
-      "speaker_role": "report",
+      "speaker": "Donald Trump",
+      "speaker_role": "US President",
       "quote_text": "The close transatlantic trade relationship is coming under significant strain due to US President Trump's tariff policy.",
-      "stance": "oppose",
-      "article_title": "Germany's 2025 Export Crisis: US Tariffs and China Deficit Weigh on Economy",
-      "source_url": "https://www.globaltrademag.com/germanys-2025-export-crisis-us-tariffs-and-china-deficit-weigh-on-economy/"
-    },
-    {
-      "id": 882,
-      "article_id": 356,
-      "speaker": "study",
-      "speaker_role": "report",
-      "quote_text": "German exports of motor vehicles and parts, machinery and chemical products -- together accounting for more than two-fifths of German exports to the US -- are particularly hard hit",
       "stance": "neutral",
       "article_title": "Germany's 2025 Export Crisis: US Tariffs and China Deficit Weigh on Economy",
       "source_url": "https://www.globaltrademag.com/germanys-2025-export-crisis-us-tariffs-and-china-deficit-weigh-on-economy/"
     },
     {
-      "id": 1068,
+      "id": 3994,
       "article_id": 449,
-      "speaker": "Institut der deutschen Wirtschaft (IW)",
-      "speaker_role": "Research Institute",
-      "quote_text": "Die engen transatlantischen Handelsbeziehungen geraten durch die Zollpolitik von US-Pr\u00e4sident Trump erheblich unter Druck.",
-      "stance": "oppose",
-      "article_title": "Warum Deutschlands Exportmodell doppelt abgestraft wird",
-      "source_url": "http://de.euronews.com/business/2025/12/24/einbruch-der-nachfrage-in-usa-und-china-trifft-deutschlands-exporte"
-    },
-    {
-      "id": 1069,
-      "article_id": 449,
-      "speaker": "Dr. Samina Sultan",
-      "speaker_role": "Senior Economist am IW",
+      "speaker": "Samina Sultan",
+      "speaker_role": "Senior Economist at IW",
       "quote_text": "Deutschland m\u00fcsse st\u00e4rker in den Ausbau alternativer Exportm\u00e4rkte investieren und gleichzeitig verbleibende Hemmnisse innerhalb des EU-Binnenmarktes abbauen sowie Freihandelsabkommen mit Drittstaaten beschleunigen",
       "stance": "support",
       "article_title": "Warum Deutschlands Exportmodell doppelt abgestraft wird",
       "source_url": "http://de.euronews.com/business/2025/12/24/einbruch-der-nachfrage-in-usa-und-china-trifft-deutschlands-exporte"
     },
     {
-      "id": 1056,
+      "id": 3995,
+      "article_id": 449,
+      "speaker": "Institut der deutschen Wirtschaft",
+      "speaker_role": "IW",
+      "quote_text": "Die engen transatlantischen Handelsbeziehungen geraten durch die Zollpolitik von US-Pr\u00e4sident Trump erheblich unter Druck",
+      "stance": "oppose",
+      "article_title": "Warum Deutschlands Exportmodell doppelt abgestraft wird",
+      "source_url": "http://de.euronews.com/business/2025/12/24/einbruch-der-nachfrage-in-usa-und-china-trifft-deutschlands-exporte"
+    },
+    {
+      "id": 3981,
       "article_id": 438,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Expertin",
@@ -3411,7 +3552,7 @@
       "source_url": "https://www.elektroauto-news.net/news/deutsche-autoindustrie-leidet-us-zoelle"
     },
     {
-      "id": 1057,
+      "id": 3982,
       "article_id": 438,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Expertin",
@@ -3421,57 +3562,27 @@
       "source_url": "https://www.elektroauto-news.net/news/deutsche-autoindustrie-leidet-us-zoelle"
     },
     {
-      "id": 883,
-      "article_id": 357,
-      "speaker": "Economists",
-      "speaker_role": "Experts",
-      "quote_text": "represents a \"new normal\" for transatlantic trade, with limited prospects for quick recovery unless tariffs are rolled back -- unlikely in the near term.",
-      "stance": "neutral",
-      "article_title": "Tariff-hit German Exports to the US Decline Sharply, Analysis Finds - Tekedia",
-      "source_url": "https://www.tekedia.com/tariff-hit-german-exports-to-the-us-decline-sharply-analysis-finds/"
-    },
-    {
-      "id": 870,
+      "id": 3815,
       "article_id": 350,
-      "speaker": "German Economic Institute (IW)",
-      "speaker_role": "Research Organization",
-      "quote_text": "The close transatlantic trade relationship is coming under significant strain due to US President Trump's tariff policy.",
+      "speaker": "Donald Trump",
+      "speaker_role": "US President",
+      "quote_text": "due to US President Trump's tariff policy",
       "stance": "oppose",
       "article_title": "Germany's export model hit from both sides as US and China demand slumps",
       "source_url": "https://uk.finance.yahoo.com/news/germany-export-model-hit-both-163052709.html"
     },
     {
-      "id": 871,
-      "article_id": 350,
-      "speaker": "German Economic Institute (IW)",
-      "speaker_role": "Research Organization",
-      "quote_text": "German exports of motor vehicles and parts, machinery and chemical products -- together accounting for more than two-fifths of German exports to the US -- are particularly hard hit.",
-      "stance": "neutral",
-      "article_title": "Germany's export model hit from both sides as US and China demand slumps",
-      "source_url": "https://uk.finance.yahoo.com/news/germany-export-model-hit-both-163052709.html"
-    },
-    {
-      "id": 617,
+      "id": 3544,
       "article_id": 256,
-      "speaker": "German Economic Institute (IW)",
-      "speaker_role": "Research Organization",
-      "quote_text": "The close transatlantic trade relationship is coming under significant strain due to US President Trump's tariff policy.",
-      "stance": "oppose",
-      "article_title": "Germany's export model hit by dual US and China demand slump",
-      "source_url": "http://www.euronews.com/business/2025/12/23/germanys-export-model-hit-from-both-sides-as-us-and-china-demand-slumps"
-    },
-    {
-      "id": 618,
-      "article_id": 256,
-      "speaker": "IW",
-      "speaker_role": "Research Organization",
-      "quote_text": "German exports of motor vehicles and parts, machinery and chemical products -- together accounting for more than two-fifths of German exports to the US -- are particularly hard hit.",
+      "speaker": "Donald Trump",
+      "speaker_role": "US President",
+      "quote_text": "This is already reflected in the export performance of German industries during the first three quarters of 2025.",
       "stance": "neutral",
       "article_title": "Germany's export model hit by dual US and China demand slump",
       "source_url": "http://www.euronews.com/business/2025/12/23/germanys-export-model-hit-from-both-sides-as-us-and-china-demand-slumps"
     },
     {
-      "id": 1060,
+      "id": 3985,
       "article_id": 445,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Handelsexperte",
@@ -3481,7 +3592,7 @@
       "source_url": "https://www.giessener-allgemeine.de/wirtschaft/studie-deutsche-exporte-nach-china-eingebrochen-zr-94096719.html"
     },
     {
-      "id": 1061,
+      "id": 3986,
       "article_id": 445,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Fachmann",
@@ -3491,7 +3602,7 @@
       "source_url": "https://www.giessener-allgemeine.de/wirtschaft/studie-deutsche-exporte-nach-china-eingebrochen-zr-94096719.html"
     },
     {
-      "id": 1062,
+      "id": 3987,
       "article_id": 446,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Handelsexperte",
@@ -3501,7 +3612,7 @@
       "source_url": "https://www.az-online.de/wirtschaft/studie-deutsche-exporte-nach-china-eingebrochen-zr-94096719.html"
     },
     {
-      "id": 1063,
+      "id": 3988,
       "article_id": 446,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Fachmann",
@@ -3511,7 +3622,7 @@
       "source_url": "https://www.az-online.de/wirtschaft/studie-deutsche-exporte-nach-china-eingebrochen-zr-94096719.html"
     },
     {
-      "id": 1074,
+      "id": 4000,
       "article_id": 454,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Handelsexperte",
@@ -3521,7 +3632,7 @@
       "source_url": "https://www.zeit.de/news/2025-12/23/studie-deutsche-exporte-nach-china-eingebrochen"
     },
     {
-      "id": 1075,
+      "id": 4001,
       "article_id": 454,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Fachmann",
@@ -3531,7 +3642,7 @@
       "source_url": "https://www.zeit.de/news/2025-12/23/studie-deutsche-exporte-nach-china-eingebrochen"
     },
     {
-      "id": 1070,
+      "id": 3996,
       "article_id": 452,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Handelsexperte",
@@ -3541,7 +3652,7 @@
       "source_url": "https://www.soester-anzeiger.de/wirtschaft/studie-deutsche-exporte-nach-china-eingebrochen-zr-94096719.html"
     },
     {
-      "id": 1071,
+      "id": 3997,
       "article_id": 452,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Fachmann",
@@ -3551,7 +3662,7 @@
       "source_url": "https://www.soester-anzeiger.de/wirtschaft/studie-deutsche-exporte-nach-china-eingebrochen-zr-94096719.html"
     },
     {
-      "id": 1072,
+      "id": 3998,
       "article_id": 453,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-\u00d6konom",
@@ -3561,7 +3672,7 @@
       "source_url": "https://mmnews.de/aktuelle-presse/243884-studie-deutscher-exportwirtschaft-stehen-harte-zeiten-bevor"
     },
     {
-      "id": 1073,
+      "id": 3999,
       "article_id": 453,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-\u00d6konom",
@@ -3571,7 +3682,7 @@
       "source_url": "https://mmnews.de/aktuelle-presse/243884-studie-deutscher-exportwirtschaft-stehen-harte-zeiten-bevor"
     },
     {
-      "id": 1076,
+      "id": 4002,
       "article_id": 456,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Handelsexperte",
@@ -3581,17 +3692,17 @@
       "source_url": "https://www.datev-magazin.de/nachrichten-steuern-recht/wirtschaft/deutsche-china-exporte-um-zwoelf-prozent-eingebrochen-143762"
     },
     {
-      "id": 1077,
+      "id": 4003,
       "article_id": 456,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Handelsexperte",
-      "quote_text": "Das vergangene Jahr zeige aber, dass die Export-Abh\u00e4ngigkeit von den beiden Riesen nicht so gro\u00df sei wie teils bef\u00fcrchtet.",
-      "stance": "neutral",
+      "quote_text": "Das vergangene Jahr zeige aber, dass die Export-Abh\u00e4ngigkeit von den beiden Riesen nicht so gro\u00df sei wie teils bef\u00fcrchtet",
+      "stance": "slightly_positive",
       "article_title": "Deutsche China-Exporte um zw\u00f6lf Prozent eingebrochen",
       "source_url": "https://www.datev-magazin.de/nachrichten-steuern-recht/wirtschaft/deutsche-china-exporte-um-zwoelf-prozent-eingebrochen-143762"
     },
     {
-      "id": 1078,
+      "id": 4004,
       "article_id": 456,
       "speaker": "J\u00fcrgen Matthes",
       "speaker_role": "IW-Handelsexperte",
@@ -3601,67 +3712,87 @@
       "source_url": "https://www.datev-magazin.de/nachrichten-steuern-recht/wirtschaft/deutsche-china-exporte-um-zwoelf-prozent-eingebrochen-143762"
     },
     {
-      "id": 619,
+      "id": 3545,
+      "article_id": 257,
+      "speaker": "Donald Trump",
+      "speaker_role": "President",
+      "quote_text": "Trump has threatened to impose blanket tariffs of up to 20% on European goods unless trade imbalances are reduced.",
+      "stance": "oppose",
+      "article_title": "German car exports to U.S. slide 14% as Trump tariffs hit auto sector hardest | Al Bawaba",
+      "source_url": "https://www.albawaba.com/business/german-car-exports-us-slide-14-trump-1619232"
+    },
+    {
+      "id": 3546,
       "article_id": 257,
       "speaker": "Robert Habeck",
       "speaker_role": "German Economy Minister",
-      "quote_text": "urged companies to diversify into Asian markets to reduce reliance on the U.S. market.",
+      "quote_text": "German Economy Minister Robert Habeck has urged companies to diversify into Asian markets to reduce reliance on the U.S. market.",
       "stance": "neutral",
       "article_title": "German car exports to U.S. slide 14% as Trump tariffs hit auto sector hardest | Al Bawaba",
       "source_url": "https://www.albawaba.com/business/german-car-exports-us-slide-14-trump-1619232"
     },
     {
-      "id": 1079,
+      "id": 4005,
       "article_id": 457,
-      "speaker": "IW-\u00d6konom J\u00fcrgen Matthes",
-      "speaker_role": "economist",
-      "quote_text": "die gestiegene Leistungsf\u00e4higkeit chinesischer Anbieter in einigen Sektoren",
+      "speaker": "J\u00fcrgen Matthes",
+      "speaker_role": "IW-\u00d6konom",
+      "quote_text": "Die gestiegene Leistungsf\u00e4higkeit chinesischer Anbieter in einigen Sektoren",
       "stance": "neutral",
       "article_title": "Konjunktur: Europa ist jetzt die gro\u00dfe Hoffnung der deutschen Exporteure",
       "source_url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-europa-ist-jetzt-die-grosse-hoffnung-der-deutschen-exporteure/100185186.html"
     },
     {
-      "id": 1080,
+      "id": 4006,
       "article_id": 457,
-      "speaker": "IW-\u00d6konom J\u00fcrgen Matthes",
-      "speaker_role": "economist",
+      "speaker": "J\u00fcrgen Matthes",
+      "speaker_role": "IW-\u00d6konom",
       "quote_text": "unfaire Wettbewerbsverzerrungen durch staatliche Subventionen und ein unterbewerteter Yuan-Wechselkurs gegen\u00fcber dem Euro",
       "stance": "oppose",
       "article_title": "Konjunktur: Europa ist jetzt die gro\u00dfe Hoffnung der deutschen Exporteure",
       "source_url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-europa-ist-jetzt-die-grosse-hoffnung-der-deutschen-exporteure/100185186.html"
     },
     {
-      "id": 1081,
+      "id": 4007,
       "article_id": 457,
-      "speaker": "IW-Studie",
-      "speaker_role": "study",
+      "speaker": "J\u00fcrgen Matthes",
+      "speaker_role": "IW-\u00d6konom",
       "quote_text": "Europa erweist sich als Stabilisator f\u00fcr die deutsche Exportwirtschaft",
       "stance": "support",
       "article_title": "Konjunktur: Europa ist jetzt die gro\u00dfe Hoffnung der deutschen Exporteure",
       "source_url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-europa-ist-jetzt-die-grosse-hoffnung-der-deutschen-exporteure/100185186.html"
     },
     {
-      "id": 1082,
+      "id": 4008,
       "article_id": 457,
-      "speaker": "IW-Studie",
-      "speaker_role": "study",
+      "speaker": "J\u00fcrgen Matthes",
+      "speaker_role": "IW-\u00d6konom",
       "quote_text": "durch eine St\u00e4rkung des innereurop\u00e4ischen Handels wieder eine Steigerung der deutschen Exporte zu erreichen",
       "stance": "support",
       "article_title": "Konjunktur: Europa ist jetzt die gro\u00dfe Hoffnung der deutschen Exporteure",
       "source_url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-europa-ist-jetzt-die-grosse-hoffnung-der-deutschen-exporteure/100185186.html"
     },
     {
-      "id": 1083,
+      "id": 4009,
       "article_id": 457,
-      "speaker": "IW-\u00d6konom Matthes",
-      "speaker_role": "economist",
+      "speaker": "J\u00fcrgen Matthes",
+      "speaker_role": "IW-\u00d6konom",
       "quote_text": "kaum Hoffnung, dass die Exporte wieder \u00fcber eine l\u00e4ngere Zeit steigen k\u00f6nnten",
       "stance": "oppose",
       "article_title": "Konjunktur: Europa ist jetzt die gro\u00dfe Hoffnung der deutschen Exporteure",
       "source_url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-europa-ist-jetzt-die-grosse-hoffnung-der-deutschen-exporteure/100185186.html"
     },
     {
-      "id": 594,
+      "id": 4010,
+      "article_id": 457,
+      "speaker": "Christina Otte",
+      "speaker_role": "GTAI-Expertin",
+      "quote_text": "Die Entwicklungen offenbaren, dass ein Derisking von China importseitig nur schleppend vorankommt.",
+      "stance": "neutral",
+      "article_title": "Konjunktur: Europa ist jetzt die gro\u00dfe Hoffnung der deutschen Exporteure",
+      "source_url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-europa-ist-jetzt-die-grosse-hoffnung-der-deutschen-exporteure/100185186.html"
+    },
+    {
+      "id": 3522,
       "article_id": 249,
       "speaker": "Samina Sultan",
       "speaker_role": "study author",
@@ -3671,27 +3802,37 @@
       "source_url": "https://za.headtopics.com/news/german-car-exports-to-us-slump-as-trump-era-tariffs-bite-77508501"
     },
     {
-      "id": 595,
+      "id": 3523,
       "article_id": 249,
-      "speaker": "Songezo Zibi",
-      "speaker_role": "writer",
-      "quote_text": "the US president is a deranged narcissist who has turned the world into a geopolitical hellscape",
-      "stance": "oppose",
+      "speaker": "Samina Sultan",
+      "speaker_role": "study author",
+      "quote_text": "Other factors are likely to have played a role in the case of chemical products, such as lower production in Germany due to higher energy prices",
+      "stance": "neutral",
       "article_title": "German car exports to US slump as Trump-era tariffs bite",
       "source_url": "https://za.headtopics.com/news/german-car-exports-to-us-slump-as-trump-era-tariffs-bite-77508501"
     },
     {
-      "id": 1084,
+      "id": 4011,
       "article_id": 458,
       "speaker": "Samina Sultan",
-      "speaker_role": "Autorin der IW-Studie",
+      "speaker_role": "Author of IW-Study",
       "quote_text": "Die US-Importz\u00f6lle d\u00fcrften vorerst nicht auf das vorherige Niveau sinken",
       "stance": "neutral",
       "article_title": "Autoindustrie besonders betroffen: Z\u00f6lle z\u00e4hmen deutsche US-Exporte",
       "source_url": "https://taz.de/Autoindustrie-besonders-betroffen/!6140663/"
     },
     {
-      "id": 1085,
+      "id": 4012,
+      "article_id": 458,
+      "speaker": "Samina Sultan",
+      "speaker_role": "Author of IW-Study",
+      "quote_text": "Zudem muss verst\u00e4rkt in den Ausbau alternativer Exportm\u00e4rkte investiert werden.",
+      "stance": "neutral",
+      "article_title": "Autoindustrie besonders betroffen: Z\u00f6lle z\u00e4hmen deutsche US-Exporte",
+      "source_url": "https://taz.de/Autoindustrie-besonders-betroffen/!6140663/"
+    },
+    {
+      "id": 4013,
       "article_id": 458,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "Pr\u00e4sidentin des Verbands der Automobilindustrie",
@@ -3701,17 +3842,17 @@
       "source_url": "https://taz.de/Autoindustrie-besonders-betroffen/!6140663/"
     },
     {
-      "id": 1086,
+      "id": 4014,
       "article_id": 458,
-      "speaker": "T&E",
+      "speaker": "Transport & Environment",
       "speaker_role": "Klimaverband",
-      "quote_text": "europ\u00e4ische Autohersteller am Weltmarkt weiter zur\u00fcckwerfen",
+      "quote_text": "also werde der Vorsto\u00df der Kommission \"europ\u00e4ische Autohersteller am Weltmarkt weiter zur\u00fcckwerfen\"",
       "stance": "oppose",
       "article_title": "Autoindustrie besonders betroffen: Z\u00f6lle z\u00e4hmen deutsche US-Exporte",
       "source_url": "https://taz.de/Autoindustrie-besonders-betroffen/!6140663/"
     },
     {
-      "id": 592,
+      "id": 3520,
       "article_id": 248,
       "speaker": "Samina Sultan",
       "speaker_role": "IW economist",
@@ -3721,7 +3862,7 @@
       "source_url": "https://english.news.cn/europe/20251222/2795bca63bde4fa8861ad2889e3be91b/c.html"
     },
     {
-      "id": 593,
+      "id": 3521,
       "article_id": 248,
       "speaker": "Samina Sultan",
       "speaker_role": "IW economist",
@@ -3731,127 +3872,77 @@
       "source_url": "https://english.news.cn/europe/20251222/2795bca63bde4fa8861ad2889e3be91b/c.html"
     },
     {
-      "id": 1064,
+      "id": 3989,
       "article_id": 448,
       "speaker": "Donald Trump",
-      "speaker_role": "US-Pr\u00e4sident",
-      "quote_text": "\"Tariffs\", also Z\u00f6lle. Es sei \"das sch\u00f6nste Wort im W\u00f6rterbuch\"",
+      "speaker_role": "US President",
+      "quote_text": "Tariffs",
       "stance": "support",
       "article_title": "Z\u00f6lle - das teuerste Lieblingswort der Welt",
       "source_url": "https://www.diepresse.com/20427462/zoelle-das-teuerste-lieblingswort-der-welt"
     },
     {
-      "id": 1065,
+      "id": 3990,
       "article_id": 448,
       "speaker": "Donald Trump",
-      "speaker_role": "US-Pr\u00e4sident",
-      "quote_text": "Die hohen Preise seien \"Fake News\" und ein Schwindel.",
+      "speaker_role": "US President",
+      "quote_text": "den Preis von Eiern um 80 Prozent gesenkt",
+      "stance": "support",
+      "article_title": "Z\u00f6lle - das teuerste Lieblingswort der Welt",
+      "source_url": "https://www.diepresse.com/20427462/zoelle-das-teuerste-lieblingswort-der-welt"
+    },
+    {
+      "id": 3991,
+      "article_id": 448,
+      "speaker": "Donald Trump",
+      "speaker_role": "US President",
+      "quote_text": "Fake News",
       "stance": "oppose",
       "article_title": "Z\u00f6lle - das teuerste Lieblingswort der Welt",
       "source_url": "https://www.diepresse.com/20427462/zoelle-das-teuerste-lieblingswort-der-welt"
     },
     {
-      "id": 1066,
+      "id": 3992,
       "article_id": 448,
       "speaker": "Donald Trump",
-      "speaker_role": "US-Pr\u00e4sident",
-      "quote_text": "Es sei sein Ziel, Amerika wieder leistbar zu machen.",
-      "stance": "neutral",
+      "speaker_role": "US President",
+      "quote_text": "Amerika wieder gro\u00df zu machen",
+      "stance": "support",
       "article_title": "Z\u00f6lle - das teuerste Lieblingswort der Welt",
       "source_url": "https://www.diepresse.com/20427462/zoelle-das-teuerste-lieblingswort-der-welt"
     },
     {
-      "id": 1067,
+      "id": 3993,
       "article_id": 448,
-      "speaker": "Samina Sultan",
-      "speaker_role": "IW-Forscherin",
-      "quote_text": "Da man derzeit davon ausgehen muss, dass die US-Importz\u00f6lle absehbar nicht auf das Level vor der Trump-Administration zur\u00fcckgehen werden, ist eine nennenswerte Erholung der deutschen Exporte in die USA kaum zu erwarten.",
-      "stance": "oppose",
+      "speaker": "Donald Trump",
+      "speaker_role": "US President",
+      "quote_text": "es wieder leistbar zu machen",
+      "stance": "support",
       "article_title": "Z\u00f6lle - das teuerste Lieblingswort der Welt",
       "source_url": "https://www.diepresse.com/20427462/zoelle-das-teuerste-lieblingswort-der-welt"
     },
     {
-      "id": 582,
+      "id": 3517,
       "article_id": 239,
       "speaker": "Samina Sultan",
       "speaker_role": "study's author",
       "quote_text": "Given that it must now be assumed that American import tariffs will not return to pre-Trump administration levels in the near future, a substantial recovery of German exports to the USA is unlikely",
-      "stance": "oppose",
+      "stance": "neutral",
       "article_title": "Trump brings German auto industry to its knees - Collapse in exports to the USA",
       "source_url": "https://www.bankingnews.gr/index.php?id=845771"
     },
     {
-      "id": 588,
-      "article_id": 242,
-      "speaker": "report",
-      "speaker_role": "expert report",
-      "quote_text": "Since US import tariffs are unlikely to return to previous levels anytime soon, the development... may represent an approximation of the 'new normal' for German exports to the US",
-      "stance": "neutral",
-      "article_title": "US tariffs hit German car industry, threatening EU's export-driven economy",
-      "source_url": "https://ca.news.yahoo.com/us-tariffs-hit-german-car-132855424.html"
-    },
-    {
-      "id": 589,
-      "article_id": 242,
-      "speaker": "report",
-      "speaker_role": "expert report",
-      "quote_text": "Other factors are likely to have played a role in the case of chemical products, such as lower production in Germany due to higher energy prices",
-      "stance": "neutral",
-      "article_title": "US tariffs hit German car industry, threatening EU's export-driven economy",
-      "source_url": "https://ca.news.yahoo.com/us-tariffs-hit-german-car-132855424.html"
-    },
-    {
-      "id": 590,
-      "article_id": 242,
-      "speaker": "study",
-      "speaker_role": "study",
-      "quote_text": "It is crucial to prevent additional tariffs... for example on pharmaceutical products, as well as an expansion of goods subject to existing steel and aluminum tariffs",
-      "stance": "oppose",
-      "article_title": "US tariffs hit German car industry, threatening EU's export-driven economy",
-      "source_url": "https://ca.news.yahoo.com/us-tariffs-hit-german-car-132855424.html"
-    },
-    {
-      "id": 591,
-      "article_id": 242,
-      "speaker": "study",
-      "speaker_role": "study",
-      "quote_text": "trade relations with third countries must also be expanded through the swift conclusion of free trade agreements",
-      "stance": "support",
-      "article_title": "US tariffs hit German car industry, threatening EU's export-driven economy",
-      "source_url": "https://ca.news.yahoo.com/us-tariffs-hit-german-car-132855424.html"
-    },
-    {
-      "id": 585,
+      "id": 3519,
       "article_id": 241,
-      "speaker": "report",
-      "speaker_role": "expert report",
-      "quote_text": "Since US import tariffs are unlikely to return to previous levels anytime soon, the development... may represent an approximation of the 'new normal' for German exports to the US",
-      "stance": "neutral",
-      "article_title": "US tariffs hit German car industry, threatening EU's export-driven economy",
-      "source_url": "https://www.rfi.fr/en/international/20251222-us-tariffs-hit-german-car-industry-threatening-eu-s-export-driven-economy"
-    },
-    {
-      "id": 586,
-      "article_id": 241,
-      "speaker": "report",
-      "speaker_role": "study",
-      "quote_text": "It is crucial to prevent additional tariffs... for example on pharmaceutical products, as well as an expansion of goods subject to existing steel and aluminum tariffs",
+      "speaker": "Donald Trump",
+      "speaker_role": "US President",
+      "quote_text": "Trump's initial proposal of a 25 percent tariff, which would have been applied on top of an existing 2.5 percent levy",
       "stance": "oppose",
       "article_title": "US tariffs hit German car industry, threatening EU's export-driven economy",
       "source_url": "https://www.rfi.fr/en/international/20251222-us-tariffs-hit-german-car-industry-threatening-eu-s-export-driven-economy"
     },
     {
-      "id": 587,
-      "article_id": 241,
-      "speaker": "report",
-      "speaker_role": "study",
-      "quote_text": "trade relations with third countries must also be expanded through the swift conclusion of free trade agreements",
-      "stance": "support",
-      "article_title": "US tariffs hit German car industry, threatening EU's export-driven economy",
-      "source_url": "https://www.rfi.fr/en/international/20251222-us-tariffs-hit-german-car-industry-threatening-eu-s-export-driven-economy"
-    },
-    {
-      "id": 1058,
+      "id": 3983,
       "article_id": 440,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Mitarbeiterin",
@@ -3861,17 +3952,17 @@
       "source_url": "https://www.berliner-zeitung.de/news/us-exporte-auto-ausfuhren-in-die-usa-brechen-stark-ein-li.10011346"
     },
     {
-      "id": 1059,
+      "id": 3984,
       "article_id": 440,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Mitarbeiterin",
-      "quote_text": "Gerade f\u00fcr die Chemiebranche sei die heimische Produktionssituation das Hauptproblem - die US-Z\u00f6lle h\u00e4tten den Trend lediglich beschleunigt, aber nicht ausgel\u00f6st.",
+      "quote_text": "Gerade f\u00fcr die Chemiebranche sei die heimische Produktionssituation das Hauptproblem - die US-Z\u00f6lle h\u00e4tten den Trend lediglich beschleunigt, aber nicht ausgel\u00f6st",
       "stance": "neutral",
       "article_title": "Deutsche Exporte: Auto-Ausfuhren in die USA brechen stark ein",
       "source_url": "https://www.berliner-zeitung.de/news/us-exporte-auto-ausfuhren-in-die-usa-brechen-stark-ein-li.10011346"
     },
     {
-      "id": 1052,
+      "id": 3977,
       "article_id": 433,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Forscherin",
@@ -3881,7 +3972,7 @@
       "source_url": "https://www.boersen-zeitung.de/unternehmen-branchen/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen"
     },
     {
-      "id": 1053,
+      "id": 3978,
       "article_id": 433,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Forscherin",
@@ -3891,27 +3982,7 @@
       "source_url": "https://www.boersen-zeitung.de/unternehmen-branchen/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen"
     },
     {
-      "id": 1048,
-      "article_id": 429,
-      "speaker": "IW",
-      "speaker_role": "Research Institute",
-      "quote_text": "Auch die deutschen Maschinenausfuhren in die USA unterliegen teils \u2060einem deutlich h\u00f6heren Zollsatz von 50 Prozent, der f\u00fcr Stahl und Aluminium sowie Produkte daraus greift",
-      "stance": "neutral",
-      "article_title": "Trumps Z\u00f6lle: Deutsche Autoindustrie leidet am st\u00e4rksten unter US-Z\u00f6llen",
-      "source_url": "https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c"
-    },
-    {
-      "id": 1049,
-      "article_id": 429,
-      "speaker": "IW",
-      "speaker_role": "Research Institute",
-      "quote_text": "Bei chemischen Erzeugnissen d\u00fcrften auch andere Gr\u00fcnde eine Rolle spielen, wie etwa eine geringere Produktion \u2060in Deutschland aufgrund h\u00f6herer Energiepreise",
-      "stance": "neutral",
-      "article_title": "Trumps Z\u00f6lle: Deutsche Autoindustrie leidet am st\u00e4rksten unter US-Z\u00f6llen",
-      "source_url": "https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c"
-    },
-    {
-      "id": 577,
+      "id": 3511,
       "article_id": 236,
       "speaker": "Samina Sultan",
       "speaker_role": "study author",
@@ -3921,17 +3992,37 @@
       "source_url": "https://auto.economictimes.indiatimes.com/news/industry/german-auto-exports-hit-hard-by-trump-tariffs/126119555"
     },
     {
-      "id": 1047,
+      "id": 3512,
+      "article_id": 236,
+      "speaker": "Samina Sultan",
+      "speaker_role": "study author",
+      "quote_text": "Other factors are likely to have played a role in the case of chemical products, such as lower production in Germany due to higher energy prices",
+      "stance": "neutral",
+      "article_title": "German auto exports hit hard by Trump tariffs",
+      "source_url": "https://auto.economictimes.indiatimes.com/news/industry/german-auto-exports-hit-hard-by-trump-tariffs/126119555"
+    },
+    {
+      "id": 3973,
       "article_id": 428,
-      "speaker": "IW",
-      "speaker_role": "Institut",
+      "speaker": "Donald Trump",
+      "speaker_role": "US-Pr\u00e4sident",
+      "quote_text": "Die von US-Pr\u00e4sident Donald Trump (79) eingef\u00fchrten hohen Z\u00f6lle lassen die Exporte der deutschen Autoindustrie stark einbrechen.",
+      "stance": "neutral",
+      "article_title": "Z\u00f6lle unter Donald Trump: Deutsche Autoindustrie stark von US-Z\u00f6llen betroffen",
+      "source_url": "https://www.manager-magazin.de/unternehmen/zoelle-unter-donald-trump-deutsche-autoindustrie-stark-von-us-zoellen-betroffen-a-6114c36e-1069-4628-87c1-6c50033647c8"
+    },
+    {
+      "id": 3974,
+      "article_id": 428,
+      "speaker": "Institut der deutschen Wirtschaft K\u00f6ln",
+      "speaker_role": "Research Institute",
       "quote_text": "Auch die deutschen Maschinenausfuhren in die USA unterliegen teils einem deutlich h\u00f6heren Zollsatz von 50 Prozent, der f\u00fcr Stahl und Aluminium sowie Produkte daraus greift",
       "stance": "neutral",
       "article_title": "Z\u00f6lle unter Donald Trump: Deutsche Autoindustrie stark von US-Z\u00f6llen betroffen",
       "source_url": "https://www.manager-magazin.de/unternehmen/zoelle-unter-donald-trump-deutsche-autoindustrie-stark-von-us-zoellen-betroffen-a-6114c36e-1069-4628-87c1-6c50033647c8"
     },
     {
-      "id": 1044,
+      "id": 3972,
       "article_id": 426,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Forscherin",
@@ -3941,27 +4032,27 @@
       "source_url": "https://www.zeit.de/wirtschaft/2025-12/auto-industrie-deutschland-usa-zoll-gxe"
     },
     {
-      "id": 1050,
+      "id": 3975,
       "article_id": 432,
-      "speaker": "IW",
-      "speaker_role": "organization",
+      "speaker": null,
+      "speaker_role": null,
       "quote_text": "\"Auch die deutschen Maschinenausfuhren in die USA unterliegen teils einem deutlich h\u00f6heren Zollsatz von 50 Prozent, der f\u00fcr Stahl und Aluminium sowie Produkte daraus greift\"",
       "stance": "neutral",
       "article_title": "Die deutsche Autoindustrie leidet am meisten",
       "source_url": "https://www.krone.at/3995021"
     },
     {
-      "id": 1051,
+      "id": 3976,
       "article_id": 432,
-      "speaker": "IW",
-      "speaker_role": "organization",
+      "speaker": null,
+      "speaker_role": null,
       "quote_text": "\"Bei chemischen Erzeugnissen d\u00fcrften auch andere Gr\u00fcnde eine Rolle spielen, wie etwa eine geringere Produktion in Deutschland aufgrund h\u00f6herer Energiepreise\"",
       "stance": "neutral",
       "article_title": "Die deutsche Autoindustrie leidet am meisten",
       "source_url": "https://www.krone.at/3995021"
     },
     {
-      "id": 1035,
+      "id": 3968,
       "article_id": 422,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Forscherin",
@@ -3971,7 +4062,7 @@
       "source_url": "https://www.diepresse.com/20425315/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen"
     },
     {
-      "id": 578,
+      "id": 3513,
       "article_id": 237,
       "speaker": "Samina Sultan",
       "speaker_role": "Study author",
@@ -3981,47 +4072,27 @@
       "source_url": "https://econotimes.com/German-Exports-to-the-US-Decline-Sharply-as-Tariffs-Reshape-Trade-in-2025-1729286"
     },
     {
-      "id": 579,
+      "id": 3514,
       "article_id": 237,
       "speaker": "Samina Sultan",
       "speaker_role": "Study author",
-      "quote_text": "German exporters may be forced to adapt to what she described as a \"new normal\" in transatlantic trade relations.",
+      "quote_text": "a \"new normal\" in transatlantic trade relations",
       "stance": "neutral",
       "article_title": "German Exports to the U.S. Decline Sharply as Tariffs Reshape Trade in 2025 - EconoTimes",
       "source_url": "https://econotimes.com/German-Exports-to-the-US-Decline-Sharply-as-Tariffs-Reshape-Trade-in-2025-1729286"
     },
     {
-      "id": 1041,
+      "id": 3971,
       "article_id": 425,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Forscherin",
       "quote_text": "Da man derzeit davon ausgehen muss, dass die US-Importz\u00f6lle absehbar nicht auf das Level vor der Trump-Administration zur\u00fcckgehen werden, ist eine nennenswerte Erholung der deutschen Exporte in die USA kaum zu erwarten",
-      "stance": "negative",
-      "article_title": "Studie: Deutsche Autoindustrie leidet am st\u00e4rksten unter US-Z\u00f6llen",
-      "source_url": "https://www.onvista.de/news/2025/12-22-studie-deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-0-20-26462546"
-    },
-    {
-      "id": 1042,
-      "article_id": 425,
-      "speaker": "IW",
-      "speaker_role": "Organization",
-      "quote_text": "Auch die deutschen Maschinenausfuhren in die USA unterliegen teils einem deutlich \u2060h\u00f6heren Zollsatz von 50 Prozent, der f\u00fcr Stahl und Aluminium sowie Produkte daraus greift",
       "stance": "neutral",
       "article_title": "Studie: Deutsche Autoindustrie leidet am st\u00e4rksten unter US-Z\u00f6llen",
       "source_url": "https://www.onvista.de/news/2025/12-22-studie-deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-0-20-26462546"
     },
     {
-      "id": 1043,
-      "article_id": 425,
-      "speaker": "IW",
-      "speaker_role": "Organization",
-      "quote_text": "Bei chemischen Erzeugnissen d\u00fcrften auch andere \u2060Gr\u00fcnde eine Rolle spielen, wie etwa eine geringere Produktion in Deutschland aufgrund h\u00f6herer Energiepreise",
-      "stance": "neutral",
-      "article_title": "Studie: Deutsche Autoindustrie leidet am st\u00e4rksten unter US-Z\u00f6llen",
-      "source_url": "https://www.onvista.de/news/2025/12-22-studie-deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-0-20-26462546"
-    },
-    {
-      "id": 580,
+      "id": 3515,
       "article_id": 238,
       "speaker": "Samina Sultan",
       "speaker_role": "author of the study",
@@ -4031,37 +4102,27 @@
       "source_url": "https://investinglive.com/news/german-auto-exports-reportedly-hit-the-hardest-by-us-tariffs-20251222/"
     },
     {
-      "id": 581,
+      "id": 3516,
       "article_id": 238,
       "speaker": "Samina Sultan",
       "speaker_role": "author of the study",
-      "quote_text": "this is going to be the \"new normal\" for German exporters with the trade war set to prolong under Trump's administration",
+      "quote_text": "this is going to be the \"new normal\" for German exporters with the trade war set to prolong under Trump's administration.",
       "stance": "neutral",
       "article_title": "German auto exports reportedly hit the hardest by US tariffs | investingLive",
       "source_url": "https://investinglive.com/news/german-auto-exports-reportedly-hit-the-hardest-by-us-tariffs-20251222/"
     },
     {
-      "id": 1045,
-      "article_id": 427,
-      "speaker": "IW",
-      "speaker_role": "Institut der deutschen Wirtschaft",
-      "quote_text": "Auch die deutschen Maschinenausfuhren in die USA unterliegen teils einem deutlich h\u00f6heren Zollsatz von 50 Prozent, der f\u00fcr Stahl und Aluminium sowie Produkte daraus greift",
+      "id": 3509,
+      "article_id": 234,
+      "speaker": "Samina Sultan",
+      "speaker_role": "study author",
+      "quote_text": "Since it must currently be assumed that US import tariffs will not return to pre-Trump administration levels in the foreseeable future, a significant recovery in German exports to the US is unlikely",
       "stance": "neutral",
-      "article_title": "US-Zollpolitik: Deutsche Autoindustrie leidet am st\u00e4rksten unter US-Z\u00f6llen",
-      "source_url": "https://www.zeit.de/wirtschaft/2025-12/auto-industrie-deutschland-usa-zoll"
+      "article_title": "German auto exports hit hard by Trump tariffs - study",
+      "source_url": "https://www.rte.ie/news/business/2025/1222/1550131-german-car-exports/"
     },
     {
-      "id": 1046,
-      "article_id": 427,
-      "speaker": "IW",
-      "speaker_role": "Institut der deutschen Wirtschaft",
-      "quote_text": "Bei chemischen Erzeugnissen d\u00fcrften auch andere Gr\u00fcnde eine Rolle spielen, wie etwa eine geringere Produktion in Deutschland aufgrund h\u00f6herer Energiepreise",
-      "stance": "neutral",
-      "article_title": "US-Zollpolitik: Deutsche Autoindustrie leidet am st\u00e4rksten unter US-Z\u00f6llen",
-      "source_url": "https://www.zeit.de/wirtschaft/2025-12/auto-industrie-deutschland-usa-zoll"
-    },
-    {
-      "id": 1036,
+      "id": 3969,
       "article_id": 423,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Forscherin",
@@ -4071,27 +4132,7 @@
       "source_url": "https://www.handelsblatt.com/unternehmen/industrie/iw-studie-deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen/100185967.html"
     },
     {
-      "id": 1037,
-      "article_id": 423,
-      "speaker": "IW",
-      "speaker_role": "Institut der deutschen Wirtschaft K\u00f6ln",
-      "quote_text": "Auch die deutschen Maschinenausfuhren in die USA unterliegen teils einem deutlich h\u00f6heren Zollsatz von 50 Prozent, der f\u00fcr Stahl und Aluminium sowie Produkte daraus greift",
-      "stance": "neutral",
-      "article_title": "IW-Studie: Deutsche Autoindustrie leidet am st\u00e4rksten unter US-Z\u00f6llen",
-      "source_url": "https://www.handelsblatt.com/unternehmen/industrie/iw-studie-deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen/100185967.html"
-    },
-    {
-      "id": 1038,
-      "article_id": 423,
-      "speaker": "IW",
-      "speaker_role": "Institut der deutschen Wirtschaft K\u00f6ln",
-      "quote_text": "Bei chemischen Erzeugnissen d\u00fcrften auch andere Gr\u00fcnde eine Rolle spielen, wie etwa eine geringere Produktion in Deutschland aufgrund h\u00f6herer Energiepreise",
-      "stance": "neutral",
-      "article_title": "IW-Studie: Deutsche Autoindustrie leidet am st\u00e4rksten unter US-Z\u00f6llen",
-      "source_url": "https://www.handelsblatt.com/unternehmen/industrie/iw-studie-deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen/100185967.html"
-    },
-    {
-      "id": 1039,
+      "id": 3970,
       "article_id": 424,
       "speaker": "Samina Sultan",
       "speaker_role": "IW-Forscherin",
@@ -4101,447 +4142,325 @@
       "source_url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101054566/trump-zoelle-belasten-deutsche-industrie-exporte-brechen-ein.html"
     },
     {
-      "id": 1040,
-      "article_id": 424,
-      "speaker": "IW",
-      "speaker_role": "Institut",
-      "quote_text": "Auch die deutschen Maschinenausfuhren in die USA unterliegen teils einem deutlich h\u00f6heren Zollsatz von 50 Prozent, der f\u00fcr Stahl und Aluminium sowie Produkte daraus greift",
-      "stance": "neutral",
-      "article_title": "Studie enth\u00fcllt: Trumps Z\u00f6lle bremsen deutsche Exporte dramatisch aus",
-      "source_url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101054566/trump-zoelle-belasten-deutsche-industrie-exporte-brechen-ein.html"
-    },
-    {
-      "id": 583,
+      "id": 3518,
       "article_id": 240,
       "speaker": "Samina Sultan",
       "speaker_role": "study author",
-      "quote_text": "Given current U.S. tariffs are expected to persist, a strong recovery in German exports to America is unlikely.",
+      "quote_text": "Given current U.S. tariffs are expected to persist, a strong recovery in German exports to America is unlikely",
       "stance": "neutral",
       "article_title": "German car exports to U.S. drop nearly 14% in 2025 | News.az",
       "source_url": "https://news.az/news/german-car-exports-to-us-drop-nearly-14-in-2025"
     },
     {
-      "id": 584,
-      "article_id": 240,
-      "speaker": "Samina Sultan",
-      "speaker_role": "study author",
-      "quote_text": "a \"new normal\" for exporters",
-      "stance": "neutral",
-      "article_title": "German car exports to U.S. drop nearly 14% in 2025 | News.az",
-      "source_url": "https://news.az/news/german-car-exports-to-us-drop-nearly-14-in-2025"
-    },
-    {
-      "id": 576,
+      "id": 3510,
       "article_id": 235,
       "speaker": "Samina Sultan",
       "speaker_role": "study author",
-      "quote_text": "Since it must currently be assumed that U.S. import tariffs will not return to pre-Trump administration levels in the foreseeable future, a significant recovery in German exports to the U.S. is unlikely.",
-      "stance": "negative",
+      "quote_text": "Since it must currently be assumed that U.S. import tariffs will not return to pre-Trump administration levels in the foreseeable future, a significant recovery in German exports to the U.S. is unlikely",
+      "stance": "neutral",
       "article_title": "German auto exports hit hard by Trump tariffs, study shows",
       "source_url": "https://ca.finance.yahoo.com/news/german-auto-exports-hit-hard-063844479.html"
     }
   ],
   "stakeholders": [
     {
-      "stakeholder": "German exporters",
+      "stakeholder": "Germany",
       "position": "oppose",
-      "reasoning": "Facing significant declines in exports due to tariffs.",
+      "reasoning": "Suffering export declines due to US tariffs.",
       "mention_count": 21
     },
     {
-      "stakeholder": "IW",
+      "stakeholder": "Institut der deutschen Wirtschaft",
       "position": "neutral",
-      "reasoning": "Analyzing the economic impact of trade policies and advocating for diversification.",
-      "mention_count": 12
-    },
-    {
-      "stakeholder": "Institut der deutschen Wirtschaft (IW)",
-      "position": "neutral",
-      "reasoning": "Providing analysis of the situation",
-      "mention_count": 7
-    },
-    {
-      "stakeholder": "Germany",
-      "position": "oppose",
-      "reasoning": "Significant drop in exports due to tariffs.",
-      "mention_count": 6
+      "reasoning": "Presents data and analysis on the impact of US tariffs.",
+      "mention_count": 14
     },
     {
       "stakeholder": "Donald Trump",
       "position": "support",
-      "reasoning": "Implemented tariffs to protect US industries (implied).",
-      "mention_count": 5
+      "reasoning": "Advocated for higher tariffs to protect US industries.",
+      "mention_count": 12
+    },
+    {
+      "stakeholder": "Donald Trump",
+      "position": "oppose",
+      "reasoning": "Implemented tariffs impacting German exports",
+      "mention_count": 11
+    },
+    {
+      "stakeholder": "German exporters",
+      "position": "oppose",
+      "reasoning": "Facing significant tariff burdens and reduced export opportunities.",
+      "mention_count": 8
     },
     {
       "stakeholder": "German Auto Industry",
       "position": "oppose",
-      "reasoning": "Suffering significant export declines due to tariffs.",
-      "mention_count": 5
+      "reasoning": "Suffering significant export declines due to US tariffs.",
+      "mention_count": 6
     },
     {
-      "stakeholder": "German Automotive Industry",
-      "position": "oppose",
-      "reasoning": "Suffered a significant 14% drop in exports due to tariffs.",
-      "mention_count": 5
-    },
-    {
-      "stakeholder": "Deutsche Autoindustrie",
-      "position": "oppose",
-      "reasoning": "Leidet unter dem R\u00fcckgang der Exporte aufgrund der Z\u00f6lle.",
-      "mention_count": 4
-    },
-    {
-      "stakeholder": "German Companies",
-      "position": "oppose",
-      "reasoning": "Facing increased competition from Chinese suppliers and trade barriers.",
-      "mention_count": 4
-    },
-    {
-      "stakeholder": "China",
+      "stakeholder": "German Economic Institute",
       "position": "neutral",
-      "reasoning": "Increasing domestic production and reducing reliance on imports.",
-      "mention_count": 3
+      "reasoning": "Providing analysis of export data and tariff impacts.",
+      "mention_count": 6
+    },
+    {
+      "stakeholder": "United States",
+      "position": "neutral",
+      "reasoning": "The article does not state the US position on the tariffs.",
+      "mention_count": 6
+    },
+    {
+      "stakeholder": "Donald Trump",
+      "position": "neutral",
+      "reasoning": "Implemented tariffs, but later negotiated a lower rate",
+      "mention_count": 4
+    },
+    {
+      "stakeholder": "J\u00fcrgen Matthes",
+      "position": "neutral",
+      "reasoning": "Observes the decline in exports and attributes it to external factors like competition and trade policies.",
+      "mention_count": 4
     },
     {
       "stakeholder": "German Chemical Industry",
       "position": "oppose",
-      "reasoning": "Facing export declines, potentially due to tariffs and other factors.",
+      "reasoning": "Experiencing export declines, potentially due to tariffs and other factors.",
       "mention_count": 3
     },
     {
       "stakeholder": "German Machine Builders",
       "position": "oppose",
-      "reasoning": "Experiencing export declines due to tariffs.",
+      "reasoning": "Experiencing export declines due to US tariffs.",
       "mention_count": 3
     },
     {
-      "stakeholder": "IW (Institut der deutschen Wirtschaft)",
+      "stakeholder": "German automotive industry",
+      "position": "oppose",
+      "reasoning": "Suffered a significant drop in exports due to tariffs",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Institut der deutschen Wirtschaft",
+      "position": "oppose",
+      "reasoning": "US tariffs negatively impact German exports and competitiveness.",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Volkswagen",
+      "position": "oppose",
+      "reasoning": "Saw declines in shipments to the U.S.",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "BMW",
+      "position": "oppose",
+      "reasoning": "Saw declines in shipments to the U.S.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "European Union",
+      "position": "oppose",
+      "reasoning": "Dependence on exports and potential for further tariffs.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "German Machinery Builders",
+      "position": "oppose",
+      "reasoning": "Experiencing decreased exports to the US due to tariffs.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Germany",
       "position": "neutral",
-      "reasoning": "Providing analysis of the situation.",
-      "mention_count": 3
-    },
-    {
-      "stakeholder": "US (Trump Administration)",
-      "position": "support",
-      "reasoning": "Implementing tariff policies to protect domestic industries.",
-      "mention_count": 3
-    },
-    {
-      "stakeholder": "Deutsche Exportwirtschaft",
-      "position": "oppose",
-      "reasoning": "Suffered a significant impact from US tariffs.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Deutsche Maschinenbauer",
-      "position": "oppose",
-      "reasoning": "Verzeichnen ebenfalls einen R\u00fcckgang der Exporte aufgrund der Z\u00f6lle.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "German Exporters",
-      "position": "oppose",
-      "reasoning": "Facing increased tariffs and competition from Chinese manufacturers.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "German Machinery Industry",
-      "position": "oppose",
-      "reasoning": "Experiencing export declines due to tariffs.",
+      "reasoning": "Adapting to changing trade dynamics and relying more on European markets.",
       "mention_count": 2
     },
     {
       "stakeholder": "IW",
+      "position": "neutral",
+      "reasoning": "Reporting on the impact of tariffs on German exports.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Institut der deutschen Wirtschaft K\u00f6ln",
+      "position": "oppose",
+      "reasoning": "Highlights the negative impact of US tariffs on German exports and predicts limited recovery.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Mercedes-Benz",
+      "position": "oppose",
+      "reasoning": "Saw declines in shipments to the U.S.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Samina Sultan",
+      "position": "neutral",
+      "reasoning": "Observes that recovery is unlikely given current tariffs.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "United States",
       "position": "support",
-      "reasoning": "Protecting European production from Chinese competition and strengthening intra-European trade.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "IW (German Economic Institute)",
-      "position": "neutral",
-      "reasoning": "Presenting an analysis of the situation.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Pharmaindustrie",
-      "position": "support",
-      "reasoning": "Benefited from temporary tariff exemptions.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "US (Trump Administration)",
-      "position": "neutral",
-      "reasoning": "Implementing tariff policies to protect domestic industries.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "US-Pr\u00e4sident Trump",
-      "position": "neutral",
-      "reasoning": "Implemented tariffs, as reported in the article.",
+      "reasoning": "Imposition of tariffs to potentially protect domestic industries.",
       "mention_count": 2
     },
     {
       "stakeholder": "BMW",
       "position": "support",
-      "reasoning": "Successfully increasing sales in the US market.",
+      "reasoning": "Increased sales in the US market despite overall decline in German exports.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Chemiebranche",
-      "position": "oppose",
-      "reasoning": "US business declined.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Deutsche Exporteure",
-      "position": "oppose",
-      "reasoning": "Z\u00f6lle verteuern ihre Produkte und reduzieren ihre Wettbewerbsf\u00e4higkeit in den USA.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Deutschland",
-      "position": "negative",
-      "reasoning": "Experiencing a significant decline in exports to a major trading partner.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Donald Trump",
+      "stakeholder": "China",
       "position": "neutral",
-      "reasoning": "Implementing tariffs as part of 'America First' policy.",
+      "reasoning": "Pursuing autarky and technological advancement, potentially leading to unfair trade practices.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Donald Trump (U.S. Administration)",
-      "position": "support",
-      "reasoning": "Imposed tariffs to potentially benefit domestic industries (though not explicitly stated in the article).",
+      "stakeholder": "China",
+      "position": "oppose",
+      "reasoning": "Increasingly autarkic and engaging in unfair trade practices, making export recovery unlikely.",
       "mention_count": 1
     },
     {
-      "stakeholder": "EU",
+      "stakeholder": "Europ\u00e4ische Union",
       "position": "neutral",
-      "reasoning": "Agreement prevented a full-scale trade war, but viewed as unbalanced.",
+      "reasoning": "Seeking to mitigate tariff impacts and secure trade deals.",
       "mention_count": 1
     },
     {
-      "stakeholder": "EU",
+      "stakeholder": "German Association of the Automotive Industry",
       "position": "oppose",
-      "reasoning": "Tariffs threaten the EU's export-driven economy.",
+      "reasoning": "The 15 percent tariff rate far exceeded previous levels.",
       "mention_count": 1
     },
     {
-      "stakeholder": "EU",
-      "position": "support",
-      "reasoning": "Providing a stabilizing effect and potential for further growth in German exports.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "European Union",
+      "stakeholder": "German Association of the Automotive Industry (VDA)",
       "position": "oppose",
-      "reasoning": "Dependence on exports and potential for further tariff impacts.",
+      "reasoning": "Concerned about the impact of tariffs on exports",
       "mention_count": 1
     },
     {
-      "stakeholder": "German Automakers (Volkswagen, BMW, Mercedes-Benz)",
+      "stakeholder": "German Auto Manufacturers",
       "position": "oppose",
-      "reasoning": "Higher costs, reduced competitiveness, and potential production shifts.",
+      "reasoning": "US tariffs are hurting exports and competitiveness.",
       "mention_count": 1
     },
     {
-      "stakeholder": "German Carmakers (Volkswagen, BMW, Mercedes-Benz)",
+      "stakeholder": "German Automotive Industry",
+      "position": "oppose",
+      "reasoning": "Suffering significant export declines due to tariffs.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "German Machinery Industry",
+      "position": "oppose",
+      "reasoning": "Experiencing a decline in exports to the US due to tariffs.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "German carmakers",
       "position": "oppose",
       "reasoning": "Facing higher export costs, forcing production shifts, price increases, or losses.",
       "mention_count": 1
     },
     {
-      "stakeholder": "German Chemical Industry",
-      "position": "neutral",
-      "reasoning": "Export declines, but potentially due to multiple factors including energy prices.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "German Economy",
-      "position": "oppose",
-      "reasoning": "Tariffs negatively impact exports, GDP, and potentially lead to recession.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "German Industry",
-      "position": "oppose",
-      "reasoning": "Suffering from decreased exports due to US tariffs.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "German Machinery Builders",
-      "position": "oppose",
-      "reasoning": "Exports to the US are down due to tariffs.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "German Mechanical Engineering Companies",
-      "position": "oppose",
-      "reasoning": "Experienced a 9.5% decrease in exports, compounded by steel/aluminum tariffs.",
-      "mention_count": 1
-    },
-    {
       "stakeholder": "German chemical industry",
-      "position": "neutral",
-      "reasoning": "affected by both US tariffs and domestic energy prices",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "German exporters (Automobil, Chemie, Maschinenbau)",
       "position": "oppose",
-      "reasoning": "Affected by US tariffs and reduced demand",
+      "reasoning": "US business declined",
       "mention_count": 1
     },
     {
-      "stakeholder": "German exporters (Automotive, Chemical, Machinery)",
+      "stakeholder": "German machine builders",
       "position": "oppose",
-      "reasoning": "Negatively impacted by US tariffs and decreased demand.",
+      "reasoning": "Exports to the US decreased",
       "mention_count": 1
     },
     {
-      "stakeholder": "Germany",
-      "position": "neutral",
-      "reasoning": "Seeking diversification and adaptation to a fragmented trade environment.",
+      "stakeholder": "German mechanical engineering companies",
+      "position": "oppose",
+      "reasoning": "Experienced a decrease in exports and increased costs due to tariffs",
       "mention_count": 1
     },
     {
       "stakeholder": "Greenpeace",
       "position": "oppose",
-      "reasoning": "Concerns about environmental, climate, and animal welfare standards in the Mercosur agreement.",
+      "reasoning": "Concerns about environmental and climate standards in the Mercosur agreement.",
       "mention_count": 1
     },
     {
       "stakeholder": "IW",
+      "position": "support",
+      "reasoning": "Advocates for strengthening intra-European trade to counter headwinds from the USA and China.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Industry groups",
       "position": "oppose",
-      "reasoning": "The tariffs are negatively impacting the German economy.",
+      "reasoning": "Warning of potential job losses due to trade restrictions.",
       "mention_count": 1
     },
     {
-      "stakeholder": "IW (Institut der deutschen Wirtschaft K\u00f6ln)",
-      "position": "neutral",
-      "reasoning": "Presenting data and analysis of the impact of US tariffs on German exports.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "IW K\u00f6ln",
-      "position": "neutral",
-      "reasoning": "Provides analysis of export trends and suggests strengthening the EU market.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Industry Groups",
-      "position": "oppose",
-      "reasoning": "Warned of potential job losses due to trade restrictions.",
+      "stakeholder": "Institut der deutschen Wirtschaft",
+      "position": "support",
+      "reasoning": "Advocates for trade barriers against China to protect European production and for lowering US tariffs to boost German exports.",
       "mention_count": 1
     },
     {
       "stakeholder": "Institut der deutschen Wirtschaft (IW)",
-      "position": "oppose",
-      "reasoning": "US tariffs negatively impact German exports and competitiveness.",
+      "position": "neutral",
+      "reasoning": "Analyzes the situation and recommends diversification of export markets.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Institute for the German Economy (IW)",
+      "stakeholder": "Institut der deutschen Wirtschaft K\u00f6ln",
       "position": "neutral",
-      "reasoning": "Providing analysis of the economic impact of tariffs.",
+      "reasoning": "Analyzing the impact of US tariffs and recommending diversification.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Report authors",
+      "stakeholder": "Institute for the German Economy",
       "position": "neutral",
-      "reasoning": "Presenting analysis and recommendations for mitigation.",
+      "reasoning": "Providing analysis of export data and tariff impacts.",
       "mention_count": 1
     },
     {
       "stakeholder": "Robert Habeck",
       "position": "neutral",
-      "reasoning": "Advocating for diversification of markets.",
+      "reasoning": "Urging diversification to reduce reliance on the U.S. market.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Transport & Environment (T&E)",
-      "position": "oppose",
-      "reasoning": "Believes allowing combustion engine sales after 2035 will hinder the transition to electric vehicles and weaken European automakers.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "U.S. (Trump Administration)",
-      "position": "neutral",
-      "reasoning": "Implementing trade policies to reshape trade relations.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "U.S. (Trump Administration)",
+      "stakeholder": "Samina Sultan",
       "position": "support",
-      "reasoning": "America First policy, protection of domestic industries.",
+      "reasoning": "Advocates for diversification of export markets and deeper European integration.",
       "mention_count": 1
     },
     {
-      "stakeholder": "U.S. (Trump administration)",
-      "position": "support",
-      "reasoning": "Imposing tariffs (implied, not explicitly stated)",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "US",
+      "stakeholder": "Transport & Environment",
       "position": "oppose",
-      "reasoning": "Seeking modifications to EU digital sector rules.",
+      "reasoning": "Allowing Verbrenner sales past 2035 will hinder the transition to electric vehicles and weaken European automakers.",
       "mention_count": 1
     },
     {
-      "stakeholder": "US",
-      "position": "support",
-      "reasoning": "Implementation of tariffs to protect domestic industries (implied).",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "US (Trump administration)",
-      "position": "neutral",
-      "reasoning": "Implementing tariffs as a trade policy.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "US (implicitly)",
-      "position": "support",
-      "reasoning": "Implementing tariffs to potentially protect domestic industries.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "US Government",
-      "position": "neutral",
-      "reasoning": "Implementing tariffs (position not explicitly stated in the article)",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "US Government (Trump Administration)",
+      "stakeholder": "United States",
       "position": "oppose",
-      "reasoning": "Implementing protectionist trade policies.",
+      "reasoning": "Imposing high tariffs on steel and aluminum products, hindering German exports.",
       "mention_count": 1
     },
     {
-      "stakeholder": "US-Konsumenten",
+      "stakeholder": "VDMA",
       "position": "oppose",
-      "reasoning": "Z\u00f6lle f\u00fchren zu h\u00f6heren Preisen f\u00fcr Waren.",
+      "reasoning": "Predicted a 5 percent production decline in 2025.",
       "mention_count": 1
     },
     {
-      "stakeholder": "USA",
+      "stakeholder": "Verband der Chemischen Industrie",
       "position": "oppose",
-      "reasoning": "Maintaining high tariffs on steel and aluminum products.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "VCI",
-      "position": "oppose",
-      "reasoning": "Facing low capacity utilization and high production costs, exacerbated by tariffs and regulations.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Volkswagen",
-      "position": "oppose",
-      "reasoning": "Tariffs could cost the company up to 5 billion euros.",
+      "reasoning": "High production costs, regulatory uncertainty, and tariffs are negatively impacting the chemical industry.",
       "mention_count": 1
     }
   ],
@@ -4568,11 +4487,6 @@
         "article_count": 1
       },
       {
-        "source": "Global Trade Magazine",
-        "avg_sentiment": -0.65,
-        "article_count": 1
-      },
-      {
         "source": "Euronews Deutsch",
         "avg_sentiment": -0.65,
         "article_count": 1
@@ -4588,12 +4502,7 @@
         "article_count": 1
       },
       {
-        "source": "finanzmarktwelt.de",
-        "avg_sentiment": -0.65,
-        "article_count": 1
-      },
-      {
-        "source": "IT News zu den Themen K\u00fcnstliche Intelligenz, Roboter und Maschinelles Lernen - IT BOLTWISE\u00ae x Artificial Intelligence",
+        "source": "Al Bawaba",
         "avg_sentiment": -0.65,
         "article_count": 1
       },
@@ -4613,11 +4522,6 @@
         "article_count": 1
       },
       {
-        "source": "onvista.de",
-        "avg_sentiment": -0.65,
-        "article_count": 1
-      },
-      {
         "source": "T-online.de",
         "avg_sentiment": -0.65,
         "article_count": 1
@@ -4628,7 +4532,17 @@
         "article_count": 2
       },
       {
+        "source": "MMnews",
+        "avg_sentiment": -0.625,
+        "article_count": 2
+      },
+      {
         "source": "ecomento.de",
+        "avg_sentiment": -0.6,
+        "article_count": 1
+      },
+      {
+        "source": "Global Trade Magazine",
         "avg_sentiment": -0.6,
         "article_count": 1
       },
@@ -4638,24 +4552,9 @@
         "article_count": 1
       },
       {
-        "source": "Main-Spitze",
-        "avg_sentiment": -0.6,
-        "article_count": 1
-      },
-      {
         "source": "Trierischer Volksfreund. Die Zeitung f\u00fcr die Region Trier/Mosel",
         "avg_sentiment": -0.6,
         "article_count": 2
-      },
-      {
-        "source": "MMnews",
-        "avg_sentiment": -0.6,
-        "article_count": 2
-      },
-      {
-        "source": "Al Bawaba",
-        "avg_sentiment": -0.6,
-        "article_count": 1
       },
       {
         "source": "clickittefaq",
@@ -4664,6 +4563,11 @@
       },
       {
         "source": "Deutsche Welle",
+        "avg_sentiment": -0.6,
+        "article_count": 1
+      },
+      {
+        "source": "Head Topics",
         "avg_sentiment": -0.6,
         "article_count": 1
       },
@@ -4693,7 +4597,12 @@
         "article_count": 1
       },
       {
-        "source": "Cash",
+        "source": "finanzmarktwelt.de",
+        "avg_sentiment": -0.6,
+        "article_count": 1
+      },
+      {
+        "source": "IT News zu den Themen K\u00fcnstliche Intelligenz, Roboter und Maschinelles Lernen - IT BOLTWISE\u00ae x Artificial Intelligence",
         "avg_sentiment": -0.6,
         "article_count": 1
       },
@@ -4743,7 +4652,17 @@
         "article_count": 1
       },
       {
+        "source": "onvista.de",
+        "avg_sentiment": -0.6,
+        "article_count": 1
+      },
+      {
         "source": "News & Analysis for Stocks, Crypto & Forex | investingLive",
+        "avg_sentiment": -0.6,
+        "article_count": 1
+      },
+      {
+        "source": "RTE.ie",
         "avg_sentiment": -0.6,
         "article_count": 1
       },
@@ -4759,7 +4678,7 @@
       },
       {
         "source": "Die Presse",
-        "avg_sentiment": -0.475,
+        "avg_sentiment": -0.45,
         "article_count": 2
       },
       {
@@ -4768,7 +4687,7 @@
         "article_count": 2
       },
       {
-        "source": "Head Topics",
+        "source": "Main-Spitze",
         "avg_sentiment": -0.4,
         "article_count": 1
       },
@@ -4783,28 +4702,28 @@
         "article_count": 1
       },
       {
-        "source": "DATEV magazin",
-        "avg_sentiment": -0.3,
+        "source": "Cash",
+        "avg_sentiment": -0.4,
         "article_count": 1
       },
       {
         "source": "Gie\u00dfener Allgemeine",
-        "avg_sentiment": -0.2,
+        "avg_sentiment": -0.3,
         "article_count": 1
       },
       {
         "source": "az-online.de",
-        "avg_sentiment": -0.2,
+        "avg_sentiment": -0.3,
         "article_count": 1
       },
       {
         "source": "Soester-Anzeiger.de",
-        "avg_sentiment": -0.2,
+        "avg_sentiment": -0.3,
         "article_count": 1
       },
       {
-        "source": "RTE.ie",
-        "avg_sentiment": 0.0,
+        "source": "DATEV magazin",
+        "avg_sentiment": -0.3,
         "article_count": 1
       }
     ],
@@ -4831,11 +4750,6 @@
           "article_count": 1
         },
         {
-          "source": "Global Trade Magazine",
-          "avg_sentiment": -0.65,
-          "article_count": 1
-        },
-        {
           "source": "Euronews Deutsch",
           "avg_sentiment": -0.65,
           "article_count": 1
@@ -4851,12 +4765,7 @@
           "article_count": 1
         },
         {
-          "source": "finanzmarktwelt.de",
-          "avg_sentiment": -0.65,
-          "article_count": 1
-        },
-        {
-          "source": "IT News zu den Themen K\u00fcnstliche Intelligenz, Roboter und Maschinelles Lernen - IT BOLTWISE\u00ae x Artificial Intelligence",
+          "source": "Al Bawaba",
           "avg_sentiment": -0.65,
           "article_count": 1
         },
@@ -4876,11 +4785,6 @@
           "article_count": 1
         },
         {
-          "source": "onvista.de",
-          "avg_sentiment": -0.65,
-          "article_count": 1
-        },
-        {
           "source": "T-online.de",
           "avg_sentiment": -0.65,
           "article_count": 1
@@ -4891,7 +4795,17 @@
           "article_count": 2
         },
         {
+          "source": "MMnews",
+          "avg_sentiment": -0.625,
+          "article_count": 2
+        },
+        {
           "source": "ecomento.de",
+          "avg_sentiment": -0.6,
+          "article_count": 1
+        },
+        {
+          "source": "Global Trade Magazine",
           "avg_sentiment": -0.6,
           "article_count": 1
         },
@@ -4901,24 +4815,9 @@
           "article_count": 1
         },
         {
-          "source": "Main-Spitze",
-          "avg_sentiment": -0.6,
-          "article_count": 1
-        },
-        {
           "source": "Trierischer Volksfreund. Die Zeitung f\u00fcr die Region Trier/Mosel",
           "avg_sentiment": -0.6,
           "article_count": 2
-        },
-        {
-          "source": "MMnews",
-          "avg_sentiment": -0.6,
-          "article_count": 2
-        },
-        {
-          "source": "Al Bawaba",
-          "avg_sentiment": -0.6,
-          "article_count": 1
         },
         {
           "source": "clickittefaq",
@@ -4927,6 +4826,11 @@
         },
         {
           "source": "Deutsche Welle",
+          "avg_sentiment": -0.6,
+          "article_count": 1
+        },
+        {
+          "source": "Head Topics",
           "avg_sentiment": -0.6,
           "article_count": 1
         },
@@ -4956,7 +4860,12 @@
           "article_count": 1
         },
         {
-          "source": "Cash",
+          "source": "finanzmarktwelt.de",
+          "avg_sentiment": -0.6,
+          "article_count": 1
+        },
+        {
+          "source": "IT News zu den Themen K\u00fcnstliche Intelligenz, Roboter und Maschinelles Lernen - IT BOLTWISE\u00ae x Artificial Intelligence",
           "avg_sentiment": -0.6,
           "article_count": 1
         },
@@ -5006,7 +4915,17 @@
           "article_count": 1
         },
         {
+          "source": "onvista.de",
+          "avg_sentiment": -0.6,
+          "article_count": 1
+        },
+        {
           "source": "News & Analysis for Stocks, Crypto & Forex | investingLive",
+          "avg_sentiment": -0.6,
+          "article_count": 1
+        },
+        {
+          "source": "RTE.ie",
           "avg_sentiment": -0.6,
           "article_count": 1
         },
@@ -5022,7 +4941,7 @@
         },
         {
           "source": "Die Presse",
-          "avg_sentiment": -0.475,
+          "avg_sentiment": -0.45,
           "article_count": 2
         },
         {
@@ -5031,7 +4950,7 @@
           "article_count": 2
         },
         {
-          "source": "Head Topics",
+          "source": "Main-Spitze",
           "avg_sentiment": -0.4,
           "article_count": 1
         },
@@ -5046,38 +4965,37 @@
           "article_count": 1
         },
         {
-          "source": "DATEV magazin",
-          "avg_sentiment": -0.3,
+          "source": "Cash",
+          "avg_sentiment": -0.4,
           "article_count": 1
         },
         {
           "source": "Gie\u00dfener Allgemeine",
-          "avg_sentiment": -0.2,
+          "avg_sentiment": -0.3,
           "article_count": 1
         },
         {
           "source": "az-online.de",
-          "avg_sentiment": -0.2,
+          "avg_sentiment": -0.3,
           "article_count": 1
         },
         {
           "source": "Soester-Anzeiger.de",
-          "avg_sentiment": -0.2,
+          "avg_sentiment": -0.3,
           "article_count": 1
-        }
-      ],
-      "neutral": [
+        },
         {
-          "source": "RTE.ie",
-          "avg_sentiment": 0.0,
+          "source": "DATEV magazin",
+          "avg_sentiment": -0.3,
           "article_count": 1
         }
       ],
+      "neutral": [],
       "positive": []
     },
     "summary": {
-      "negative_count": 51,
-      "neutral_count": 1,
+      "negative_count": 52,
+      "neutral_count": 0,
       "positive_count": 0,
       "total_count": 52
     }
@@ -5085,13 +5003,13 @@
   "quote_network": [
     {
       "from": "Dirk Jandura",
-      "to": "EU",
+      "to": "ING",
       "stance": "oppose",
       "quote_snippet": "Germany was losing market share in key non-EU regions, particularly in the US and China."
     },
     {
       "from": "Dirk Jandura",
-      "to": "ING",
+      "to": "EU",
       "stance": "oppose",
       "quote_snippet": "Germany was losing market share in key non-EU regions, particularly in the US and China."
     },
@@ -5102,68 +5020,26 @@
       "quote_snippet": "Deutschland muss neue M\u00e4rkte in S\u00fcdamerika, Indien und Indonesien erschlie\u00dfen und zugleich Handelshe"
     },
     {
-      "from": "IW study",
-      "to": "Trump",
-      "stance": "oppose",
-      "quote_snippet": "The close transatlantic trade relationship is coming under significant strain due to US President Tr"
-    },
-    {
-      "from": "IW study",
-      "to": "ING",
-      "stance": "oppose",
-      "quote_snippet": "The close transatlantic trade relationship is coming under significant strain due to US President Tr"
-    },
-    {
-      "from": "study",
+      "from": "Donald Trump",
       "to": "ING",
       "stance": "neutral",
-      "quote_snippet": "German exports of motor vehicles and parts, machinery and chemical products -- together accounting f"
+      "quote_snippet": "The close transatlantic trade relationship is coming under significant strain due to US President Tr"
     },
     {
-      "from": "Institut der deutschen Wirtschaft (IW)",
-      "to": "Trump",
-      "stance": "oppose",
-      "quote_snippet": "Die engen transatlantischen Handelsbeziehungen geraten durch die Zollpolitik von US-Pr\u00e4sident Trump "
-    },
-    {
-      "from": "Dr. Samina Sultan",
+      "from": "Samina Sultan",
       "to": "EU",
       "stance": "support",
       "quote_snippet": "Deutschland m\u00fcsse st\u00e4rker in den Ausbau alternativer Exportm\u00e4rkte investieren und gleichzeitig verbl"
     },
     {
-      "from": "German Economic Institute (IW)",
-      "to": "Trump",
-      "stance": "oppose",
-      "quote_snippet": "The close transatlantic trade relationship is coming under significant strain due to US President Tr"
-    },
-    {
-      "from": "German Economic Institute (IW)",
-      "to": "ING",
-      "stance": "oppose",
-      "quote_snippet": "The close transatlantic trade relationship is coming under significant strain due to US President Tr"
-    },
-    {
-      "from": "German Economic Institute (IW)",
-      "to": "ING",
-      "stance": "neutral",
-      "quote_snippet": "German exports of motor vehicles and parts, machinery and chemical products -- together accounting f"
-    },
-    {
-      "from": "IW",
-      "to": "ING",
-      "stance": "neutral",
-      "quote_snippet": "German exports of motor vehicles and parts, machinery and chemical products -- together accounting f"
-    },
-    {
       "from": "J\u00fcrgen Matthes",
-      "to": "Washington",
+      "to": "ING",
       "stance": "neutral",
       "quote_snippet": "Es spricht nur wenig daf\u00fcr, dass sich der Wind in Washington oder Peking bald wieder dreht"
     },
     {
       "from": "J\u00fcrgen Matthes",
-      "to": "ING",
+      "to": "Washington",
       "stance": "neutral",
       "quote_snippet": "Es spricht nur wenig daf\u00fcr, dass sich der Wind in Washington oder Peking bald wieder dreht"
     },
@@ -5174,28 +5050,22 @@
       "quote_snippet": "Europa bleibt der Stabilisator f\u00fcr die deutsche Exportwirtschaft"
     },
     {
-      "from": "IW-\u00d6konom J\u00fcrgen Matthes",
+      "from": "Donald Trump",
+      "to": "EU",
+      "stance": "oppose",
+      "quote_snippet": "Trump has threatened to impose blanket tariffs of up to 20% on European goods unless trade imbalance"
+    },
+    {
+      "from": "J\u00fcrgen Matthes",
       "to": "EU",
       "stance": "oppose",
       "quote_snippet": "unfaire Wettbewerbsverzerrungen durch staatliche Subventionen und ein unterbewerteter Yuan-Wechselku"
     },
     {
-      "from": "IW-Studie",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "Europa erweist sich als Stabilisator f\u00fcr die deutsche Exportwirtschaft"
-    },
-    {
-      "from": "Samina Sultan",
-      "to": "Trump",
+      "from": "Christina Otte",
+      "to": "ING",
       "stance": "neutral",
-      "quote_snippet": "Since it must currently be assumed that US import tariffs will not return to pre-Trump administratio"
-    },
-    {
-      "from": "Samina Sultan",
-      "to": "Trump administration",
-      "stance": "neutral",
-      "quote_snippet": "Since it must currently be assumed that US import tariffs will not return to pre-Trump administratio"
+      "quote_snippet": "Die Entwicklungen offenbaren, dass ein Derisking von China importseitig nur schleppend vorankommt."
     },
     {
       "from": "Hildegard M\u00fcller",
@@ -5204,10 +5074,16 @@
       "quote_snippet": "Die Automobilindustrie in der EU ist heute st\u00e4rker denn je auf eine Verbesserung des Marktzugangs in"
     },
     {
-      "from": "T&E",
+      "from": "Transport & Environment",
       "to": "EU",
       "stance": "oppose",
-      "quote_snippet": "europ\u00e4ische Autohersteller am Weltmarkt weiter zur\u00fcckwerfen"
+      "quote_snippet": "also werde der Vorsto\u00df der Kommission \"europ\u00e4ische Autohersteller am Weltmarkt weiter zur\u00fcckwerfen\""
+    },
+    {
+      "from": "Samina Sultan",
+      "to": "ING",
+      "stance": "neutral",
+      "quote_snippet": "Germany should expand into new markets in South America, India and Indonesia, while reducing trade b"
     },
     {
       "from": "Samina Sultan",
@@ -5216,82 +5092,40 @@
       "quote_snippet": "Germany should expand into new markets in South America, India and Indonesia, while reducing trade b"
     },
     {
-      "from": "Samina Sultan",
-      "to": "ING",
-      "stance": "neutral",
-      "quote_snippet": "Germany should expand into new markets in South America, India and Indonesia, while reducing trade b"
-    },
-    {
-      "from": "Samina Sultan",
-      "to": "Trump",
-      "stance": "oppose",
-      "quote_snippet": "Da man derzeit davon ausgehen muss, dass die US-Importz\u00f6lle absehbar nicht auf das Level vor der Tru"
-    },
-    {
-      "from": "Samina Sultan",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "Da man derzeit davon ausgehen muss, dass die US-Importz\u00f6lle absehbar nicht auf das Level vor der Tru"
-    },
-    {
-      "from": "Samina Sultan",
-      "to": "Trump administration",
-      "stance": "oppose",
-      "quote_snippet": "Given that it must now be assumed that American import tariffs will not return to pre-Trump administ"
-    },
-    {
-      "from": "study",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "It is crucial to prevent additional tariffs... for example on pharmaceutical products, as well as an"
-    },
-    {
-      "from": "study",
+      "from": "Donald Trump",
       "to": "ING",
       "stance": "oppose",
-      "quote_snippet": "It is crucial to prevent additional tariffs... for example on pharmaceutical products, as well as an"
+      "quote_snippet": "Trump's initial proposal of a 25 percent tariff, which would have been applied on top of an existing"
     },
     {
-      "from": "report",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "It is crucial to prevent additional tariffs... for example on pharmaceutical products, as well as an"
-    },
-    {
-      "from": "report",
-      "to": "ING",
-      "stance": "oppose",
-      "quote_snippet": "It is crucial to prevent additional tariffs... for example on pharmaceutical products, as well as an"
-    },
-    {
-      "from": "Samina Sultan",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "Dazu gilt es, nach wie vor bestehende Handelshemmnisse im EU-Binnenmarkt konsequent abzubauen"
-    },
-    {
-      "from": "IW",
+      "from": "Donald Trump",
       "to": "EU",
       "stance": "neutral",
-      "quote_snippet": "Auch die deutschen Maschinenausfuhren in die USA unterliegen teils \u2060einem deutlich h\u00f6heren Zollsatz "
+      "quote_snippet": "Die von US-Pr\u00e4sident Donald Trump (79) eingef\u00fchrten hohen Z\u00f6lle lassen die Exporte der deutschen Aut"
     },
     {
-      "from": "Samina Sultan",
-      "to": "Trump",
-      "stance": "negative",
-      "quote_snippet": "Da man derzeit davon ausgehen muss, dass die US-Importz\u00f6lle absehbar nicht auf das Level vor der Tru"
+      "from": "Institut der deutschen Wirtschaft K\u00f6ln",
+      "to": "EU",
+      "stance": "neutral",
+      "quote_snippet": "Auch die deutschen Maschinenausfuhren in die USA unterliegen teils einem deutlich h\u00f6heren Zollsatz v"
+    },
+    {
+      "from": "Unknown",
+      "to": "EU",
+      "stance": "neutral",
+      "quote_snippet": "\"Auch die deutschen Maschinenausfuhren in die USA unterliegen teils einem deutlich h\u00f6heren Zollsatz "
+    },
+    {
+      "from": "Unknown",
+      "to": "ING",
+      "stance": "neutral",
+      "quote_snippet": "\"Bei chemischen Erzeugnissen d\u00fcrften auch andere Gr\u00fcnde eine Rolle spielen, wie etwa eine geringere "
     },
     {
       "from": "Samina Sultan",
       "to": "EU",
-      "stance": "negative",
+      "stance": "oppose",
       "quote_snippet": "Da man derzeit davon ausgehen muss, dass die US-Importz\u00f6lle absehbar nicht auf das Level vor der Tru"
-    },
-    {
-      "from": "Samina Sultan",
-      "to": "Trump administration",
-      "stance": "negative",
-      "quote_snippet": "Since it must currently be assumed that U.S. import tariffs will not return to pre-Trump administrat"
     }
   ],
   "summary_stats": {
@@ -5301,37 +5135,38 @@
       "start": "2025-12-22T06:46:53Z",
       "end": "2025-12-26T01:28:35Z"
     },
-    "avg_sentiment": -0.5550847457627119,
-    "total_quotes": 81,
-    "total_financial_mentions": 371
+    "avg_sentiment": -0.5644067796610173,
+    "total_quotes": 68,
+    "total_financial_mentions": 414
   },
-  "executive_brief": "The German auto industry is experiencing a significant downturn in exports, particularly to the US, due to tariffs imposed by US President Donald Trump. This issue received substantial media coverage (59 articles from 52 sources between December 22-26, 2025) and is overwhelmingly viewed negatively (average sentiment score of -0.56). The data indicates a 14% drop in exports in the first three quarters of 2025 compared to the previous year, signaling a potential crisis for Germany\u2019s export-reliant economy. \n\nStakeholders are largely opposed to the tariffs, with German exporters and the German auto industry directly impacted. The Institut der deutschen Wirtschaft (IW) acknowledges the strain on transatlantic trade but suggests diversification of export markets and strengthening the EU internal market. Dirk Jandura of the BGA points to a loss of market share in key regions, while J\u00fcrgen Matthes of the IW emphasizes the stabilizing role of Europe. Financially, the situation translates to potential job losses (100,000 at risk) and a decline in overall export value, despite predicted increases in imports from China (EUR 168 billion).",
+  "executive_brief": "The German auto industry is experiencing significant export declines, particularly to the US, due to tariffs imposed by US President Donald Trump. This issue received substantial media coverage (59 articles from 52 sources between December 22-26, 2025) and is overwhelmingly viewed negatively (average sentiment score of -0.56). The data indicates a 14% drop in German auto exports in the first three quarters of 2025 compared to the previous year, signaling a potential crisis for Germany\u2019s export-reliant economy.\n\nStakeholders are largely critical of the tariffs. Donald Trump defends his policy, while German stakeholders like Dirk Jandura of the Federation of German Wholesale, Foreign Trade and Services, point to lost market share. The Institut der deutschen Wirtschaft highlights the pressure on transatlantic trade relations. Economists like Samina Sultan at IW suggest diversifying export markets and strengthening the EU single market as mitigation strategies, while J\u00fcrgen Matthes emphasizes Europe\u2019s role as a stabilizer. The financial implications are substantial, with potential tariff revenue for the US reaching $300 billion and Germany facing a trade deficit of EUR 90 billion with China.",
   "key_arguments": {
     "for": [
-      "Donald Trump's tariff policy is putting significant strain on the close transatlantic trade relationship.",
-      "Europa remains the stabilizer for the German export economy."
+      "Donald Trump advocated for higher tariffs to protect US industries."
     ],
     "against": [
-      "Germany is losing market share in key non-EU regions, particularly in the US and China.",
-      "The close transatlantic trade relationship is coming under significant strain due to US President Trump's tariff policy."
+      "Dirk Jandura stated that Germany was losing market share in key non-EU regions, particularly in the US and China.",
+      "The Institut der deutschen Wirtschaft noted that transatlantic trade relations are under pressure due to Donald Trump\u2019s tariff policy.",
+      "Donald Trump has threatened to impose blanket tariffs of up to 20% on European goods unless trade imbalances are reduced."
     ]
   },
   "whats_at_stake": {
-    "winners": [],
+    "winners": [
+      "United States - Projected to gain $300 billion in tariff revenue."
+    ],
     "losers": [
-      "German Auto Industry - Suffering a 14% drop in exports due to tariffs.",
-      "German exporters - Facing significant declines in exports due to tariffs.",
-      "Germany - Experiencing a significant drop in exports due to tariffs."
+      "German Auto Industry - Suffering significant export declines due to US tariffs.",
+      "Germany - Experiencing export declines and a trade deficit with China.",
+      "German exporters - Facing significant tariff burdens and reduced export opportunities."
     ],
     "risks": [
-      "Strain on transatlantic trade relations.",
-      "Loss of market share in the US and China.",
-      "Potential job losses in automotive supply chains (100,000).",
-      "Decline in overall export value."
+      "Further deterioration of transatlantic trade relations.",
+      "Continued decline in German exports to the US and China.",
+      "Increased trade imbalances between Germany and China."
     ],
     "opportunities": [
-      "Diversification of export markets (suggested by Dr. Samina Sultan).",
-      "Strengthening the EU internal market (suggested by Dr. Samina Sultan)."
+      "Diversification of German exports to alternative markets (suggested by Samina Sultan).",
+      "Strengthening of the EU single market (suggested by Samina Sultan)."
     ]
   }
 }

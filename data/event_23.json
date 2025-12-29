@@ -6,10 +6,10 @@
     "category": "other",
     "summary": "Les quatre principaux syndicats agricoles vont \u00eatre re\u00e7us par le Pr\u00e9sident de la R\u00e9publique, pour \u00e9changer \u00e0 propos de l'accord UE-Mercosur.\n\nLa FNSEA, les Jeunes agriculteurs (JA), la Coordination rurale et la Conf\u00e9d\u00e9ration paysanne vont \u00eatre re\u00e7us \u00e0 16h30, mardi 23 d\u00e9cembre, par le pr\u00e9sident Emman...",
     "first_seen": "2025-12-25T22:48:15.030316",
-    "last_updated": "2025-12-29T10:25:03.030297",
+    "last_updated": "2025-12-29T17:30:59.937486",
     "created_at": "2025-12-25 21:48:15"
   },
-  "generated_at": "2025-12-29T10:30:10.148814",
+  "generated_at": "2025-12-29T17:32:16.597926",
   "articles": [
     {
       "id": 460,
@@ -24,7 +24,7 @@
       "language": "eng",
       "image_url": "https://news-pravda.com/img/20251226/483f6075cd04f16809bed0c26e572f1a_o.jpg",
       "fetched_at": "2025-12-26 20:27:23",
-      "sentiment_score": -0.6,
+      "sentiment_score": -0.7,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -58,8 +58,8 @@
       "language": "eng",
       "image_url": "https://s.france24.com/media/display/86a81fa8-e185-11f0-b1ca-005056a90284/w:1280/p:16x9/EN-20251225-120538-120719-CS.jpg",
       "fetched_at": "2025-12-25 22:34:31",
-      "sentiment_score": -0.4,
-      "sentiment_label": "slightly_negative",
+      "sentiment_score": -0.6,
+      "sentiment_label": "negative",
       "article_type": "news_report"
     },
     {
@@ -211,8 +211,8 @@
       "language": "eng",
       "image_url": "https://thesun.my/wp-content/uploads/2025/12/france-politics-media-165123-t69399701-m800-xea51bfc5.webp",
       "fetched_at": "2025-12-25 22:34:31",
-      "sentiment_score": -0.4,
-      "sentiment_label": "slightly_negative",
+      "sentiment_score": -0.6,
+      "sentiment_label": "negative",
       "article_type": "news_report"
     },
     {
@@ -262,8 +262,8 @@
       "language": "fra",
       "image_url": "https://www.cnews.fr/sites/default/files/styles/image_750_422/public/2025-12-18t145839z_768270177_rc2xiiaksxdv_rtrmadp_3_eu-summit-farmers-protest-taille1200_694aad1c72a84.jpg?h=21856277&itok=ON_5XpJP",
       "fetched_at": "2025-12-25 21:48:15",
-      "sentiment_score": -0.4,
-      "sentiment_label": "slightly_negative",
+      "sentiment_score": -0.6,
+      "sentiment_label": "negative",
       "article_type": "news_report"
     },
     {
@@ -313,7 +313,7 @@
       "language": "eng",
       "image_url": "https://bloximages.chicago2.vip.townnews.com/annistonstar.com/content/tncms/assets/v3/editorial/b/18/b18de8f1-65fb-5d4d-8f0b-154321d7c339/694af853443b4.image.jpg?crop=512%2C269%2C0%2C36&resize=438%2C230&order=crop%2Cresize",
       "fetched_at": "2025-12-25 22:34:31",
-      "sentiment_score": -0.2,
+      "sentiment_score": -0.3,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -364,7 +364,7 @@
       "language": "eng",
       "image_url": "https://img.lemde.fr/2025/12/22/414/0/4967/2483/1440/720/60/0/10b0f66_ftp-1-ar7u03xa8b52-5737817-01-06.jpg",
       "fetched_at": "2025-12-25 22:34:31",
-      "sentiment_score": -0.3,
+      "sentiment_score": -0.4,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -415,7 +415,7 @@
       "language": "fra",
       "image_url": "https://media.letelegramme.fr/api/v1/images/view/694aee4fa1b87e855a02e751/web_golden_xxl/694aee4fa1b87e855a02e751.1",
       "fetched_at": "2025-12-25 21:48:15",
-      "sentiment_score": -0.3,
+      "sentiment_score": -0.4,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -432,7 +432,7 @@
       "language": "fra",
       "image_url": "https://i.la-croix.com/1400x933/smart/2025/12/23/2293191-rencontre-entre-les-syndicats-agricoles-et-emmanue.jpg",
       "fetched_at": "2025-12-25 21:48:15",
-      "sentiment_score": -0.2,
+      "sentiment_score": -0.3,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -619,8 +619,8 @@
       "language": "fra",
       "image_url": "https://www.cnews.fr/sites/default/files/styles/image_750_422/public/2025-12-18t145839z_768270177_rc2xiiaksxdv_rtrmadp_3_eu-summit-farmers-protest-taille1200_694aad1c72a84.jpg?h=21856277&itok=ON_5XpJP",
       "fetched_at": "2025-12-25 21:48:15",
-      "sentiment_score": -0.3,
-      "sentiment_label": "slightly_negative",
+      "sentiment_score": -0.6,
+      "sentiment_label": "negative",
       "article_type": "news_report"
     },
     {
@@ -704,7 +704,7 @@
       "language": "fra",
       "image_url": "https://media.letelegramme.fr/api/v1/images/view/694aacc06e9571c0e4084d30/web_golden_xxl/694aacc06e9571c0e4084d30.1",
       "fetched_at": "2025-12-25 21:48:15",
-      "sentiment_score": -0.6,
+      "sentiment_score": -0.7,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -738,7 +738,7 @@
       "language": "fra",
       "image_url": "https://www.leparisien.fr/resizer/-XGIvcHUiWOWv_p5_hu_9MIYgyc=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/IMV5JWAAO5DZJBDHRA26IN74EM.jpg",
       "fetched_at": "2025-12-25 21:48:15",
-      "sentiment_score": -0.6,
+      "sentiment_score": -0.7,
       "sentiment_label": "negative",
       "article_type": "news_report"
     }
@@ -764,22 +764,22 @@
   "sentiment_trend": [
     {
       "date": "2025-12-23",
-      "avg_sentiment": -0.4870967741935483,
+      "avg_sentiment": -0.5225806451612903,
       "count": 31
     },
     {
       "date": "2025-12-24",
-      "avg_sentiment": -0.42499999999999993,
+      "avg_sentiment": -0.44999999999999996,
       "count": 8
     },
     {
       "date": "2025-12-25",
-      "avg_sentiment": -0.5333333333333333,
+      "avg_sentiment": -0.6,
       "count": 3
     },
     {
       "date": "2025-12-26",
-      "avg_sentiment": -0.6,
+      "avg_sentiment": -0.7,
       "count": 1
     }
   ],
@@ -791,100 +791,80 @@
       },
       {
         "name": "Brazil",
-        "count": 13
-      },
-      {
-        "name": "Mercosur",
-        "count": 12
-      },
-      {
-        "name": "Italy",
-        "count": 11
+        "count": 19
       },
       {
         "name": "Argentina",
-        "count": 9
+        "count": 15
       },
       {
         "name": "Paraguay",
-        "count": 9
+        "count": 15
       },
       {
         "name": "Uruguay",
-        "count": 9
+        "count": 15
       },
       {
-        "name": "Europe",
-        "count": 8
+        "name": "Italy",
+        "count": 14
       },
       {
-        "name": "UE",
-        "count": 8
-      },
-      {
-        "name": "Mercosur countries",
+        "name": "Mercosur",
         "count": 6
       },
       {
-        "name": "EU",
+        "name": "South American",
         "count": 4
       },
       {
-        "name": "Belgium",
-        "count": 3
-      },
-      {
-        "name": "Italie",
-        "count": 3
-      },
-      {
-        "name": "South America",
-        "count": 3
-      },
-      {
-        "name": "South American",
-        "count": 3
+        "name": "Europe",
+        "count": 2
       },
       {
         "name": "European Union",
-        "count": 1
+        "count": 2
       },
       {
-        "name": "Latin America",
-        "count": 1
-      },
-      {
-        "name": "Mercosur countries (implied)",
-        "count": 1
-      },
-      {
-        "name": "South American countries",
+        "name": "Belgium",
         "count": 1
       }
     ],
     "politicians": [
       {
         "name": "Emmanuel Macron",
-        "count": 37
+        "count": 39
+      },
+      {
+        "name": "Arnaud Rousseau",
+        "count": 6
+      },
+      {
+        "name": "S\u00e9bastien Lecornu",
+        "count": 6
+      },
+      {
+        "name": "Jean-No\u00ebl Barrot",
+        "count": 5
       },
       {
         "name": "Ursula von der Leyen",
         "count": 5
       },
       {
-        "name": "Jean-No\u00ebl Barrot",
-        "count": 4
-      },
-      {
-        "name": "Emmanuel Macron (President)",
+        "name": "Pierrick Horel",
         "count": 3
       },
       {
-        "name": "S\u00e9bastien Lecornu (Prime Minister)",
+        "name": "St\u00e9phane Galais",
         "count": 3
       },
       {
-        "name": "Jean-No\u00ebl Barrot (Minister of Foreign Affairs)",
+        "name": "Annie Genevard",
+        "count": 2
+      },
+      {
+        "name": "J\u00e9r\u00f4me Bayle",
         "count": 2
       },
       {
@@ -892,55 +872,23 @@
         "count": 2
       },
       {
-        "name": "Annie Genevard",
+        "name": "C\u00e9dric Baron",
         "count": 1
       },
       {
-        "name": "Annie Genevard (ministre de l'Agriculture)",
+        "name": "Fran\u00e7ois Walraet",
         "count": 1
       },
       {
-        "name": "Arnaud Rousseau (pr\u00e9sident de la FNSEA)",
+        "name": "Jean-Noel Barrot",
         "count": 1
       },
       {
-        "name": "Fran\u00e7ois Walraet (secr\u00e9taire g\u00e9n\u00e9ral de la Coordination rurale)",
+        "name": "J\u00e9r\u00f4me Courr\u00e8ges",
         "count": 1
       },
       {
-        "name": "Philippe Baptiste (ministre de l'Enseignement sup\u00e9rieur)",
-        "count": 1
-      },
-      {
-        "name": "Pierrick Horel",
-        "count": 1
-      },
-      {
-        "name": "Pierrick Horel (pr\u00e9sident de Jeunes agriculteurs)",
-        "count": 1
-      },
-      {
-        "name": "St\u00e9phane Galais",
-        "count": 1
-      },
-      {
-        "name": "St\u00e9phane Galais (porte-parole de la Conf\u00e9d\u00e9ration paysanne)",
-        "count": 1
-      },
-      {
-        "name": "S\u00e9bastien Lecornu",
-        "count": 1
-      },
-      {
-        "name": "S\u00e9bastien Lecornu (Premier ministre)",
-        "count": 1
-      },
-      {
-        "name": "S\u00e9bastien Lecornu (premier ministre)",
-        "count": 1
-      },
-      {
-        "name": "Ursula von der Leyen (President of the European Commission)",
+        "name": "Philippe Baptiste",
         "count": 1
       }
     ],
@@ -958,55 +906,39 @@
         "count": 22
       },
       {
-        "name": "Jeunes agriculteurs (JA)",
-        "count": 15
+        "name": "European Union",
+        "count": 21
+      },
+      {
+        "name": "Jeunes agriculteurs",
+        "count": 19
       },
       {
         "name": "Mercosur",
-        "count": 11
+        "count": 16
       },
       {
         "name": "AFP",
         "count": 10
       },
       {
-        "name": "Commission europ\u00e9enne",
+        "name": "Jeunes Agriculteurs",
         "count": 9
       },
       {
-        "name": "Jeunes Agriculteurs",
-        "count": 7
+        "name": "Commission europ\u00e9enne",
+        "count": 8
       },
       {
-        "name": "Coordination rurale de Gironde (CR33)",
+        "name": "Coordination rurale de Gironde",
         "count": 5
-      },
-      {
-        "name": "European Union",
-        "count": 5
-      },
-      {
-        "name": "syndicats agricoles",
-        "count": 5
-      },
-      {
-        "name": "UE",
-        "count": 4
-      },
-      {
-        "name": "agriculture ministry",
-        "count": 4
-      },
-      {
-        "name": "farmers' unions",
-        "count": 4
       },
       {
         "name": "Confederation Paysanne",
         "count": 3
       },
       {
-        "name": "Jeunes agriculteurs",
+        "name": "Vinci Autoroutes",
         "count": 3
       },
       {
@@ -1018,11 +950,11 @@
         "count": 2
       },
       {
-        "name": "EU",
+        "name": "European Commission",
         "count": 2
       },
       {
-        "name": "Jeunes Agriculteurs (JA)",
+        "name": "La Dep\u00eache",
         "count": 2
       },
       {
@@ -1030,7 +962,15 @@
         "count": 2
       },
       {
-        "name": "Agence nationale de la recherche (ANR)",
+        "name": "farmers' unions",
+        "count": 2
+      },
+      {
+        "name": "Agence nationale de la recherche",
+        "count": 1
+      },
+      {
+        "name": "Bison-Fut\u00e9",
         "count": 1
       },
       {
@@ -1038,27 +978,7 @@
         "count": 1
       },
       {
-        "name": "Elys\u00e9e",
-        "count": 1
-      },
-      {
-        "name": "European Commission",
-        "count": 1
-      },
-      {
-        "name": "JA (Jeunes Agriculteurs)",
-        "count": 1
-      },
-      {
-        "name": "LNR (Laboratoire national de r\u00e9f\u00e9rence)",
-        "count": 1
-      },
-      {
-        "name": "La Dep\u00eache",
-        "count": 1
-      },
-      {
-        "name": "Le Parisien",
+        "name": "Euronews",
         "count": 1
       },
       {
@@ -1066,21 +986,23 @@
         "count": 1
       },
       {
-        "name": "PEPR (\u00c9levages durables)",
+        "name": "Minist\u00e8re de l'Agriculture",
+        "count": 1
+      },
+      {
+        "name": "Parisien",
+        "count": 1
+      },
+      {
+        "name": "agriculture ministry",
         "count": 1
       },
       {
         "name": "farmers' union",
         "count": 1
-      }
-    ],
-    "companies": [
-      {
-        "name": "Vinci Autoroutes",
-        "count": 3
       },
       {
-        "name": "Bison-Fut\u00e9",
+        "name": "\u00c9lys\u00e9e",
         "count": 1
       }
     ]
@@ -1090,12 +1012,17 @@
       {
         "amount": 1000000.0,
         "currency": "EUR",
-        "context": "cost of blockages in Pyr\u00e9n\u00e9es-Atlantiques"
+        "context": "cost of blockades in Pyr\u00e9n\u00e9es-Atlantiques"
       },
       {
         "amount": 1000000.0,
         "currency": "EUR",
-        "context": "cost of blockages in Pyr\u00e9n\u00e9es-Atlantiques"
+        "context": "cost of blockades in Pyr\u00e9n\u00e9es-Atlantiques"
+      },
+      {
+        "amount": 4000.0,
+        "currency": "people",
+        "context": "number of French farmers participating in Brussels mobilization"
       },
       {
         "amount": 20.0,
@@ -1105,37 +1032,38 @@
       {
         "amount": 20.0,
         "currency": "%",
-        "context": "reduction annonc\u00e9e du budget de la PAC"
+        "context": "reduction of the PAC budget"
       }
     ],
     "totals": {
       "EUR": 2000000.0,
+      "people": 4000.0,
       "%": 40.0
     }
   },
   "quotes": [
     {
-      "id": 999,
+      "id": 3929,
       "article_id": 405,
       "speaker": "St\u00e9phane Galais",
-      "speaker_role": "porte-parole national du collectif Conf\u00e9d\u00e9ration paysanne",
+      "speaker_role": "porte-parole national du collectif de gauche Conf\u00e9d\u00e9ration paysanne",
       "quote_text": "La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp",
       "stance": "neutral",
       "article_title": "\" On esp\u00e9rait des avanc\u00e9es \" : d\u00e9\u00e7us par la r\u00e9union \u00e0 l'\u00c9lys\u00e9e, les syndicats agricoles poursuivent leur mobilisation \u00e0 travers la France - L'Humanit\u00e9",
       "source_url": "https://www.humanite.fr/social-et-economie/agriculteurs/on-esperait-des-avancees-decus-par-la-reunion-a-lelysee-les-syndicats-agricoles-poursuivent-leur-mobilisation-a-travers-la-france"
     },
     {
-      "id": 1000,
+      "id": 3930,
       "article_id": 405,
       "speaker": "J\u00e9r\u00f4me Bayle",
       "speaker_role": "\u00e9leveur de bovins en Haute-Garonne",
-      "quote_text": "On esp\u00e9rait des avanc\u00e9es (mais) l'\u00c9tat ne veut pas apporter de solutions. On va continuer \u00e0 se battre, pour arriver \u00e0 changer la r\u00e8gle sur l'abattage, amener des solutions \u00e0 nos c\u00e9r\u00e9aliers.",
+      "quote_text": "On esp\u00e9rait des avanc\u00e9es (mais) l'\u00c9tat ne veut pas apporter de solutions. On va continuer \u00e0 se battre, pour arriver \u00e0 changer la r\u00e8gle sur l'abattage, amener des solutions \u00e0 nos c\u00e9r\u00e9aliers",
       "stance": "oppose",
       "article_title": "\" On esp\u00e9rait des avanc\u00e9es \" : d\u00e9\u00e7us par la r\u00e9union \u00e0 l'\u00c9lys\u00e9e, les syndicats agricoles poursuivent leur mobilisation \u00e0 travers la France - L'Humanit\u00e9",
       "source_url": "https://www.humanite.fr/social-et-economie/agriculteurs/on-esperait-des-avancees-decus-par-la-reunion-a-lelysee-les-syndicats-agricoles-poursuivent-leur-mobilisation-a-travers-la-france"
     },
     {
-      "id": 1001,
+      "id": 3931,
       "article_id": 405,
       "speaker": "Arnaud Rousseau",
       "speaker_role": "pr\u00e9sident du syndicat patronal et lib\u00e9ral FNSEA",
@@ -1145,7 +1073,7 @@
       "source_url": "https://www.humanite.fr/social-et-economie/agriculteurs/on-esperait-des-avancees-decus-par-la-reunion-a-lelysee-les-syndicats-agricoles-poursuivent-leur-mobilisation-a-travers-la-france"
     },
     {
-      "id": 1002,
+      "id": 3932,
       "article_id": 405,
       "speaker": "S\u00e9bastien Lecornu",
       "speaker_role": "premier ministre",
@@ -1155,57 +1083,87 @@
       "source_url": "https://www.humanite.fr/social-et-economie/agriculteurs/on-esperait-des-avancees-decus-par-la-reunion-a-lelysee-les-syndicats-agricoles-poursuivent-leur-mobilisation-a-travers-la-france"
     },
     {
-      "id": 1017,
+      "id": 3949,
       "article_id": 412,
       "speaker": "Arnaud Rousseau",
-      "speaker_role": "pr\u00e9sident de la FNSEA",
-      "quote_text": "cet accord de \" non-sens pour les agriculteurs de France \"",
+      "speaker_role": "FNSEA President",
+      "quote_text": "non-sens pour les agriculteurs de France",
       "stance": "oppose",
       "article_title": "Macron et Lecornu tentent d'apaiser les tensions le temps des f\u00eates",
       "source_url": "https://www.lafranceagricole.fr/pouvoir/article/892306/macron-et-lecornu-tentent-d-apaiser-les-tensions-le-temps-des-fetes"
     },
     {
-      "id": 1018,
+      "id": 3950,
       "article_id": 412,
       "speaker": "St\u00e9phane Galais",
-      "speaker_role": "porte-parole de la Conf\u00e9d\u00e9ration paysanne",
+      "speaker_role": "Conf\u00e9d\u00e9ration paysanne spokesperson",
       "quote_text": "L'id\u00e9e du Pr\u00e9sident, c'\u00e9tait d'\u00e9teindre un peu l'incendie de la col\u00e8re agricole en nous pr\u00e9sentant des strat\u00e9gies [...] mais on n'a rien de concret",
       "stance": "oppose",
       "article_title": "Macron et Lecornu tentent d'apaiser les tensions le temps des f\u00eates",
       "source_url": "https://www.lafranceagricole.fr/pouvoir/article/892306/macron-et-lecornu-tentent-d-apaiser-les-tensions-le-temps-des-fetes"
     },
     {
-      "id": 1019,
+      "id": 3951,
+      "article_id": 412,
+      "speaker": "Fran\u00e7ois Walraet",
+      "speaker_role": "Coordination rurale secretary general",
+      "quote_text": "il \u00e9tait confiant pour am\u00e9liorer les clauses de sauvegarde",
+      "stance": "neutral",
+      "article_title": "Macron et Lecornu tentent d'apaiser les tensions le temps des f\u00eates",
+      "source_url": "https://www.lafranceagricole.fr/pouvoir/article/892306/macron-et-lecornu-tentent-d-apaiser-les-tensions-le-temps-des-fetes"
+    },
+    {
+      "id": 3952,
+      "article_id": 412,
+      "speaker": "Arnaud Rousseau",
+      "speaker_role": "FNSEA President",
+      "quote_text": "vient notamment impacter fortement les charges sur les utilisateurs d'engrais",
+      "stance": "oppose",
+      "article_title": "Macron et Lecornu tentent d'apaiser les tensions le temps des f\u00eates",
+      "source_url": "https://www.lafranceagricole.fr/pouvoir/article/892306/macron-et-lecornu-tentent-d-apaiser-les-tensions-le-temps-des-fetes"
+    },
+    {
+      "id": 3953,
       "article_id": 412,
       "speaker": "S\u00e9bastien Lecornu",
-      "speaker_role": "Premier ministre",
+      "speaker_role": "Prime Minister",
       "quote_text": "la position de la France est ferme : aucun accord ne sera accept\u00e9 s'il fragilise nos fili\u00e8res ou impose une concurrence d\u00e9loyale",
       "stance": "support",
       "article_title": "Macron et Lecornu tentent d'apaiser les tensions le temps des f\u00eates",
       "source_url": "https://www.lafranceagricole.fr/pouvoir/article/892306/macron-et-lecornu-tentent-d-apaiser-les-tensions-le-temps-des-fetes"
     },
     {
-      "id": 1020,
+      "id": 3954,
       "article_id": 412,
       "speaker": "Arnaud Rousseau",
-      "speaker_role": "pr\u00e9sident de la FNSEA",
+      "speaker_role": "FNSEA President",
       "quote_text": "La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp",
       "stance": "neutral",
       "article_title": "Macron et Lecornu tentent d'apaiser les tensions le temps des f\u00eates",
       "source_url": "https://www.lafranceagricole.fr/pouvoir/article/892306/macron-et-lecornu-tentent-d-apaiser-les-tensions-le-temps-des-fetes"
     },
     {
-      "id": 989,
+      "id": 3955,
+      "article_id": 412,
+      "speaker": "Pierrick Horel",
+      "speaker_role": "Jeunes agriculteurs President",
+      "quote_text": "La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp",
+      "stance": "neutral",
+      "article_title": "Macron et Lecornu tentent d'apaiser les tensions le temps des f\u00eates",
+      "source_url": "https://www.lafranceagricole.fr/pouvoir/article/892306/macron-et-lecornu-tentent-d-apaiser-les-tensions-le-temps-des-fetes"
+    },
+    {
+      "id": 3919,
       "article_id": 403,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
-      "quote_text": "\"L'objet du rendez-vous, c'\u00e9tait d'essayer d'\u00e9teindre un peu le feu qui est partout dans les campagnes\"",
+      "quote_text": "L'objet du rendez-vous, c'\u00e9tait d'essayer d'\u00e9teindre un peu le feu qui est partout dans les campagnes",
       "stance": "neutral",
       "article_title": "DIRECT. Col\u00e8re des agriculteurs : \"On fera le r\u00e9veillon sur l'autoroute\"... Sur l'A64, les \u00e9leveurs vont passer No\u00ebl sur le barrage de Carbonne",
       "source_url": "https://www.ladepeche.fr/2025/12/24/direct-colere-des-agriculteurs-on-fera-le-reveillon-sur-lautoroute-sur-la64-les-eleveurs-vont-passer-noel-sur-le-barrage-de-carbonne-13129157.php"
     },
     {
-      "id": 990,
+      "id": 3920,
       "article_id": 403,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
@@ -1215,17 +1173,17 @@
       "source_url": "https://www.ladepeche.fr/2025/12/24/direct-colere-des-agriculteurs-on-fera-le-reveillon-sur-lautoroute-sur-la64-les-eleveurs-vont-passer-noel-sur-le-barrage-de-carbonne-13129157.php"
     },
     {
-      "id": 991,
+      "id": 3921,
       "article_id": 403,
       "speaker": "Pierrick Horel",
       "speaker_role": "pr\u00e9sident des Jeunes Agriculteurs",
-      "quote_text": "\"La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp\"",
+      "quote_text": "La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp",
       "stance": "neutral",
       "article_title": "DIRECT. Col\u00e8re des agriculteurs : \"On fera le r\u00e9veillon sur l'autoroute\"... Sur l'A64, les \u00e9leveurs vont passer No\u00ebl sur le barrage de Carbonne",
       "source_url": "https://www.ladepeche.fr/2025/12/24/direct-colere-des-agriculteurs-on-fera-le-reveillon-sur-lautoroute-sur-la64-les-eleveurs-vont-passer-noel-sur-le-barrage-de-carbonne-13129157.php"
     },
     {
-      "id": 1012,
+      "id": 3943,
       "article_id": 409,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
@@ -1235,7 +1193,7 @@
       "source_url": "https://www.ouest-france.fr/economie/agriculture/crise-agricole/des-blocages-dagriculteurs-persistent-dans-le-sud-ouest-ee9e136c-e098-11f0-ba14-a010db31b80d"
     },
     {
-      "id": 1013,
+      "id": 3944,
       "article_id": 409,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
@@ -1245,27 +1203,37 @@
       "source_url": "https://www.ouest-france.fr/economie/agriculture/crise-agricole/des-blocages-dagriculteurs-persistent-dans-le-sud-ouest-ee9e136c-e098-11f0-ba14-a010db31b80d"
     },
     {
-      "id": 965,
+      "id": 3897,
       "article_id": 393,
-      "speaker": "FNSEA",
-      "speaker_role": "syndicat",
-      "quote_text": "Mercosur = NON",
-      "stance": "oppose",
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President",
+      "quote_text": "le texte change de nature",
+      "stance": "support",
       "article_title": "Nouveau cas de dermatose, Macron re\u00e7oit les syndicats",
       "source_url": "https://www.blick.ch/fr/monde/france/france-nouveau-cas-de-dermatose-macron-recoit-les-syndicats-id21545600.html"
     },
     {
-      "id": 966,
+      "id": 3898,
       "article_id": 393,
-      "speaker": "Jean-No\u00ebl Barrot",
-      "speaker_role": "ministre des Affaires \u00e9trang\u00e8res",
+      "speaker": "Jean-Noel Barrot",
+      "speaker_role": "Minister of Affairs",
       "quote_text": "Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions in\u00e9dites au b\u00e9n\u00e9fice de nos agriculteurs, que cet accord soit sign\u00e9 ou qu'il ne le soit pas",
       "stance": "support",
       "article_title": "Nouveau cas de dermatose, Macron re\u00e7oit les syndicats",
       "source_url": "https://www.blick.ch/fr/monde/france/france-nouveau-cas-de-dermatose-macron-recoit-les-syndicats-id21545600.html"
     },
     {
-      "id": 1031,
+      "id": 3899,
+      "article_id": 393,
+      "speaker": "FNSEA",
+      "speaker_role": "Syndicat",
+      "quote_text": "Mercosur = NON",
+      "stance": "oppose",
+      "article_title": "Nouveau cas de dermatose, Macron re\u00e7oit les syndicats",
+      "source_url": "https://www.blick.ch/fr/monde/france/france-nouveau-cas-de-dermatose-macron-recoit-les-syndicats-id21545600.html"
+    },
+    {
+      "id": 3964,
       "article_id": 417,
       "speaker": "Stephane Galais",
       "speaker_role": "Confederation Paysanne union",
@@ -1275,17 +1243,17 @@
       "source_url": "https://thesun.my/news/world-news/macron-meets-french-farmers-to-address-trade-deal-anger-and-disease-culls/"
     },
     {
-      "id": 1032,
+      "id": 3965,
       "article_id": 417,
       "speaker": "Pierrick Horel",
-      "speaker_role": "head of the Young Farmers union",
+      "speaker_role": "Young Farmers union",
       "quote_text": "We've passed the ball to them. It's in their court.",
       "stance": "neutral",
       "article_title": "Macron meets French farmers to address trade deal anger and disease culls",
       "source_url": "https://thesun.my/news/world-news/macron-meets-french-farmers-to-address-trade-deal-anger-and-disease-culls/"
     },
     {
-      "id": 1033,
+      "id": 3966,
       "article_id": 417,
       "speaker": "Arnaud Rousseau",
       "speaker_role": "FNSEA union",
@@ -1295,7 +1263,7 @@
       "source_url": "https://thesun.my/news/world-news/macron-meets-french-farmers-to-address-trade-deal-anger-and-disease-culls/"
     },
     {
-      "id": 1034,
+      "id": 3967,
       "article_id": 417,
       "speaker": "Arnaud Rousseau",
       "speaker_role": "FNSEA union",
@@ -1305,7 +1273,7 @@
       "source_url": "https://thesun.my/news/world-news/macron-meets-french-farmers-to-address-trade-deal-anger-and-disease-culls/"
     },
     {
-      "id": 992,
+      "id": 3922,
       "article_id": 404,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
@@ -1315,7 +1283,7 @@
       "source_url": "https://fr.news.yahoo.com/malgr%C3%A9-rencontre-entre-macron-syndicats-222204524.html"
     },
     {
-      "id": 993,
+      "id": 3923,
       "article_id": 404,
       "speaker": "Pierrick Horel",
       "speaker_role": "pr\u00e9sident des Jeunes Agriculteurs",
@@ -1325,7 +1293,7 @@
       "source_url": "https://fr.news.yahoo.com/malgr%C3%A9-rencontre-entre-macron-syndicats-222204524.html"
     },
     {
-      "id": 994,
+      "id": 3924,
       "article_id": 404,
       "speaker": "Arnaud Rousseau",
       "speaker_role": "pr\u00e9sident de la FNSEA",
@@ -1335,7 +1303,7 @@
       "source_url": "https://fr.news.yahoo.com/malgr%C3%A9-rencontre-entre-macron-syndicats-222204524.html"
     },
     {
-      "id": 995,
+      "id": 3925,
       "article_id": 404,
       "speaker": "Arnaud Rousseau",
       "speaker_role": "pr\u00e9sident de la FNSEA",
@@ -1345,17 +1313,17 @@
       "source_url": "https://fr.news.yahoo.com/malgr%C3%A9-rencontre-entre-macron-syndicats-222204524.html"
     },
     {
-      "id": 996,
+      "id": 3926,
       "article_id": 404,
       "speaker": "J\u00e9r\u00f4me Bayle",
-      "speaker_role": "figure de la contestation",
+      "speaker_role": "figure de la contestation et pilier du barrage de Carbonne",
       "quote_text": "On esp\u00e9rait des avanc\u00e9es (...) L'\u00c9tat ne veut pas apporter de solutions. On va continuer \u00e0 se battre, pour arriver \u00e0 changer la r\u00e8gle sur l'abattage, amener des solutions \u00e0 nos c\u00e9r\u00e9aliers. On fera le r\u00e9veillon sur l'autoroute",
       "stance": "oppose",
       "article_title": "Malgr\u00e9 la rencontre entre Macron et les syndicats, des r\u00e9veillons de No\u00ebl sur les barrages pr\u00e9vus",
       "source_url": "https://fr.news.yahoo.com/malgr%C3%A9-rencontre-entre-macron-syndicats-222204524.html"
     },
     {
-      "id": 997,
+      "id": 3927,
       "article_id": 404,
       "speaker": "C\u00e9dric Baron",
       "speaker_role": "\u00e9leveur-c\u00e9r\u00e9alier",
@@ -1365,7 +1333,7 @@
       "source_url": "https://fr.news.yahoo.com/malgr%C3%A9-rencontre-entre-macron-syndicats-222204524.html"
     },
     {
-      "id": 998,
+      "id": 3928,
       "article_id": 404,
       "speaker": "J\u00e9r\u00f4me Courr\u00e8ges",
       "speaker_role": "pr\u00e9sident du syndicat de la Coordination rurale",
@@ -1375,7 +1343,17 @@
       "source_url": "https://fr.news.yahoo.com/malgr%C3%A9-rencontre-entre-macron-syndicats-222204524.html"
     },
     {
-      "id": 1006,
+      "id": 3936,
+      "article_id": 407,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President",
+      "quote_text": "L'\u00c9tat ne veut pas apporter de solutions.",
+      "stance": "oppose",
+      "article_title": "Sans \" solutions \" de l'\u00c9tat, ces agriculteurs pr\u00e9voient de f\u00eater No\u00ebl sur les barrages",
+      "source_url": "https://www.huffingtonpost.fr/france/article/malgre-la-rencontre-entre-macron-et-les-syndicats-des-reveillons-de-noel-sur-les-barrages-prevus_258557.html"
+    },
+    {
+      "id": 3937,
       "article_id": 407,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
@@ -1385,7 +1363,7 @@
       "source_url": "https://www.huffingtonpost.fr/france/article/malgre-la-rencontre-entre-macron-et-les-syndicats-des-reveillons-de-noel-sur-les-barrages-prevus_258557.html"
     },
     {
-      "id": 1007,
+      "id": 3938,
       "article_id": 407,
       "speaker": "Pierrick Horel",
       "speaker_role": "pr\u00e9sident des Jeunes Agriculteurs",
@@ -1395,7 +1373,7 @@
       "source_url": "https://www.huffingtonpost.fr/france/article/malgre-la-rencontre-entre-macron-et-les-syndicats-des-reveillons-de-noel-sur-les-barrages-prevus_258557.html"
     },
     {
-      "id": 1008,
+      "id": 3939,
       "article_id": 407,
       "speaker": "Arnaud Rousseau",
       "speaker_role": "pr\u00e9sident de la FNSEA",
@@ -1405,7 +1383,7 @@
       "source_url": "https://www.huffingtonpost.fr/france/article/malgre-la-rencontre-entre-macron-et-les-syndicats-des-reveillons-de-noel-sur-les-barrages-prevus_258557.html"
     },
     {
-      "id": 1009,
+      "id": 3940,
       "article_id": 407,
       "speaker": "J\u00e9r\u00f4me Bayle",
       "speaker_role": "figure de la contestation",
@@ -1415,7 +1393,7 @@
       "source_url": "https://www.huffingtonpost.fr/france/article/malgre-la-rencontre-entre-macron-et-les-syndicats-des-reveillons-de-noel-sur-les-barrages-prevus_258557.html"
     },
     {
-      "id": 1010,
+      "id": 3941,
       "article_id": 407,
       "speaker": "C\u00e9dric Baron",
       "speaker_role": "\u00e9leveur-c\u00e9r\u00e9alier",
@@ -1425,7 +1403,7 @@
       "source_url": "https://www.huffingtonpost.fr/france/article/malgre-la-rencontre-entre-macron-et-les-syndicats-des-reveillons-de-noel-sur-les-barrages-prevus_258557.html"
     },
     {
-      "id": 1011,
+      "id": 3942,
       "article_id": 407,
       "speaker": "J\u00e9r\u00f4me Courr\u00e8ges",
       "speaker_role": "pr\u00e9sident du syndicat de la Coordination rurale",
@@ -1435,7 +1413,7 @@
       "source_url": "https://www.huffingtonpost.fr/france/article/malgre-la-rencontre-entre-macron-et-les-syndicats-des-reveillons-de-noel-sur-les-barrages-prevus_258557.html"
     },
     {
-      "id": 959,
+      "id": 3892,
       "article_id": 392,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
@@ -1445,7 +1423,7 @@
       "source_url": "https://www.cnews.fr/france/2025-12-23/colere-des-agriculteurs-les-syndicats-attendent-des-reponses-des-les-premiers"
     },
     {
-      "id": 960,
+      "id": 3893,
       "article_id": 392,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
@@ -1455,7 +1433,7 @@
       "source_url": "https://www.cnews.fr/france/2025-12-23/colere-des-agriculteurs-les-syndicats-attendent-des-reponses-des-les-premiers"
     },
     {
-      "id": 961,
+      "id": 3894,
       "article_id": 392,
       "speaker": "Pierrick Horel",
       "speaker_role": "pr\u00e9sident des Jeunes Agriculteurs",
@@ -1465,7 +1443,7 @@
       "source_url": "https://www.cnews.fr/france/2025-12-23/colere-des-agriculteurs-les-syndicats-attendent-des-reponses-des-les-premiers"
     },
     {
-      "id": 962,
+      "id": 3895,
       "article_id": 392,
       "speaker": "S\u00e9bastien Lecornu",
       "speaker_role": "Premier ministre",
@@ -1475,7 +1453,7 @@
       "source_url": "https://www.cnews.fr/france/2025-12-23/colere-des-agriculteurs-les-syndicats-attendent-des-reponses-des-les-premiers"
     },
     {
-      "id": 963,
+      "id": 3896,
       "article_id": 392,
       "speaker": "S\u00e9bastien Lecornu",
       "speaker_role": "Premier ministre",
@@ -1485,47 +1463,27 @@
       "source_url": "https://www.cnews.fr/france/2025-12-23/colere-des-agriculteurs-les-syndicats-attendent-des-reponses-des-les-premiers"
     },
     {
-      "id": 964,
-      "article_id": 392,
-      "speaker": "FNSEA",
-      "speaker_role": "Syndicat",
-      "quote_text": "Mercosur = NON",
-      "stance": "oppose",
-      "article_title": "En direct - Col\u00e8re des agriculteurs : les syndicats attendent des r\u00e9ponses \"d\u00e8s les premiers jours de janvier\" sur le Mercosur",
-      "source_url": "https://www.cnews.fr/france/2025-12-23/colere-des-agriculteurs-les-syndicats-attendent-des-reponses-des-les-premiers"
-    },
-    {
-      "id": 970,
+      "id": 3902,
       "article_id": 395,
-      "speaker": "St\u00e9phane Galais",
-      "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
-      "quote_text": "\"L'objet du rendez-vous, c'\u00e9tait d'essayer d'\u00e9teindre un peu le feu qui est partout dans les campagnes\"",
-      "stance": "neutral",
-      "article_title": "\"La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp\": les syndicats agricoles re\u00e7us par Emmanuel Macron \u00e0 l'\u00c9lys\u00e9e",
-      "source_url": "https://www.bfmtv.com/economie/entreprises/agriculture/la-balle-a-ete-transmise-maintenant-elle-est-dans-leur-camp-les-syndicats-agricoles-recus-par-emmanuel-macron-a-l-elysee_AD-202512230723.html"
-    },
-    {
-      "id": 971,
-      "article_id": 395,
-      "speaker": "Pierrick Horel",
-      "speaker_role": "pr\u00e9sident des Jeunes Agriculteurs",
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President",
       "quote_text": "\"La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp\"",
       "stance": "neutral",
       "article_title": "\"La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp\": les syndicats agricoles re\u00e7us par Emmanuel Macron \u00e0 l'\u00c9lys\u00e9e",
       "source_url": "https://www.bfmtv.com/economie/entreprises/agriculture/la-balle-a-ete-transmise-maintenant-elle-est-dans-leur-camp-les-syndicats-agricoles-recus-par-emmanuel-macron-a-l-elysee_AD-202512230723.html"
     },
     {
-      "id": 972,
+      "id": 3903,
       "article_id": 395,
       "speaker": "Arnaud Rousseau",
-      "speaker_role": "pr\u00e9sident de la FNSEA",
+      "speaker_role": "FNSEA President",
       "quote_text": "\"Il faut que chacun comprenne que, pour le monde agricole, le niveau d'attente est extr\u00eamement fort\"",
-      "stance": "negative",
+      "stance": "oppose",
       "article_title": "\"La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp\": les syndicats agricoles re\u00e7us par Emmanuel Macron \u00e0 l'\u00c9lys\u00e9e",
       "source_url": "https://www.bfmtv.com/economie/entreprises/agriculture/la-balle-a-ete-transmise-maintenant-elle-est-dans-leur-camp-les-syndicats-agricoles-recus-par-emmanuel-macron-a-l-elysee_AD-202512230723.html"
     },
     {
-      "id": 973,
+      "id": 3904,
       "article_id": 395,
       "speaker": "S\u00e9bastien Lecornu",
       "speaker_role": "Prime Minister",
@@ -1535,57 +1493,67 @@
       "source_url": "https://www.bfmtv.com/economie/entreprises/agriculture/la-balle-a-ete-transmise-maintenant-elle-est-dans-leur-camp-les-syndicats-agricoles-recus-par-emmanuel-macron-a-l-elysee_AD-202512230723.html"
     },
     {
-      "id": 974,
+      "id": 3905,
       "article_id": 395,
       "speaker": "Arnaud Rousseau",
-      "speaker_role": "pr\u00e9sident de la FNSEA",
+      "speaker_role": "FNSEA President",
       "quote_text": "\"Importer du reste de la plan\u00e8te des produits qui ne correspondent pas aux standards europ\u00e9ens et \u00e0 ce qu'on nous demande tous les jours dans nos fermes, \u00e7a n'est pas possible\"",
       "stance": "oppose",
       "article_title": "\"La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp\": les syndicats agricoles re\u00e7us par Emmanuel Macron \u00e0 l'\u00c9lys\u00e9e",
       "source_url": "https://www.bfmtv.com/economie/entreprises/agriculture/la-balle-a-ete-transmise-maintenant-elle-est-dans-leur-camp-les-syndicats-agricoles-recus-par-emmanuel-macron-a-l-elysee_AD-202512230723.html"
     },
     {
-      "id": 975,
+      "id": 3906,
       "article_id": 395,
       "speaker": "Jean-No\u00ebl Barrot",
-      "speaker_role": "Minister of Foreign Affairs",
+      "speaker_role": "Minister of Affairs",
       "quote_text": "\"Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions in\u00e9dites au b\u00e9n\u00e9fice de nos agriculteurs, que cet accord soit sign\u00e9 ou\"",
       "stance": "support",
       "article_title": "\"La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp\": les syndicats agricoles re\u00e7us par Emmanuel Macron \u00e0 l'\u00c9lys\u00e9e",
       "source_url": "https://www.bfmtv.com/economie/entreprises/agriculture/la-balle-a-ete-transmise-maintenant-elle-est-dans-leur-camp-les-syndicats-agricoles-recus-par-emmanuel-macron-a-l-elysee_AD-202512230723.html"
     },
     {
-      "id": 1014,
+      "id": 3945,
       "article_id": 411,
       "speaker": "Pierrick Horel",
-      "speaker_role": "President of Jeunes agriculteurs",
+      "speaker_role": "pr\u00e9sident des Jeunes agriculteurs",
       "quote_text": "Nous avons rappel\u00e9 notre opposition ferme au Mercosur",
       "stance": "oppose",
       "article_title": "Rencontre entre Emmanuel Macron et les syndicats agricoles : \"Nous avons rappel\u00e9 notre opposition ferme au Mercosur\", indique Pierrick Orel, pr\u00e9sident des Jeunes agriculteurs",
       "source_url": "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/rencontre-entre-emmanuel-macron-et-les-syndicats-agricoles-nous-avons-rappele-notre-opposition-ferme-au-mercosur-indique-pierrick-orel-president-des-jeunes-agriculteurs_7698484.html"
     },
     {
-      "id": 1015,
+      "id": 3946,
       "article_id": 411,
       "speaker": "St\u00e9phane Galais",
-      "speaker_role": "Porte-parole, Conf\u00e9d\u00e9ration paysanne",
+      "speaker_role": "porte-parole, Conf\u00e9d\u00e9ration paysanne",
       "quote_text": "l'objet de cette rencontre \u00e9tait d'\u00e9teindre le feu \u00e0 la veille des f\u00eates",
       "stance": "neutral",
       "article_title": "Rencontre entre Emmanuel Macron et les syndicats agricoles : \"Nous avons rappel\u00e9 notre opposition ferme au Mercosur\", indique Pierrick Orel, pr\u00e9sident des Jeunes agriculteurs",
       "source_url": "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/rencontre-entre-emmanuel-macron-et-les-syndicats-agricoles-nous-avons-rappele-notre-opposition-ferme-au-mercosur-indique-pierrick-orel-president-des-jeunes-agriculteurs_7698484.html"
     },
     {
-      "id": 1016,
+      "id": 3947,
       "article_id": 411,
       "speaker": "St\u00e9phane Galais",
-      "speaker_role": "Porte-parole, Conf\u00e9d\u00e9ration paysanne",
+      "speaker_role": "porte-parole, Conf\u00e9d\u00e9ration paysanne",
       "quote_text": "il n'y a pas de signe politique pour dire que la col\u00e8re va s'\u00e9teindre",
       "stance": "negative",
       "article_title": "Rencontre entre Emmanuel Macron et les syndicats agricoles : \"Nous avons rappel\u00e9 notre opposition ferme au Mercosur\", indique Pierrick Orel, pr\u00e9sident des Jeunes agriculteurs",
       "source_url": "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/rencontre-entre-emmanuel-macron-et-les-syndicats-agricoles-nous-avons-rappele-notre-opposition-ferme-au-mercosur-indique-pierrick-orel-president-des-jeunes-agriculteurs_7698484.html"
     },
     {
-      "id": 1021,
+      "id": 3948,
+      "article_id": 411,
+      "speaker": "St\u00e9phane Galais",
+      "speaker_role": "porte-parole, Conf\u00e9d\u00e9ration paysanne",
+      "quote_text": "On n'a pas d\u00e9branch\u00e9 la mobilisation",
+      "stance": "oppose",
+      "article_title": "Rencontre entre Emmanuel Macron et les syndicats agricoles : \"Nous avons rappel\u00e9 notre opposition ferme au Mercosur\", indique Pierrick Orel, pr\u00e9sident des Jeunes agriculteurs",
+      "source_url": "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/rencontre-entre-emmanuel-macron-et-les-syndicats-agricoles-nous-avons-rappele-notre-opposition-ferme-au-mercosur-indique-pierrick-orel-president-des-jeunes-agriculteurs_7698484.html"
+    },
+    {
+      "id": 3956,
       "article_id": 413,
       "speaker": "Stephane Galais",
       "speaker_role": "Confederation Paysanne union",
@@ -1595,47 +1563,37 @@
       "source_url": "https://www.ktbs.com/news/national/macron-meets-french-farmers-in-bid-to-defuse-anger-over-trade-deal/article_a6b94c4d-b6a0-5d41-b266-529cb65c13e5.html"
     },
     {
-      "id": 1022,
-      "article_id": 413,
-      "speaker": "Stephane Galais",
-      "speaker_role": "Confederation Paysanne union",
-      "quote_text": "calling for \"strong structural measures\"",
-      "stance": "neutral",
-      "article_title": "Macron meets French farmers in bid to defuse anger over trade deal",
-      "source_url": "https://www.ktbs.com/news/national/macron-meets-french-farmers-in-bid-to-defuse-anger-over-trade-deal/article_a6b94c4d-b6a0-5d41-b266-529cb65c13e5.html"
-    },
-    {
-      "id": 1023,
+      "id": 3957,
       "article_id": 413,
       "speaker": "Pierrick Horel",
-      "speaker_role": "head of the Young Farmers union",
+      "speaker_role": "Young Farmers union",
       "quote_text": "We've passed the ball to them. It's in their court",
       "stance": "neutral",
       "article_title": "Macron meets French farmers in bid to defuse anger over trade deal",
       "source_url": "https://www.ktbs.com/news/national/macron-meets-french-farmers-in-bid-to-defuse-anger-over-trade-deal/article_a6b94c4d-b6a0-5d41-b266-529cb65c13e5.html"
     },
     {
-      "id": 1024,
+      "id": 3958,
       "article_id": 413,
       "speaker": "Arnaud Rousseau",
-      "speaker_role": "head of the main FNSEA union",
+      "speaker_role": "FNSEA union",
       "quote_text": "What was important for us was to convey to the head of state the extreme tension that is affecting the agricultural world",
       "stance": "neutral",
       "article_title": "Macron meets French farmers in bid to defuse anger over trade deal",
       "source_url": "https://www.ktbs.com/news/national/macron-meets-french-farmers-in-bid-to-defuse-anger-over-trade-deal/article_a6b94c4d-b6a0-5d41-b266-529cb65c13e5.html"
     },
     {
-      "id": 1025,
+      "id": 3959,
       "article_id": 413,
       "speaker": "Arnaud Rousseau",
-      "speaker_role": "head of the main FNSEA union",
+      "speaker_role": "FNSEA union",
       "quote_text": "We are opposed to Mercosur",
       "stance": "oppose",
       "article_title": "Macron meets French farmers in bid to defuse anger over trade deal",
       "source_url": "https://www.ktbs.com/news/national/macron-meets-french-farmers-in-bid-to-defuse-anger-over-trade-deal/article_a6b94c4d-b6a0-5d41-b266-529cb65c13e5.html"
     },
     {
-      "id": 978,
+      "id": 3909,
       "article_id": 398,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
@@ -1645,7 +1603,7 @@
       "source_url": "https://www.courrier-picard.fr/id684649/article/2025-12-23/la-balle-est-dans-leur-camp-contre-le-mercosur-les-agriculteurs-attendent-des"
     },
     {
-      "id": 979,
+      "id": 3910,
       "article_id": 398,
       "speaker": "Pierrick Horel",
       "speaker_role": "pr\u00e9sident des Jeunes Agriculteurs",
@@ -1655,17 +1613,27 @@
       "source_url": "https://www.courrier-picard.fr/id684649/article/2025-12-23/la-balle-est-dans-leur-camp-contre-le-mercosur-les-agriculteurs-attendent-des"
     },
     {
-      "id": 980,
+      "id": 3911,
       "article_id": 398,
       "speaker": "S\u00e9bastien Lecornu",
-      "speaker_role": "Prime Minister",
+      "speaker_role": "Premier ministre",
       "quote_text": "\"Aucun accord ne sera accept\u00e9 s'il fragilise nos fili\u00e8res ou impose une concurrence d\u00e9loyale. Le texte a \u00e9volu\u00e9, mais le compte n'y est toujours pas\"",
       "stance": "oppose",
       "article_title": "\"La balle est dans leur camp\" : contre le Mercosur, les agriculteurs attendent des mesures fortes",
       "source_url": "https://www.courrier-picard.fr/id684649/article/2025-12-23/la-balle-est-dans-leur-camp-contre-le-mercosur-les-agriculteurs-attendent-des"
     },
     {
-      "id": 981,
+      "id": 3912,
+      "article_id": 398,
+      "speaker": "Arnaud Rousseau",
+      "speaker_role": "pr\u00e9sident de la FNSEA",
+      "quote_text": "\"Les avanc\u00e9es que le pr\u00e9sident de la R\u00e9publique nous porte ne nous conviennent pas\"",
+      "stance": "oppose",
+      "article_title": "\"La balle est dans leur camp\" : contre le Mercosur, les agriculteurs attendent des mesures fortes",
+      "source_url": "https://www.courrier-picard.fr/id684649/article/2025-12-23/la-balle-est-dans-leur-camp-contre-le-mercosur-les-agriculteurs-attendent-des"
+    },
+    {
+      "id": 3913,
       "article_id": 398,
       "speaker": "Arnaud Rousseau",
       "speaker_role": "pr\u00e9sident de la FNSEA",
@@ -1675,17 +1643,17 @@
       "source_url": "https://www.courrier-picard.fr/id684649/article/2025-12-23/la-balle-est-dans-leur-camp-contre-le-mercosur-les-agriculteurs-attendent-des"
     },
     {
-      "id": 982,
+      "id": 3914,
       "article_id": 398,
       "speaker": "Jean-No\u00ebl Barrot",
-      "speaker_role": "Minister of Foreign Affairs",
+      "speaker_role": "ministre des Affaires \u00e9trang\u00e8res",
       "quote_text": "\"Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions in\u00e9dites au b\u00e9n\u00e9fice de nos agriculteurs, que cet accord soit sign\u00e9 ou\"",
       "stance": "support",
       "article_title": "\"La balle est dans leur camp\" : contre le Mercosur, les agriculteurs attendent des mesures fortes",
       "source_url": "https://www.courrier-picard.fr/id684649/article/2025-12-23/la-balle-est-dans-leur-camp-contre-le-mercosur-les-agriculteurs-attendent-des"
     },
     {
-      "id": 1026,
+      "id": 3960,
       "article_id": 414,
       "speaker": "Stephane Galais",
       "speaker_role": "Confederation Paysanne union",
@@ -1695,57 +1663,47 @@
       "source_url": "https://today.rtl.lu/news/world/macron-meets-french-farmers-in-bid-to-defuse-anger-over-trade-deal-51879427"
     },
     {
-      "id": 1027,
-      "article_id": 414,
-      "speaker": "Stephane Galais",
-      "speaker_role": "Confederation Paysanne union",
-      "quote_text": "calling for \"strong structural measures\"",
-      "stance": "neutral",
-      "article_title": "Macron meets French farmers in bid to defuse anger over trade deal",
-      "source_url": "https://today.rtl.lu/news/world/macron-meets-french-farmers-in-bid-to-defuse-anger-over-trade-deal-51879427"
-    },
-    {
-      "id": 1028,
+      "id": 3961,
       "article_id": 414,
       "speaker": "Pierrick Horel",
-      "speaker_role": "head of the Young Farmers union",
+      "speaker_role": "Young Farmers union",
       "quote_text": "We've passed the ball to them. It's in their court",
       "stance": "neutral",
       "article_title": "Macron meets French farmers in bid to defuse anger over trade deal",
       "source_url": "https://today.rtl.lu/news/world/macron-meets-french-farmers-in-bid-to-defuse-anger-over-trade-deal-51879427"
     },
     {
-      "id": 1029,
+      "id": 3962,
       "article_id": 414,
       "speaker": "Arnaud Rousseau",
-      "speaker_role": "head of the main FNSEA union",
+      "speaker_role": "FNSEA union",
       "quote_text": "What was important for us was to convey to the head of state the extreme tension that is affecting the agricultural world",
       "stance": "neutral",
       "article_title": "Macron meets French farmers in bid to defuse anger over trade deal",
       "source_url": "https://today.rtl.lu/news/world/macron-meets-french-farmers-in-bid-to-defuse-anger-over-trade-deal-51879427"
     },
     {
-      "id": 1030,
+      "id": 3963,
       "article_id": 414,
       "speaker": "Arnaud Rousseau",
-      "speaker_role": "head of the main FNSEA union",
+      "speaker_role": "FNSEA union",
       "quote_text": "We are opposed to Mercosur",
       "stance": "oppose",
       "article_title": "Macron meets French farmers in bid to defuse anger over trade deal",
       "source_url": "https://today.rtl.lu/news/world/macron-meets-french-farmers-in-bid-to-defuse-anger-over-trade-deal-51879427"
     },
     {
-      "id": 988,
+      "id": 3916,
       "article_id": 401,
       "speaker": "Emmanuel Macron",
       "speaker_role": "President",
-      "quote_text": "\" la balle est dans le camp \" du gouvernement",
+      "quote_text": "la balle est dans le camp du gouvernement",
       "stance": "neutral",
       "article_title": "Mercosur : les syndicats agricoles ont \u00e9t\u00e9 re\u00e7us par Emmanuel Macron ; \" la balle est dans le camp \" du gouvernement, dit le pr\u00e9sident des Jeunes Agriculteurs",
       "source_url": "https://www.lemonde.fr/economie/article/2025/12/23/mercosur-les-syndicats-agricoles-ont-ete-recus-par-emmanuel-macron-la-balle-est-dans-le-camp-du-gouvernement-dit-le-president-des-jeunes-agriculteurs_6659232_3235.html"
     },
     {
-      "id": 1003,
+      "id": 3933,
       "article_id": 406,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
@@ -1755,17 +1713,17 @@
       "source_url": "https://www.letelegramme.fr/economie/agri-agro/mercosur-dermatose-les-agriculteurs-attendent-des-mesures-structurelles-fortes-et-des-reponses-des-les-premiers-jours-de-janvier-6953754.php"
     },
     {
-      "id": 1004,
+      "id": 3934,
       "article_id": 406,
       "speaker": "St\u00e9phane Galais",
       "speaker_role": "porte-parole national de la Conf\u00e9d\u00e9ration paysanne",
-      "quote_text": "il fallait pour cela \" des mesures structurelles fortes \"",
+      "quote_text": "des mesures structurelles fortes",
       "stance": "support",
       "article_title": "Mercosur, dermatose : les agriculteurs attendent des \" mesures structurelles fortes \", et des r\u00e9ponses \" d\u00e8s les premiers jours de janvier \"",
       "source_url": "https://www.letelegramme.fr/economie/agri-agro/mercosur-dermatose-les-agriculteurs-attendent-des-mesures-structurelles-fortes-et-des-reponses-des-les-premiers-jours-de-janvier-6953754.php"
     },
     {
-      "id": 1005,
+      "id": 3935,
       "article_id": 406,
       "speaker": "Pierrick Horel",
       "speaker_role": "pr\u00e9sident des Jeunes Agriculteurs",
@@ -1775,157 +1733,127 @@
       "source_url": "https://www.letelegramme.fr/economie/agri-agro/mercosur-dermatose-les-agriculteurs-attendent-des-mesures-structurelles-fortes-et-des-reponses-des-les-premiers-jours-de-janvier-6953754.php"
     },
     {
-      "id": 986,
+      "id": 3917,
+      "article_id": 400,
+      "speaker": "Jean-No\u00ebl Barrot",
+      "speaker_role": "ministre des Affaires \u00e9trang\u00e8res",
+      "quote_text": "Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions in\u00e9dites au b\u00e9n\u00e9fice de nos agriculteurs, que cet accord soit sign\u00e9 ou qu'il ne le soit pas",
+      "stance": "support",
+      "article_title": "Mercosur : Emmanuel Macron re\u00e7oit \u00e0 son tour les syndicats agricoles \u00e0 l'\u00c9lys\u00e9e",
+      "source_url": "https://www.lafranceagricole.fr/syndicats/article/892268/mercosur-emmanuel-macron-recoit-a-son-tour-les-syndicats-agricoles-a-l-elysee"
+    },
+    {
+      "id": 3918,
       "article_id": 400,
       "speaker": "FNSEA",
-      "speaker_role": "Syndicat dominant",
+      "speaker_role": "syndicat dominant",
       "quote_text": "Le Mercosur, c'est non",
       "stance": "oppose",
       "article_title": "Mercosur : Emmanuel Macron re\u00e7oit \u00e0 son tour les syndicats agricoles \u00e0 l'\u00c9lys\u00e9e",
       "source_url": "https://www.lafranceagricole.fr/syndicats/article/892268/mercosur-emmanuel-macron-recoit-a-son-tour-les-syndicats-agricoles-a-l-elysee"
     },
     {
-      "id": 987,
-      "article_id": 400,
-      "speaker": "Jean-No\u00ebl Barrot",
-      "speaker_role": "Minister of Foreign Affairs",
-      "quote_text": "Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions in\u00e9dites au b\u00e9n\u00e9fice de nos agriculteurs, que cet accord soit sign\u00e9 ou qu'il ne le soit pas",
-      "stance": "support",
-      "article_title": "Mercosur : Emmanuel Macron re\u00e7oit \u00e0 son tour les syndicats agricoles \u00e0 l'\u00c9lys\u00e9e",
-      "source_url": "https://www.lafranceagricole.fr/syndicats/article/892268/mercosur-emmanuel-macron-recoit-a-son-tour-les-syndicats-agricoles-a-l-elysee"
+      "id": 3900,
+      "article_id": 394,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President",
+      "quote_text": "This information is not present in the article.",
+      "stance": "neutral",
+      "article_title": "Accord UE-Mercosur : les syndicats agricoles re\u00e7us \u00e0 l'\u00c9lys\u00e9e",
+      "source_url": "https://fr.news.yahoo.com/accord-ue-mercosur-syndicats-agricoles-160523567.html"
     },
     {
-      "id": 967,
+      "id": 3901,
       "article_id": 394,
-      "speaker": "FNSEA",
-      "speaker_role": "Syndicat",
+      "speaker": "FNSEA spokesperson",
+      "speaker_role": "spokesperson",
       "quote_text": "Mercosur = NON",
       "stance": "oppose",
       "article_title": "Accord UE-Mercosur : les syndicats agricoles re\u00e7us \u00e0 l'\u00c9lys\u00e9e",
       "source_url": "https://fr.news.yahoo.com/accord-ue-mercosur-syndicats-agricoles-160523567.html"
     },
     {
-      "id": 968,
-      "article_id": 394,
-      "speaker": "FNSEA",
-      "speaker_role": "Syndicat",
-      "quote_text": "Cette mobilisation d\u00e9termin\u00e9e a d\u00e9j\u00e0 permis de suspendre le calendrier de signature envisag\u00e9 par la Commission europ\u00e9enne",
-      "stance": "support",
-      "article_title": "Accord UE-Mercosur : les syndicats agricoles re\u00e7us \u00e0 l'\u00c9lys\u00e9e",
-      "source_url": "https://fr.news.yahoo.com/accord-ue-mercosur-syndicats-agricoles-160523567.html"
-    },
-    {
-      "id": 969,
-      "article_id": 394,
-      "speaker": "FNSEA",
-      "speaker_role": "Syndicat",
-      "quote_text": "le Mercosur repr\u00e9sente une menace directe pour les agriculteurs fran\u00e7ais, en raison d'une concurrence d\u00e9loyale et d'une absence de r\u00e9ciprocit\u00e9 des normes",
-      "stance": "oppose",
-      "article_title": "Accord UE-Mercosur : les syndicats agricoles re\u00e7us \u00e0 l'\u00c9lys\u00e9e",
-      "source_url": "https://fr.news.yahoo.com/accord-ue-mercosur-syndicats-agricoles-160523567.html"
-    },
-    {
-      "id": 956,
+      "id": 3889,
       "article_id": 389,
       "speaker": "FNSEA",
-      "speaker_role": "Syndicat agricole",
+      "speaker_role": "agricultural union",
       "quote_text": "Mercosur = NON",
       "stance": "oppose",
       "article_title": "Mercosur : les syndicats agricoles re\u00e7us \u00e0 l'\u00c9lys\u00e9e pour une rencontre avec Emmanuel Macron",
       "source_url": "https://www.lanouvellerepublique.fr/a-la-une/mercosur-les-syndicats-agricoles-recus-a-l-elysee-pour-une-rencontre-avec-emmanuel-macron-1766506002"
     },
     {
-      "id": 957,
+      "id": 3890,
       "article_id": 389,
       "speaker": "Jean-No\u00ebl Barrot",
-      "speaker_role": "Minister of Foreign Affairs",
+      "speaker_role": "ministre des Affaires \u00e9trang\u00e8res",
       "quote_text": "Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions in\u00e9dites au b\u00e9n\u00e9fice de nos agriculteurs, que cet accord soit sign\u00e9 ou qu'il ne le soit pas",
       "stance": "neutral",
       "article_title": "Mercosur : les syndicats agricoles re\u00e7us \u00e0 l'\u00c9lys\u00e9e pour une rencontre avec Emmanuel Macron",
       "source_url": "https://www.lanouvellerepublique.fr/a-la-une/mercosur-les-syndicats-agricoles-recus-a-l-elysee-pour-une-rencontre-avec-emmanuel-macron-1766506002"
     },
     {
-      "id": 983,
+      "id": 3915,
       "article_id": 399,
       "speaker": "FNSEA",
       "speaker_role": "Agricultural Union",
-      "quote_text": "\"Mercosur = NON\"",
+      "quote_text": "Mercosur = NON",
       "stance": "oppose",
       "article_title": "Accord UE-Mercosur : les syndicats agricoles re\u00e7us \u00e0 l'\u00c9lys\u00e9e",
       "source_url": "http://fr.euronews.com/2025/12/23/accord-ue-mercosur-les-syndicats-agricoles-recus-a-lelysee"
     },
     {
-      "id": 984,
-      "article_id": 399,
-      "speaker": "FNSEA",
-      "speaker_role": "Agricultural Union",
-      "quote_text": "\"Cette mobilisation d\u00e9termin\u00e9e a d\u00e9j\u00e0 permis de suspendre le calendrier de signature envisag\u00e9 par la Commission europ\u00e9enne\"",
-      "stance": "support",
-      "article_title": "Accord UE-Mercosur : les syndicats agricoles re\u00e7us \u00e0 l'\u00c9lys\u00e9e",
-      "source_url": "http://fr.euronews.com/2025/12/23/accord-ue-mercosur-les-syndicats-agricoles-recus-a-lelysee"
-    },
-    {
-      "id": 985,
-      "article_id": 399,
-      "speaker": "FNSEA",
-      "speaker_role": "Agricultural Union",
-      "quote_text": "\"le Mercosur repr\u00e9sente une menace directe pour les agriculteurs fran\u00e7ais, en raison d'une concurrence d\u00e9loyale et d'une absence de r\u00e9ciprocit\u00e9 des normes\"",
-      "stance": "oppose",
-      "article_title": "Accord UE-Mercosur : les syndicats agricoles re\u00e7us \u00e0 l'\u00c9lys\u00e9e",
-      "source_url": "http://fr.euronews.com/2025/12/23/accord-ue-mercosur-les-syndicats-agricoles-recus-a-lelysee"
-    },
-    {
-      "id": 976,
+      "id": 3907,
       "article_id": 396,
       "speaker": "FNSEA",
-      "speaker_role": "Syndicat",
+      "speaker_role": "agricultural union",
       "quote_text": "Mercosur = Non",
       "stance": "oppose",
       "article_title": "Les syndicats agricoles re\u00e7us \u00e0 l'Elys\u00e9e par Emmanuel Macron",
       "source_url": "https://www.20minutes.fr/societe/4192989-20251223-mercosur-syndicats-agricoles-recus-elysee-emmanuel-macron"
     },
     {
-      "id": 977,
+      "id": 3908,
       "article_id": 396,
       "speaker": "Jean-No\u00ebl Barrot",
-      "speaker_role": "Minister of Foreign Affairs",
+      "speaker_role": "ministre des Affaires \u00e9trang\u00e8res",
       "quote_text": "Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions in\u00e9dites au b\u00e9n\u00e9fice de nos agriculteurs, que cet accord soit sign\u00e9 ou qu'il ne le soit pas",
-      "stance": "support",
+      "stance": "neutral",
       "article_title": "Les syndicats agricoles re\u00e7us \u00e0 l'Elys\u00e9e par Emmanuel Macron",
       "source_url": "https://www.20minutes.fr/societe/4192989-20251223-mercosur-syndicats-agricoles-recus-elysee-emmanuel-macron"
     },
     {
-      "id": 955,
+      "id": 3888,
       "article_id": 388,
-      "speaker": "FNSEA",
-      "speaker_role": "Syndicat",
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President",
       "quote_text": "Mercosur = Non",
       "stance": "oppose",
       "article_title": "Mercosur : Les syndicats agricoles re\u00e7us \u00e0 l'Elys\u00e9e par Emmanuel Macron",
       "source_url": "https://fr.news.yahoo.com/mercosur-syndicats-agricoles-re%C3%A7us-%C3%A0-153033444.html"
     },
     {
-      "id": 953,
+      "id": 3886,
       "article_id": 386,
-      "speaker": "FNSEA",
-      "speaker_role": "Syndicat",
-      "quote_text": "Le message de la FNSEA au Pr\u00e9sident de la R\u00e9publique restera inchang\u00e9, ferme et clair : Mercosur = NON",
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President",
+      "quote_text": "Mercosur = NON",
       "stance": "oppose",
       "article_title": "Mercosur : les syndicats agricoles rencontrent Macron \u00e0 l'Elys\u00e9e cet apr\u00e8s-midi",
       "source_url": "https://www.lesoir.be/718520/article/2025-12-23/mercosur-les-syndicats-agricoles-rencontrent-macron-lelysee-cet-apres-midi"
     },
     {
-      "id": 958,
+      "id": 3891,
       "article_id": 391,
-      "speaker": "FNSEA",
-      "speaker_role": "Syndicat majoritaire",
-      "quote_text": "Mercosur = NON",
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President",
+      "quote_text": "Le message de la FNSEA au pr\u00e9sident de la R\u00e9publique restera inchang\u00e9, ferme et clair : Mercosur = NON",
       "stance": "oppose",
       "article_title": "Col\u00e8re des agriculteurs : les syndicats annoncent rencontrer Emmanuel Macron mardi apr\u00e8s-midi au sujet de l'accord UE-Mercosur",
       "source_url": "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/colere-des-agriculteurs-les-syndicats-agricoles-annoncent-un-rendez-vous-avec-emmanuel-macron-mardi-apres-midi-sur-l-accord-ue-mercosur_7698133.html"
     },
     {
-      "id": 952,
+      "id": 3885,
       "article_id": 385,
       "speaker": "FNSEA",
       "speaker_role": "Syndicat",
@@ -1935,17 +1863,17 @@
       "source_url": "https://www.cnews.fr/france/2025-12-23/colere-des-agriculteurs-les-syndicats-recus-lelysee-par-emmanuel-macron-1790401"
     },
     {
-      "id": 954,
+      "id": 3887,
       "article_id": 387,
-      "speaker": "FNSEA",
-      "speaker_role": "Syndicat",
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President",
       "quote_text": "Mercosur = NON",
       "stance": "oppose",
       "article_title": "Mercosur : les syndicats agricoles annoncent une rencontre avec Emmanuel Macron \u00e0 l'Elys\u00e9e",
       "source_url": "https://www.lamontagne.fr/france-monde/economie/mercosur-les-syndicats-agricoles-annoncent-une-rencontre-avec-emmanuel-macron-a-lelysee_14804307/"
     },
     {
-      "id": 951,
+      "id": 3884,
       "article_id": 384,
       "speaker": "FNSEA",
       "speaker_role": "syndicat dominant",
@@ -1955,7 +1883,7 @@
       "source_url": "https://www.lefigaro.fr/conjoncture/mercosur-les-syndicats-agricoles-annoncent-un-rendez-vous-avec-emmanuel-macron-a-l-elysee-a-16h30-20251223"
     },
     {
-      "id": 948,
+      "id": 3881,
       "article_id": 381,
       "speaker": "FNSEA",
       "speaker_role": "Syndicat",
@@ -1965,31 +1893,31 @@
       "source_url": "https://www.laprovence.com/article/economie/3210248037554314/agriculteurs-en-colere-les-syndicats-vont-rencontrer-emmanuel-macron-a-lelysee-cet-apres-midi?id=3210248037554314"
     },
     {
-      "id": 950,
+      "id": 3883,
       "article_id": 383,
-      "speaker": "FNSEA",
-      "speaker_role": "syndicat",
-      "quote_text": "Mercosur = NON",
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President of the Republic",
+      "quote_text": " Le message de la FNSEA au Pr\u00e9sident de la R\u00e9publique restera inchang\u00e9, ferme et clair : Mercosur = NON ",
       "stance": "oppose",
       "article_title": "Mercosur : les syndicats agricoles \u00e0 l'\u00c9lys\u00e9e cet apr\u00e8s-midi",
       "source_url": "https://www.letelegramme.fr/economie/agri-agro/mercosur-les-syndicats-agricoles-a-lelysee-cet-apres-midi-6953562.php"
     },
     {
-      "id": 947,
+      "id": 3880,
       "article_id": 380,
-      "speaker": "FNSEA",
-      "speaker_role": "syndicat dominant",
-      "quote_text": "Mercosur = NON",
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President of the Republic",
+      "quote_text": "Le message de la FNSEA au Pr\u00e9sident de la R\u00e9publique restera inchang\u00e9, ferme et clair: Mercosur = NON",
       "stance": "oppose",
       "article_title": "Les syndicats agricoles vont rencontrer Emmanuel Macron \u00e0 l'Elys\u00e9e \u00e0 16h30 pour discuter de l'accord UE-Mercosur",
       "source_url": "https://www.bfmtv.com/economie/entreprises/agriculture/les-syndicats-agricoles-vont-rencontrer-emmanuel-macron-a-l-elysee-a-16h30-pour-discuter-de-l-accord-ue-mercosur_AD-202512230517.html"
     },
     {
-      "id": 949,
+      "id": 3882,
       "article_id": 382,
-      "speaker": "FNSEA",
-      "speaker_role": "syndicat",
-      "quote_text": "Mercosur = NON",
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President",
+      "quote_text": " Le message de la FNSEA au Pr\u00e9sident de la R\u00e9publique restera inchang\u00e9, ferme et clair: Mercosur = NON ",
       "stance": "oppose",
       "article_title": "Mercosur : les syndicats agricoles annoncent un rendez-vous avec Macron ce mardi",
       "source_url": "https://www.leparisien.fr/societe/mercosur-les-syndicats-agricoles-annoncent-un-rendez-vous-avec-macron-ce-mardi-23-12-2025-PPYBQYBLVJCH3IE6UWT3CGT7SM.php"
@@ -1999,325 +1927,247 @@
     {
       "stakeholder": "FNSEA",
       "position": "oppose",
-      "reasoning": "Unspecified, but stated as 'ferme et clair'",
-      "mention_count": 17
+      "reasoning": "Believes the Mercosur agreement is detrimental to French agriculture.",
+      "mention_count": 28
     },
     {
       "stakeholder": "Emmanuel Macron",
       "position": "neutral",
-      "reasoning": "Hosting a meeting to discuss the agreement.",
-      "mention_count": 14
+      "reasoning": "Meeting to discuss the agreement, position unclear.",
+      "mention_count": 27
     },
     {
       "stakeholder": "Conf\u00e9d\u00e9ration paysanne",
       "position": "oppose",
-      "reasoning": "Part of the unanimous position within the French agricultural world",
-      "mention_count": 10
+      "reasoning": "Supports FNSEA's position against Mercosur.",
+      "mention_count": 19
     },
     {
       "stakeholder": "Coordination rurale",
       "position": "oppose",
-      "reasoning": "Part of the unanimous position within the French agricultural world",
-      "mention_count": 8
+      "reasoning": "Supports FNSEA's position against Mercosur.",
+      "mention_count": 15
     },
     {
-      "stakeholder": "Jeunes agriculteurs (JA)",
+      "stakeholder": "Jeunes agriculteurs",
       "position": "oppose",
-      "reasoning": "Part of the unanimous position within the French agricultural world",
-      "mention_count": 8
-    },
-    {
-      "stakeholder": "French farmers",
-      "position": "oppose",
-      "reasoning": "Disagreement over a trade deal and concerns about a cow disease.",
-      "mention_count": 6
-    },
-    {
-      "stakeholder": "French Farmers",
-      "position": "oppose",
-      "reasoning": "Fear of being overwhelmed by cheaper South American agricultural products.",
-      "mention_count": 5
-    },
-    {
-      "stakeholder": "French Government",
-      "position": "neutral",
-      "reasoning": "Attempting to secure concessions for French farmers while navigating the trade agreement.",
-      "mention_count": 5
-    },
-    {
-      "stakeholder": "European Farmers",
-      "position": "oppose",
-      "reasoning": "Concerns about unfair competition and impact on their livelihoods.",
-      "mention_count": 4
-    },
-    {
-      "stakeholder": "syndicats agricoles",
-      "position": "oppose",
-      "reasoning": "opposition to the EU-Mercosur agreement",
-      "mention_count": 4
+      "reasoning": "Supports FNSEA's position against Mercosur.",
+      "mention_count": 14
     },
     {
       "stakeholder": "Agricultural Unions",
       "position": "oppose",
       "reasoning": "Concerns about unfair competition and lower standards from South American products.",
+      "mention_count": 6
+    },
+    {
+      "stakeholder": "French farmers",
+      "position": "oppose",
+      "reasoning": "Fear of being undercut by cheaper goods from Mercosur countries.",
+      "mention_count": 5
+    },
+    {
+      "stakeholder": "S\u00e9bastien Lecornu",
+      "position": "oppose",
+      "reasoning": "France will not accept a Mercosur agreement that harms its agricultural sectors.",
+      "mention_count": 4
+    },
+    {
+      "stakeholder": "Agricultural unions",
+      "position": "oppose",
+      "reasoning": "Opposition to the EU-Mercosur agreement and concerns about nodular contagious dermatitis (DNC).",
       "mention_count": 3
     },
     {
-      "stakeholder": "FNSEA",
-      "position": "support",
-      "reasoning": "Supports the government's policy of culling affected herds to contain the disease.",
+      "stakeholder": "European Farmers",
+      "position": "oppose",
+      "reasoning": "Consider the agreement unjust.",
       "mention_count": 3
     },
     {
-      "stakeholder": "Agricultural Unions (FNSEA, JA, Coordination rurale, Conf\u00e9d\u00e9ration paysanne)",
-      "position": "oppose",
-      "reasoning": "Concerned about unfair competition and the impact on French agriculture, particularly regarding health crises like bovine dermatosis.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "European Commission",
+      "stakeholder": "European Union",
       "position": "neutral",
-      "reasoning": "Attempting to balance the interests of member states and trade partners.",
-      "mention_count": 2
+      "reasoning": "Negotiating the terms of the agreement with Mercosur countries.",
+      "mention_count": 3
     },
     {
-      "stakeholder": "European Commission",
-      "position": "support",
-      "reasoning": "Desire to increase trade with South America.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Jeunes agriculteurs",
+      "stakeholder": "Farmers",
       "position": "oppose",
-      "reasoning": "Firm opposition to the Mercosur agreement.",
-      "mention_count": 2
+      "reasoning": "Unhappy with the current state of negotiations and are protesting for better conditions and standards.",
+      "mention_count": 3
     },
     {
-      "stakeholder": "Mercosur countries (Argentina, Brazil, Paraguay, Uruguay)",
-      "position": "support",
-      "reasoning": "Seeking to finalize the trade agreement.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Agricultural Unions (Conf\u00e9d\u00e9ration paysanne, JA, CR33, FNSEA)",
-      "position": "oppose",
-      "reasoning": "Disappointed with lack of concrete measures from the government, particularly regarding Mercosur and disease outbreaks.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Agricultural Unions (Conf\u00e9d\u00e9ration paysanne, Jeunes Agriculteurs, Coordination rurale)",
-      "position": "oppose",
-      "reasoning": "Concerned about the impact of the EU-Mercosur agreement on European agricultural standards and the livelihoods of French farmers.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Agricultural Unions (Conf\u00e9d\u00e9ration paysanne, Jeunes Agriculteurs, FNSEA)",
-      "position": "oppose",
-      "reasoning": "Concerns about unfair competition and lower standards of products from Mercosur countries.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Argentina, Brazil, Paraguay, Uruguay",
-      "position": "support",
-      "reasoning": "Hoping to gain easier access to the European market.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Commission europ\u00e9enne",
+      "stakeholder": "Confederation Paysanne",
       "position": "neutral",
-      "reasoning": "Initially planned to sign the agreement, but has suspended the timeline.",
+      "reasoning": "Calling for 'strong structural measures'.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "European farmers",
+      "position": "oppose",
+      "reasoning": "Fear of increased competition from South American agricultural products.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "France",
+      "position": "oppose",
+      "reasoning": "Opposes the agreement due to concerns about its impact on French farmers.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Italy",
+      "position": "oppose",
+      "reasoning": "Opposes the agreement.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Jeunes Agriculteurs",
+      "position": "oppose",
+      "reasoning": "Concerns about increased competition from South American agricultural products.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Sebastien Lecornu",
+      "position": "neutral",
+      "reasoning": "Proposed a meeting to discuss the issues, indicating a willingness to engage but not a specific stance.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Young Farmers",
+      "position": "neutral",
+      "reasoning": "Waiting for action from the government.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "farmers' unions",
+      "position": "oppose",
+      "reasoning": "Disagreement over a trade deal and concerns about a cow disease.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Agricultural unions",
+      "position": "neutral",
+      "reasoning": "Seeking to address issues and 'extinguish the fire' in rural areas.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Argentina",
+      "position": "support",
+      "reasoning": "Hopes to finalize the trade agreement.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Brazil",
+      "position": "support",
+      "reasoning": "Hopes to finalize the trade agreement.",
       "mention_count": 1
     },
     {
       "stakeholder": "Conf\u00e9d\u00e9ration paysanne",
-      "position": "negative",
-      "reasoning": "Disappointed with the lack of political signals addressing farmer concerns.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Conf\u00e9d\u00e9ration paysanne",
       "position": "neutral",
-      "reasoning": "Attending a meeting to discuss the agreement.",
+      "reasoning": "Seeking discussion with the President regarding the agreement.",
       "mention_count": 1
     },
     {
       "stakeholder": "Coordination rurale",
       "position": "neutral",
-      "reasoning": "Attending a meeting to discuss the agreement.",
+      "reasoning": "Seeking discussion with the President regarding the agreement.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Coordination rurale & Conf\u00e9d\u00e9ration paysanne",
+      "stakeholder": "Emmanuel Macron",
       "position": "oppose",
-      "reasoning": "Opposition to the treaty and dissatisfaction with the government's handling of the bovine dermatosis crisis.",
+      "reasoning": "Responding to farmer protests and concerns.",
       "mention_count": 1
     },
     {
-      "stakeholder": "EU",
-      "position": "neutral",
-      "reasoning": "Implementing trade agreements.",
+      "stakeholder": "Emmanuel Macron",
+      "position": "support",
+      "reasoning": "Initially positive about the agreement but now seeks changes to benefit France.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Emmanuel Macron (French President)",
-      "position": "neutral",
-      "reasoning": "Meeting with unions to address concerns and find solutions.",
+      "stakeholder": "European Commission",
+      "position": "support",
+      "reasoning": "Desire to increase trade with South America.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Emmanuel Macron (Government)",
-      "position": "neutral",
-      "reasoning": "Seeking modifications to the agreement to protect French interests.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Emmanuel Macron (President)",
-      "position": "neutral",
-      "reasoning": "Seeking changes to the agreement to protect French interests.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "European Farmers (France, Italy)",
-      "position": "oppose",
-      "reasoning": "Concerned about the impact of the agreement on their livelihoods.",
+      "stakeholder": "European Union",
+      "position": "support",
+      "reasoning": "Potential for increased exports of vehicles, machines, wines, and spirits to South America.",
       "mention_count": 1
     },
     {
       "stakeholder": "FNSEA",
       "position": "neutral",
-      "reasoning": "Attending a meeting to discuss the agreement.",
+      "reasoning": "Seeking discussion with the President regarding the agreement.",
       "mention_count": 1
     },
     {
-      "stakeholder": "FNSEA union",
+      "stakeholder": "FNSEA",
       "position": "support",
-      "reasoning": "Supports the government's policy of slaughtering all animals in affected herds to control nodular dermatitis.",
+      "reasoning": "Supports the government's policy of culling affected herds.",
       "mention_count": 1
     },
     {
-      "stakeholder": "FNSEA, Coordination rurale, Conf\u00e9d\u00e9ration paysanne",
+      "stakeholder": "French Farmers",
       "position": "oppose",
-      "reasoning": "Concerns about potential PAC aid cuts and a tax on nitrogen fertilizers.",
+      "reasoning": "Concerned about unfair competition and lower standards of South American products.",
       "mention_count": 1
     },
     {
-      "stakeholder": "FNSEA, JA, Coordination rurale, Conf\u00e9d\u00e9ration paysanne",
-      "position": "oppose",
-      "reasoning": "Fear of increased competition from South American agricultural products.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "FNSEA, Jeunes Agriculteurs, Coordination rurale, Conf\u00e9d\u00e9ration paysanne",
-      "position": "oppose",
-      "reasoning": "Fear of increased competition from South American agricultural products.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Farmers (Ultras de l'A64, Conf\u00e9d\u00e9ration paysanne, Jeunes Agriculteurs, FNSEA, Coordination rurale)",
-      "position": "oppose",
-      "reasoning": "They are against the EU-Mercosur trade agreement, the culling protocol for diseased cattle, and the lack of government solutions to their problems.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "France & Italy",
-      "position": "oppose",
-      "reasoning": "Pushed for postponement of Mercosur agreement due to farmer protests.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "French Government",
-      "position": "oppose",
-      "reasoning": "Pressure from farmers and national interests.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "French Government",
+      "stakeholder": "Jean-Noel Barrot",
       "position": "support",
-      "reasoning": "Secured concessions for farmers.",
+      "reasoning": "Highlights concessions obtained for French farmers, regardless of the agreement's fate.",
       "mention_count": 1
     },
     {
-      "stakeholder": "French and Italian governments",
-      "position": "oppose",
-      "reasoning": "Pressure from farmers and national interests.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Government",
+      "stakeholder": "Jean-No\u00ebl Barrot",
       "position": "neutral",
-      "reasoning": "Implementing disease control measures and attempting to negotiate trade deals.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Government",
-      "position": "support",
-      "reasoning": "Believes the cattle cull is necessary to contain lumpy skin disease.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Italian Government",
-      "position": "oppose",
-      "reasoning": "Pressure from farmers and national interests.",
+      "reasoning": "Negotiating concessions for French farmers.",
       "mention_count": 1
     },
     {
       "stakeholder": "Jean-No\u00ebl Barrot",
       "position": "support",
-      "reasoning": "Highlights concessions obtained for French farmers, regardless of the agreement's signing.",
+      "reasoning": "Believes concessions have been secured for French farmers.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Jeunes agriculteurs (JA)",
+      "stakeholder": "Jeunes Agriculteurs",
       "position": "neutral",
-      "reasoning": "Attending a meeting to discuss the agreement.",
+      "reasoning": "Waiting for the government to respond with concrete actions.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Mercosur countries",
+      "stakeholder": "Jeunes agriculteurs",
+      "position": "neutral",
+      "reasoning": "Seeking discussion with the President regarding the agreement.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Paraguay",
       "position": "support",
-      "reasoning": "Hope to increase exports to Europe.",
+      "reasoning": "Hopes to finalize the trade agreement.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Sebastien Lecornu",
-      "position": "neutral",
-      "reasoning": "Offering to meet with unions, attempting to address concerns.",
+      "stakeholder": "Pierrick Horel",
+      "position": "oppose",
+      "reasoning": "firm opposition to the Mercosur agreement",
       "mention_count": 1
     },
     {
       "stakeholder": "S\u00e9bastien Lecornu",
-      "position": "oppose",
-      "reasoning": "Agreement must not harm French industries or create unfair competition.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "S\u00e9bastien Lecornu (French Prime Minister)",
-      "position": "oppose",
-      "reasoning": "France will not accept the agreement if it harms French agricultural sectors.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "S\u00e9bastien Lecornu (Prime Minister)",
-      "position": "oppose",
-      "reasoning": "Agreement must not harm French industries or create unfair competition.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Ursula von der Leyen",
       "position": "support",
-      "reasoning": "Attempting to finalize the agreement.",
+      "reasoning": "Pledging support for French agriculture and opposing trade deals that harm French farmers.",
       "mention_count": 1
     },
     {
-      "stakeholder": "farmers",
-      "position": "oppose",
-      "reasoning": "Disagreement with the trade deal and the cow cull policy.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "syndicats agricoles",
-      "position": "neutral",
-      "reasoning": "Seeking to address issues and 'extinguish the fire' in rural areas.",
+      "stakeholder": "Uruguay",
+      "position": "support",
+      "reasoning": "Hopes to finalize the trade agreement.",
       "mention_count": 1
     }
   ],
@@ -2331,6 +2181,11 @@
       {
         "source": "Le Figaro.fr",
         "avg_sentiment": -0.8,
+        "article_count": 1
+      },
+      {
+        "source": "Pravda EN",
+        "avg_sentiment": -0.7,
         "article_count": 1
       },
       {
@@ -2349,17 +2204,22 @@
         "article_count": 1
       },
       {
+        "source": "Le Parisien",
+        "avg_sentiment": -0.7,
+        "article_count": 1
+      },
+      {
         "source": "Yahoo actualit\u00e9s",
         "avg_sentiment": -0.633,
         "article_count": 3
       },
       {
-        "source": "Pravda EN",
+        "source": "anews",
         "avg_sentiment": -0.6,
         "article_count": 1
       },
       {
-        "source": "anews",
+        "source": "France 24",
         "avg_sentiment": -0.6,
         "article_count": 1
       },
@@ -2384,9 +2244,19 @@
         "article_count": 1
       },
       {
+        "source": "thesun.my",
+        "avg_sentiment": -0.6,
+        "article_count": 1
+      },
+      {
         "source": "Le Huffington Post",
         "avg_sentiment": -0.6,
         "article_count": 1
+      },
+      {
+        "source": "CNEWS",
+        "avg_sentiment": -0.6,
+        "article_count": 2
       },
       {
         "source": "Courrier picard",
@@ -2404,9 +2274,9 @@
         "article_count": 1
       },
       {
-        "source": "Le Parisien",
-        "avg_sentiment": -0.6,
-        "article_count": 1
+        "source": "Le Telegramme",
+        "avg_sentiment": -0.55,
+        "article_count": 2
       },
       {
         "source": "BFMTV",
@@ -2424,22 +2294,7 @@
         "article_count": 2
       },
       {
-        "source": "Le Telegramme",
-        "avg_sentiment": -0.45,
-        "article_count": 2
-      },
-      {
-        "source": "France 24",
-        "avg_sentiment": -0.4,
-        "article_count": 1
-      },
-      {
         "source": "Hurriyet Daily News",
-        "avg_sentiment": -0.4,
-        "article_count": 1
-      },
-      {
-        "source": "thesun.my",
         "avg_sentiment": -0.4,
         "article_count": 1
       },
@@ -2454,32 +2309,27 @@
         "article_count": 1
       },
       {
-        "source": "CNEWS",
-        "avg_sentiment": -0.35,
-        "article_count": 2
-      },
-      {
         "source": "Blick.ch",
         "avg_sentiment": -0.3,
         "article_count": 1
       },
       {
+        "source": "The Anniston Star",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
         "source": "Le Monde.fr",
-        "avg_sentiment": -0.25,
+        "avg_sentiment": -0.3,
         "article_count": 2
       },
       {
-        "source": "L'Opinion",
-        "avg_sentiment": -0.2,
-        "article_count": 1
-      },
-      {
-        "source": "The Anniston Star",
-        "avg_sentiment": -0.2,
-        "article_count": 1
-      },
-      {
         "source": "La Croix",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
+        "source": "L'Opinion",
         "avg_sentiment": -0.2,
         "article_count": 1
       },
@@ -2502,6 +2352,11 @@
           "article_count": 1
         },
         {
+          "source": "Pravda EN",
+          "avg_sentiment": -0.7,
+          "article_count": 1
+        },
+        {
           "source": "euronews",
           "avg_sentiment": -0.7,
           "article_count": 1
@@ -2517,17 +2372,22 @@
           "article_count": 1
         },
         {
+          "source": "Le Parisien",
+          "avg_sentiment": -0.7,
+          "article_count": 1
+        },
+        {
           "source": "Yahoo actualit\u00e9s",
           "avg_sentiment": -0.633,
           "article_count": 3
         },
         {
-          "source": "Pravda EN",
+          "source": "anews",
           "avg_sentiment": -0.6,
           "article_count": 1
         },
         {
-          "source": "anews",
+          "source": "France 24",
           "avg_sentiment": -0.6,
           "article_count": 1
         },
@@ -2552,9 +2412,19 @@
           "article_count": 1
         },
         {
+          "source": "thesun.my",
+          "avg_sentiment": -0.6,
+          "article_count": 1
+        },
+        {
           "source": "Le Huffington Post",
           "avg_sentiment": -0.6,
           "article_count": 1
+        },
+        {
+          "source": "CNEWS",
+          "avg_sentiment": -0.6,
+          "article_count": 2
         },
         {
           "source": "Courrier picard",
@@ -2572,9 +2442,9 @@
           "article_count": 1
         },
         {
-          "source": "Le Parisien",
-          "avg_sentiment": -0.6,
-          "article_count": 1
+          "source": "Le Telegramme",
+          "avg_sentiment": -0.55,
+          "article_count": 2
         },
         {
           "source": "BFMTV",
@@ -2592,22 +2462,7 @@
           "article_count": 2
         },
         {
-          "source": "Le Telegramme",
-          "avg_sentiment": -0.45,
-          "article_count": 2
-        },
-        {
-          "source": "France 24",
-          "avg_sentiment": -0.4,
-          "article_count": 1
-        },
-        {
           "source": "Hurriyet Daily News",
-          "avg_sentiment": -0.4,
-          "article_count": 1
-        },
-        {
-          "source": "thesun.my",
           "avg_sentiment": -0.4,
           "article_count": 1
         },
@@ -2622,32 +2477,27 @@
           "article_count": 1
         },
         {
-          "source": "CNEWS",
-          "avg_sentiment": -0.35,
-          "article_count": 2
-        },
-        {
           "source": "Blick.ch",
           "avg_sentiment": -0.3,
           "article_count": 1
         },
         {
+          "source": "The Anniston Star",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
           "source": "Le Monde.fr",
-          "avg_sentiment": -0.25,
+          "avg_sentiment": -0.3,
           "article_count": 2
         },
         {
-          "source": "L'Opinion",
-          "avg_sentiment": -0.2,
-          "article_count": 1
-        },
-        {
-          "source": "The Anniston Star",
-          "avg_sentiment": -0.2,
-          "article_count": 1
-        },
-        {
           "source": "La Croix",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
+          "source": "L'Opinion",
           "avg_sentiment": -0.2,
           "article_count": 1
         },
@@ -2669,70 +2519,10 @@
   },
   "quote_network": [
     {
-      "from": "St\u00e9phane Galais",
-      "to": "EU",
-      "stance": "neutral",
-      "quote_snippet": "La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp"
-    },
-    {
-      "from": "J\u00e9r\u00f4me Bayle",
-      "to": "UE",
-      "stance": "oppose",
-      "quote_snippet": "On esp\u00e9rait des avanc\u00e9es (mais) l'\u00c9tat ne veut pas apporter de solutions. On va continuer \u00e0 se battr"
-    },
-    {
-      "from": "J\u00e9r\u00f4me Bayle",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "On esp\u00e9rait des avanc\u00e9es (mais) l'\u00c9tat ne veut pas apporter de solutions. On va continuer \u00e0 se battr"
-    },
-    {
-      "from": "Arnaud Rousseau",
-      "to": "UE",
-      "stance": "oppose",
-      "quote_snippet": "Les avanc\u00e9es que le pr\u00e9sident de la R\u00e9publique nous porte ne nous conviennent pas. Importer du reste"
-    },
-    {
-      "from": "Arnaud Rousseau",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "Les avanc\u00e9es que le pr\u00e9sident de la R\u00e9publique nous porte ne nous conviennent pas. Importer du reste"
-    },
-    {
-      "from": "St\u00e9phane Galais",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "L'id\u00e9e du Pr\u00e9sident, c'\u00e9tait d'\u00e9teindre un peu l'incendie de la col\u00e8re agricole en nous pr\u00e9sentant d"
-    },
-    {
-      "from": "Arnaud Rousseau",
-      "to": "EU",
-      "stance": "neutral",
-      "quote_snippet": "La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp"
-    },
-    {
-      "from": "Pierrick Horel",
-      "to": "EU",
-      "stance": "neutral",
-      "quote_snippet": "\"La balle a \u00e9t\u00e9 transmise, maintenant elle est dans leur camp\""
-    },
-    {
       "from": "FNSEA",
       "to": "Mercosur",
       "stance": "oppose",
       "quote_snippet": "Mercosur = NON"
-    },
-    {
-      "from": "Jean-No\u00ebl Barrot",
-      "to": "UE",
-      "stance": "support",
-      "quote_snippet": "Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions i"
-    },
-    {
-      "from": "Jean-No\u00ebl Barrot",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions i"
     },
     {
       "from": "Arnaud Rousseau",
@@ -2741,28 +2531,10 @@
       "quote_snippet": "We are opposed to Mercosur"
     },
     {
-      "from": "C\u00e9dric Baron",
-      "to": "UE",
-      "stance": "oppose",
-      "quote_snippet": "On esp\u00e9rait des avanc\u00e9es (...) L'\u00c9tat ne veut pas apporter de solutions. On va continuer \u00e0 se battre"
-    },
-    {
-      "from": "C\u00e9dric Baron",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "On esp\u00e9rait des avanc\u00e9es (...) L'\u00c9tat ne veut pas apporter de solutions. On va continuer \u00e0 se battre"
-    },
-    {
       "from": "S\u00e9bastien Lecornu",
       "to": "Mercosur",
       "stance": "neutral",
       "quote_snippet": "Sur le trait\u00e9 du Mercosur, la position de la France est ferme"
-    },
-    {
-      "from": "Arnaud Rousseau",
-      "to": "UE",
-      "stance": "negative",
-      "quote_snippet": "\"Il faut que chacun comprenne que, pour le monde agricole, le niveau d'attente est extr\u00eamement fort\""
     },
     {
       "from": "Pierrick Horel",
@@ -2771,46 +2543,22 @@
       "quote_snippet": "Nous avons rappel\u00e9 notre opposition ferme au Mercosur"
     },
     {
-      "from": "St\u00e9phane Galais",
-      "to": "UE",
-      "stance": "negative",
-      "quote_snippet": "il n'y a pas de signe politique pour dire que la col\u00e8re va s'\u00e9teindre"
-    },
-    {
-      "from": "FNSEA",
-      "to": "Commission europ\u00e9enne",
-      "stance": "support",
-      "quote_snippet": "Cette mobilisation d\u00e9termin\u00e9e a d\u00e9j\u00e0 permis de suspendre le calendrier de signature envisag\u00e9 par la "
-    },
-    {
-      "from": "FNSEA",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "Cette mobilisation d\u00e9termin\u00e9e a d\u00e9j\u00e0 permis de suspendre le calendrier de signature envisag\u00e9 par la "
-    },
-    {
-      "from": "FNSEA",
-      "to": "EU",
+      "from": "FNSEA spokesperson",
+      "to": "Mercosur",
       "stance": "oppose",
-      "quote_snippet": "le Mercosur repr\u00e9sente une menace directe pour les agriculteurs fran\u00e7ais, en raison d'une concurrenc"
+      "quote_snippet": "Mercosur = NON"
     },
     {
-      "from": "Jean-No\u00ebl Barrot",
-      "to": "UE",
-      "stance": "neutral",
-      "quote_snippet": "Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions i"
-    },
-    {
-      "from": "Jean-No\u00ebl Barrot",
-      "to": "EU",
-      "stance": "neutral",
-      "quote_snippet": "Nous ne nous contentons pas de nous opposer \u00e0 cet accord. En l'\u00e9tat, nous obtenons des concessions i"
-    },
-    {
-      "from": "FNSEA",
-      "to": "UE",
+      "from": "Emmanuel Macron",
+      "to": "Mercosur",
       "stance": "oppose",
-      "quote_snippet": "Le message de la FNSEA au Pr\u00e9sident de la R\u00e9publique restera inchang\u00e9, ferme et clair : Mercosur = N"
+      "quote_snippet": "Mercosur = Non"
+    },
+    {
+      "from": "Emmanuel Macron",
+      "to": "FNSEA",
+      "stance": "oppose",
+      "quote_snippet": "Le message de la FNSEA au pr\u00e9sident de la R\u00e9publique restera inchang\u00e9, ferme et clair : Mercosur = N"
     }
   ],
   "summary_stats": {
@@ -2820,37 +2568,39 @@
       "start": "2025-12-23T14:52:10Z",
       "end": "2025-12-26T15:25:20Z"
     },
-    "avg_sentiment": -0.48139534883720936,
+    "avg_sentiment": -0.5186046511627908,
     "total_quotes": 88,
-    "total_financial_mentions": 4
+    "total_financial_mentions": 5
   },
-  "executive_brief": "French agricultural unions are meeting with President Emmanuel Macron to discuss the EU-Mercosur trade agreement, amidst widespread farmer protests and road blockades. This event is receiving significant media coverage (43 articles from 33 sources) and is occurring during the Christmas holiday, highlighting the urgency and intensity of the situation. The overwhelmingly negative sentiment (-0.48) suggests deep dissatisfaction with the current state of negotiations and a lack of confidence in the government's response. \n\nThe core of the dispute centers on fears that the Mercosur agreement will expose French farmers to unfair competition from South American agricultural products. Key stakeholders, including the FNSEA and Conf\u00e9d\u00e9ration paysanne, express strong opposition, with Arnaud Rousseau of the FNSEA calling the agreement a \"non-sens.\" While the French government, represented by Jean-No\u00ebl Barrot, claims to be securing concessions, these are deemed insufficient by both farmers and some government officials like S\u00e9bastien Lecornu. The protests are also linked to concerns over a cow disease and potential reductions in PAC aids (20% reduction announced), with financial impacts already visible through EUR 1,000,000 in blockage costs.",
+  "executive_brief": "French agricultural unions are in crisis negotiations with President Emmanuel Macron regarding the EU-Mercosur trade agreement, evidenced by 43 articles from 33 sources covering the event. The situation is escalating with ongoing road blockades, even during the Christmas holiday, indicating significant farmer discontent. This matters because the agreement threatens the viability of French agricultural sectors, potentially leading to economic disruption and further protests. \n\nThe overwhelming sentiment is negative (-0.52 average score), with strong opposition from key stakeholders like FNSEA and the Conf\u00e9d\u00e9ration paysanne, who believe the agreement will lead to unfair competition and lower standards. While Macron acknowledges the need for change (\u201cle texte change de nature\u201d), concessions offered thus far are deemed insufficient by both unions and the Prime Minister S\u00e9bastien Lecornu. Financial implications include EUR 1,000,000 in losses due to blockades and a potential 20% decrease in PAC aids, highlighting the economic stakes for French farmers.",
   "key_arguments": {
     "for": [
-      "Jean-No\u00ebl Barrot claims the French government is obtaining \"concessions in\u00e9dites\" for French farmers, even if the agreement isn't signed."
+      "Jean-Noel Barrot states that concessions have been obtained benefiting French farmers, even if the agreement isn't signed."
     ],
     "against": [
-      "Arnaud Rousseau (FNSEA) believes the agreement is a \"non-sens\" for French farmers.",
-      "S\u00e9bastien Lecornu (Prime Minister) states that no agreement will be accepted if it \"fragilise nos fili\u00e8res ou impose une concurrence d\u00e9loyale.\"",
-      "St\u00e9phane Galais (Conf\u00e9d\u00e9ration paysanne) states that the President's strategies are insufficient, stating \"on n'a rien de concret.\"",
-      "J\u00e9r\u00f4me Bayle (\u00e9leveur) expresses disappointment with the state's lack of solutions."
+      "Arnaud Rousseau (FNSEA) believes the agreement is a \"non-sens for the agriculteurs de France.\"",
+      "S\u00e9bastien Lecornu states that France will not accept an agreement that \"fragilise nos fili\u00e8res ou impose une concurrence d\u00e9loyale.\"",
+      "St\u00e9phane Galais (Conf\u00e9d\u00e9ration paysanne) states that the President's strategies are aimed at \"\u00e9teindre un peu le feu qui est partout dans les campagnes\" but lack concrete solutions.",
+      "J\u00e9r\u00f4me Bayle expresses disappointment that the state is not providing solutions and will continue to fight for changes."
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "Mercosur - Potential access to the European market, though the agreement's future is uncertain."
+      "European Union - Potentially securing trade concessions, though facing strong opposition."
     ],
     "losers": [
-      "French farmers - Face potential economic hardship due to increased competition from South American agricultural products.",
-      "FNSEA - Dissatisfied with the current concessions offered by the government.",
-      "Conf\u00e9d\u00e9ration paysanne - Expresses a lack of concrete solutions from the government.",
-      "Coordination rurale - Shares the opposition to the agreement with other unions."
+      "FNSEA - Believes the agreement is detrimental to French agriculture.",
+      "Conf\u00e9d\u00e9ration paysanne - Opposes the agreement and finds current solutions insufficient.",
+      "Coordination rurale - Opposes the agreement and finds current solutions insufficient.",
+      "Jeunes agriculteurs - Opposes the agreement and finds current solutions insufficient.",
+      "French farmers - Face potential economic hardship due to increased competition."
     ],
     "risks": [
-      "Continued farmer protests and road blockades, disrupting economic activity.",
-      "Potential decrease in PAC aids (20% reduction announced).",
-      "Unfair competition for French farmers from cheaper South American products.",
-      "Damage to French agricultural sectors ('fragilise nos fili\u00e8res')."
+      "Continued road blockades and protests disrupting economic activity.",
+      "A 20% reduction in PAC budget.",
+      "Unfair competition from Mercosur countries.",
+      "Lower standards for agricultural products.",
+      "Nodular contagious dermatitis (DNC) - mentioned as a concern."
     ],
     "opportunities": []
   }

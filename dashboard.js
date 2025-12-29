@@ -26,21 +26,26 @@ function formatDate(dateString) {
     });
 }
 
-// Format currency
-function formatCurrency(amount, currency = 'EUR') {
+// Format number with optional unit
+function formatCurrency(amount, unit) {
     if (!amount) return '-';
 
-    // Handle very large numbers
+    // Format the number part
+    let formatted;
     if (amount >= 1e12) {
-        return `${(amount / 1e12).toFixed(1)}T ${currency}`;
+        formatted = `${(amount / 1e12).toFixed(1)}T`;
     } else if (amount >= 1e9) {
-        return `${(amount / 1e9).toFixed(1)}B ${currency}`;
+        formatted = `${(amount / 1e9).toFixed(1)}B`;
     } else if (amount >= 1e6) {
-        return `${(amount / 1e6).toFixed(1)}M ${currency}`;
+        formatted = `${(amount / 1e6).toFixed(1)}M`;
     } else if (amount >= 1e3) {
-        return `${(amount / 1e3).toFixed(1)}K ${currency}`;
+        formatted = `${(amount / 1e3).toFixed(1)}K`;
+    } else {
+        formatted = amount.toLocaleString();
     }
-    return `${amount.toLocaleString()} ${currency}`;
+
+    // Add unit if it exists
+    return unit ? `${formatted} ${unit}` : formatted;
 }
 
 // Sentiment color
@@ -505,7 +510,12 @@ function renderEntities(entities) {
 // Render financial mentions as compact 3-column grid with collapse
 function renderFinancial(financial) {
     const container = document.getElementById('financialList');
-    const amounts = financial.amounts || [];
+    const rawAmounts = financial.amounts || [];
+
+    // Filter out null/invalid amounts
+    const amounts = rawAmounts.filter(item =>
+        item && item.amount != null && item.amount !== 'null'
+    );
 
     if (amounts.length === 0) {
         document.getElementById('financialSection').style.display = 'none';

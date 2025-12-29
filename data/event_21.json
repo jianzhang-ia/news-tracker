@@ -6,10 +6,10 @@
     "category": "other",
     "summary": "Die Gespr\u00e4che in den USA \u00fcber eine Friedensl\u00f6sung f\u00fcr den Ukraine-Krieg sind nach Angaben verschiedener Seiten positiv verlaufen, ohne dass Details oder konkrete Fortschritte bekannt wurden. An den Unterredungen in Miami im US-Bundesstaat Florida, die das gesamte Wochenende \u00fcber andauern sollten, wa...",
     "first_seen": "2025-12-23T19:30:43.762873",
-    "last_updated": "2025-12-29T10:25:01.626865",
+    "last_updated": "2025-12-29T17:30:59.325921",
     "created_at": "2025-12-23 18:30:43"
   },
-  "generated_at": "2025-12-29T10:30:10.197154",
+  "generated_at": "2025-12-29T17:32:54.327066",
   "articles": [
     {
       "id": 349,
@@ -24,7 +24,7 @@
       "language": "deu",
       "image_url": "https://www.vienna.at/2025/12/5290244502_BLD_Online.jpg",
       "fetched_at": "2025-12-23 18:30:43",
-      "sentiment_score": 0.4,
+      "sentiment_score": 0.6,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -41,7 +41,7 @@
       "language": "deu",
       "image_url": "https://media.tag24.de/1200x800/g/2/g2zg8h424ruzgqxgdhcazp34chga9isr.jpg",
       "fetched_at": "2025-12-23 18:30:43",
-      "sentiment_score": 0.2,
+      "sentiment_score": 0.3,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -194,7 +194,7 @@
       "language": "deu",
       "image_url": "https://www.freiepresse.de/DYNIMG/31/17/17793117_W2040C2048x1365o0x0.jpg",
       "fetched_at": "2025-12-23 18:30:43",
-      "sentiment_score": 0.1,
+      "sentiment_score": 0.2,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -296,7 +296,7 @@
       "language": "deu",
       "image_url": "https://www.tagesspiegel.de/images/15071694/alternates/BASE_16_9_W1400/1766330407000/kirill-dmitrijew-und-steve-witkoff.jpeg",
       "fetched_at": "2025-12-23 18:30:43",
-      "sentiment_score": 0.1,
+      "sentiment_score": 0.2,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -347,7 +347,7 @@
       "language": "deu",
       "image_url": "https://media0.faz.net/image/w1200h627/35a523b6a1cb/w3000h1567x0y76o/202512/43601.0.1558065251/die-unterhaendler-jared.webp",
       "fetched_at": "2025-12-23 18:30:43",
-      "sentiment_score": 0.2,
+      "sentiment_score": 0.3,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -399,19 +399,19 @@
   "sentiment_trend": [
     {
       "date": "2025-12-21",
-      "avg_sentiment": 0.17619047619047623,
+      "avg_sentiment": 0.1952380952380953,
       "count": 21
     },
     {
       "date": "2025-12-22",
-      "avg_sentiment": 0.4,
+      "avg_sentiment": 0.6,
       "count": 1
     }
   ],
   "entities": {
     "countries": [
       {
-        "name": "USA",
+        "name": "Russia",
         "count": 22
       },
       {
@@ -419,195 +419,73 @@
         "count": 22
       },
       {
-        "name": "Russia",
-        "count": 12
-      },
-      {
-        "name": "Russland",
-        "count": 10
-      },
-      {
-        "name": "Florida",
-        "count": 9
-      },
-      {
-        "name": "Europe",
-        "count": 8
-      },
-      {
-        "name": "France",
-        "count": 8
+        "name": "United States",
+        "count": 22
       },
       {
         "name": "Germany",
-        "count": 8
+        "count": 14
+      },
+      {
+        "name": "France",
+        "count": 13
+      },
+      {
+        "name": "Europe",
+        "count": 11
       },
       {
         "name": "Norway",
-        "count": 8
+        "count": 11
       },
       {
-        "name": "Deutschland",
-        "count": 5
-      },
-      {
-        "name": "Frankreich",
-        "count": 5
-      },
-      {
-        "name": "Norwegen",
-        "count": 3
-      },
-      {
-        "name": "Europ\u00e4er",
-        "count": 2
-      },
-      {
-        "name": "Europ\u00e4ern",
-        "count": 1
-      },
-      {
-        "name": "Moskau",
-        "count": 1
+        "name": "Florida",
+        "count": 6
       },
       {
         "name": "Portugal",
         "count": 1
       },
       {
-        "name": "T\u00fcrkei",
-        "count": 1
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Tass",
-        "count": 13
-      },
-      {
-        "name": "Nato",
-        "count": 11
-      },
-      {
-        "name": "Kreml",
-        "count": 10
-      },
-      {
-        "name": "CDU",
-        "count": 9
-      },
-      {
-        "name": "Ria Nowosti",
-        "count": 8
-      },
-      {
-        "name": "dpa",
-        "count": 7
-      },
-      {
-        "name": "Bild am Sonntag",
-        "count": 6
-      },
-      {
-        "name": "USA",
-        "count": 6
-      },
-      {
-        "name": "Russland",
-        "count": 5
-      },
-      {
-        "name": "Ukraine",
-        "count": 5
-      },
-      {
-        "name": "Europ\u00e4er",
-        "count": 3
-      },
-      {
-        "name": "nationalen Sicherheitsrats der Ukraine",
-        "count": 3
-      },
-      {
-        "name": "Europa",
-        "count": 2
-      },
-      {
-        "name": "APA",
-        "count": 1
-      },
-      {
-        "name": "Deutschland",
-        "count": 1
-      },
-      {
-        "name": "Interfax",
-        "count": 1
-      },
-      {
-        "name": "NATO",
-        "count": 1
-      },
-      {
-        "name": "RIA",
-        "count": 1
-      },
-      {
-        "name": "Ria Nowosti (Russian State News Agency)",
-        "count": 1
-      },
-      {
-        "name": "Ria Nowosti (Russian state news agency)",
-        "count": 1
-      },
-      {
-        "name": "Tass (Russian State News Agency)",
-        "count": 1
-      },
-      {
-        "name": "US-Geheimdienste",
-        "count": 1
-      },
-      {
-        "name": "dpa (German Press Agency)",
-        "count": 1
-      },
-      {
-        "name": "dpa-infocom",
-        "count": 1
-      },
-      {
-        "name": "rtr",
-        "count": 1
-      },
-      {
-        "name": "taz",
+        "name": "Turkey",
         "count": 1
       }
     ],
     "politicians": [
       {
         "name": "Donald Trump",
-        "count": 13
-      },
-      {
-        "name": "Wladimir Putin",
-        "count": 11
-      },
-      {
-        "name": "Friedrich Merz",
-        "count": 10
-      },
-      {
-        "name": "Emmanuel Macron",
-        "count": 9
-      },
-      {
-        "name": "Jonas Gahr St\u00f8re",
-        "count": 8
+        "count": 17
       },
       {
         "name": "Steve Witkoff",
+        "count": 14
+      },
+      {
+        "name": "Emmanuel Macron",
+        "count": 13
+      },
+      {
+        "name": "Kirill Dmitrijew",
+        "count": 13
+      },
+      {
+        "name": "Friedrich Merz",
+        "count": 12
+      },
+      {
+        "name": "Vladimir Putin",
+        "count": 12
+      },
+      {
+        "name": "Jonas Gahr St\u00f8re",
+        "count": 11
+      },
+      {
+        "name": "Mark Rutte",
+        "count": 11
+      },
+      {
+        "name": "Jared Kushner",
         "count": 8
       },
       {
@@ -615,119 +493,35 @@
         "count": 8
       },
       {
-        "name": "Jared Kushner",
-        "count": 7
-      },
-      {
-        "name": "Kirill Dmitrijew",
-        "count": 7
-      },
-      {
-        "name": "Mark Rutte",
-        "count": 6
-      },
-      {
         "name": "Dmitri Pekow",
         "count": 5
       },
       {
-        "name": "G\u00fcnter Sautter",
+        "name": "Wladimir Putin",
+        "count": 5
+      },
+      {
+        "name": "Volodymyr Zelenskyj",
         "count": 4
       },
       {
-        "name": "Mark Rutte (Nato-Generalsekret\u00e4r)",
+        "name": "G\u00fcnter Sautter",
         "count": 3
       },
       {
-        "name": "Wladimir Putin (Kremlchef)",
-        "count": 3
+        "name": "Volodymyr Zelenskyy",
+        "count": 2
       },
       {
         "name": "Andrij Hnatow",
-        "count": 2
-      },
-      {
-        "name": "Emmanuel Macron (franz\u00f6sischer Pr\u00e4sident)",
-        "count": 2
-      },
-      {
-        "name": "Friedrich Merz (CDU)",
-        "count": 2
-      },
-      {
-        "name": "Jonas Gahr St\u00f8re (Norwegian Ministerpr\u00e4sident)",
-        "count": 2
-      },
-      {
-        "name": "Rustem Umjerow",
-        "count": 2
-      },
-      {
-        "name": "Vladimir Putin",
-        "count": 2
-      },
-      {
-        "name": "Volodymyr Selenskyj",
-        "count": 2
-      },
-      {
-        "name": "Andrij Hnatow (Generalstabschef)",
         "count": 1
       },
       {
-        "name": "Dmitri Pekow (Kremlsprecher)",
+        "name": "Dmitri Peskov",
         "count": 1
       },
       {
-        "name": "Dmitri Peskow",
-        "count": 1
-      },
-      {
-        "name": "Donald Trump (Former US President)",
-        "count": 1
-      },
-      {
-        "name": "Donald Trump (Pr\u00e4sident)",
-        "count": 1
-      },
-      {
-        "name": "Donald Trump (US President)",
-        "count": 1
-      },
-      {
-        "name": "Donald Trump (US-Pr\u00e4sident)",
-        "count": 1
-      },
-      {
-        "name": "Emmanuel Macron (French President)",
-        "count": 1
-      },
-      {
-        "name": "Emmanuel Macron (President of France)",
-        "count": 1
-      },
-      {
-        "name": "G\u00fcnter Sautter (au\u00dfenpolitischer Berater des deutschen Bundeskanzlers)",
-        "count": 1
-      },
-      {
-        "name": "G\u00fcnter Sautter (foreign policy advisor to Friedrich Merz)",
-        "count": 1
-      },
-      {
-        "name": "Jared Kushner (Donald Trump's son-in-law)",
-        "count": 1
-      },
-      {
-        "name": "Jared Kushner (Schwiegersohn von Donald Trump)",
-        "count": 1
-      },
-      {
-        "name": "Jared Kushner (Schwiegersohn von Pr\u00e4sident Donald Trump)",
-        "count": 1
-      },
-      {
-        "name": "Jonas Gahr St\u00f8re (norwegischer Ministerpr\u00e4sident)",
+        "name": "Juri Uschakow",
         "count": 1
       },
       {
@@ -735,61 +529,101 @@
         "count": 1
       },
       {
-        "name": "Rustem Umjerow (Sekret\u00e4r des nationalen Sicherheitsrats der Ukraine)",
-        "count": 1
-      },
-      {
-        "name": "Steve Witkoff (Sondergesandte)",
-        "count": 1
-      },
-      {
-        "name": "Steve Witkoff (US-Sondergesandter)",
+        "name": "Rustem Umjerow",
         "count": 1
       },
       {
         "name": "Tulsi Gabbard",
         "count": 1
-      },
-      {
-        "name": "Vladimir Putin (Kremlchef)",
-        "count": 1
-      },
-      {
-        "name": "Volodymyr Selenskyj (Ukrainian President)",
-        "count": 1
-      },
-      {
-        "name": "Wolodymyr Selenskyj (Ukrainian President)",
-        "count": 1
-      },
-      {
-        "name": "Wolodymyr Selenskyj (ukrainischer Pr\u00e4sident)",
-        "count": 1
       }
     ],
-    "companies": [
+    "organizations": [
       {
-        "name": "IT BOLTWISE",
-        "count": 2
-      },
-      {
-        "name": "Bild am Sonntag",
-        "count": 1
+        "name": "Tass",
+        "count": 15
       },
       {
         "name": "Ria Nowosti",
-        "count": 1
+        "count": 11
       },
       {
-        "name": "Tass",
-        "count": 1
+        "name": "Nato",
+        "count": 9
+      },
+      {
+        "name": "Kremlin",
+        "count": 5
       },
       {
         "name": "dpa",
+        "count": 4
+      },
+      {
+        "name": "European Union",
+        "count": 3
+      },
+      {
+        "name": "United States",
+        "count": 3
+      },
+      {
+        "name": "Bild am Sonntag",
+        "count": 2
+      },
+      {
+        "name": "NATO",
+        "count": 2
+      },
+      {
+        "name": "nationalen Sicherheitsrats der Ukraine",
+        "count": 2
+      },
+      {
+        "name": "CDU",
         "count": 1
       },
       {
-        "name": "dpa-AFX",
+        "name": "Europe",
+        "count": 1
+      },
+      {
+        "name": "Interfax",
+        "count": 1
+      },
+      {
+        "name": "Kreml",
+        "count": 1
+      },
+      {
+        "name": "RIA",
+        "count": 1
+      },
+      {
+        "name": "Russia",
+        "count": 1
+      },
+      {
+        "name": "US Intelligence",
+        "count": 1
+      },
+      {
+        "name": "US State Department",
+        "count": 1
+      },
+      {
+        "name": "US-Bundesstaat Florida",
+        "count": 1
+      },
+      {
+        "name": "Ukraine",
+        "count": 1
+      },
+      {
+        "name": "dpa-infocom",
+        "count": 1
+      },
+      {
+        "name": "national security council of Ukraine",
         "count": 1
       }
     ]
@@ -800,697 +634,807 @@
   },
   "quotes": [
     {
-      "id": 868,
+      "id": 3813,
       "article_id": 349,
-      "speaker": "US-Seite",
-      "speaker_role": "US government",
+      "speaker": null,
+      "speaker_role": "US-Seite",
       "quote_text": "die Gespr\u00e4che \"produktiv und konstruktiv\" waren",
       "stance": "support",
       "article_title": "USA fanden Ukraine-Gespr\u00e4che positiv",
       "source_url": "https://www.vienna.at/usa-fanden-ukraine-gespraeche-positiv/9885998"
     },
     {
-      "id": 869,
+      "id": 3814,
       "article_id": 349,
-      "speaker": "ukrainische Seite",
-      "speaker_role": "Ukrainian government",
+      "speaker": null,
+      "speaker_role": "ukrainische Seite",
       "quote_text": "sah die Gespr\u00e4che positiv",
       "stance": "support",
       "article_title": "USA fanden Ukraine-Gespr\u00e4che positiv",
       "source_url": "https://www.vienna.at/usa-fanden-ukraine-gespraeche-positiv/9885998"
     },
     {
-      "id": 853,
+      "id": 3796,
       "article_id": 341,
       "speaker": "Kirill Dmitrijew",
-      "speaker_role": "russian negotiator",
+      "speaker_role": "Russian negotiator",
       "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
       "stance": "neutral",
       "article_title": "Ukraine-Krieg: Gespr\u00e4che in Miami laut Selenskyj konstruktiv",
       "source_url": "https://www.tag24.de/thema/ukraine-konflikt/ukraine-krieg-gespraeche-in-miami-laut-selenskyj-konstruktiv-3441658"
     },
     {
-      "id": 797,
+      "id": 3731,
       "article_id": 328,
       "speaker": "Kirill Dmitrijew",
-      "speaker_role": "russischer Unterh\u00e4ndler",
+      "speaker_role": "Russian negotiator",
       "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
-      "stance": "support",
+      "stance": "positive",
       "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
       "source_url": "https://www.nau.ch/politik/international/ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-67078851"
     },
     {
-      "id": 798,
+      "id": 3732,
       "article_id": 328,
       "speaker": "Rustem Umjerow",
-      "speaker_role": "Sekret\u00e4r des nationalen Sicherheitsrats der Ukraine",
+      "speaker_role": "Secretary of the national security council of Ukraine",
       "quote_text": "Wir arbeiten konstruktiv und sachlich, wir rechnen mit weiteren Fortschritten und praktischen Ergebnissen",
-      "stance": "support",
+      "stance": "positive",
       "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
       "source_url": "https://www.nau.ch/politik/international/ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-67078851"
     },
     {
-      "id": 799,
+      "id": 3733,
       "article_id": 328,
       "speaker": "Wolodymyr Selenskyj",
-      "speaker_role": "ukrainischer Pr\u00e4sident",
+      "speaker_role": "President of Ukraine",
       "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6sseren Kreis beraten sollte",
       "stance": "neutral",
       "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
       "source_url": "https://www.nau.ch/politik/international/ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-67078851"
     },
     {
-      "id": 800,
+      "id": 3734,
       "article_id": 328,
-      "speaker": "Wladimir Putin",
-      "speaker_role": "Kremlchef",
-      "quote_text": "Putin habe seine Bereitschaft zu einem Dialog auch mit Macron ausgedr\u00fcckt",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.nau.ch/politik/international/ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-67078851"
-    },
-    {
-      "id": 801,
-      "article_id": 328,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.nau.ch/politik/international/ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-67078851"
-    },
-    {
-      "id": 802,
-      "article_id": 328,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.nau.ch/politik/international/ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-67078851"
-    },
-    {
-      "id": 803,
-      "article_id": 329,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "russischer Unterh\u00e4ndler",
-      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
-      "stance": "support",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
-    },
-    {
-      "id": 804,
-      "article_id": 329,
-      "speaker": "Rustem Umjerow",
-      "speaker_role": "Sekret\u00e4r des nationalen Sicherheitsrats der Ukraine",
-      "quote_text": "Wir arbeiten konstruktiv und sachlich, wir rechnen mit weiteren Fortschritten und praktischen Ergebnissen",
-      "stance": "support",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
-    },
-    {
-      "id": 805,
-      "article_id": 329,
-      "speaker": "Wolodymyr Selenskyj",
-      "speaker_role": "ukrainischer Pr\u00e4sident",
-      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
-      "stance": "neutral",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
-    },
-    {
-      "id": 806,
-      "article_id": 329,
-      "speaker": "Wladimir Putin",
-      "speaker_role": "Kremlchef",
-      "quote_text": "Putin habe seine Bereitschaft zu einem Dialog auch mit Macron ausgedr\u00fcckt",
-      "stance": "support",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
-    },
-    {
-      "id": 807,
-      "article_id": 329,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
-      "stance": "support",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
-    },
-    {
-      "id": 808,
-      "article_id": 329,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
-      "stance": "support",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
-    },
-    {
-      "id": 864,
-      "article_id": 345,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "Russian negotiator",
-      "quote_text": "Die Gespr\u00e4che als konstruktiv bezeichnet. Er betonte, dass die Diskussionen in einer zufriedenstellenden Weise gef\u00fchrt wurden.",
-      "stance": "support",
-      "article_title": "Fortschritte bei Friedensgespr\u00c3\u00a4chen zur Ukraine in Miami",
-      "source_url": "https://www.it-boltwise.de/fortschritte-bei-friedensgespraechen-zur-ukraine-in-miami.html"
-    },
-    {
-      "id": 865,
-      "article_id": 345,
-      "speaker": "Wolodymyr Selenskyj",
-      "speaker_role": "Ukrainian President",
-      "quote_text": "\u00e4u\u00dferte nach den Gespr\u00e4chen den Wunsch nach einem weiteren Treffen mit europ\u00e4ischen Partnern. Er betonte die Notwendigkeit, die diplomatischen Bem\u00fchungen der Ukraine mit den europ\u00e4ischen Partnern in einem gr\u00f6\u00dferen Rahmen zu koordinieren.",
-      "stance": "neutral",
-      "article_title": "Fortschritte bei Friedensgespr\u00c3\u00a4chen zur Ukraine in Miami",
-      "source_url": "https://www.it-boltwise.de/fortschritte-bei-friedensgespraechen-zur-ukraine-in-miami.html"
-    },
-    {
-      "id": 809,
-      "article_id": 330,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "russischer Unterh\u00e4ndler",
-      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
-      "stance": "support",
-      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
-    },
-    {
-      "id": 810,
-      "article_id": 330,
-      "speaker": "Rustem Umjerow",
-      "speaker_role": "Sekret\u00e4r des nationalen Sicherheitsrats der Ukraine",
-      "quote_text": "Wir arbeiten konstruktiv und sachlich, wir rechnen mit weiteren Fortschritten und praktischen Ergebnissen",
-      "stance": "support",
-      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
-    },
-    {
-      "id": 811,
-      "article_id": 330,
-      "speaker": "Wolodymyr Selenskyj",
-      "speaker_role": "ukrainischer Pr\u00e4sident",
-      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
-      "stance": "neutral",
-      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
-    },
-    {
-      "id": 812,
-      "article_id": 330,
-      "speaker": "Wladimir Putin",
-      "speaker_role": "Kremlchef",
-      "quote_text": "Putin habe seine Bereitschaft zu einem Dialog auch mit Macron ausgedr\u00fcckt",
-      "stance": "neutral",
-      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
-    },
-    {
-      "id": 813,
-      "article_id": 330,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
-      "stance": "support",
-      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
-    },
-    {
-      "id": 814,
-      "article_id": 330,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
-      "stance": "support",
-      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
-    },
-    {
-      "id": 866,
-      "article_id": 348,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "russischer Unterh\u00e4ndler",
-      "quote_text": "\u00e4u\u00dferte sich zufrieden mit dem Verlauf der Gespr\u00e4che und betonte die konstruktive Natur der Diskussionen.",
-      "stance": "support",
-      "article_title": "Fortschritte in den Ukraine-Gespr\u00c3\u00a4chen: Ein langer Weg zum Frieden",
-      "source_url": "https://www.it-boltwise.de/fortschritte-in-den-ukraine-gespraechen-ein-langer-weg-zum-frieden.html"
-    },
-    {
-      "id": 867,
-      "article_id": 348,
-      "speaker": "Wolodymyr Selenskyj",
-      "speaker_role": "ukrainischer Pr\u00e4sident",
-      "quote_text": "betonte die Notwendigkeit weiterer Treffen mit europ\u00e4ischen Partnern, um die diplomatischen Bem\u00fchungen zu intensivieren.",
-      "stance": "support",
-      "article_title": "Fortschritte in den Ukraine-Gespr\u00c3\u00a4chen: Ein langer Weg zum Frieden",
-      "source_url": "https://www.it-boltwise.de/fortschritte-in-den-ukraine-gespraechen-ein-langer-weg-zum-frieden.html"
-    },
-    {
-      "id": 826,
-      "article_id": 334,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "Berater von Kremlchef Wladimir Putin",
-      "quote_text": "\"Die Diskussionen werden konstruktiv gef\u00fchrt\"",
-      "stance": "neutral",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.wallstreet-online.de/nachricht/20304308-ukraine-gespraeche-miami-unterhaendlern"
-    },
-    {
-      "id": 827,
-      "article_id": 334,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "\"Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden\"",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.wallstreet-online.de/nachricht/20304308-ukraine-gespraeche-miami-unterhaendlern"
-    },
-    {
-      "id": 828,
-      "article_id": 334,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "\"Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne\"",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.wallstreet-online.de/nachricht/20304308-ukraine-gespraeche-miami-unterhaendlern"
-    },
-    {
-      "id": 829,
-      "article_id": 334,
-      "speaker": "Emmanuel Macron",
-      "speaker_role": "Pr\u00e4sident",
-      "quote_text": "\"Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.\"",
-      "stance": "neutral",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.wallstreet-online.de/nachricht/20304308-ukraine-gespraeche-miami-unterhaendlern"
-    },
-    {
-      "id": 860,
-      "article_id": 343,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
-      "stance": "support",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.handelsblatt.com/dpa/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten/100185732.html"
-    },
-    {
-      "id": 861,
-      "article_id": 343,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
-      "stance": "support",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.handelsblatt.com/dpa/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten/100185732.html"
-    },
-    {
-      "id": 862,
-      "article_id": 343,
-      "speaker": "Emmanuel Macron",
-      "speaker_role": "French President",
-      "quote_text": "es n\u00fctzlich sein k\u00f6nnte f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der Diskussion beteiligt zu sein. \"Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.\"",
-      "stance": "neutral",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.handelsblatt.com/dpa/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten/100185732.html"
-    },
-    {
-      "id": 832,
-      "article_id": 337,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "Russian negotiator",
-      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
-    },
-    {
-      "id": 833,
-      "article_id": 337,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
-    },
-    {
-      "id": 834,
-      "article_id": 337,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
-    },
-    {
-      "id": 835,
-      "article_id": 337,
-      "speaker": "Emmanuel Macron",
-      "speaker_role": "French President",
-      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
-      "stance": "neutral",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
-    },
-    {
-      "id": 821,
-      "article_id": 333,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "Russian negotiator",
-      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.weser-kurier.de/politik/ausland/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-doc83s48sf413dg2a4daa4"
-    },
-    {
-      "id": 822,
-      "article_id": 333,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.weser-kurier.de/politik/ausland/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-doc83s48sf413dg2a4daa4"
-    },
-    {
-      "id": 823,
-      "article_id": 333,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.weser-kurier.de/politik/ausland/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-doc83s48sf413dg2a4daa4"
-    },
-    {
-      "id": 824,
-      "article_id": 333,
-      "speaker": "Dmitri Pekow",
-      "speaker_role": "Kremlsprecher",
+      "speaker": "Vladimir Putin",
+      "speaker_role": "Kremlin chief",
       "quote_text": "Wenn es den gegenseitigen politischen Willen gebe, k\u00f6nne man das nur positiv bewerten",
-      "stance": "neutral",
+      "stance": "positive",
       "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.weser-kurier.de/politik/ausland/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-doc83s48sf413dg2a4daa4"
+      "source_url": "https://www.nau.ch/politik/international/ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-67078851"
     },
     {
-      "id": 825,
-      "article_id": 333,
+      "id": 3735,
+      "article_id": 328,
       "speaker": "Emmanuel Macron",
       "speaker_role": "President of France",
       "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
       "stance": "neutral",
       "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.weser-kurier.de/politik/ausland/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-doc83s48sf413dg2a4daa4"
+      "source_url": "https://www.nau.ch/politik/international/ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-67078851"
     },
     {
-      "id": 816,
-      "article_id": 332,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "Russian negotiator",
-      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
+      "id": 3736,
+      "article_id": 328,
+      "speaker": "Mark Rutte",
+      "speaker_role": "NATO-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
       "stance": "positive",
       "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.fnp.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+      "source_url": "https://www.nau.ch/politik/international/ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-67078851"
     },
     {
-      "id": 817,
-      "article_id": 332,
+      "id": 3737,
+      "article_id": 328,
       "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.fnp.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
-    },
-    {
-      "id": 818,
-      "article_id": 332,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.fnp.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
-    },
-    {
-      "id": 819,
-      "article_id": 332,
-      "speaker": "Volodymyr Selenskyj",
-      "speaker_role": "Ukrainian President",
-      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
-      "stance": "neutral",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.fnp.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
-    },
-    {
-      "id": 820,
-      "article_id": 332,
-      "speaker": "Emmanuel Macron",
-      "speaker_role": "French President",
-      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
-      "stance": "neutral",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.fnp.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
-    },
-    {
-      "id": 836,
-      "article_id": 338,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "Russian negotiator",
-      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.badische-zeitung.de/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten"
-    },
-    {
-      "id": 837,
-      "article_id": 338,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.badische-zeitung.de/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten"
-    },
-    {
-      "id": 838,
-      "article_id": 338,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.badische-zeitung.de/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten"
-    },
-    {
-      "id": 839,
-      "article_id": 338,
-      "speaker": "Wolodymyr Selenskyj",
-      "speaker_role": "Ukrainian President",
-      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
-      "stance": "neutral",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.badische-zeitung.de/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten"
-    },
-    {
-      "id": 840,
-      "article_id": 338,
-      "speaker": "Emmanuel Macron",
-      "speaker_role": "French President",
-      "quote_text": "es n\u00fctzlich sein k\u00f6nnte f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der Diskussion beteiligt zu sein",
-      "stance": "neutral",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.badische-zeitung.de/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten"
-    },
-    {
-      "id": 841,
-      "article_id": 339,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "Russian negotiator",
-      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
+      "speaker_role": "NATO-Generalsekret\u00e4r",
+      "quote_text": "Daf\u00fcr zolle ich ihm grossen Respekt.",
       "stance": "positive",
       "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.op-online.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+      "source_url": "https://www.nau.ch/politik/international/ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-67078851"
     },
     {
-      "id": 842,
-      "article_id": 339,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.op-online.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
-    },
-    {
-      "id": 843,
-      "article_id": 339,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
-      "stance": "support",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.op-online.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
-    },
-    {
-      "id": 844,
-      "article_id": 339,
-      "speaker": "Volodymyr Selenskyj",
-      "speaker_role": "Ukrainian President",
-      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
-      "stance": "neutral",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.op-online.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
-    },
-    {
-      "id": 845,
-      "article_id": 339,
-      "speaker": "Emmanuel Macron",
-      "speaker_role": "French President",
-      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
-      "stance": "neutral",
-      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.op-online.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
-    },
-    {
-      "id": 854,
-      "article_id": 342,
+      "id": 3738,
+      "article_id": 329,
       "speaker": "Kirill Dmitrijew",
-      "speaker_role": "Russian negotiator",
+      "speaker_role": "Berater von Kremlchef Wladimir Putin",
       "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
-      "stance": "support",
+      "stance": "neutral",
       "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.tagesspiegel.de/internationales/angriffskrieg-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-15070560.html"
+      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
     },
     {
-      "id": 855,
-      "article_id": 342,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
-      "stance": "support",
+      "id": 3739,
+      "article_id": 329,
+      "speaker": "Rustem Umjerow",
+      "speaker_role": "Sekret\u00e4r des nationalen Sicherheitsrats der Ukraine",
+      "quote_text": "Wir arbeiten konstruktiv und sachlich, wir rechnen mit weiteren Fortschritten und praktischen Ergebnissen",
+      "stance": "positive",
       "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.tagesspiegel.de/internationales/angriffskrieg-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-15070560.html"
+      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
     },
     {
-      "id": 856,
-      "article_id": 342,
-      "speaker": "Mark Rutte",
-      "speaker_role": "Nato-Generalsekret\u00e4r",
-      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
-      "stance": "support",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.tagesspiegel.de/internationales/angriffskrieg-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-15070560.html"
-    },
-    {
-      "id": 857,
-      "article_id": 342,
-      "speaker": "Wolodymyr Selenskyj",
-      "speaker_role": "Ukrainian President",
+      "id": 3740,
+      "article_id": 329,
+      "speaker": "Volodymyr Zelenskyj",
+      "speaker_role": "Pr\u00e4sident der Ukraine",
       "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
       "stance": "neutral",
       "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.tagesspiegel.de/internationales/angriffskrieg-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-15070560.html"
+      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
     },
     {
-      "id": 858,
-      "article_id": 342,
-      "speaker": "Emmanuel Macron",
-      "speaker_role": "French President",
-      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
-      "stance": "neutral",
-      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
-      "source_url": "https://www.tagesspiegel.de/internationales/angriffskrieg-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-15070560.html"
-    },
-    {
-      "id": 859,
-      "article_id": 342,
-      "speaker": "Dmitri Pekow",
-      "speaker_role": "Kremlsprecher",
+      "id": 3741,
+      "article_id": 329,
+      "speaker": "Wladimir Putin",
+      "speaker_role": "Kremlchef",
       "quote_text": "Wenn es den gegenseitigen politischen Willen gebe, k\u00f6nne man das nur positiv bewerten",
       "stance": "neutral",
       "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
+    },
+    {
+      "id": 3742,
+      "article_id": 329,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "Pr\u00e4sident von Frankreich",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
+    },
+    {
+      "id": 3743,
+      "article_id": 329,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
+      "stance": "positive",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
+    },
+    {
+      "id": 3744,
+      "article_id": 329,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne: \"Daf\u00fcr zolle ich ihm gro\u00dfen Respekt.\"",
+      "stance": "positive",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
+    },
+    {
+      "id": 3745,
+      "article_id": 329,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Davon gehe ich \u00fcberhaupt nicht aus. Was wir im Moment sehen, ist, dass der Informationsaustausch und auch die Waffenlieferungen an die Ukraine weitergehen",
+      "stance": "positive",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.nwzonline.de/politik-meldungen/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten_a_4,2,3249360597.html"
+    },
+    {
+      "id": 3809,
+      "article_id": 345,
+      "speaker": "Kirill Dmitrijew",
+      "speaker_role": "Russian negotiator",
+      "quote_text": "die Diskussionen in einer zufriedenstellenden Weise gef\u00fchrt wurden.",
+      "stance": "support",
+      "article_title": "Fortschritte bei Friedensgespr\u00c3\u00a4chen zur Ukraine in Miami",
+      "source_url": "https://www.it-boltwise.de/fortschritte-bei-friedensgespraechen-zur-ukraine-in-miami.html"
+    },
+    {
+      "id": 3810,
+      "article_id": 345,
+      "speaker": "Volodymyr Zelenskyj",
+      "speaker_role": "Ukrainian President",
+      "quote_text": "Er betonte die Notwendigkeit, die diplomatischen Bem\u00fchungen der Ukraine mit den europ\u00e4ischen Partnern in einem gr\u00f6\u00dferen Rahmen zu koordinieren.",
+      "stance": "neutral",
+      "article_title": "Fortschritte bei Friedensgespr\u00c3\u00a4chen zur Ukraine in Miami",
+      "source_url": "https://www.it-boltwise.de/fortschritte-bei-friedensgespraechen-zur-ukraine-in-miami.html"
+    },
+    {
+      "id": 3746,
+      "article_id": 330,
+      "speaker": "Kirill Dmitrijew",
+      "speaker_role": "Russian negotiator",
+      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
+      "stance": "support",
+      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
+    },
+    {
+      "id": 3747,
+      "article_id": 330,
+      "speaker": "Rustem Umjerow",
+      "speaker_role": "Sekret\u00e4r des nationalen Sicherheitsrats der Ukraine",
+      "quote_text": "Wir arbeiten konstruktiv und sachlich, wir rechnen mit weiteren Fortschritten und praktischen Ergebnissen",
+      "stance": "support",
+      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
+    },
+    {
+      "id": 3748,
+      "article_id": 330,
+      "speaker": "Wolodymyr Selenskyj",
+      "speaker_role": "Ukrainian President",
+      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
+      "stance": "neutral",
+      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
+    },
+    {
+      "id": 3749,
+      "article_id": 330,
+      "speaker": "Vladimir Putin",
+      "speaker_role": "Kremlchef",
+      "quote_text": "Wenn es den gegenseitigen politischen Willen gebe, k\u00f6nne man das nur positiv bewerten",
+      "stance": "neutral",
+      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
+    },
+    {
+      "id": 3750,
+      "article_id": 330,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "French President",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
+    },
+    {
+      "id": 3751,
+      "article_id": 330,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
+      "stance": "support",
+      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
+    },
+    {
+      "id": 3752,
+      "article_id": 330,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Daf\u00fcr zolle ich ihm gro\u00dfen Respekt.",
+      "stance": "support",
+      "article_title": "ROUNDUP: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.finanzen.at/nachrichten/aktien/roundup-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-1035663158"
+    },
+    {
+      "id": 3811,
+      "article_id": 348,
+      "speaker": "Kirill Dmitrijew",
+      "speaker_role": "Russian negotiator",
+      "quote_text": "betonte die konstruktive Natur der Diskussionen",
+      "stance": "support",
+      "article_title": "Fortschritte in den Ukraine-Gespr\u00c3\u00a4chen: Ein langer Weg zum Frieden",
+      "source_url": "https://www.it-boltwise.de/fortschritte-in-den-ukraine-gespraechen-ein-langer-weg-zum-frieden.html"
+    },
+    {
+      "id": 3812,
+      "article_id": 348,
+      "speaker": "Volodymyr Zelenskyj",
+      "speaker_role": "Ukrainian President",
+      "quote_text": "betonte die Notwendigkeit weiterer Treffen mit europ\u00e4ischen Partnern",
+      "stance": "support",
+      "article_title": "Fortschritte in den Ukraine-Gespr\u00c3\u00a4chen: Ein langer Weg zum Frieden",
+      "source_url": "https://www.it-boltwise.de/fortschritte-in-den-ukraine-gespraechen-ein-langer-weg-zum-frieden.html"
+    },
+    {
+      "id": 3766,
+      "article_id": 334,
+      "speaker": "Kirill Dmitrijew",
+      "speaker_role": "Berater von Kremlchef Wladimir Putin",
+      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.wallstreet-online.de/nachricht/20304308-ukraine-gespraeche-miami-unterhaendlern"
+    },
+    {
+      "id": 3767,
+      "article_id": 334,
+      "speaker": "Volodymyr Zelenskyj",
+      "speaker_role": "ukrainischer Pr\u00e4sident",
+      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.wallstreet-online.de/nachricht/20304308-ukraine-gespraeche-miami-unterhaendlern"
+    },
+    {
+      "id": 3768,
+      "article_id": 334,
+      "speaker": "Wladimir Putin",
+      "speaker_role": "Kremlchef",
+      "quote_text": "Wenn es den gegenseitigen politischen Willen gebe, k\u00f6nne man das nur positiv bewerten",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.wallstreet-online.de/nachricht/20304308-ukraine-gespraeche-miami-unterhaendlern"
+    },
+    {
+      "id": 3769,
+      "article_id": 334,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "franz\u00f6sischer Pr\u00e4sident",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.wallstreet-online.de/nachricht/20304308-ukraine-gespraeche-miami-unterhaendlern"
+    },
+    {
+      "id": 3770,
+      "article_id": 334,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.wallstreet-online.de/nachricht/20304308-ukraine-gespraeche-miami-unterhaendlern"
+    },
+    {
+      "id": 3771,
+      "article_id": 334,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne: \"Daf\u00fcr zolle ich ihm gro\u00dfen Respekt.\"",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.wallstreet-online.de/nachricht/20304308-ukraine-gespraeche-miami-unterhaendlern"
+    },
+    {
+      "id": 3802,
+      "article_id": 343,
+      "speaker": "Volodymyr Zelenskyy",
+      "speaker_role": "President of Ukraine",
+      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
+      "stance": "neutral",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.handelsblatt.com/dpa/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten/100185732.html"
+    },
+    {
+      "id": 3803,
+      "article_id": 343,
+      "speaker": "Vladimir Putin",
+      "speaker_role": "President of Russia",
+      "quote_text": "Wenn es den gegenseitigen politischen Willen gebe, k\u00f6nne man das nur positiv bewerten",
+      "stance": "neutral",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.handelsblatt.com/dpa/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten/100185732.html"
+    },
+    {
+      "id": 3804,
+      "article_id": 343,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "President of France",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.handelsblatt.com/dpa/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten/100185732.html"
+    },
+    {
+      "id": 3805,
+      "article_id": 343,
+      "speaker": "Mark Rutte",
+      "speaker_role": "NATO-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
+      "stance": "support",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.handelsblatt.com/dpa/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten/100185732.html"
+    },
+    {
+      "id": 3806,
+      "article_id": 343,
+      "speaker": "Mark Rutte",
+      "speaker_role": "NATO-Generalsekret\u00e4r",
+      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne: \"Daf\u00fcr zolle ich ihm gro\u00dfen Respekt.\"",
+      "stance": "support",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.handelsblatt.com/dpa/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten/100185732.html"
+    },
+    {
+      "id": 3807,
+      "article_id": 343,
+      "speaker": "Mark Rutte",
+      "speaker_role": "NATO-Generalsekret\u00e4r",
+      "quote_text": "Davon gehe ich \u00fcberhaupt nicht aus. Was wir im Moment sehen, ist, dass der Informationsaustausch und auch die Waffenlieferungen an die Ukraine weitergehen",
+      "stance": "support",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.handelsblatt.com/dpa/angriffskrieg-ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten/100185732.html"
+    },
+    {
+      "id": 3777,
+      "article_id": 337,
+      "speaker": "Kirill Dmitrijew",
+      "speaker_role": "Berater von Kremlchef Wladimir Putin",
+      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
+    },
+    {
+      "id": 3778,
+      "article_id": 337,
+      "speaker": "Wolodymyr Selenskyj",
+      "speaker_role": "ukrainischer Pr\u00e4sident",
+      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
+    },
+    {
+      "id": 3779,
+      "article_id": 337,
+      "speaker": "Vladimir Putin",
+      "speaker_role": "Kremlchef",
+      "quote_text": "Wenn es den gegenseitigen politischen Willen gebe, k\u00f6nne man das nur positiv bewerten",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
+    },
+    {
+      "id": 3780,
+      "article_id": 337,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "franz\u00f6sischer Pr\u00e4sident",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
+    },
+    {
+      "id": 3781,
+      "article_id": 337,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
+    },
+    {
+      "id": 3782,
+      "article_id": 337,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne: \"Daf\u00fcr zolle ich ihm gro\u00dfen Respekt.\"",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
+    },
+    {
+      "id": 3783,
+      "article_id": 337,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Davon gehe ich \u00fcberhaupt nicht aus. Was wir im Moment sehen, ist, dass der Informationsaustausch und auch die Waffenlieferungen an die Ukraine weitergehen",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.freiepresse.de/nachrichten/welt/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-artikel14074866"
+    },
+    {
+      "id": 3759,
+      "article_id": 333,
+      "speaker": "Kirill Dmitrijew",
+      "speaker_role": "Kremlchef Wladimir Putin's advisor",
+      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.weser-kurier.de/politik/ausland/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-doc83s48sf413dg2a4daa4"
+    },
+    {
+      "id": 3760,
+      "article_id": 333,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "Frankreichs Pr\u00e4sident",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.weser-kurier.de/politik/ausland/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-doc83s48sf413dg2a4daa4"
+    },
+    {
+      "id": 3761,
+      "article_id": 333,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.weser-kurier.de/politik/ausland/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-doc83s48sf413dg2a4daa4"
+    },
+    {
+      "id": 3762,
+      "article_id": 333,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne: \"Daf\u00fcr zolle ich ihm gro\u00dfen Respekt.\"",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.weser-kurier.de/politik/ausland/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-doc83s48sf413dg2a4daa4"
+    },
+    {
+      "id": 3763,
+      "article_id": 333,
+      "speaker": "Dmitri Pekow",
+      "speaker_role": "Kremlsprecher",
+      "quote_text": "Wenn es den gegenseitigen politischen Willen gebe, k\u00f6nne man das nur positiv bewerten",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.weser-kurier.de/politik/ausland/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-doc83s48sf413dg2a4daa4"
+    },
+    {
+      "id": 3754,
+      "article_id": 332,
+      "speaker": "Kirill Dmitrijew",
+      "speaker_role": "Berater von Kremlchef Wladimir Putin",
+      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.fnp.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+    },
+    {
+      "id": 3755,
+      "article_id": 332,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.fnp.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+    },
+    {
+      "id": 3756,
+      "article_id": 332,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.fnp.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+    },
+    {
+      "id": 3757,
+      "article_id": 332,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "Pr\u00e4sident",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.fnp.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+    },
+    {
+      "id": 3758,
+      "article_id": 332,
+      "speaker": "Wolodymyr Selenskyj",
+      "speaker_role": "Pr\u00e4sident",
+      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.fnp.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+    },
+    {
+      "id": 3772,
+      "article_id": 338,
+      "speaker": "Kirill Dmitrijew",
+      "speaker_role": "Berater von Kremlchef Wladimir Putin",
+      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.badische-zeitung.de/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten"
+    },
+    {
+      "id": 3773,
+      "article_id": 338,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.badische-zeitung.de/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten"
+    },
+    {
+      "id": 3774,
+      "article_id": 338,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.badische-zeitung.de/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten"
+    },
+    {
+      "id": 3775,
+      "article_id": 338,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "Pr\u00e4sident",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.badische-zeitung.de/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten"
+    },
+    {
+      "id": 3776,
+      "article_id": 338,
+      "speaker": "Wolodymyr Selenskyj",
+      "speaker_role": "Pr\u00e4sident",
+      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.badische-zeitung.de/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten"
+    },
+    {
+      "id": 3784,
+      "article_id": 339,
+      "speaker": "Kirill Dmitrijew",
+      "speaker_role": "Berater von Kremlchef Wladimir Putin",
+      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.op-online.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+    },
+    {
+      "id": 3785,
+      "article_id": 339,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.op-online.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+    },
+    {
+      "id": 3786,
+      "article_id": 339,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
+      "stance": "support",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.op-online.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+    },
+    {
+      "id": 3787,
+      "article_id": 339,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "Pr\u00e4sident",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.op-online.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+    },
+    {
+      "id": 3788,
+      "article_id": 339,
+      "speaker": "Wolodymyr Selenskyj",
+      "speaker_role": "Pr\u00e4sident",
+      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
+      "stance": "neutral",
+      "article_title": "Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.op-online.de/politik/ukraine-gespraeche-in-miami-mit-unterhaendlern-aller-seiten-zr-94093419.html"
+    },
+    {
+      "id": 3797,
+      "article_id": 342,
+      "speaker": "Kirill Dmitrijew",
+      "speaker_role": "Berater von Kremlchef Wladimir Putin",
+      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
+      "stance": "support",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
       "source_url": "https://www.tagesspiegel.de/internationales/angriffskrieg-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-15070560.html"
     },
     {
-      "id": 846,
+      "id": 3798,
+      "article_id": 342,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump ist in dieser Frage absolut engagiert. Er ist darauf fokussiert, diesen Krieg zu beenden",
+      "stance": "support",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.tagesspiegel.de/internationales/angriffskrieg-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-15070560.html"
+    },
+    {
+      "id": 3799,
+      "article_id": 342,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Nato-Generalsekret\u00e4r",
+      "quote_text": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Einzige, der Putin am Ende zu einem Friedensschluss zwingen k\u00f6nne",
+      "stance": "support",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.tagesspiegel.de/internationales/angriffskrieg-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-15070560.html"
+    },
+    {
+      "id": 3800,
+      "article_id": 342,
+      "speaker": "Emmanuel Macron",
+      "speaker_role": "Pr\u00e4sident",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.tagesspiegel.de/internationales/angriffskrieg-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-15070560.html"
+    },
+    {
+      "id": 3801,
+      "article_id": 342,
+      "speaker": "Wolodymyr Selenskyj",
+      "speaker_role": "Pr\u00e4sident",
+      "quote_text": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mit ihren europ\u00e4ischen Partnern im gr\u00f6\u00dferen Kreis beraten sollte",
+      "stance": "neutral",
+      "article_title": "Angriffskrieg: Ukraine-Gespr\u00e4che in Miami mit Unterh\u00e4ndlern aller Seiten",
+      "source_url": "https://www.tagesspiegel.de/internationales/angriffskrieg-ukraine-gesprache-in-miami-mit-unterhandlern-aller-seiten-15070560.html"
+    },
+    {
+      "id": 3789,
       "article_id": 340,
-      "speaker": "Juri Uschakow",
-      "speaker_role": "au\u00dfenpolitischer Berater von Pr\u00e4sident Wladimir Putin",
-      "quote_text": "\"Ich bin sicher, dass die Vorschl\u00e4ge, die die Europ\u00e4er und Ukrainer gemacht haben ... die M\u00f6glichkeit eines langfristigen Friedens definitiv nicht verbessern\"",
+      "speaker": "Vladimir Putin",
+      "speaker_role": "President of Russia",
+      "quote_text": "Ich bin sicher, dass die Vorschl\u00e4ge, die die Europ\u00e4er und Ukrainer gemacht haben ... die M\u00f6glichkeit eines langfristigen Friedens definitiv nicht verbessern",
       "stance": "oppose",
       "article_title": "+++ Nachrichten im Ukraine-Krieg +++: Keine direkten Gespr\u00e4che zwischen Russland und Ukraine",
       "source_url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6140415/"
     },
     {
-      "id": 847,
+      "id": 3790,
       "article_id": 340,
-      "speaker": "Kirill Dmitrijew",
-      "speaker_role": "russischer Unterh\u00e4ndler",
-      "quote_text": "\"Die Diskussionen werden konstruktiv gef\u00fchrt\"",
+      "speaker": "Vladimir Putin",
+      "speaker_role": "President of Russia",
+      "quote_text": "Wenn es einen gegenseitigen politischen Willen gibt, dann kann das nur positiv gesehen werden",
       "stance": "neutral",
       "article_title": "+++ Nachrichten im Ukraine-Krieg +++: Keine direkten Gespr\u00e4che zwischen Russland und Ukraine",
       "source_url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6140415/"
     },
     {
-      "id": 848,
-      "article_id": 340,
-      "speaker": "Dmitri Peskow",
-      "speaker_role": "Kreml-Sprecher",
-      "quote_text": "\"Wenn es einen gegenseitigen politischen Willen gibt, dann kann das nur positiv gesehen werden\"",
-      "stance": "neutral",
-      "article_title": "+++ Nachrichten im Ukraine-Krieg +++: Keine direkten Gespr\u00e4che zwischen Russland und Ukraine",
-      "source_url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6140415/"
-    },
-    {
-      "id": 849,
+      "id": 3791,
       "article_id": 340,
       "speaker": "Emmanuel Macron",
-      "speaker_role": "franz\u00f6sischer Pr\u00e4sident",
-      "quote_text": "Es k\u00f6nnte n\u00fctzlich sein f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der Diskussion beteiligt zu sein.",
+      "speaker_role": "President of France",
+      "quote_text": "Ansonsten diskutieren wir untereinander mit Verhandlungsf\u00fchrern, die allein mit den Russen diskutieren werden. Das ist nicht optimal.",
+      "stance": "neutral",
+      "article_title": "+++ Nachrichten im Ukraine-Krieg +++: Keine direkten Gespr\u00e4che zwischen Russland und Ukraine",
+      "source_url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6140415/"
+    },
+    {
+      "id": 3792,
+      "article_id": 340,
+      "speaker": "Kirill Dmitriev",
+      "speaker_role": "Russian negotiator",
+      "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
       "stance": "support",
       "article_title": "+++ Nachrichten im Ukraine-Krieg +++: Keine direkten Gespr\u00e4che zwischen Russland und Ukraine",
       "source_url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6140415/"
     },
     {
-      "id": 850,
+      "id": 3793,
       "article_id": 340,
-      "speaker": "Wolodymyr Selenskyj",
-      "speaker_role": "ukrainischer Pr\u00e4sident",
-      "quote_text": "\"Es ist nicht an Putin, zu entscheiden, wann und in welchem Format Wahlen in der Ukraine stattfinden\"",
+      "speaker": "Volodymyr Zelenskyy",
+      "speaker_role": "President of Ukraine",
+      "quote_text": "Es ist nicht an Putin, zu entscheiden, wann und in welchem Format Wahlen in der Ukraine stattfinden",
       "stance": "oppose",
       "article_title": "+++ Nachrichten im Ukraine-Krieg +++: Keine direkten Gespr\u00e4che zwischen Russland und Ukraine",
       "source_url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6140415/"
     },
     {
-      "id": 851,
+      "id": 3794,
       "article_id": 340,
-      "speaker": "Wladimir Putin",
-      "speaker_role": "russischer Pr\u00e4sident",
-      "quote_text": "Er beharrte auf den russischen Bedingungen f\u00fcr ein Kriegsende, die sich seit Juni 2024 nicht ge\u00e4ndert h\u00e4tten.",
+      "speaker": "Vladimir Putin",
+      "speaker_role": "President of Russia",
+      "quote_text": "Die Ukraine m\u00fcsse ihre Nato-Beitrittsabsichten aufgeben und sich vollst\u00e4ndig aus vier ukrainischen Regionen zur\u00fcckziehen, die Russland f\u00fcr sich beansprucht.",
       "stance": "oppose",
       "article_title": "+++ Nachrichten im Ukraine-Krieg +++: Keine direkten Gespr\u00e4che zwischen Russland und Ukraine",
       "source_url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6140415/"
     },
     {
-      "id": 852,
+      "id": 3795,
       "article_id": 340,
       "speaker": "Marco Rubio",
-      "speaker_role": "US-Au\u00dfenminister und Nationaler Sicherheitsberater",
-      "quote_text": "Ich hoffe es, dass noch vor Jahresende eine Einigung erzielt werden k\u00f6nne.",
+      "speaker_role": "US National Security Advisor",
+      "quote_text": "Ich hoffe es",
       "stance": "neutral",
       "article_title": "+++ Nachrichten im Ukraine-Krieg +++: Keine direkten Gespr\u00e4che zwischen Russland und Ukraine",
       "source_url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6140415/"
     },
     {
-      "id": 863,
+      "id": 3808,
       "article_id": 344,
       "speaker": "Kirill Dmitrijew",
       "speaker_role": "Russian negotiator",
@@ -1500,17 +1444,17 @@
       "source_url": "https://brf.be/international/2035164/"
     },
     {
-      "id": 815,
+      "id": 3753,
       "article_id": 331,
       "speaker": "Kirill Dmitrijew",
-      "speaker_role": "Russian negotiator",
+      "speaker_role": "Adviser to Vladimir Putin",
       "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
       "stance": "neutral",
       "article_title": "Ukraine-Liveticker: Putin-Gesandter: \"Konstruktive\" Gespr\u00e4che in Miami",
       "source_url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-putin-gesandter-konstruktive-gespraeche-in-miami-faz-110683325.html"
     },
     {
-      "id": 830,
+      "id": 3764,
       "article_id": 335,
       "speaker": "Kirill Dmitrijew",
       "speaker_role": "Berater von Kremlchef Wladimir Putin",
@@ -1520,10 +1464,10 @@
       "source_url": "https://www.stern.de/politik/ausland/angriffskrieg--russischer-unterhaendler--ukraine-gespraeche--konstruktiv--36981902.html"
     },
     {
-      "id": 831,
+      "id": 3765,
       "article_id": 336,
       "speaker": "Kirill Dmitrijew",
-      "speaker_role": "Russian negotiator",
+      "speaker_role": "Berater von Kremlchef Wladimir Putin",
       "quote_text": "Die Diskussionen werden konstruktiv gef\u00fchrt",
       "stance": "neutral",
       "article_title": "Angriffskrieg: Russischer Unterh\u00e4ndler: Ukraine-Gespr\u00e4che \"konstruktiv\"",
@@ -1532,147 +1476,159 @@
   ],
   "stakeholders": [
     {
-      "stakeholder": "Ukraine",
+      "stakeholder": "Mark Rutte",
       "position": "support",
-      "reasoning": "Seeking a peaceful resolution and continued support from allies.",
-      "mention_count": 11
-    },
-    {
-      "stakeholder": "USA",
-      "position": "support",
-      "reasoning": "Facilitating talks and providing support to Ukraine.",
+      "reasoning": "Praises Donald Trump's engagement in ending the war.",
       "mention_count": 10
     },
     {
-      "stakeholder": "Russia",
+      "stakeholder": "Vladimir Putin",
       "position": "neutral",
-      "reasoning": "Expressing a willingness to engage in constructive discussions.",
+      "reasoning": "Expresses willingness to engage in dialogue with Macron if there is political will.",
       "mention_count": 9
-    },
-    {
-      "stakeholder": "USA",
-      "position": "neutral",
-      "reasoning": "Acting as a mediator to facilitate talks.",
-      "mention_count": 9
-    },
-    {
-      "stakeholder": "NATO",
-      "position": "support",
-      "reasoning": "Praises Trump's engagement in ending the war.",
-      "mention_count": 7
-    },
-    {
-      "stakeholder": "Ukraine",
-      "position": "neutral",
-      "reasoning": "The article reports on talks *about* Ukraine, but doesn't state Ukraine's position.",
-      "mention_count": 7
-    },
-    {
-      "stakeholder": "Russia",
-      "position": "support",
-      "reasoning": "Negotiator describes talks as 'constructive'.",
-      "mention_count": 5
-    },
-    {
-      "stakeholder": "Russland",
-      "position": "neutral",
-      "reasoning": "Participating in talks and expressing willingness for dialogue.",
-      "mention_count": 4
-    },
-    {
-      "stakeholder": "France",
-      "position": "support",
-      "reasoning": "Macron believes direct talks with Putin are necessary for optimal progress.",
-      "mention_count": 3
-    },
-    {
-      "stakeholder": "Nato",
-      "position": "support",
-      "reasoning": "Acknowledging US efforts to end the war.",
-      "mention_count": 3
     },
     {
       "stakeholder": "Donald Trump",
       "position": "support",
-      "reasoning": "Seen as key to ending the war and bringing Putin to the negotiating table.",
-      "mention_count": 1
+      "reasoning": "Praised by NATO Secretary-General Mark Rutte for his engagement in ending the war.",
+      "mention_count": 8
+    },
+    {
+      "stakeholder": "Kirill Dmitrijew",
+      "position": "neutral",
+      "reasoning": "Reports the talks are 'constructive'.",
+      "mention_count": 5
+    },
+    {
+      "stakeholder": "United States",
+      "position": "neutral",
+      "reasoning": "Acting as a mediator.",
+      "mention_count": 5
+    },
+    {
+      "stakeholder": "Wolodymyr Selenskyj",
+      "position": "neutral",
+      "reasoning": "Seeks further consultation with European partners after US talks.",
+      "mention_count": 5
+    },
+    {
+      "stakeholder": "Kirill Dmitrijew",
+      "position": "support",
+      "reasoning": "Described the discussions as constructive.",
+      "mention_count": 4
+    },
+    {
+      "stakeholder": "Emmanuel Macron",
+      "position": "neutral",
+      "reasoning": "Believes direct talks with Putin are necessary for Europe and Ukraine.",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Russia",
+      "position": "neutral",
+      "reasoning": "Described discussions as constructive and expressed willingness for dialogue.",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Ukraine",
+      "position": "neutral",
+      "reasoning": "Seeking further consultation with European partners after US talks.",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "United States",
+      "position": "support",
+      "reasoning": "Facilitating peace talks and continuing information exchange and weapon deliveries to Ukraine.",
+      "mention_count": 3
     },
     {
       "stakeholder": "Emmanuel Macron",
       "position": "support",
-      "reasoning": "Believes direct talks with Putin are beneficial for Europe and Ukraine.",
-      "mention_count": 1
+      "reasoning": "Believes direct involvement in discussions is optimal.",
+      "mention_count": 2
     },
     {
-      "stakeholder": "Europa",
-      "position": "neutral",
-      "reasoning": "Participated in talks seeking a resolution.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Europa",
-      "position": "support",
-      "reasoning": "Wants to be directly involved in the discussion with Putin.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Europ\u00e4er",
+      "stakeholder": "European Union",
       "position": "neutral",
       "reasoning": "Participating in peace talks.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Europ\u00e4ern",
-      "position": "neutral",
-      "reasoning": "Participating in peace talks.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "France",
-      "position": "neutral",
-      "reasoning": "Macron believes direct talks with Putin are necessary for Europe and Ukraine.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Mark Rutte",
-      "position": "support",
-      "reasoning": "Praises Trump's engagement and expects continued US support for Ukraine.",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "stakeholder": "Russia",
-      "position": "unknown",
-      "reasoning": "No direct statement provided in the article.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Russland",
-      "position": "oppose",
-      "reasoning": "Rejects changes to US peace proposals and insists on original conditions.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Russland",
       "position": "support",
-      "reasoning": "Expressed satisfaction with the constructive nature of the discussions.",
-      "mention_count": 1
+      "reasoning": "Kirill Dmitrijew describes discussions as constructive.",
+      "mention_count": 2
     },
     {
       "stakeholder": "Ukraine",
+      "position": "support",
+      "reasoning": "Seeking continued negotiations and coordination with European partners.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Volodymyr Zelenskyj",
+      "position": "neutral",
+      "reasoning": "Seeking broader European involvement in the negotiations.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Wolodymyr Selenskyj",
+      "position": "support",
+      "reasoning": "Seeks broader consultation with European partners after US talks.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Kirill Dmitrijew",
+      "position": "positive",
+      "reasoning": "Described the discussions as constructive.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Rustem Umjerow",
+      "position": "positive",
+      "reasoning": "Expresses expectation of further progress and practical results.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Rustem Umjerow",
+      "position": "support",
+      "reasoning": "Expresses hope for further progress and practical results.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Vladimir Putin",
       "position": "oppose",
-      "reasoning": "Rejects territorial concessions and Putin's demands for new elections.",
+      "reasoning": "Rejects changes to US peace proposals and insists on Ukraine abandoning NATO and ceding territory.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Vladimir Putin",
+      "position": "support",
+      "reasoning": "Willing to meet with Emmanuel Macron for dialogue.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Volodymyr Zelenskyj",
+      "position": "support",
+      "reasoning": "Emphasized the need for further meetings with European partners to intensify diplomatic efforts.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Volodymyr Zelenskyy",
+      "position": "neutral",
+      "reasoning": "Seeking continued diplomatic efforts with both US and European partners.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Volodymyr Zelenskyy",
+      "position": "oppose",
+      "reasoning": "Rejects Putin's demands regarding elections and territorial concessions.",
       "mention_count": 1
     },
     {
       "stakeholder": "Wladimir Putin",
       "position": "neutral",
-      "reasoning": "Open to bilateral talks with Macron.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Wolodymyr Selenskyj",
-      "position": "support",
-      "reasoning": "Seeking further negotiations with European partners.",
+      "reasoning": "Expresses willingness to engage in dialogue with Macron.",
       "mention_count": 1
     }
   ],
@@ -1694,23 +1650,8 @@
         "article_count": 1
       },
       {
-        "source": "Freie Presse",
-        "avg_sentiment": 0.1,
-        "article_count": 1
-      },
-      {
         "source": "Weser Kurier",
         "avg_sentiment": 0.1,
-        "article_count": 1
-      },
-      {
-        "source": "Der Tagesspiegel",
-        "avg_sentiment": 0.1,
-        "article_count": 1
-      },
-      {
-        "source": "TAG24",
-        "avg_sentiment": 0.2,
         "article_count": 1
       },
       {
@@ -1734,6 +1675,11 @@
         "article_count": 1
       },
       {
+        "source": "Freie Presse",
+        "avg_sentiment": 0.2,
+        "article_count": 1
+      },
+      {
         "source": "Frankfurter Neue Presse",
         "avg_sentiment": 0.2,
         "article_count": 1
@@ -1749,7 +1695,7 @@
         "article_count": 1
       },
       {
-        "source": "Frankfurter Allgemeine",
+        "source": "Der Tagesspiegel",
         "avg_sentiment": 0.2,
         "article_count": 1
       },
@@ -1764,7 +1710,17 @@
         "article_count": 2
       },
       {
+        "source": "TAG24",
+        "avg_sentiment": 0.3,
+        "article_count": 1
+      },
+      {
         "source": "BRF Nachrichten",
+        "avg_sentiment": 0.3,
+        "article_count": 1
+      },
+      {
+        "source": "Frankfurter Allgemeine",
         "avg_sentiment": 0.3,
         "article_count": 1
       },
@@ -1775,7 +1731,7 @@
       },
       {
         "source": "Vienna Online",
-        "avg_sentiment": 0.4,
+        "avg_sentiment": 0.6,
         "article_count": 1
       }
     ],
@@ -1799,17 +1755,7 @@
           "article_count": 1
         },
         {
-          "source": "Freie Presse",
-          "avg_sentiment": 0.1,
-          "article_count": 1
-        },
-        {
           "source": "Weser Kurier",
-          "avg_sentiment": 0.1,
-          "article_count": 1
-        },
-        {
-          "source": "Der Tagesspiegel",
           "avg_sentiment": 0.1,
           "article_count": 1
         }
@@ -1817,11 +1763,21 @@
       "positive": [
         {
           "source": "Vienna Online",
-          "avg_sentiment": 0.4,
+          "avg_sentiment": 0.6,
+          "article_count": 1
+        },
+        {
+          "source": "TAG24",
+          "avg_sentiment": 0.3,
           "article_count": 1
         },
         {
           "source": "BRF Nachrichten",
+          "avg_sentiment": 0.3,
+          "article_count": 1
+        },
+        {
+          "source": "Frankfurter Allgemeine",
           "avg_sentiment": 0.3,
           "article_count": 1
         },
@@ -1839,11 +1795,6 @@
           "source": "Trierischer Volksfreund. Die Zeitung f\u00fcr die Region Trier/Mosel",
           "avg_sentiment": 0.25,
           "article_count": 2
-        },
-        {
-          "source": "TAG24",
-          "avg_sentiment": 0.2,
-          "article_count": 1
         },
         {
           "source": "Livesystems",
@@ -1866,6 +1817,11 @@
           "article_count": 1
         },
         {
+          "source": "Freie Presse",
+          "avg_sentiment": 0.2,
+          "article_count": 1
+        },
+        {
           "source": "Frankfurter Neue Presse",
           "avg_sentiment": 0.2,
           "article_count": 1
@@ -1881,7 +1837,7 @@
           "article_count": 1
         },
         {
-          "source": "Frankfurter Allgemeine",
+          "source": "Der Tagesspiegel",
           "avg_sentiment": 0.2,
           "article_count": 1
         }
@@ -1889,23 +1845,35 @@
     },
     "summary": {
       "negative_count": 1,
-      "neutral_count": 5,
-      "positive_count": 14,
+      "neutral_count": 3,
+      "positive_count": 16,
       "total_count": 20
     }
   },
   "quote_network": [
     {
       "from": "Wolodymyr Selenskyj",
-      "to": "USA",
+      "to": "Ukraine",
       "stance": "neutral",
       "quote_snippet": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mi"
     },
     {
-      "from": "Wolodymyr Selenskyj",
+      "from": "Volodymyr Zelenskyj",
       "to": "Ukraine",
       "stance": "neutral",
       "quote_snippet": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mi"
+    },
+    {
+      "from": "Mark Rutte",
+      "to": "Kreml",
+      "stance": "positive",
+      "quote_snippet": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Ei"
+    },
+    {
+      "from": "Mark Rutte",
+      "to": "Ukraine",
+      "stance": "positive",
+      "quote_snippet": "Davon gehe ich \u00fcberhaupt nicht aus. Was wir im Moment sehen, ist, dass der Informationsaustausch und"
     },
     {
       "from": "Mark Rutte",
@@ -1914,58 +1882,40 @@
       "quote_snippet": "Trump sei der Einzige, der Kremlchef Putin an den Verhandlungstisch habe bringen k\u00f6nnen - und der Ei"
     },
     {
-      "from": "Emmanuel Macron",
-      "to": "Ukraine",
-      "stance": "neutral",
-      "quote_snippet": "es n\u00fctzlich sein k\u00f6nnte f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der D"
-    },
-    {
-      "from": "Emmanuel Macron",
-      "to": "Europa",
-      "stance": "neutral",
-      "quote_snippet": "es n\u00fctzlich sein k\u00f6nnte f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der D"
-    },
-    {
-      "from": "Volodymyr Selenskyj",
-      "to": "USA",
-      "stance": "neutral",
-      "quote_snippet": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mi"
-    },
-    {
-      "from": "Volodymyr Selenskyj",
+      "from": "Volodymyr Zelenskyy",
       "to": "Ukraine",
       "stance": "neutral",
       "quote_snippet": "Es gebe Einigkeit dar\u00fcber, dass die Ukraine nach der Arbeit ihres diplomatischen Teams in den USA mi"
     },
     {
-      "from": "Juri Uschakow",
-      "to": "Ukraine",
-      "stance": "oppose",
-      "quote_snippet": "\"Ich bin sicher, dass die Vorschl\u00e4ge, die die Europ\u00e4er und Ukrainer gemacht haben ... die M\u00f6glichkei"
-    },
-    {
-      "from": "Juri Uschakow",
-      "to": "Europ\u00e4er",
-      "stance": "oppose",
-      "quote_snippet": "\"Ich bin sicher, dass die Vorschl\u00e4ge, die die Europ\u00e4er und Ukrainer gemacht haben ... die M\u00f6glichkei"
-    },
-    {
-      "from": "Emmanuel Macron",
+      "from": "Mark Rutte",
       "to": "Ukraine",
       "stance": "support",
-      "quote_snippet": "Es k\u00f6nnte n\u00fctzlich sein f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der D"
+      "quote_snippet": "Davon gehe ich \u00fcberhaupt nicht aus. Was wir im Moment sehen, ist, dass der Informationsaustausch und"
     },
     {
-      "from": "Emmanuel Macron",
-      "to": "Europa",
-      "stance": "support",
-      "quote_snippet": "Es k\u00f6nnte n\u00fctzlich sein f\u00fcr Europa und die Ukraine, wieder mit Putin zu sprechen, um direkt an der D"
-    },
-    {
-      "from": "Wolodymyr Selenskyj",
+      "from": "Vladimir Putin",
       "to": "Ukraine",
       "stance": "oppose",
-      "quote_snippet": "\"Es ist nicht an Putin, zu entscheiden, wann und in welchem Format Wahlen in der Ukraine stattfinden"
+      "quote_snippet": "Ich bin sicher, dass die Vorschl\u00e4ge, die die Europ\u00e4er und Ukrainer gemacht haben ... die M\u00f6glichkeit"
+    },
+    {
+      "from": "Volodymyr Zelenskyy",
+      "to": "Ukraine",
+      "stance": "oppose",
+      "quote_snippet": "Es ist nicht an Putin, zu entscheiden, wann und in welchem Format Wahlen in der Ukraine stattfinden"
+    },
+    {
+      "from": "Vladimir Putin",
+      "to": "Nato",
+      "stance": "oppose",
+      "quote_snippet": "Die Ukraine m\u00fcsse ihre Nato-Beitrittsabsichten aufgeben und sich vollst\u00e4ndig aus vier ukrainischen R"
+    },
+    {
+      "from": "Vladimir Putin",
+      "to": "NATO",
+      "stance": "oppose",
+      "quote_snippet": "Die Ukraine m\u00fcsse ihre Nato-Beitrittsabsichten aufgeben und sich vollst\u00e4ndig aus vier ukrainischen R"
     }
   ],
   "summary_stats": {
@@ -1975,38 +1925,34 @@
       "start": "2025-12-21T01:30:42Z",
       "end": "2025-12-22T14:47:19Z"
     },
-    "avg_sentiment": 0.1863636363636364,
-    "total_quotes": 73,
+    "avg_sentiment": 0.21363636363636365,
+    "total_quotes": 84,
     "total_financial_mentions": 0
   },
-  "executive_brief": "Peace talks regarding the Ukraine conflict took place in Miami involving representatives from all sides, generating 22 articles from 20 sources between December 21st and 22nd, 2025. The overall sentiment is largely positive (average score 0.19), though details of progress remain undisclosed. This event is significant as it represents a renewed effort to find a diplomatic resolution to a protracted conflict, potentially impacting regional and global stability. \n\nStakeholders express cautiously optimistic views, with the US and Ukrainian governments describing the talks as \"productive,\" \"constructive,\" and \"positive.\" However, Russian officials, including Juri Uschakow, voice skepticism about proposals from European and Ukrainian parties. While Wladimir Putin indicates a willingness to engage in dialogue, he maintains existing conditions for a ceasefire. There are no significant financial implications mentioned in the provided data.",
+  "executive_brief": "Peace talks involving all sides of the Ukraine conflict took place in Miami, with initial reports indicating a positive, though vague, outcome. The event garnered coverage from 22 articles across 20 sources between December 21st and 22nd, 2025, with overwhelmingly positive sentiment (0.21 average score). This is significant as it represents a potential, albeit preliminary, step towards de-escalation in a prolonged conflict, and the involvement of multiple key international actors suggests a concerted effort to find a resolution. \n\nStakeholder positions are largely neutral, with many describing the talks as 'constructive' (Kirill Dmitrijew, Rustem Umjerow, Russia, Ukraine). Donald Trump is receiving praise from Mark Rutte for his engagement, while Vladimir Putin expresses conditional willingness to engage with Macron, but simultaneously outlines non-negotiable demands regarding NATO membership and territorial concessions. There are no significant financial implications mentioned in the provided data, and Wolodymyr Selenskyj seeks further consultation with European partners.",
   "key_arguments": {
     "for": [
-      "The US government views the talks as \"productive and constructive.\"",
-      "The Ukrainian government \"saw the talks positively.\"",
-      "Kirill Dmitrijew, a Russian negotiator, stated that \"The discussions are being conducted constructively.\"",
-      "Rustem Umjerow expects \"further progress and practical results.\"",
-      "Emmanuel Macron believes direct talks with Putin are necessary for optimal progress."
+      "The discussions are being conducted in a 'constructive' manner, according to Kirill Dmitrijew and Rustem Umjerow.",
+      "Donald Trump's engagement in ending the war is being praised by Mark Rutte."
     ],
     "against": [
-      "Juri Uschakow believes that proposals from Europeans and Ukrainians will not improve the possibility of a long-term peace.",
-      "Wolodymyr Selenskyj asserts that Putin should not decide on the timing or format of Ukrainian elections.",
-      "Wladimir Putin insists on Russia's existing conditions for a ceasefire, unchanged since June 2024."
+      "Vladimir Putin believes that proposals from European and Ukrainian parties do not improve the possibility of a long-term peace.",
+      "Vladimir Putin insists Ukraine must abandon its NATO aspirations and cede control of four regions to Russia."
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "USA - Facilitating talks and potentially mediating a resolution.",
-      "NATO - Praised for Trump's engagement in ending the war."
+      "Donald Trump - Receiving praise for engagement in peace efforts.",
+      "Mark Rutte - Positions himself as supportive of diplomatic solutions."
     ],
     "losers": [],
     "risks": [
-      "Lack of concrete progress despite positive sentiment.",
-      "Continued adherence to existing conditions by Russia, potentially hindering a breakthrough."
+      "Fundamental disagreements remain between Russia and Ukraine regarding NATO membership and territorial integrity, as highlighted by Vladimir Putin's statements.",
+      "The lack of concrete progress despite 'positive' talks suggests the path to a lasting peace remains uncertain."
     ],
     "opportunities": [
-      "Potential for a peaceful resolution to the Ukraine conflict.",
-      "Advancement towards practical results and progress in negotiations."
+      "Potential for de-escalation of the Ukraine conflict through continued dialogue.",
+      "Opportunity for the United States to act as a mediator in the conflict."
     ]
   }
 }

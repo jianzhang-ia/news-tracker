@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T10:29:48.275059",
+  "generated_at": "2025-12-29T17:31:15.905267",
   "events": [
     {
       "id": 30,
@@ -8,12 +8,12 @@
       "category": "ev",
       "summary": "Berlin. Die IG Metall k\u00e4mpft f\u00fcr die Einf\u00fchrung eines Tariflohns beim US-Autobauer Tesla in Gr\u00fcnheide bei Berlin. Die Werksf\u00fchrung lehnt das ab. Warum?\n\nDer US-Elektroautobauer Tesla in Gr\u00fcnheide bei Berlin lehnt die Einf\u00fchrung eines Tarifvertrags kategorisch ab. \"Es gab dieses Jahr eine Entgelterh\u00f6...",
       "first_seen": "2025-12-28T11:39:28.964379",
-      "last_updated": "2025-12-29T10:25:07.418640",
+      "last_updated": "2025-12-29T17:31:01.038369",
       "created_at": "2025-12-28 10:39:28",
       "article_count": 16,
       "first_article_date": "2025-12-28T03:12:31Z",
       "last_article_date": "2025-12-28T10:03:32Z",
-      "avg_sentiment": -0.275,
+      "avg_sentiment": -0.29375,
       "positive_articles": 0,
       "negative_articles": 16,
       "top_companies": [
@@ -27,20 +27,20 @@
       "category": "other",
       "summary": "HONG KONG (AP) -- China's exports returned to growth in November following an unexpected contraction the month before, although shipments to the United States dropped nearly 29% from a year earlier in an eighth straight month of double-digit declines.\n\nOverall exports from China in November were 5.9...",
       "first_seen": "2025-12-28T11:37:33.088218",
-      "last_updated": "2025-12-29T10:25:07.297278",
+      "last_updated": "2025-12-29T17:31:00.698228",
       "created_at": "2025-12-28 10:37:33",
       "article_count": 140,
       "first_article_date": "2025-12-05T04:57:28Z",
       "last_article_date": "2025-12-09T07:47:40Z",
-      "avg_sentiment": 0.11798561151079141,
-      "positive_articles": 102,
+      "avg_sentiment": 0.10642857142857141,
+      "positive_articles": 103,
       "negative_articles": 37,
       "top_companies": [
         "Morgan Stanley",
         "ING Bank",
         "BNP Paribas Asset Management",
-        "ING",
-        "Reuters"
+        "Goldman Sachs",
+        "Volkswagen"
       ]
     },
     {
@@ -50,19 +50,18 @@
       "category": "steel",
       "summary": "Hennigsdorf - Nach rund einem Jahr Kurzarbeit nimmt das Stahlwerk in Hennigsdorf (Oberhavel) seine Produktion wieder auf. Das teilten Gesch\u00e4ftsf\u00fchrung und Betriebsrat der Hennigsdorfer Elektrostahlwerke GmbH am Vormittag mit. Sie h\u00e4tten sich auf einen gemeinsamen \"Zukunftspakt\" f\u00fcr das Werk verst\u00e4nd...",
       "first_seen": "2025-12-28T11:35:06.045020",
-      "last_updated": "2025-12-29T10:25:06.824158",
+      "last_updated": "2025-12-29T17:31:00.421657",
       "created_at": "2025-12-28 10:35:06",
       "article_count": 9,
       "first_article_date": "2025-12-19T10:07:23Z",
       "last_article_date": "2025-12-19T15:31:54Z",
-      "avg_sentiment": -0.09999999999999999,
+      "avg_sentiment": -0.07777777777777778,
       "positive_articles": 3,
       "negative_articles": 6,
       "top_companies": [
-        "Riva-Konzern",
-        "Hennigsdorfer Elektrostahlwerke GmbH",
-        "Stahlwerk Hennigsdorf",
-        "Hennigsdorfer Elektrostahlwerke GmbH (HES)"
+        "Riva",
+        "Hennigsdorfer Elektrostahlwerke",
+        "Stahlwerk Hennigsdorf"
       ]
     },
     {
@@ -72,18 +71,15 @@
       "category": "other",
       "summary": "Les quatre principaux syndicats agricoles vont \u00eatre re\u00e7us par le Pr\u00e9sident de la R\u00e9publique, pour \u00e9changer \u00e0 propos de l'accord UE-Mercosur.\n\nLa FNSEA, les Jeunes agriculteurs (JA), la Coordination rurale et la Conf\u00e9d\u00e9ration paysanne vont \u00eatre re\u00e7us \u00e0 16h30, mardi 23 d\u00e9cembre, par le pr\u00e9sident Emman...",
       "first_seen": "2025-12-25T22:48:15.030316",
-      "last_updated": "2025-12-29T10:25:03.030297",
+      "last_updated": "2025-12-29T17:30:59.937486",
       "created_at": "2025-12-25 21:48:15",
       "article_count": 43,
       "first_article_date": "2025-12-23T14:52:10Z",
       "last_article_date": "2025-12-26T15:25:20Z",
-      "avg_sentiment": -0.48139534883720914,
+      "avg_sentiment": -0.5186046511627906,
       "positive_articles": 0,
       "negative_articles": 42,
-      "top_companies": [
-        "Vinci Autoroutes",
-        "Bison-Fut\u00e9"
-      ]
+      "top_companies": []
     },
     {
       "id": 22,
@@ -92,20 +88,19 @@
       "category": "other",
       "summary": "Mit scharfer Kritik hat die deutsche Industrie auf die Verschiebung des EU-Handelsabkommens mit den s\u00fcdamerikanischen Mercosur-Staaten reagiert. \"Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur\", kritisierte Tanja G\u00f6nner, Hauptgesch\u00e4ftsf\u00fchrerin des...",
       "first_seen": "2025-12-25T22:47:07.532052",
-      "last_updated": "2025-12-29T10:25:02.779388",
+      "last_updated": "2025-12-29T17:30:59.795549",
       "created_at": "2025-12-25 21:47:07",
       "article_count": 22,
       "first_article_date": "2025-12-19T11:01:05Z",
       "last_article_date": "2025-12-19T21:51:18Z",
-      "avg_sentiment": -0.5227272727272726,
+      "avg_sentiment": -0.5272727272727271,
       "positive_articles": 1,
       "negative_articles": 21,
       "top_companies": [
         "Volkswagen",
-        "Mercedes-Benz",
-        "BMW",
-        "Verband der Automobilindustrie (VDA)",
-        "Automobilindustrie (VDA)"
+        "Automobilindustrie",
+        "Verband der Automobilindustrie",
+        "Bundesverband der Deutschen Industrie"
       ]
     },
     {
@@ -115,21 +110,15 @@
       "category": "other",
       "summary": "Die Gespr\u00e4che in den USA \u00fcber eine Friedensl\u00f6sung f\u00fcr den Ukraine-Krieg sind nach Angaben verschiedener Seiten positiv verlaufen, ohne dass Details oder konkrete Fortschritte bekannt wurden. An den Unterredungen in Miami im US-Bundesstaat Florida, die das gesamte Wochenende \u00fcber andauern sollten, wa...",
       "first_seen": "2025-12-23T19:30:43.762873",
-      "last_updated": "2025-12-29T10:25:01.626865",
+      "last_updated": "2025-12-29T17:30:59.325921",
       "created_at": "2025-12-23 18:30:43",
       "article_count": 22,
       "first_article_date": "2025-12-21T01:30:42Z",
       "last_article_date": "2025-12-22T14:47:19Z",
-      "avg_sentiment": 0.18636363636363643,
+      "avg_sentiment": 0.21363636363636368,
       "positive_articles": 21,
       "negative_articles": 1,
-      "top_companies": [
-        "IT BOLTWISE",
-        "dpa-AFX",
-        "dpa",
-        "Tass",
-        "Ria Nowosti"
-      ]
+      "top_companies": []
     },
     {
       "id": 20,
@@ -138,17 +127,18 @@
       "category": "other",
       "summary": "F\u00fcr die Studie sind den Angaben nach mehr als 283.000 Mietvertr\u00e4ge ausgewertet worden. Im Vergleich zu 2022 sind die Mieten demnach um 8,8 Prozent gestiegen.\n\nDie monatliche Nettokaltmiete in Hamburg liegt nach einer Studie der Wohnungswirtschaft derzeit im Schnitt bei 9,11 Euro je Quadratmeter. Im ...",
       "first_seen": "2025-12-23T19:27:03.434874",
-      "last_updated": "2025-12-29T10:25:01.211249",
+      "last_updated": "2025-12-29T17:30:59.198432",
       "created_at": "2025-12-23 18:27:03",
       "article_count": 8,
       "first_article_date": "2025-11-27T10:52:17Z",
       "last_article_date": "2025-11-27T17:30:44Z",
-      "avg_sentiment": -0.04375,
+      "avg_sentiment": -0.05,
       "positive_articles": 2,
-      "negative_articles": 5,
+      "negative_articles": 4,
       "top_companies": [
         "Saga",
-        "Center for Real Estate Studies"
+        "Center for Real Estate Studies",
+        "Immobilienverband Deutschland"
       ]
     },
     {
@@ -158,17 +148,16 @@
       "category": "other",
       "summary": "The main goal of security guarantees for Ukraine is to ensure that it never again becomes a victim of an attack.\n\nNATO Secretary General Mark Rutte spoke about three levels of guarantees in an interview with the German tabloid Bild, according to Ukrinform.\n\n\"We must ensure that Ukraine is never atta...",
       "first_seen": "2025-12-23T19:22:53.971077",
-      "last_updated": "2025-12-29T10:25:00.743223",
+      "last_updated": "2025-12-29T17:30:58.701846",
       "created_at": "2025-12-23 18:22:53",
       "article_count": 39,
       "first_article_date": "2025-12-21T17:54:49Z",
       "last_article_date": "2025-12-24T01:25:23Z",
-      "avg_sentiment": -0.19078947368421054,
+      "avg_sentiment": -0.21025641025641023,
       "positive_articles": 11,
-      "negative_articles": 27,
+      "negative_articles": 28,
       "top_companies": [
         "Volkswagen",
-        "US defense industry",
         "Rheinmetall",
         "Lockheed Martin",
         "General Dynamics"
@@ -181,18 +170,18 @@
       "category": "hydrogen",
       "summary": "The European Commission has announced the opening of three new funding opportunities under the Innovation Fund with a total budget of \u20ac5.2 billion in EU Emissions Trading System (EU ETS) revenues . The 2025 Net-Zero Technologies call with a budget of \u20ac2.9 billion, the third auction for hydrogen prod...",
       "first_seen": "2025-12-23T19:15:18.907714",
-      "last_updated": "2025-12-29T10:25:00.613647",
+      "last_updated": "2025-12-29T17:30:58.608704",
       "created_at": "2025-12-23 18:15:18",
       "article_count": 7,
       "first_article_date": "2025-12-03T14:22:16Z",
       "last_article_date": "2025-12-05T12:20:05Z",
-      "avg_sentiment": 0.7071428571428571,
+      "avg_sentiment": 0.6928571428571428,
       "positive_articles": 7,
       "negative_articles": 0,
       "top_companies": [
         "Soler",
         "H2 Energiewiss Kielen",
-        "GPSS (Green Power Storage Solutions)"
+        "GPSS"
       ]
     },
     {
@@ -202,20 +191,20 @@
       "category": "ev",
       "summary": "F\u00fcr Finanzminister Klingbeil ist klar: Wer weiterhin auf Verbrenner setzt, bekommt bald Probleme. Beim Umstieg auf E-Autos fordert er Tempo. Verkehrsminister Schnieder verteidigt die neuen Pl\u00e4ne.\n\nNach dem EU-Vorschlag zur Lockerung der CO2-Grenzwerte f\u00fcr Autos hat Bundesfinanzminister Lars Klingbei...",
       "first_seen": "2025-12-23T18:56:47.220009",
-      "last_updated": "2025-12-29T10:24:58.679022",
+      "last_updated": "2025-12-29T17:30:58.099755",
       "created_at": "2025-12-23 17:56:47",
       "article_count": 21,
       "first_article_date": "2025-12-20T02:05:15Z",
       "last_article_date": "2025-12-22T08:26:52Z",
-      "avg_sentiment": 0.12857142857142856,
-      "positive_articles": 18,
-      "negative_articles": 3,
+      "avg_sentiment": 0.12380952380952379,
+      "positive_articles": 19,
+      "negative_articles": 2,
       "top_companies": [
-        "Autokonzerne",
-        "Autobauer",
+        "Volkswagen",
+        "Mercedes-Benz",
+        "BMW",
         "Mercedes",
-        "VW",
-        "BMW"
+        "MAN"
       ]
     },
     {
@@ -225,19 +214,17 @@
       "category": "hydrogen",
       "summary": "The 3rd German-Nigerian Hydrogen Symposium marked a major milestone in accelerating global drive to build a sustainable and inclusive hydrogen economy.\n\nCo-hosted by the German Federal Foreign Office, the Federal Ministry of Budget and Economic Planning, the Ministry of Petroleum Resources, and impl...",
       "first_seen": "2025-12-23T02:51:51.907935",
-      "last_updated": "2025-12-29T10:24:58.554073",
+      "last_updated": "2025-12-29T17:30:57.990549",
       "created_at": "2025-12-23 01:51:51",
       "article_count": 6,
       "first_article_date": "2025-12-18T02:03:10Z",
       "last_article_date": "2025-12-19T12:19:19Z",
-      "avg_sentiment": 0.7916666666666666,
+      "avg_sentiment": 0.775,
       "positive_articles": 6,
       "negative_articles": 0,
       "top_companies": [
         "GIZ",
-        "AHK Nigeria",
-        "GIZ Nigeria",
-        "Federal University of Technology Owerri"
+        "AHK Nigeria"
       ]
     },
     {
@@ -247,20 +234,20 @@
       "category": "ev",
       "summary": "Die von US-Pr\u00e4sident Donald Trump eingef\u00fchrten hohen Z\u00f6lle lassen die Exporte der deutschen Autoindustrie besonders stark einbrechen. In den ersten drei Quartalen 2025 sind sie um 14 Prozent niedriger ausgefallen als im Vorjahreszeitraum, hei\u00dft es in der Untersuchung des Instituts der deutschen Wirt...",
       "first_seen": "2025-12-23T02:51:51.666802",
-      "last_updated": "2025-12-29T10:24:58.048706",
+      "last_updated": "2025-12-29T17:30:57.492091",
       "created_at": "2025-12-23 01:51:51",
       "article_count": 59,
       "first_article_date": "2025-12-22T06:46:53Z",
       "last_article_date": "2025-12-26T01:28:35Z",
-      "avg_sentiment": -0.5646551724137934,
+      "avg_sentiment": -0.5644067796610172,
       "positive_articles": 0,
-      "negative_articles": 58,
+      "negative_articles": 59,
       "top_companies": [
         "Volkswagen",
-        "Mercedes-Benz",
         "BMW",
-        "Reuters",
-        "Porsche"
+        "Mercedes-Benz",
+        "Germany Trade & Invest",
+        "Tesla"
       ]
     },
     {
@@ -270,14 +257,14 @@
       "category": "ev",
       "summary": "European policy on electric vehicles and combustion engine regulations",
       "first_seen": "2025-12-23T01:26:23.017124",
-      "last_updated": "2025-12-29T10:24:57.922742",
+      "last_updated": "2025-12-29T17:30:57.397256",
       "created_at": "2025-12-23 00:26:23",
       "article_count": 170,
       "first_article_date": "2025-12-15T17:33:26Z",
       "last_article_date": "2025-12-19T17:17:26Z",
-      "avg_sentiment": -0.114705882352941,
+      "avg_sentiment": -0.11823529411764692,
       "positive_articles": 46,
-      "negative_articles": 121,
+      "negative_articles": 116,
       "top_companies": [
         "Volkswagen",
         "Stellantis",
@@ -293,18 +280,18 @@
       "category": "hydrogen",
       "summary": "China Energy Engineering Group Co Ltd, or Energy China, has commenced operations of the world's largest integrated green hydrogen, ammonia and methanol project, marking a milestone in China's push to ",
       "first_seen": "2025-12-23T01:09:54.136386",
-      "last_updated": "2025-12-29T10:24:57.194229",
+      "last_updated": "2025-12-29T17:30:56.691916",
       "created_at": "2025-12-23 00:09:54",
       "article_count": 7,
       "first_article_date": "2025-12-16T11:06:15Z",
       "last_article_date": "2025-12-19T00:18:59Z",
-      "avg_sentiment": 0.7642857142857143,
+      "avg_sentiment": 0.75,
       "positive_articles": 7,
       "negative_articles": 0,
       "top_companies": [
         "Energy China",
-        "China Energy Engineering Corp (Energy China)",
-        "gasworld Global Insights (GWGI)",
+        "China Energy Engineering Group",
+        "China Energy Engineering Corp",
         "Huadian Group",
         "Cmb.Tech"
       ]
@@ -316,20 +303,20 @@
       "category": "steel",
       "summary": "German steel giant Thyssenkrupp halts production at two sites due to competition from Asian imports",
       "first_seen": "2025-12-22T23:52:21.064862",
-      "last_updated": "2025-12-29T10:24:57.087364",
+      "last_updated": "2025-12-29T17:30:56.586016",
       "created_at": "2025-12-22 22:52:21",
       "article_count": 8,
       "first_article_date": "2025-12-09T06:55:58Z",
       "last_article_date": "2025-12-12T08:32:23Z",
-      "avg_sentiment": -0.8142857142857143,
-      "positive_articles": 0,
+      "avg_sentiment": -0.5249999999999999,
+      "positive_articles": 1,
       "negative_articles": 7,
       "top_companies": [
         "Thyssenkrupp",
         "Thyssenkrupp Steel Europe",
-        "Jindal Steel",
-        "Thyssenkrupp Steel",
-        "Thyssenkrup group"
+        "TKMS",
+        "Jindal Steel International",
+        "Jindal Steel"
       ]
     }
   ]

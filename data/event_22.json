@@ -6,10 +6,10 @@
     "category": "other",
     "summary": "Mit scharfer Kritik hat die deutsche Industrie auf die Verschiebung des EU-Handelsabkommens mit den s\u00fcdamerikanischen Mercosur-Staaten reagiert. \"Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur\", kritisierte Tanja G\u00f6nner, Hauptgesch\u00e4ftsf\u00fchrerin des...",
     "first_seen": "2025-12-25T22:47:07.532052",
-    "last_updated": "2025-12-29T10:25:02.779388",
+    "last_updated": "2025-12-29T17:30:59.795549",
     "created_at": "2025-12-25 21:47:07"
   },
-  "generated_at": "2025-12-29T10:30:10.177090",
+  "generated_at": "2025-12-29T17:32:34.887749",
   "articles": [
     {
       "id": 378,
@@ -110,7 +110,7 @@
       "image_url": "https://www4.nachrichten.at/images/og_image/?ogimg=https://www.nachrichten.at/storage/image/7/5/5/4/3454557_germany-economy-industrial_twitter_1FhkjQ_kHILVU.jpg",
       "fetched_at": "2025-12-25 21:47:07",
       "sentiment_score": -0.6,
-      "sentiment_label": "slightly_negative",
+      "sentiment_label": "negative",
       "article_type": "news_report"
     },
     {
@@ -161,7 +161,7 @@
       "image_url": "https://www.it-boltwise.de/wp-content/uploads/2025/12/ai-eu-mercosur-agreement-5.jpg",
       "fetched_at": "2025-12-25 21:47:07",
       "sentiment_score": -0.6,
-      "sentiment_label": "slightly_negative",
+      "sentiment_label": "negative",
       "article_type": "news_report"
     },
     {
@@ -296,7 +296,7 @@
       "language": "deu",
       "image_url": "https://www.schwarzwaelder-bote.de/media.facebook.42868b3f-3e8e-4814-b569-1dfe1c28cfca.normalized.jpg",
       "fetched_at": "2025-12-25 21:47:07",
-      "sentiment_score": -0.3,
+      "sentiment_score": -0.4,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -395,74 +395,104 @@
   "sentiment_trend": [
     {
       "date": "2025-12-19",
-      "avg_sentiment": -0.5227272727272726,
+      "avg_sentiment": -0.5272727272727271,
       "count": 22
     }
   ],
   "entities": {
-    "organizations": [
+    "countries": [
       {
-        "name": "Mercosur",
-        "count": 18
+        "name": "Argentina",
+        "count": 19
       },
       {
-        "name": "Bundesverband der Deutschen Industrie (BDI)",
-        "count": 12
+        "name": "Brazil",
+        "count": 19
       },
       {
-        "name": "EU",
-        "count": 12
+        "name": "Paraguay",
+        "count": 19
       },
       {
-        "name": "EU-Kommission",
-        "count": 12
+        "name": "Uruguay",
+        "count": 19
       },
       {
-        "name": "Verband der Automobilindustrie (VDA)",
+        "name": "Italy",
+        "count": 15
+      },
+      {
+        "name": "United States",
+        "count": 15
+      },
+      {
+        "name": "Germany",
         "count": 11
       },
       {
-        "name": "Bundesverbands der Deutschen Industrie (BDI)",
-        "count": 5
+        "name": "Bolivia",
+        "count": 7
+      },
+      {
+        "name": "Austria",
+        "count": 2
+      },
+      {
+        "name": "Europe",
+        "count": 1
+      },
+      {
+        "name": "France",
+        "count": 1
+      },
+      {
+        "name": "Luxembourg",
+        "count": 1
+      },
+      {
+        "name": "Poland",
+        "count": 1
+      },
+      {
+        "name": "South American countries",
+        "count": 1
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Bundesverband der Deutschen Industrie",
+        "count": 18
+      },
+      {
+        "name": "European Union",
+        "count": 18
+      },
+      {
+        "name": "Mercosur",
+        "count": 17
       },
       {
         "name": "Verband der Automobilindustrie",
-        "count": 2
+        "count": 16
+      },
+      {
+        "name": "EU-Kommission",
+        "count": 13
       },
       {
         "name": "AFP",
         "count": 1
       },
       {
-        "name": "Allianz \"Stop EU-Mercosur\"",
+        "name": "Deutsche Presse-Agentur",
         "count": 1
       },
       {
-        "name": "Bundessparte Industrie der Wirtschaftskammer \u00d6sterreich (WK\u00d6)",
+        "name": "EU-Rat",
         "count": 1
       },
       {
-        "name": "Bundesverband der Deutschen Industrie",
-        "count": 1
-      },
-      {
-        "name": "Bundesverbands der Deutschen Industrie",
-        "count": 1
-      },
-      {
-        "name": "DP",
-        "count": 1
-      },
-      {
-        "name": "Deutsche Presse-Agentur (dpa)",
-        "count": 1
-      },
-      {
-        "name": "Europ\u00e4ischer Rat",
-        "count": 1
-      },
-      {
-        "name": "Greenpeace",
+        "name": "Europ\u00e4ische Union",
         "count": 1
       },
       {
@@ -478,19 +508,15 @@
         "count": 1
       },
       {
-        "name": "Italienische Regierung",
-        "count": 1
-      },
-      {
         "name": "NEOS",
         "count": 1
       },
       {
-        "name": "SP\u00d6",
+        "name": "Rat der Mitgliedsstaaten",
         "count": 1
       },
       {
-        "name": "Verbands der Automobilindustrie",
+        "name": "Stop EU-Mercosur",
         "count": 1
       },
       {
@@ -498,226 +524,196 @@
         "count": 1
       },
       {
-        "name": "men",
-        "count": 1
-      },
-      {
-        "name": "\u00d6VP",
-        "count": 1
-      }
-    ],
-    "countries": [
-      {
-        "name": "Paraguay",
-        "count": 16
-      },
-      {
-        "name": "Uruguay",
-        "count": 16
-      },
-      {
-        "name": "EU",
-        "count": 9
-      },
-      {
-        "name": "Argentina",
-        "count": 8
-      },
-      {
-        "name": "Argentinien",
-        "count": 8
-      },
-      {
-        "name": "Brasilien",
-        "count": 8
-      },
-      {
-        "name": "Brazil",
-        "count": 8
-      },
-      {
-        "name": "US",
-        "count": 8
-      },
-      {
-        "name": "Germany",
-        "count": 7
-      },
-      {
-        "name": "Italy",
-        "count": 7
-      },
-      {
-        "name": "USA",
-        "count": 7
-      },
-      {
-        "name": "Deutschland",
-        "count": 5
-      },
-      {
-        "name": "Bolivia",
-        "count": 4
-      },
-      {
-        "name": "Italien",
-        "count": 4
-      },
-      {
-        "name": "Bolivien",
-        "count": 3
-      },
-      {
-        "name": "Austria",
-        "count": 2
-      },
-      {
-        "name": "South America",
-        "count": 2
-      },
-      {
-        "name": "Berlin",
-        "count": 1
-      },
-      {
-        "name": "Br\u00fcssel",
-        "count": 1
-      },
-      {
-        "name": "Europa",
-        "count": 1
-      },
-      {
-        "name": "Europe",
-        "count": 1
-      },
-      {
-        "name": "Frankreich",
-        "count": 1
-      },
-      {
-        "name": "Luxemburg",
-        "count": 1
-      },
-      {
-        "name": "Mercosur-Staaten",
-        "count": 1
-      },
-      {
-        "name": "Polen",
-        "count": 1
-      },
-      {
-        "name": "s\u00fcdamerikanischen Mercosur-Staaten",
+        "name": "Wirtschaftskammer \u00d6sterreich",
         "count": 1
       }
     ],
     "politicians": [
       {
-        "name": "Giorgia Meloni (Italian Government Chief)",
-        "count": 9
-      },
-      {
         "name": "Giorgia Meloni",
-        "count": 3
+        "count": 14
       },
       {
-        "name": "Ant\u00f3nio Costa (Ratspr\u00e4sident)",
+        "name": "Hildegard M\u00fcller",
+        "count": 11
+      },
+      {
+        "name": "Donald Trump",
+        "count": 10
+      },
+      {
+        "name": "Tanja G\u00f6nner",
+        "count": 10
+      },
+      {
+        "name": "Friedrich Merz",
+        "count": 2
+      },
+      {
+        "name": "Sigi Menz",
+        "count": 2
+      },
+      {
+        "name": "Ant\u00f3nio Costa",
         "count": 1
       },
       {
-        "name": "Christian Stocker (Austrian Chancellor)",
+        "name": "Christian Stocker",
         "count": 1
       },
       {
-        "name": "Donald Trump (US President)",
+        "name": "Douglas Hoyos",
         "count": 1
       },
       {
-        "name": "Friedrich Merz (Bundeskanzler)",
-        "count": 1
-      },
-      {
-        "name": "Friedrich Merz (German Chancellor)",
-        "count": 1
-      },
-      {
-        "name": "Giorgia Meloni (Italian Prime Minister)",
-        "count": 1
-      },
-      {
-        "name": "Giorgia Meloni (italienische Regierungschefin)",
-        "count": 1
-      },
-      {
-        "name": "Luiz In\u00e1cio Lula da Silva (Brasiliens Pr\u00e4sident)",
+        "name": "Luiz In\u00e1cio Lula da Silva",
         "count": 1
       }
     ],
     "companies": [
       {
-        "name": "BMW",
-        "count": 4
-      },
-      {
-        "name": "Mercedes-Benz",
-        "count": 4
-      },
-      {
         "name": "Volkswagen",
-        "count": 4
+        "count": 10
       },
       {
-        "name": "Automobilindustrie (VDA)",
-        "count": 3
+        "name": "Automobilindustrie",
+        "count": 7
       },
       {
-        "name": "Verband der Automobilindustrie (VDA)",
-        "count": 3
+        "name": "Verband der Automobilindustrie",
+        "count": 2
       },
       {
-        "name": "EU-Kommission",
+        "name": "Bundesverband der Deutschen Industrie",
         "count": 1
       }
     ]
   },
   "financial": {
-    "amounts": [],
-    "totals": {}
+    "amounts": [
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "Mercosur population"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "Mercosur population"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "Mercosur population"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "Mercosur population"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "Mercosur population"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "Mercosur population"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "population of the free trade zone"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "Mercosur population"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "Freihandelszone with more than 700 million inhabitants"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "population of the free trade zone"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "Combined population of EU and Mercosur countries"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "Combined population of EU and Mercosur countries"
+      },
+      {
+        "amount": 700000000.0,
+        "currency": "people",
+        "context": "population of the free trade zone"
+      }
+    ],
+    "totals": {
+      "people": 9100000000.0
+    }
   },
   "quotes": [
     {
-      "id": 940,
+      "id": 3874,
       "article_id": 378,
       "speaker": "Friedrich Merz",
       "speaker_role": "German Chancellor",
-      "quote_text": "wenn die Europ\u00e4ische Union in der Handelspolitik auf der Welt glaubw\u00fcrdig bleiben wolle, dann m\u00fcssten jetzt Entscheidungen getroffen werden. \"Und die Entscheidung kann nur lauten, dass Europa zustimmt und dass die Kommissionspr\u00e4sidentin und der Ratspr\u00e4sident morgen nach S\u00fcdamerika reisen und dieses Abkommen unterzeichnen\"",
+      "quote_text": "Und die Entscheidung kann nur lauten, dass Europa zustimmt und dass die Kommissionspr\u00e4sidentin und der Ratspr\u00e4sident morgen nach S\u00fcdamerika reisen und dieses Abkommen unterzeichnen",
       "stance": "support",
       "article_title": "EU will Mercosur-Vertrag am 12. J\u00e4nner unterschreiben",
       "source_url": "https://www.news.at/wirtschaft/eu-will-mercosur-vertrag-am-12-janner-unterschreiben"
     },
     {
-      "id": 941,
+      "id": 3875,
+      "article_id": 378,
+      "speaker": "Friedrich Merz",
+      "speaker_role": "German Chancellor",
+      "quote_text": "es in der EU keine grunds\u00e4tzlichen Einw\u00e4nde mehr gegen das Abkommen gebe",
+      "stance": "support",
+      "article_title": "EU will Mercosur-Vertrag am 12. J\u00e4nner unterschreiben",
+      "source_url": "https://www.news.at/wirtschaft/eu-will-mercosur-vertrag-am-12-janner-unterschreiben"
+    },
+    {
+      "id": 3876,
+      "article_id": 378,
+      "speaker": "Douglas Hoyos",
+      "speaker_role": "NEOS-Generalsekret\u00e4r",
+      "quote_text": "den mehr als sechs Jahre alten Parlamentsbeschluss, der die Regierung zu einem Nein verpflichtet, gemeinsam r\u00fcckg\u00e4ngig zu machen.",
+      "stance": "support",
+      "article_title": "EU will Mercosur-Vertrag am 12. J\u00e4nner unterschreiben",
+      "source_url": "https://www.news.at/wirtschaft/eu-will-mercosur-vertrag-am-12-janner-unterschreiben"
+    },
+    {
+      "id": 3877,
       "article_id": 378,
       "speaker": "Sigi Menz",
-      "speaker_role": "Obmann der Bundessparte Industrie der WK\u00d6",
-      "quote_text": "\"Die letzte Chance f\u00fcr den Mercosur-Vertrag muss gen\u00fctzt werden\"",
+      "speaker_role": "Obmann der Bundessparte Industrie der Wirtschaftskammer \u00d6sterreich",
+      "quote_text": "Die letzte Chance f\u00fcr den Mercosur-Vertrag muss gen\u00fctzt werden",
       "stance": "support",
       "article_title": "EU will Mercosur-Vertrag am 12. J\u00e4nner unterschreiben",
       "source_url": "https://www.news.at/wirtschaft/eu-will-mercosur-vertrag-am-12-janner-unterschreiben"
     },
     {
-      "id": 942,
+      "id": 3878,
       "article_id": 378,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des BDI",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "EU will Mercosur-Vertrag am 12. J\u00e4nner unterschreiben",
       "source_url": "https://www.news.at/wirtschaft/eu-will-mercosur-vertrag-am-12-janner-unterschreiben"
     },
     {
-      "id": 943,
+      "id": 3879,
       "article_id": 378,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -727,57 +723,37 @@
       "source_url": "https://www.news.at/wirtschaft/eu-will-mercosur-vertrag-am-12-janner-unterschreiben"
     },
     {
-      "id": 944,
-      "article_id": 378,
-      "speaker": "Douglas Hoyos",
-      "speaker_role": "NEOS-Generalsekret\u00e4r",
-      "quote_text": "den mehr als sechs Jahre alten Parlamentsbeschluss, der die Regierung zu einem Nein verpflichtet, gemeinsam r\u00fcckg\u00e4ngig zu machen",
+      "id": 3873,
+      "article_id": 379,
+      "speaker": "Friedrich Merz",
+      "speaker_role": "Bundeskanzler",
+      "quote_text": "optimistisch, dass eine Einigung bald erreicht werden kann.",
       "stance": "support",
-      "article_title": "EU will Mercosur-Vertrag am 12. J\u00e4nner unterschreiben",
-      "source_url": "https://www.news.at/wirtschaft/eu-will-mercosur-vertrag-am-12-janner-unterschreiben"
-    },
-    {
-      "id": 945,
-      "article_id": 379,
-      "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Bundesverband der Deutschen Industrie",
-      "quote_text": "betonten die negativen Auswirkungen der Verschiebung auf Europas Glaubw\u00fcrdigkeit",
-      "stance": "oppose",
       "article_title": "EU-Mercosur-Abkommen: Verz\u00f6gerungen und Optimismus",
       "source_url": "https://www.it-boltwise.de/eu-mercosur-abkommen-verzoegerungen-und-optimismus.html"
     },
     {
-      "id": 946,
-      "article_id": 379,
-      "speaker": "Hildegard M\u00fcller",
-      "speaker_role": "Verband der Automobilindustrie",
-      "quote_text": "betonten die negativen Auswirkungen der Verschiebung auf Europas Glaubw\u00fcrdigkeit",
-      "stance": "oppose",
-      "article_title": "EU-Mercosur-Abkommen: Verz\u00f6gerungen und Optimismus",
-      "source_url": "https://www.it-boltwise.de/eu-mercosur-abkommen-verzoegerungen-und-optimismus.html"
-    },
-    {
-      "id": 929,
+      "id": 3862,
       "article_id": 372,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Verschobener Mercosur-Deal sorgt teils f\u00fcr Unmut",
       "source_url": "https://www.wort.lu/wirtschaft/verschobener-mercosur-deal-sorgt-teils-fuer-unmut/115936773.html"
     },
     {
-      "id": 930,
+      "id": 3863,
       "article_id": 372,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im Januar abgeschlossen wird",
       "stance": "support",
       "article_title": "Verschobener Mercosur-Deal sorgt teils f\u00fcr Unmut",
       "source_url": "https://www.wort.lu/wirtschaft/verschobener-mercosur-deal-sorgt-teils-fuer-unmut/115936773.html"
     },
     {
-      "id": 931,
+      "id": 3864,
       "article_id": 372,
       "speaker": "Gauthier Hansel",
       "speaker_role": "Kampagnenleiter bei Greenpeace Luxemburg",
@@ -787,27 +763,17 @@
       "source_url": "https://www.wort.lu/wirtschaft/verschobener-mercosur-deal-sorgt-teils-fuer-unmut/115936773.html"
     },
     {
-      "id": 915,
+      "id": 3852,
       "article_id": 366,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Deutsche Industrie kritisiert Verschiebung von Mercosur-Abkommen",
       "source_url": "https://www.tagesschau.de/wirtschaft/mercosur-deal-kritik-100.html"
     },
     {
-      "id": 916,
-      "article_id": 366,
-      "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
-      "quote_text": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im Januar abgeschlossen wird",
-      "stance": "support",
-      "article_title": "Deutsche Industrie kritisiert Verschiebung von Mercosur-Abkommen",
-      "source_url": "https://www.tagesschau.de/wirtschaft/mercosur-deal-kritik-100.html"
-    },
-    {
-      "id": 917,
+      "id": 3853,
       "article_id": 366,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -817,67 +783,37 @@
       "source_url": "https://www.tagesschau.de/wirtschaft/mercosur-deal-kritik-100.html"
     },
     {
-      "id": 918,
-      "article_id": 366,
-      "speaker": "Hildegard M\u00fcller",
-      "speaker_role": "VDA-Pr\u00e4sidentin",
-      "quote_text": "Die Automobilindustrie in der EU ist heute st\u00e4rker denn je auf eine Verbesserung des Marktzugangs in Drittl\u00e4ndern angewiesen.",
-      "stance": "support",
-      "article_title": "Deutsche Industrie kritisiert Verschiebung von Mercosur-Abkommen",
-      "source_url": "https://www.tagesschau.de/wirtschaft/mercosur-deal-kritik-100.html"
-    },
-    {
-      "id": 919,
-      "article_id": 366,
-      "speaker": "stellvertretender Regierungssprecher",
-      "speaker_role": "stellvertretender Regierungssprecher",
-      "quote_text": "Aufgeschoben ist nicht aufgehoben",
-      "stance": "neutral",
-      "article_title": "Deutsche Industrie kritisiert Verschiebung von Mercosur-Abkommen",
-      "source_url": "https://www.tagesschau.de/wirtschaft/mercosur-deal-kritik-100.html"
-    },
-    {
-      "id": 920,
-      "article_id": 366,
-      "speaker": "stellvertretender Regierungssprecher",
-      "speaker_role": "stellvertretender Regierungssprecher",
-      "quote_text": "F\u00fcr uns ist wichtig: Wir wollen den Abschluss des Mercusor-Abkommens und sind deshalb sehr zufrieden damit, dass das mit diesem Europ\u00e4ischen Rat greifbar und realisierbar geworden ist.",
-      "stance": "support",
-      "article_title": "Deutsche Industrie kritisiert Verschiebung von Mercosur-Abkommen",
-      "source_url": "https://www.tagesschau.de/wirtschaft/mercosur-deal-kritik-100.html"
-    },
-    {
-      "id": 939,
+      "id": 3872,
       "article_id": 377,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Freihandelsabkommen: Deutsche Industrie \u00fcbt Kritik an Verschiebung des Mercosur-Deals",
       "source_url": "https://www.zeit.de/wirtschaft/unternehmen/2025-12/mercosur-unterzeichnung-verschoben-industrie-vda-bdi-kritik"
     },
     {
-      "id": 910,
+      "id": 3848,
       "article_id": 365,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Verschobener Mercosur-Deal verursacht Unmut in der Industrie",
       "source_url": "https://www.nachrichten.at/wirtschaft/verschobener-mercosur-deal-sorgt-fuer-unmut-in-deutscher-industrie;art15,4119969"
     },
     {
-      "id": 911,
+      "id": 3849,
       "article_id": 365,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im J\u00e4nner abgeschlossen wird",
       "stance": "support",
       "article_title": "Verschobener Mercosur-Deal verursacht Unmut in der Industrie",
       "source_url": "https://www.nachrichten.at/wirtschaft/verschobener-mercosur-deal-sorgt-fuer-unmut-in-deutscher-industrie;art15,4119969"
     },
     {
-      "id": 912,
+      "id": 3850,
       "article_id": 365,
       "speaker": "Sigi Menz",
       "speaker_role": "Obmann der WK\u00d6-Bundessparte Industrie",
@@ -887,37 +823,27 @@
       "source_url": "https://www.nachrichten.at/wirtschaft/verschobener-mercosur-deal-sorgt-fuer-unmut-in-deutscher-industrie;art15,4119969"
     },
     {
-      "id": 913,
+      "id": 3851,
       "article_id": 365,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
-      "quote_text": "Die EU sende in Zeiten, in denen eine starke europ\u00e4ische Wirtschaft entscheidend sei, ein Zeichen der Schw\u00e4che und setze ihre Glaubw\u00fcrdigkeit aufs Spiel.",
-      "stance": "oppose",
-      "article_title": "Verschobener Mercosur-Deal verursacht Unmut in der Industrie",
-      "source_url": "https://www.nachrichten.at/wirtschaft/verschobener-mercosur-deal-sorgt-fuer-unmut-in-deutscher-industrie;art15,4119969"
-    },
-    {
-      "id": 914,
-      "article_id": 365,
-      "speaker": "Hildegard M\u00fcller",
-      "speaker_role": "VDA-Pr\u00e4sidentin",
-      "quote_text": "Die Automobilindustrie in der EU ist heute st\u00e4rker denn je auf eine Verbesserung des Marktzugangs in Drittl\u00e4ndern angewiesen.",
+      "quote_text": "Die Automobilindustrie in der EU ist heute st\u00e4rker denn je auf eine Verbesserung des Marktzugangs in Drittl\u00e4ndern angewiesen",
       "stance": "support",
       "article_title": "Verschobener Mercosur-Deal verursacht Unmut in der Industrie",
       "source_url": "https://www.nachrichten.at/wirtschaft/verschobener-mercosur-deal-sorgt-fuer-unmut-in-deutscher-industrie;art15,4119969"
     },
     {
-      "id": 921,
+      "id": 3854,
       "article_id": 367,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Sie betonte, dass die Staats- und Regierungschefs alles tun m\u00fcssten, um das Abkommen im Januar abzuschlie\u00dfen.",
       "stance": "support",
       "article_title": "EU-Handelsabkommen mit Mercosur: Industrie fordert rasche Umsetzung",
       "source_url": "https://www.it-boltwise.de/eu-handelsabkommen-mit-mercosur-industrie-fordert-rasche-umsetzung.html"
     },
     {
-      "id": 922,
+      "id": 3855,
       "article_id": 367,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -927,27 +853,27 @@
       "source_url": "https://www.it-boltwise.de/eu-handelsabkommen-mit-mercosur-industrie-fordert-rasche-umsetzung.html"
     },
     {
-      "id": 937,
+      "id": 3870,
       "article_id": 376,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "stellte die Glaubw\u00fcrdigkeit Europas als geostrategischen Akteur in Frage.",
       "stance": "oppose",
       "article_title": "Industrie kritisiert erneute Verschiebung des EU-Mercosur-Abkommens",
       "source_url": "https://www.it-boltwise.de/industrie-kritisiert-erneute-verschiebung-des-eu-mercosur-abkommens.html"
     },
     {
-      "id": 938,
+      "id": 3871,
       "article_id": 376,
       "speaker": "Hildegard M\u00fcller",
-      "speaker_role": "vom Verband der Automobilindustrie (VDA)",
+      "speaker_role": "Verband der Automobilindustrie",
       "quote_text": "sehen in der Verschiebung ein Signal der Schw\u00e4che.",
       "stance": "oppose",
       "article_title": "Industrie kritisiert erneute Verschiebung des EU-Mercosur-Abkommens",
       "source_url": "https://www.it-boltwise.de/industrie-kritisiert-erneute-verschiebung-des-eu-mercosur-abkommens.html"
     },
     {
-      "id": 932,
+      "id": 3865,
       "article_id": 373,
       "speaker": "Tanja G\u00f6nner",
       "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des BDI",
@@ -957,7 +883,7 @@
       "source_url": "https://www.it-boltwise.de/eu-mercosur-abkommen-wirtschaftliche-unsicherheiten-und-geopolitische-herausforderungen.html"
     },
     {
-      "id": 933,
+      "id": 3866,
       "article_id": 373,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -967,57 +893,47 @@
       "source_url": "https://www.it-boltwise.de/eu-mercosur-abkommen-wirtschaftliche-unsicherheiten-und-geopolitische-herausforderungen.html"
     },
     {
-      "id": 934,
+      "id": 3867,
       "article_id": 374,
       "speaker": "G\u00f6nner",
       "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
-      "quote_text": "sprach von einem R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit. Einige Regierungschefs sollten endlich \u00fcber ihren Schatten springen und das Freihandelsabkommen unterzeichnen.",
-      "stance": "support",
+      "quote_text": "einem R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit",
+      "stance": "oppose",
       "article_title": "EU-Gipfel - Verschobene Unterzeichnung des Mercosur-Abkommens sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.deutschlandfunk.de/verschobene-unterzeichnung-des-mercosur-abkommens-sorgt-fuer-unmut-in-industrie-100.html"
     },
     {
-      "id": 935,
+      "id": 3868,
       "article_id": 374,
       "speaker": "M\u00fcller",
       "speaker_role": "Pr\u00e4sidentin des Verbands der Automobilindustrie",
-      "quote_text": "betonte, die EU sende ein Zeichen der Schw\u00e4che.",
+      "quote_text": "die EU sende ein Zeichen der Schw\u00e4che",
       "stance": "oppose",
       "article_title": "EU-Gipfel - Verschobene Unterzeichnung des Mercosur-Abkommens sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.deutschlandfunk.de/verschobene-unterzeichnung-des-mercosur-abkommens-sorgt-fuer-unmut-in-industrie-100.html"
     },
     {
-      "id": 903,
+      "id": 3843,
       "article_id": 363,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des BDI",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "WDH: Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.finanzen.at/nachrichten/aktien/wdh-verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-1035660291"
     },
     {
-      "id": 904,
-      "article_id": 363,
-      "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des BDI",
-      "quote_text": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im Januar abgeschlossen wird",
-      "stance": "support",
-      "article_title": "WDH: Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
-      "source_url": "https://www.finanzen.at/nachrichten/aktien/wdh-verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-1035660291"
-    },
-    {
-      "id": 905,
+      "id": 3844,
       "article_id": 363,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
-      "quote_text": "Die Welt wartet nicht auf Europa",
+      "quote_text": "Die Welt wartet nicht auf Europa.",
       "stance": "oppose",
       "article_title": "WDH: Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.finanzen.at/nachrichten/aktien/wdh-verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-1035660291"
     },
     {
-      "id": 906,
+      "id": 3845,
       "article_id": 363,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -1027,97 +943,87 @@
       "source_url": "https://www.finanzen.at/nachrichten/aktien/wdh-verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-1035660291"
     },
     {
-      "id": 892,
+      "id": 3836,
       "article_id": 360,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des BDI",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.weser-kurier.de/wirtschaft/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-doc83rak43b42g1equgbd6t"
     },
     {
-      "id": 893,
+      "id": 3837,
       "article_id": 360,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des BDI",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im Januar abgeschlossen wird",
       "stance": "support",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.weser-kurier.de/wirtschaft/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-doc83rak43b42g1equgbd6t"
     },
     {
-      "id": 894,
+      "id": 3838,
       "article_id": 360,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
-      "quote_text": "Die Automobilindustrie in der EU ist heute st\u00e4rker denn je auf eine Verbesserung des Marktzugangs in Drittl\u00e4ndern angewiesen.",
+      "quote_text": "Die Automobilindustrie in der EU ist heute st\u00e4rker denn je auf eine Verbesserung des Marktzugangs in Drittl\u00e4ndern angewiesen",
       "stance": "support",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.weser-kurier.de/wirtschaft/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-doc83rak43b42g1equgbd6t"
     },
     {
-      "id": 895,
-      "article_id": 360,
-      "speaker": "Hildegard M\u00fcller",
-      "speaker_role": "VDA-Pr\u00e4sidentin",
-      "quote_text": "Die EU sende in Zeiten, in denen eine starke europ\u00e4ische Wirtschaft entscheidend sei, ein Zeichen der Schw\u00e4che und setze ihre Glaubw\u00fcrdigkeit aufs Spiel.",
-      "stance": "oppose",
-      "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
-      "source_url": "https://www.weser-kurier.de/wirtschaft/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-doc83rak43b42g1equgbd6t"
-    },
-    {
-      "id": 925,
+      "id": 3858,
       "article_id": 369,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Sie betonte, dass die Staats- und Regierungschefs alles daransetzen m\u00fcssten, das Abkommen im Januar abzuschlie\u00dfen.",
       "stance": "support",
       "article_title": "Verschiebung des Mercosur-Abkommens: Ein R\u00c3\u00bcckschlag f\u00c3\u00bcr die EU-Industrie",
       "source_url": "https://www.it-boltwise.de/verschiebung-des-mercosur-abkommens-ein-rueckschlag-fuer-die-eu-industrie.html"
     },
     {
-      "id": 926,
+      "id": 3859,
       "article_id": 369,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
-      "quote_text": "bezeichnete die Entscheidung als schlechte Nachricht und warnte, dass die EU in Zeiten, in denen eine starke europ\u00e4ische Wirtschaft entscheidend sei, ein Zeichen der Schw\u00e4che sende.",
+      "quote_text": "Die Entscheidung als schlechte Nachricht und warnte, dass die EU in Zeiten, in denen eine starke europ\u00e4ische Wirtschaft entscheidend sei, ein Zeichen der Schw\u00e4che sende.",
       "stance": "oppose",
       "article_title": "Verschiebung des Mercosur-Abkommens: Ein R\u00c3\u00bcckschlag f\u00c3\u00bcr die EU-Industrie",
       "source_url": "https://www.it-boltwise.de/verschiebung-des-mercosur-abkommens-ein-rueckschlag-fuer-die-eu-industrie.html"
     },
     {
-      "id": 936,
+      "id": 3869,
       "article_id": 375,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie - WELT",
       "source_url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article69452fa6f6fc544dba9ad63b/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie.html"
     },
     {
-      "id": 888,
+      "id": 3826,
       "article_id": 359,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.badische-zeitung.de/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie"
     },
     {
-      "id": 889,
+      "id": 3827,
       "article_id": 359,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im Januar abgeschlossen wird",
       "stance": "support",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.badische-zeitung.de/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie"
     },
     {
-      "id": 890,
+      "id": 3828,
       "article_id": 359,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -1127,7 +1033,7 @@
       "source_url": "https://www.badische-zeitung.de/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie"
     },
     {
-      "id": 891,
+      "id": 3829,
       "article_id": 359,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -1137,27 +1043,27 @@
       "source_url": "https://www.badische-zeitung.de/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie"
     },
     {
-      "id": 928,
+      "id": 3861,
       "article_id": 371,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.zvw.de/mehr-nachrichten/wirtschaft/verschobener-mercosur-deal-sorgt-f%C3%BCr-unmut-in-industrie_arid-1034888"
     },
     {
-      "id": 896,
+      "id": 3834,
       "article_id": 361,
-      "speaker": "G\u00f6nner",
-      "speaker_role": null,
+      "speaker": "Giorgia Meloni",
+      "speaker_role": "Italian Government Chief",
       "quote_text": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im Januar abgeschlossen wird",
       "stance": "support",
       "article_title": "Welthandel: Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.schwarzwaelder-bote.de/inhalt.welthandel-verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie.2c4ce8de-f50c-457c-a300-2392c794534d.html"
     },
     {
-      "id": 897,
+      "id": 3835,
       "article_id": 361,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -1167,37 +1073,27 @@
       "source_url": "https://www.schwarzwaelder-bote.de/inhalt.welthandel-verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie.2c4ce8de-f50c-457c-a300-2392c794534d.html"
     },
     {
-      "id": 898,
-      "article_id": 361,
-      "speaker": "Hildegard M\u00fcller",
-      "speaker_role": "VDA-Pr\u00e4sidentin",
-      "quote_text": "Die EU sende in Zeiten, in denen eine starke europ\u00e4ische Wirtschaft entscheidend sei, ein Zeichen der Schw\u00e4che und setze ihre Glaubw\u00fcrdigkeit aufs Spiel.",
-      "stance": "oppose",
-      "article_title": "Welthandel: Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
-      "source_url": "https://www.schwarzwaelder-bote.de/inhalt.welthandel-verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie.2c4ce8de-f50c-457c-a300-2392c794534d.html"
-    },
-    {
-      "id": 899,
+      "id": 3839,
       "article_id": 362,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.infranken.de/deutschland/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-art-6301040"
     },
     {
-      "id": 900,
+      "id": 3840,
       "article_id": 362,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im Januar abgeschlossen wird",
       "stance": "support",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.infranken.de/deutschland/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-art-6301040"
     },
     {
-      "id": 901,
+      "id": 3841,
       "article_id": 362,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -1207,7 +1103,7 @@
       "source_url": "https://www.infranken.de/deutschland/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-art-6301040"
     },
     {
-      "id": 902,
+      "id": 3842,
       "article_id": 362,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -1217,37 +1113,37 @@
       "source_url": "https://www.infranken.de/deutschland/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-art-6301040"
     },
     {
-      "id": 927,
+      "id": 3860,
       "article_id": 370,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.wallstreet-online.de/nachricht/20300699-verschobener-mercosur-deal-sorgt-unmut-industrie"
     },
     {
-      "id": 884,
+      "id": 3830,
       "article_id": 358,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur",
       "stance": "oppose",
       "article_title": "Welthandel: Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.zeit.de/news/2025-12/19/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie"
     },
     {
-      "id": 885,
+      "id": 3831,
       "article_id": 358,
       "speaker": "Tanja G\u00f6nner",
-      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie (BDI)",
+      "speaker_role": "Hauptgesch\u00e4ftsf\u00fchrerin des Bundesverbands der Deutschen Industrie",
       "quote_text": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im Januar abgeschlossen wird",
       "stance": "support",
       "article_title": "Welthandel: Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.zeit.de/news/2025-12/19/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie"
     },
     {
-      "id": 886,
+      "id": 3832,
       "article_id": 358,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -1257,7 +1153,7 @@
       "source_url": "https://www.zeit.de/news/2025-12/19/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie"
     },
     {
-      "id": 887,
+      "id": 3833,
       "article_id": 358,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -1267,7 +1163,7 @@
       "source_url": "https://www.zeit.de/news/2025-12/19/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie"
     },
     {
-      "id": 923,
+      "id": 3856,
       "article_id": 368,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -1277,7 +1173,7 @@
       "source_url": "https://www.stern.de/wirtschaft/news/welthandel--verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-36978486.html"
     },
     {
-      "id": 924,
+      "id": 3857,
       "article_id": 368,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
@@ -1287,275 +1183,205 @@
       "source_url": "https://www.stern.de/wirtschaft/news/welthandel--verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie-36978486.html"
     },
     {
-      "id": 907,
-      "article_id": 364,
-      "speaker": "G\u00f6nner",
-      "speaker_role": null,
-      "quote_text": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im Januar abgeschlossen wird",
-      "stance": "support",
-      "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
-      "source_url": "https://www.t-online.de/finanzen/aktuelles/id_101051880/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie.html"
-    },
-    {
-      "id": 908,
-      "article_id": 364,
-      "speaker": "Hildegard M\u00fcller",
-      "speaker_role": "VDA-Pr\u00e4sidentin",
-      "quote_text": "Die EU sende in Zeiten, in denen eine starke europ\u00e4ische Wirtschaft entscheidend sei, ein Zeichen der Schw\u00e4che und setze ihre Glaubw\u00fcrdigkeit aufs Spiel.",
-      "stance": "oppose",
-      "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
-      "source_url": "https://www.t-online.de/finanzen/aktuelles/id_101051880/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie.html"
-    },
-    {
-      "id": 909,
+      "id": 3846,
       "article_id": 364,
       "speaker": "Hildegard M\u00fcller",
       "speaker_role": "VDA-Pr\u00e4sidentin",
       "quote_text": "Die Automobilindustrie in der EU ist heute st\u00e4rker denn je auf eine Verbesserung des Marktzugangs in Drittl\u00e4ndern angewiesen.",
       "stance": "support",
+      "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
+      "source_url": "https://www.t-online.de/finanzen/aktuelles/id_101051880/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie.html"
+    },
+    {
+      "id": 3847,
+      "article_id": 364,
+      "speaker": "Hildegard M\u00fcller",
+      "speaker_role": "VDA-Pr\u00e4sidentin",
+      "quote_text": "Die EU sende in Zeiten, in denen eine starke europ\u00e4ische Wirtschaft entscheidend sei, ein Zeichen der Schw\u00e4che und setze ihre Glaubw\u00fcrdigkeit aufs Spiel.",
+      "stance": "oppose",
       "article_title": "Verschobener Mercosur-Deal sorgt f\u00fcr Unmut in Industrie",
       "source_url": "https://www.t-online.de/finanzen/aktuelles/id_101051880/verschobener-mercosur-deal-sorgt-fuer-unmut-in-industrie.html"
     }
   ],
   "stakeholders": [
     {
-      "stakeholder": "VDA",
+      "stakeholder": "Verband der Automobilindustrie",
       "position": "oppose",
-      "reasoning": "Delay signals weakness and jeopardizes Europe's economic strength.",
-      "mention_count": 8
+      "reasoning": "The delay signals weakness and jeopardizes Europe's credibility, hindering access to third-country markets.",
+      "mention_count": 15
     },
     {
-      "stakeholder": "EU Commission",
-      "position": "support",
-      "reasoning": "Agreement would be the world's largest free trade zone and counter protectionism.",
-      "mention_count": 7
+      "stakeholder": "Bundesverband der Deutschen Industrie",
+      "position": "oppose",
+      "reasoning": "Postponement damages Europe's credibility as a geopolitical actor.",
+      "mention_count": 13
     },
     {
-      "stakeholder": "BDI",
+      "stakeholder": "Giorgia Meloni",
       "position": "oppose",
-      "reasoning": "Delay damages Europe's credibility as a geopolitical actor.",
+      "reasoning": "Expressed reservations about the agreement (details not specified).",
       "mention_count": 6
+    },
+    {
+      "stakeholder": "European Union",
+      "position": "support",
+      "reasoning": "Aims to create a large free trade zone and counter protectionist policies.",
+      "mention_count": 4
     },
     {
       "stakeholder": "Giorgia Meloni",
       "position": "neutral",
-      "reasoning": "Expressed reservations, contributing to the delay.",
-      "mention_count": 6
-    },
-    {
-      "stakeholder": "EU",
-      "position": "neutral",
-      "reasoning": "Seeking to finalize the agreement but facing internal disagreements.",
-      "mention_count": 5
-    },
-    {
-      "stakeholder": "Bundesverbands der Deutschen Industrie (BDI)",
-      "position": "oppose",
-      "reasoning": "Postponement damages Europe's credibility as a geopolitical actor.",
+      "reasoning": "Expressed reservations about the agreement.",
       "mention_count": 4
     },
     {
-      "stakeholder": "German Industry",
+      "stakeholder": "Tanja G\u00f6nner",
       "position": "oppose",
-      "reasoning": "Views the delay as a setback for EU credibility and market access.",
+      "reasoning": "Postponement damages Europe's credibility.",
+      "mention_count": 4
+    },
+    {
+      "stakeholder": "European Union",
+      "position": "neutral",
+      "reasoning": "Seeking to finalize the agreement but facing internal disagreements.",
       "mention_count": 3
     },
     {
-      "stakeholder": "Verband der Automobilindustrie (VDA)",
+      "stakeholder": "Hildegard M\u00fcller",
       "position": "oppose",
-      "reasoning": "Signals weakness of the European economy and jeopardizes credibility.",
+      "reasoning": "Postponement signals weakness and hinders market access.",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Bundesverband der Deutschen Industrie",
+      "position": "support",
+      "reasoning": "Wants to seize economic opportunities and avoid missing out.",
       "mention_count": 2
     },
     {
-      "stakeholder": "Austrian Chancellor Stocker",
-      "position": "neutral",
-      "reasoning": "Bound by existing parliamentary resolution.",
+      "stakeholder": "Italy",
+      "position": "oppose",
+      "reasoning": "Demanding further concessions.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Landwirte",
+      "position": "oppose",
+      "reasoning": "Fear of unfair competition from Mercosur countries.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Austria",
+      "position": "oppose",
+      "reasoning": "Existing parliamentary veto.",
       "mention_count": 1
     },
     {
       "stakeholder": "Austrian Farmers",
       "position": "oppose",
-      "reasoning": "Fear of unfair competition due to different production conditions.",
+      "reasoning": "Fear of unfair competition.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Automotive Industry",
-      "position": "oppose",
-      "reasoning": "Needs improved market access in third countries.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "BDI (Tanja G\u00f6nner)",
+      "stakeholder": "Bundesregierung",
       "position": "support",
-      "reasoning": "Urges swift action to finalize the agreement in January.",
+      "reasoning": "Believes the agreement is important and expects it to be signed soon.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Bundesverbands der Deutschen Industrie",
+      "stakeholder": "Chemieindustrie",
       "position": "oppose",
-      "reasoning": "Postponement is a setback for Europe's credibility.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "EU",
-      "position": "support",
-      "reasoning": "To create a large free trade zone and counter protectionism.",
+      "reasoning": "Growing frustration with the delays.",
       "mention_count": 1
     },
     {
       "stakeholder": "EU Farmers",
       "position": "oppose",
-      "reasoning": "Fear of cheaper competition from South American agricultural products.",
+      "reasoning": "Fear of cheaper competition from South America.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Environmental Organizations (Greenpeace)",
-      "position": "oppose",
-      "reasoning": "Agreement promotes trade in products with negative environmental and social impacts.",
+      "stakeholder": "EU-Kommission",
+      "position": "support",
+      "reasoning": "Agreement is a sign against protectionism.",
       "mention_count": 1
     },
     {
-      "stakeholder": "European Automotive Industry (VDA)",
-      "position": "oppose",
-      "reasoning": "Delay signals weakness and jeopardizes market access.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Farmers",
-      "position": "oppose",
-      "reasoning": "Fear unfair competition from Mercosur countries.",
+      "stakeholder": "France",
+      "position": "neutral",
+      "reasoning": "Hesitant to sign the agreement.",
       "mention_count": 1
     },
     {
       "stakeholder": "Friedrich Merz",
       "position": "support",
-      "reasoning": "Believes an agreement can be reached soon and points to Italy's commitment to reschedule.",
+      "reasoning": "Believes an agreement can be reached soon.",
       "mention_count": 1
     },
     {
-      "stakeholder": "German Chancellor Merz",
-      "position": "support",
-      "reasoning": "Maintaining EU credibility in trade policy.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "German Government",
-      "position": "support",
-      "reasoning": "Wants to see the agreement finalized despite the delay.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "German Industry (BDI)",
+      "stakeholder": "German Industry",
       "position": "oppose",
-      "reasoning": "Delay threatens competitiveness and EU credibility.",
+      "reasoning": "Delay harms EU's credibility and hinders global trade.",
       "mention_count": 1
     },
     {
-      "stakeholder": "German Industry (BDI, VDA)",
+      "stakeholder": "German Industry",
       "position": "support",
-      "reasoning": "To seize economic opportunities and improve market access.",
+      "reasoning": "Boost to European credibility and trade.",
       "mention_count": 1
     },
     {
       "stakeholder": "Giorgia Meloni",
-      "position": "oppose",
-      "reasoning": "Expressed reservations (specifics not detailed).",
+      "position": "support",
+      "reasoning": "Wants the agreement finalized in January.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Giorgia Meloni (Italy)",
+      "stakeholder": "Greenpeace Luxemburg",
       "position": "oppose",
-      "reasoning": "Expressed reservations, contributing to the delay.",
+      "reasoning": "The agreement promotes trade in products with negative environmental and social impacts.",
       "mention_count": 1
     },
     {
       "stakeholder": "Greenpeace \u00d6sterreich",
       "position": "oppose",
-      "reasoning": "Calls for complete cancellation of the trade pact.",
+      "reasoning": "Calls for the complete cancellation of the trade pact.",
       "mention_count": 1
     },
     {
-      "stakeholder": "G\u00f6nner",
+      "stakeholder": "Hildegard M\u00fcller",
       "position": "support",
-      "reasoning": "Wants the Mercosur deal to be completed in January.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Industrie (BDI, VDA, Chemieindustrie)",
-      "position": "oppose",
-      "reasoning": "Concerned about the negative impact of the delay on Europe's credibility.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Industry (BDI)",
-      "position": "oppose",
-      "reasoning": "Postponement damages Europe's credibility as a geopolitical actor.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Italien",
-      "position": "oppose",
-      "reasoning": "Demands further concessions.",
+      "reasoning": "Believes improved market access in third countries is crucial for the EU automotive industry.",
       "mention_count": 1
     },
     {
       "stakeholder": "Italy",
       "position": "neutral",
-      "reasoning": "Has concerns that need to be addressed.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Italy (Giorgia Meloni)",
-      "position": "neutral",
-      "reasoning": "Has reservations that need to be overcome.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Italy (Giorgia Meloni)",
-      "position": "oppose",
-      "reasoning": "Has reservations about the agreement.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Landwirte",
-      "position": "oppose",
-      "reasoning": "Warn of unequal production conditions.",
+      "reasoning": "Hesitant to sign the agreement.",
       "mention_count": 1
     },
     {
       "stakeholder": "NEOS",
       "position": "support",
-      "reasoning": "Promotes free trade and economic growth.",
+      "reasoning": "Advocates for the signing of the agreement.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Polen, Frankreich, Italien",
+      "stakeholder": "Poland",
       "position": "neutral",
-      "reasoning": "Hesitant about the agreement, causing the delay.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "VDA (Hildegard M\u00fcller)",
-      "position": "oppose",
-      "reasoning": "Believes the delay sends a signal of weakness and harms the European economy.",
+      "reasoning": "Hesitant to sign the agreement.",
       "mention_count": 1
     },
     {
       "stakeholder": "Verband der Automobilindustrie",
-      "position": "oppose",
-      "reasoning": "Views the postponement as a setback and a bad sign.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Verbands der Automobilindustrie",
-      "position": "oppose",
-      "reasoning": "Sends a signal of weakness.",
+      "position": "support",
+      "reasoning": "Needs improved market access in third countries.",
       "mention_count": 1
     },
     {
       "stakeholder": "WK\u00d6-Bundessparte Industrie",
       "position": "support",
-      "reasoning": "It's the last chance to finalize the agreement.",
+      "reasoning": "Believes it's the last chance to finalize the Mercosur agreement.",
       "mention_count": 1
     }
   ],
@@ -1627,17 +1453,17 @@
         "article_count": 5
       },
       {
+        "source": "Schwarzw\u00e4lder Bote",
+        "avg_sentiment": -0.4,
+        "article_count": 1
+      },
+      {
         "source": "Luxemburger Wort",
         "avg_sentiment": -0.3,
         "article_count": 1
       },
       {
         "source": "tagesschau.de",
-        "avg_sentiment": -0.3,
-        "article_count": 1
-      },
-      {
-        "source": "Schwarzw\u00e4lder Bote",
         "avg_sentiment": -0.3,
         "article_count": 1
       },
@@ -1715,17 +1541,17 @@
           "article_count": 5
         },
         {
+          "source": "Schwarzw\u00e4lder Bote",
+          "avg_sentiment": -0.4,
+          "article_count": 1
+        },
+        {
           "source": "Luxemburger Wort",
           "avg_sentiment": -0.3,
           "article_count": 1
         },
         {
           "source": "tagesschau.de",
-          "avg_sentiment": -0.3,
-          "article_count": 1
-        },
-        {
-          "source": "Schwarzw\u00e4lder Bote",
           "avg_sentiment": -0.3,
           "article_count": 1
         },
@@ -1747,40 +1573,10 @@
   },
   "quote_network": [
     {
-      "from": "Friedrich Merz",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "wenn die Europ\u00e4ische Union in der Handelspolitik auf der Welt glaubw\u00fcrdig bleiben wolle, dann m\u00fcsste"
-    },
-    {
-      "from": "Friedrich Merz",
-      "to": "men",
-      "stance": "support",
-      "quote_snippet": "wenn die Europ\u00e4ische Union in der Handelspolitik auf der Welt glaubw\u00fcrdig bleiben wolle, dann m\u00fcsste"
-    },
-    {
       "from": "Sigi Menz",
       "to": "Mercosur",
       "stance": "support",
-      "quote_snippet": "\"Die letzte Chance f\u00fcr den Mercosur-Vertrag muss gen\u00fctzt werden\""
-    },
-    {
-      "from": "Tanja G\u00f6nner",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur"
-    },
-    {
-      "from": "Hildegard M\u00fcller",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "Die EU sende in Zeiten, in denen eine starke europ\u00e4ische Wirtschaft entscheidend sei, ein Zeichen de"
-    },
-    {
-      "from": "Douglas Hoyos",
-      "to": "men",
-      "stance": "support",
-      "quote_snippet": "den mehr als sechs Jahre alten Parlamentsbeschluss, der die Regierung zu einem Nein verpflichtet, ge"
+      "quote_snippet": "Die letzte Chance f\u00fcr den Mercosur-Vertrag muss gen\u00fctzt werden"
     },
     {
       "from": "Tanja G\u00f6nner",
@@ -1795,67 +1591,13 @@
       "quote_snippet": "Nach 25 Jahren undurchsichtiger Verhandlungen verk\u00f6rpert das Abkommen zwischen der EU und dem Mercos"
     },
     {
-      "from": "Gauthier Hansel",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "Nach 25 Jahren undurchsichtiger Verhandlungen verk\u00f6rpert das Abkommen zwischen der EU und dem Mercos"
-    },
-    {
-      "from": "Gauthier Hansel",
-      "to": "men",
-      "stance": "oppose",
-      "quote_snippet": "Nach 25 Jahren undurchsichtiger Verhandlungen verk\u00f6rpert das Abkommen zwischen der EU und dem Mercos"
-    },
-    {
       "from": "Hildegard M\u00fcller",
-      "to": "EU",
+      "to": "Automobilindustrie",
       "stance": "support",
       "quote_snippet": "Die Automobilindustrie in der EU ist heute st\u00e4rker denn je auf eine Verbesserung des Marktzugangs in"
     },
     {
-      "from": "stellvertretender Regierungssprecher",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "F\u00fcr uns ist wichtig: Wir wollen den Abschluss des Mercusor-Abkommens und sind deshalb sehr zufrieden"
-    },
-    {
-      "from": "stellvertretender Regierungssprecher",
-      "to": "men",
-      "stance": "support",
-      "quote_snippet": "F\u00fcr uns ist wichtig: Wir wollen den Abschluss des Mercusor-Abkommens und sind deshalb sehr zufrieden"
-    },
-    {
-      "from": "Tanja G\u00f6nner",
-      "to": "men",
-      "stance": "support",
-      "quote_snippet": "Sie betonte, dass die Staats- und Regierungschefs alles tun m\u00fcssten, um das Abkommen im Januar abzus"
-    },
-    {
-      "from": "Tanja G\u00f6nner",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "betonte die Dringlichkeit einer Einigung, um die Wettbewerbsf\u00e4higkeit Europas zu sichern."
-    },
-    {
-      "from": "G\u00f6nner",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "sprach von einem R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit. Einige Regierungschefs sollten endlich \u00fcber"
-    },
-    {
-      "from": "G\u00f6nner",
-      "to": "men",
-      "stance": "support",
-      "quote_snippet": "sprach von einem R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit. Einige Regierungschefs sollten endlich \u00fcber"
-    },
-    {
-      "from": "M\u00fcller",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "betonte, die EU sende ein Zeichen der Schw\u00e4che."
-    },
-    {
-      "from": "G\u00f6nner",
+      "from": "Giorgia Meloni",
       "to": "Mercosur",
       "stance": "support",
       "quote_snippet": "Die Staats- und Regierungschefs m\u00fcssen alles daf\u00fcr tun, damit Mercosur im Januar abgeschlossen wird"
@@ -1868,39 +1610,42 @@
       "start": "2025-12-19T11:01:05Z",
       "end": "2025-12-19T21:51:18Z"
     },
-    "avg_sentiment": -0.5227272727272726,
-    "total_quotes": 63,
-    "total_financial_mentions": 0
+    "avg_sentiment": -0.5272727272727271,
+    "total_quotes": 54,
+    "total_financial_mentions": 13
   },
-  "executive_brief": "The EU-Mercosur trade agreement is facing a delay, triggering significant negative reaction, particularly from German industry. This event is covered by 22 articles from 17 sources, with overwhelmingly negative sentiment (-0.52 average score, 21 out of 22 articles negative). The postponement is viewed as damaging to Europe\u2019s credibility and economic strength, raising concerns about its role as a geopolitical actor. \n\nStakeholders like the BDI, VDA, and German Chancellor Friedrich Merz strongly advocate for finalizing the agreement, emphasizing the need for Europe to demonstrate commitment to global trade. Opposing voices, primarily focused on concerns about unfair competition, include Austrian farmers. While the EU Commission supports the agreement, internal disagreements and reservations from figures like Giorgia Meloni contribute to the delay. There are no significant financial mentions in the provided data, but the implications center around Europe\u2019s perceived economic and geopolitical standing.",
+  "executive_brief": "The EU-Mercosur trade agreement is facing delays, triggering significant criticism, particularly from German industry. This event is covered by 22 articles from 17 sources, with overwhelmingly negative sentiment (-0.53 average score, 21 out of 22 articles negative). The postponement is viewed as damaging to Europe\u2019s credibility and hindering economic opportunities. \n\nStakeholders are sharply divided. The Bundesverband der Deutschen Industrie (BDI) and Verband der Automobilindustrie strongly oppose the delay, citing concerns about Europe\u2019s geopolitical standing and market access, with Tanja G\u00f6nner repeatedly stating it\u2019s a \u201cR\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit.\u201d While the European Union generally supports the agreement to create a large free trade zone, internal disagreements and reservations from figures like Giorgia Meloni are contributing to the postponement. The Mercosur region represents a potential market of 700 million people, and the agreement is seen as a chance to counter protectionist policies.",
   "key_arguments": {
     "for": [
-      "The EU Commission believes the agreement would create the world's largest free trade zone and counter protectionism.",
-      "Friedrich Merz (German Chancellor) argues that Europe must make a decision to approve the agreement to remain credible in global trade: \"wenn die Europ\u00e4ische Union in der Handelspolitik auf der Welt glaubw\u00fcrdig bleiben wolle, dann m\u00fcssten jetzt Entscheidungen getroffen werden. Und die Entscheidung kann nur lauten, dass Europa zustimmt\"",
-      "Sigi Menz (Bundessparte Industrie der WK\u00d6) states that this is \"Die letzte Chance f\u00fcr den Mercosur-Vertrag muss gen\u00fctzt werden\""
+      "Friedrich Merz believes there are no fundamental objections to the agreement within the EU and advocates for swift signing.",
+      "Sigi Menz argues that this is the last chance to utilize the Mercosur agreement.",
+      "Douglas Hoyos suggests reversing a previous parliamentary decision to enable the agreement."
     ],
     "against": [
-      "Tanja G\u00f6nner (BDI) states the delay is \"Die erneute Verschiebung ist ein R\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit als geostrategischer Akteur\"",
-      "Hildegard M\u00fcller (VDA) believes the delay sends a signal of weakness and jeopardizes Europe's economic strength: \"Die EU sende in Zeiten, in denen eine starke europ\u00e4ische Wirtschaft entscheidend sei, ein Zeichen der Schw\u00e4che und setze ihre Glaubw\u00fcrdigkeit aufs Spiel\"",
-      "Tanja G\u00f6nner (BDI) emphasizes the negative impact of the delay on Europe\u2019s credibility."
+      "Tanja G\u00f6nner (BDI) argues the delay is a setback for Europe\u2019s credibility as a geopolitical actor.",
+      "Hildegard M\u00fcller (VDA) states the delay signals weakness and jeopardizes Europe\u2019s credibility and market access.",
+      "Gauthier Hansel (Greenpeace Luxemburg) views the agreement as an outdated trade model that would promote trade in undesirable products."
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "Austrian Farmers - Fear of unfair competition is avoided, at least temporarily, by the delay."
+      "European Union - Aims to create a large free trade zone and counter protectionist policies."
     ],
     "losers": [
-      "German Industry - Faces continued uncertainty regarding market access and perceives a loss of European credibility.",
-      "VDA - Signals weakness of the European economy and jeopardizes credibility.",
-      "BDI - Damages Europe's credibility as a geopolitical actor.",
-      "EU - Risks appearing indecisive and weakening its position as a global trade leader."
+      "Bundesverband der Deutschen Industrie - Faces a setback to economic opportunities and damage to Europe's credibility.",
+      "Verband der Automobilindustrie - Experiences hindered access to third-country markets and a damaged reputation for Europe.",
+      "Volkswagen - As a member of the Automobilindustrie, potentially faces hindered market access."
     ],
     "risks": [
-      "Damage to Europe's credibility as a geopolitical actor.",
+      "Damage to Europe\u2019s credibility as a geopolitical actor.",
       "Weakening of the European economy.",
-      "Loss of market access for European companies.",
-      "Increased economic uncertainty."
+      "Loss of market access for European industries.",
+      "Internal disagreements within the EU hindering trade agreements."
     ],
-    "opportunities": []
+    "opportunities": [
+      "Creation of a free trade zone with over 700 million inhabitants.",
+      "Countering protectionist policies.",
+      "Seizing economic opportunities in the Mercosur region."
+    ]
   }
 }

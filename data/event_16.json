@@ -6,10 +6,10 @@
     "category": "hydrogen",
     "summary": "The 3rd German-Nigerian Hydrogen Symposium marked a major milestone in accelerating global drive to build a sustainable and inclusive hydrogen economy.\n\nCo-hosted by the German Federal Foreign Office, the Federal Ministry of Budget and Economic Planning, the Ministry of Petroleum Resources, and impl...",
     "first_seen": "2025-12-23T02:51:51.907935",
-    "last_updated": "2025-12-29T10:24:58.554073",
+    "last_updated": "2025-12-29T17:30:57.990549",
     "created_at": "2025-12-23 01:51:51"
   },
-  "generated_at": "2025-12-29T10:30:10.299845",
+  "generated_at": "2025-12-29T17:34:14.464988",
   "articles": [
     {
       "id": 252,
@@ -24,8 +24,8 @@
       "language": "eng",
       "image_url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Annett-Gunther.jpg",
       "fetched_at": "2025-12-23 01:51:51",
-      "sentiment_score": 0.75,
-      "sentiment_label": "slightly_positive",
+      "sentiment_score": 0.8,
+      "sentiment_label": "positive",
       "article_type": "news_report"
     },
     {
@@ -75,7 +75,7 @@
       "language": "eng",
       "image_url": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2025/12/Nigeria-Germany-Seal-500M-Renewable-Energy-Gas-Deal-860x491-1.jpg",
       "fetched_at": "2025-12-23 01:51:51",
-      "sentiment_score": 0.85,
+      "sentiment_score": 0.8,
       "sentiment_label": "positive",
       "article_type": "news_report"
     },
@@ -92,7 +92,7 @@
       "language": "eng",
       "image_url": "http://orientalnewsng.com/wp-content/uploads/2025/12/images-45.jpg",
       "fetched_at": "2025-12-23 01:51:51",
-      "sentiment_score": 0.85,
+      "sentiment_score": 0.8,
       "sentiment_label": "positive",
       "article_type": "news_report"
     },
@@ -109,7 +109,7 @@
       "language": "eng",
       "image_url": "https://cdn.guardian.ng/wp-content/uploads/2023/08/F0N7nJ_WAAIf8FW-scaled.jpg",
       "fetched_at": "2025-12-23 01:51:51",
-      "sentiment_score": 0.75,
+      "sentiment_score": 0.7,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     }
@@ -127,7 +127,7 @@
   "sentiment_trend": [
     {
       "date": "2025-12-18",
-      "avg_sentiment": 0.8,
+      "avg_sentiment": 0.75,
       "count": 2
     },
     {
@@ -161,7 +161,7 @@
         "count": 6
       },
       {
-        "name": "Hydrogen Policy Technical Working Group",
+        "name": "German Federal Foreign Office",
         "count": 6
       },
       {
@@ -173,19 +173,31 @@
         "count": 5
       },
       {
-        "name": "German Federal Foreign Office",
-        "count": 5
-      },
-      {
         "name": "German-Nigerian Hydrogen Office",
         "count": 4
       },
       {
-        "name": "Federal University of Technology, Owerri",
-        "count": 1
+        "name": "Federal University of Technology Owerri",
+        "count": 3
       },
       {
-        "name": "German-Nigerian Hydrogen Office (GIZ)",
+        "name": "GIZ",
+        "count": 3
+      },
+      {
+        "name": "Hydrogen Policy Technical Working Group",
+        "count": 3
+      },
+      {
+        "name": "AHK Nigeria",
+        "count": 2
+      },
+      {
+        "name": "Federal University of Technology, Owerri",
+        "count": 2
+      },
+      {
+        "name": "GIZ Nigeria and ECOWAS",
         "count": 1
       },
       {
@@ -195,58 +207,30 @@
     ],
     "politicians": [
       {
-        "name": "Annett G\u00fcnther (German Ambassador to Nigeria)",
+        "name": "Annett G\u00fcnther",
+        "count": 6
+      },
+      {
+        "name": "Emeka Oguzie",
         "count": 5
       },
       {
-        "name": "Dr. Markus Wagner (Country Director of GIZ Nigeria & ECOWAS)",
-        "count": 3
+        "name": "Markus Wagner",
+        "count": 5
       },
       {
-        "name": "Bastian Lidzba (Delegate of AHK Nigeria)",
+        "name": "Bastian Lidzba",
         "count": 2
-      },
-      {
-        "name": "Prof. Emeka Oguzie (Federal University of Technology Owerri)",
-        "count": 2
-      },
-      {
-        "name": "Annett G\u00fcnther",
-        "count": 1
-      },
-      {
-        "name": "Dr Markus Wagner (Country Director of GIZ Nigeria and ECOWAS)",
-        "count": 1
-      },
-      {
-        "name": "Emeka Oguzie (Prof. from Federal University of Technology Owerri)",
-        "count": 1
-      },
-      {
-        "name": "Markus Wagner (Country Director of GIZ Nigeria and ECOWAS)",
-        "count": 1
-      },
-      {
-        "name": "Prof. Emeka Oguzie (Federal University of Technology, Owerri)",
-        "count": 1
       }
     ],
     "companies": [
       {
         "name": "AHK Nigeria",
-        "count": 4
+        "count": 2
       },
       {
         "name": "GIZ",
-        "count": 4
-      },
-      {
-        "name": "Federal University of Technology Owerri",
-        "count": 1
-      },
-      {
-        "name": "GIZ Nigeria",
-        "count": 1
+        "count": 2
       }
     ]
   },
@@ -256,7 +240,7 @@
   },
   "quotes": [
     {
-      "id": 605,
+      "id": 3532,
       "article_id": 252,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -266,7 +250,7 @@
       "source_url": "https://www.thisdaylive.com/2025/12/19/green-hydrogen-nigeria-germany-strengthen-partnership-for-sustainable-energy-future/"
     },
     {
-      "id": 606,
+      "id": 3533,
       "article_id": 252,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -276,7 +260,7 @@
       "source_url": "https://www.thisdaylive.com/2025/12/19/green-hydrogen-nigeria-germany-strengthen-partnership-for-sustainable-energy-future/"
     },
     {
-      "id": 607,
+      "id": 3534,
       "article_id": 252,
       "speaker": "Bastian Lidzba",
       "speaker_role": "Delegate of AHK Nigeria",
@@ -286,17 +270,17 @@
       "source_url": "https://www.thisdaylive.com/2025/12/19/green-hydrogen-nigeria-germany-strengthen-partnership-for-sustainable-energy-future/"
     },
     {
-      "id": 608,
+      "id": 3535,
       "article_id": 252,
-      "speaker": "Dr. Markus Wagner",
-      "speaker_role": "Country Director of GIZ Nigeria & ECOWAS",
+      "speaker": "Emeka Oguzie",
+      "speaker_role": "Prof. from the Federal University of Technology, Owerri, Nigeria",
       "quote_text": "Africa's energy access challenge is a technology challenge at its core. Policy may enable, but true transition will be engineered through indigenous innovation -- not legislated.",
       "stance": "neutral",
       "article_title": "Green Hydrogen: Nigeria, Germany Strengthen Partnership for Sustainable Energy Future",
       "source_url": "https://www.thisdaylive.com/2025/12/19/green-hydrogen-nigeria-germany-strengthen-partnership-for-sustainable-energy-future/"
     },
     {
-      "id": 609,
+      "id": 3536,
       "article_id": 253,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -306,7 +290,7 @@
       "source_url": "https://www.arise.tv/nigeria-germany-deepen-hydrogen-partnership-following-national-policy-draft-unveiling/"
     },
     {
-      "id": 610,
+      "id": 3537,
       "article_id": 253,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -316,7 +300,7 @@
       "source_url": "https://www.arise.tv/nigeria-germany-deepen-hydrogen-partnership-following-national-policy-draft-unveiling/"
     },
     {
-      "id": 611,
+      "id": 3538,
       "article_id": 253,
       "speaker": "Bastian Lidzba",
       "speaker_role": "Delegate of AHK Nigeria",
@@ -326,17 +310,17 @@
       "source_url": "https://www.arise.tv/nigeria-germany-deepen-hydrogen-partnership-following-national-policy-draft-unveiling/"
     },
     {
-      "id": 612,
+      "id": 3539,
       "article_id": 253,
-      "speaker": "Dr. Markus Wagner",
-      "speaker_role": "Country Director of GIZ Nigeria & ECOWAS",
+      "speaker": "Emeka Oguzie",
+      "speaker_role": "Prof. from the Federal University of Technology Owerri, Nigeria",
       "quote_text": "Africa's energy access challenge is a technology challenge at its core. Policy may enable, but true transition will be engineered through indigenous innovation -- not legislated.",
       "stance": "neutral",
       "article_title": "Nigeria, Germany Deepen Hydrogen Partnership Following National Policy Draft Unveiling",
       "source_url": "https://www.arise.tv/nigeria-germany-deepen-hydrogen-partnership-following-national-policy-draft-unveiling/"
     },
     {
-      "id": 613,
+      "id": 3540,
       "article_id": 254,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -346,7 +330,7 @@
       "source_url": "https://independent.ng/germany-nigeria-strengthen-strategic-partnership-on-sustainable-energy-future/"
     },
     {
-      "id": 614,
+      "id": 3541,
       "article_id": 254,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -356,7 +340,7 @@
       "source_url": "https://independent.ng/germany-nigeria-strengthen-strategic-partnership-on-sustainable-energy-future/"
     },
     {
-      "id": 600,
+      "id": 3528,
       "article_id": 251,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -366,7 +350,7 @@
       "source_url": "https://thesun.ng/clean-energy-germany-nigeria-seal-pact-on-green-hydrogen/"
     },
     {
-      "id": 601,
+      "id": 3529,
       "article_id": 251,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -376,7 +360,7 @@
       "source_url": "https://thesun.ng/clean-energy-germany-nigeria-seal-pact-on-green-hydrogen/"
     },
     {
-      "id": 602,
+      "id": 3530,
       "article_id": 251,
       "speaker": "Bastian Lidzba",
       "speaker_role": "Delegate of AHK Nigeria",
@@ -386,27 +370,17 @@
       "source_url": "https://thesun.ng/clean-energy-germany-nigeria-seal-pact-on-green-hydrogen/"
     },
     {
-      "id": 603,
+      "id": 3531,
       "article_id": 251,
-      "speaker": "Markus Wagner",
-      "speaker_role": "Country Director of GIZ Nigeria and ECOWAS",
-      "quote_text": "Africa's energy access challenge is a technology challenge at its core. Policy may enable, but true transition will be engineered through indigenous innovation -- not legislated",
+      "speaker": "Emeka Oguzie",
+      "speaker_role": "Prof. from Federal University of Technology Owerri, Nigeria",
+      "quote_text": "Africa's energy access challenge is a technology challenge at its core.\nPolicy may enable, but true transition will be engineered through indigenous innovation -- not legislated",
       "stance": "neutral",
       "article_title": "Clean energy: Germany, Nigeria seal pact on green hydrogen",
       "source_url": "https://thesun.ng/clean-energy-germany-nigeria-seal-pact-on-green-hydrogen/"
     },
     {
-      "id": 604,
-      "article_id": 251,
-      "speaker": "Hydrogen Policy Technical Working Group",
-      "speaker_role": "Federal Ministry of Budget and Economic Planning and the Ministry of Petroleum Resources (Gas)",
-      "quote_text": "positions Nigeria as a regional and global hydrogen leader while accelerating energy transition and industrial development",
-      "stance": "support",
-      "article_title": "Clean energy: Germany, Nigeria seal pact on green hydrogen",
-      "source_url": "https://thesun.ng/clean-energy-germany-nigeria-seal-pact-on-green-hydrogen/"
-    },
-    {
-      "id": 596,
+      "id": 3524,
       "article_id": 250,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -416,7 +390,7 @@
       "source_url": "http://orientalnewsng.com/germany-nigeria-partners-to-build-sustainable-green-hydrogen-energy-future/"
     },
     {
-      "id": 597,
+      "id": 3525,
       "article_id": 250,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -426,7 +400,7 @@
       "source_url": "http://orientalnewsng.com/germany-nigeria-partners-to-build-sustainable-green-hydrogen-energy-future/"
     },
     {
-      "id": 598,
+      "id": 3526,
       "article_id": 250,
       "speaker": "Bastian Lidzba",
       "speaker_role": "Delegate of AHK Nigeria",
@@ -436,17 +410,17 @@
       "source_url": "http://orientalnewsng.com/germany-nigeria-partners-to-build-sustainable-green-hydrogen-energy-future/"
     },
     {
-      "id": 599,
+      "id": 3527,
       "article_id": 250,
-      "speaker": "Dr. Markus Wagner",
-      "speaker_role": "Country Director of GIZ Nigeria & ECOWAS",
+      "speaker": "Emeka Oguzie",
+      "speaker_role": "Prof. Emeka Oguzie from Federal University of Technology Owerri, Nigeria",
       "quote_text": "Africa's energy access challenge is a technology challenge at its core. Policy may enable, but true transition will be engineered through indigenous innovation -- not legislated.",
       "stance": "neutral",
       "article_title": "Germany, Nigeria Partners To Build Sustainable Green Hydrogen Energy Future  - Oriental News Nigeria",
       "source_url": "http://orientalnewsng.com/germany-nigeria-partners-to-build-sustainable-green-hydrogen-energy-future/"
     },
     {
-      "id": 615,
+      "id": 3542,
       "article_id": 255,
       "speaker": "Annett G\u00fcnther",
       "speaker_role": "German Ambassador to Nigeria",
@@ -456,10 +430,10 @@
       "source_url": "https://guardian.ng/news/germany-nigeria-deepen-partnership-on-sustainable-energy/"
     },
     {
-      "id": 616,
+      "id": 3543,
       "article_id": 255,
-      "speaker": "Prof Emeka Oguzie",
-      "speaker_role": "Prof, Federal University of Technology, Owerri",
+      "speaker": "Emeka Oguzie",
+      "speaker_role": "Prof",
       "quote_text": "Africa's energy access challenge is a technology challenge at its core. Policy may enable, but true transition will be engineered through indigenous innovation, not legislated.",
       "stance": "neutral",
       "article_title": "Germany, Nigeria deepen partnership on sustainable energy",
@@ -476,33 +450,33 @@
     {
       "stakeholder": "Nigeria",
       "position": "support",
-      "reasoning": "Aims to become a regional and global hydrogen leader, attract investment, and drive industrial development.",
+      "reasoning": "Aims to become a pioneering hydrogen hub in Africa, attract investment, and drive industrial decarbonization.",
       "mention_count": 6
     },
     {
       "stakeholder": "GIZ",
       "position": "support",
-      "reasoning": "Facilitates the partnership and accelerates the global energy transition.",
+      "reasoning": "Facilitates the energy transition and positions Nigeria competitively in emerging energy markets.",
       "mention_count": 4
     },
     {
       "stakeholder": "AHK Nigeria",
       "position": "support",
-      "reasoning": "Highlights the need for strong partnerships and market-driven solutions for a successful hydrogen economy.",
+      "reasoning": "Highlights the importance of partnerships and mobilized capital for a successful hydrogen economy.",
       "mention_count": 3
     },
     {
-      "stakeholder": "Private Sector",
+      "stakeholder": "GIZ Nigeria and ECOWAS",
       "position": "support",
-      "reasoning": "Recognized as crucial for mobilizing capital and driving market-driven solutions.",
+      "reasoning": "Facilitates the energy transition and positions Nigeria competitively in emerging energy markets.",
       "mention_count": 1
     }
   ],
   "source_bias": {
     "all_sources": [
       {
-        "source": "THISDAYLIVE",
-        "avg_sentiment": 0.75,
+        "source": "The Guardian",
+        "avg_sentiment": 0.7,
         "article_count": 1
       },
       {
@@ -511,8 +485,8 @@
         "article_count": 1
       },
       {
-        "source": "The Guardian",
-        "avg_sentiment": 0.75,
+        "source": "THISDAYLIVE",
+        "avg_sentiment": 0.8,
         "article_count": 1
       },
       {
@@ -522,12 +496,12 @@
       },
       {
         "source": "The Sun Nigeria",
-        "avg_sentiment": 0.85,
+        "avg_sentiment": 0.8,
         "article_count": 1
       },
       {
         "source": "Oriental News Nigeria",
-        "avg_sentiment": 0.85,
+        "avg_sentiment": 0.8,
         "article_count": 1
       }
     ],
@@ -536,13 +510,8 @@
       "neutral": [],
       "positive": [
         {
-          "source": "The Sun Nigeria",
-          "avg_sentiment": 0.85,
-          "article_count": 1
-        },
-        {
-          "source": "Oriental News Nigeria",
-          "avg_sentiment": 0.85,
+          "source": "THISDAYLIVE",
+          "avg_sentiment": 0.8,
           "article_count": 1
         },
         {
@@ -551,8 +520,13 @@
           "article_count": 1
         },
         {
-          "source": "THISDAYLIVE",
-          "avg_sentiment": 0.75,
+          "source": "The Sun Nigeria",
+          "avg_sentiment": 0.8,
+          "article_count": 1
+        },
+        {
+          "source": "Oriental News Nigeria",
+          "avg_sentiment": 0.8,
           "article_count": 1
         },
         {
@@ -562,7 +536,7 @@
         },
         {
           "source": "The Guardian",
-          "avg_sentiment": 0.75,
+          "avg_sentiment": 0.7,
           "article_count": 1
         }
       ]
@@ -582,33 +556,33 @@
       "start": "2025-12-18T02:03:10Z",
       "end": "2025-12-19T12:19:19Z"
     },
-    "avg_sentiment": 0.7916666666666666,
-    "total_quotes": 21,
+    "avg_sentiment": 0.775,
+    "total_quotes": 20,
     "total_financial_mentions": 0
   },
-  "executive_brief": "Germany and Nigeria are strengthening their partnership to develop a sustainable green hydrogen energy future, as evidenced by the 3rd German-Nigerian Hydrogen Symposium. This collaboration is receiving positive coverage across six articles from six sources, with an average sentiment score of 0.79, indicating strong support for the initiative. The partnership aims to accelerate the global transition to a hydrogen economy and position Nigeria as a leader in climate innovation. \n\nKey stakeholders, including Germany, Nigeria, GIZ, and AHK Nigeria, all express support for the partnership. Annett G\u00fcnther, the German Ambassador to Nigeria, emphasizes the importance of the symposium as a platform for translating policy into action and attracting investment. Bastian Lidzba of AHK Nigeria highlights the need for strong partnerships and market-driven solutions. There are no significant financial details mentioned in the provided data, but the initiative is framed as a driver for industrial development and investment.",
+  "executive_brief": "Germany and Nigeria are strengthening their partnership to develop a sustainable green hydrogen energy future, as evidenced by the 3rd German-Nigerian Hydrogen Symposium. This collaboration is receiving positive coverage across six articles from six sources, with an average sentiment score of 0.78, indicating strong support for the initiative. The partnership aims to accelerate the global transition to a hydrogen economy and position Nigeria as a key player in Africa's emerging energy markets. \n\nKey stakeholders, including Germany, Nigeria, GIZ, and AHK Nigeria, all express support for the partnership. Annett G\u00fcnther, the German Ambassador to Nigeria, emphasizes the importance of the symposium as a platform for translating policy into action and attracting investment. Bastian Lidzba of AHK Nigeria highlights the need for strong partnerships and mobilized capital. While the data doesn't include specific financial commitments, the focus is on creating a framework to attract investors and drive industrial decarbonization.",
   "key_arguments": {
     "for": [
-      "Strong partnerships, mobilized capital, and market-driven solutions are essential for the success of the hydrogen economy (Bastian Lidzba, AHK Nigeria).",
-      "The partnership provides certainty to investors and signals Nigeria's leadership in climate innovation (Annett G\u00fcnther, German Ambassador to Nigeria).",
-      "The symposium serves as a vital platform where policy meets practice and vision transforms into action (Annett G\u00fcnther, German Ambassador to Nigeria)."
+      "The partnership will provide certainty to investors and signal Nigeria's leadership in climate innovation (Annett G\u00fcnther).",
+      "The success of the hydrogen economy depends on strong partnerships, mobilized capital, and market-driven solutions (Bastian Lidzba).",
+      "The symposium serves as a vital platform where policy meets practice and vision transforms into action (Annett G\u00fcnther)."
     ],
     "against": []
   },
   "whats_at_stake": {
     "winners": [
-      "Germany - Aims to decarbonize industries and build a sustainable global energy future.",
-      "Nigeria - Aims to become a regional and global hydrogen leader and attract investment.",
-      "GIZ - Facilitates the partnership and accelerates the global energy transition.",
-      "AHK Nigeria - Benefits from the emphasis on strong partnerships and market-driven solutions."
+      "Germany - Sees hydrogen as indispensable for decarbonizing industries and building a sustainable global energy future.",
+      "Nigeria - Aims to become a pioneering hydrogen hub in Africa and attract investment.",
+      "GIZ - Facilitates the energy transition and positions Nigeria competitively in emerging energy markets.",
+      "AHK Nigeria - Benefits from the emphasis on partnerships and mobilized capital."
     ],
     "losers": [],
     "risks": [],
     "opportunities": [
+      "Nigeria becoming a pioneering hydrogen hub in Africa.",
       "Attracting investment in Nigeria's hydrogen sector.",
-      "Driving industrial development in Nigeria.",
-      "Establishing Nigeria as a regional and global hydrogen leader.",
-      "Accelerating the global energy transition."
+      "Driving industrial decarbonization in Nigeria.",
+      "Positioning Nigeria competitively in emerging energy markets."
     ]
   }
 }

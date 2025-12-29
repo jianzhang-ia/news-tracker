@@ -6,10 +6,10 @@
     "category": "other",
     "summary": "F\u00fcr die Studie sind den Angaben nach mehr als 283.000 Mietvertr\u00e4ge ausgewertet worden. Im Vergleich zu 2022 sind die Mieten demnach um 8,8 Prozent gestiegen.\n\nDie monatliche Nettokaltmiete in Hamburg liegt nach einer Studie der Wohnungswirtschaft derzeit im Schnitt bei 9,11 Euro je Quadratmeter. Im ...",
     "first_seen": "2025-12-23T19:27:03.434874",
-    "last_updated": "2025-12-29T10:25:01.211249",
+    "last_updated": "2025-12-29T17:30:59.198432",
     "created_at": "2025-12-23 18:27:03"
   },
-  "generated_at": "2025-12-29T10:30:10.218650",
+  "generated_at": "2025-12-29T17:33:07.538182",
   "articles": [
     {
       "id": 323,
@@ -24,7 +24,7 @@
       "language": "deu",
       "image_url": "https://cdn.mopo.de/uploads/sites/4/2025/06/518584340-scaled.jpg?resize=1024%2C600",
       "fetched_at": "2025-12-23 18:27:03",
-      "sentiment_score": -0.2,
+      "sentiment_score": -0.3,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -75,7 +75,7 @@
       "language": "deu",
       "image_url": "https://www.n-tv.de/img/30076947/1764246753/Img_16_9/1200/Nach-Einschaetzung-der-Wohnungswirtschaft-ist-der-Mietmarkt-intakt.jpg",
       "fetched_at": "2025-12-23 18:27:03",
-      "sentiment_score": -0.15,
+      "sentiment_score": -0.2,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -126,8 +126,8 @@
       "language": "deu",
       "image_url": "https://i0.web.de/image/024/41633024,pd=1,f=opengraph/wohnungen-hamburg.jpg",
       "fetched_at": "2025-12-23 18:27:03",
-      "sentiment_score": -0.1,
-      "sentiment_label": "slightly_negative",
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
       "article_type": "news_report"
     },
     {
@@ -157,58 +157,32 @@
   "sentiment_trend": [
     {
       "date": "2025-11-27",
-      "avg_sentiment": -0.04375,
+      "avg_sentiment": -0.05,
       "count": 8
     }
   ],
   "entities": {
-    "companies": [
-      {
-        "name": "Saga",
-        "count": 6
-      },
-      {
-        "name": "Center for Real Estate Studies",
-        "count": 1
-      }
-    ],
     "countries": [
       {
         "name": "Germany",
-        "count": 6
-      },
-      {
-        "name": "Deutschland",
-        "count": 2
+        "count": 8
       },
       {
         "name": "Hamburg",
-        "count": 2
-      },
-      {
-        "name": "Freiburg",
-        "count": 1
+        "count": 3
       }
     ],
     "organizations": [
       {
         "name": "Center for Real Estate Studies",
-        "count": 6
+        "count": 4
       },
       {
         "name": "Mieterverein zu Hamburg",
         "count": 4
       },
       {
-        "name": "Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW) Nord",
-        "count": 3
-      },
-      {
         "name": "Grundeigent\u00fcmer-Verband Hamburg",
-        "count": 3
-      },
-      {
-        "name": "Immobilienverband Deutschland (IVD) Nord",
         "count": 3
       },
       {
@@ -220,93 +194,154 @@
         "count": 3
       },
       {
+        "name": "Linksfraktion",
+        "count": 3
+      },
+      {
+        "name": "Saga",
+        "count": 3
+      },
+      {
         "name": "Verband Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen",
         "count": 3
       },
       {
+        "name": "Bundesverband Freier Immobilien- und Wohnungsunternehmen",
+        "count": 2
+      },
+      {
+        "name": "CDU-Fraktion",
+        "count": 2
+      },
+      {
+        "name": "Immobilienverband Deutschland",
+        "count": 2
+      },
+      {
+        "name": "Verband Norddeutscher Wohnungsunternehmen",
+        "count": 2
+      },
+      {
         "name": "Verband norddeutscher Wohnungsunternehmen",
-        "count": 3
+        "count": 2
+      },
+      {
+        "name": "BFW Nord",
+        "count": 1
+      },
+      {
+        "name": "Bundesverbands Freier Immobilien- und Wohnungsunternehmen",
+        "count": 1
+      },
+      {
+        "name": "Deutsche Presse-Agentur",
+        "count": 1
       },
       {
         "name": "Deutsche Presse-Agentur (dpa)",
-        "count": 2
+        "count": 1
       },
       {
         "name": "Grundeigent\u00fcmer-Verband",
         "count": 1
       },
       {
+        "name": "IVD Nord",
+        "count": 1
+      },
+      {
         "name": "SZ-Redaktion",
         "count": 1
+      }
+    ],
+    "companies": [
+      {
+        "name": "Center for Real Estate Studies",
+        "count": 3
       },
       {
-        "name": "Verband norddeutscher Wohnungsunternehmen (VNW)",
-        "count": 1
+        "name": "Saga",
+        "count": 3
       },
       {
-        "name": "Wohnungsverb\u00e4nde",
-        "count": 1
-      },
-      {
-        "name": "Wohnungswirtschaft",
+        "name": "Immobilienverband Deutschland",
         "count": 1
       }
     ],
     "politicians": [
       {
-        "name": "Carl-Christian Franzen (stellvertretender Vorsitzender des Immobilienverbands Deutschland (IVD) Nord)",
+        "name": "Carl-Christian Franzen",
         "count": 3
       },
       {
-        "name": "Heike Sudmann (wohnungspolitische Sprecherin der Linksfraktion)",
+        "name": "Heike Sudmann",
         "count": 3
       },
       {
-        "name": "Kay Brahmst (Vorstandsvorsitzender des Verbands Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW))",
+        "name": "Kay Brahmst",
         "count": 3
       },
       {
-        "name": "Anke Frieling (stadtentwicklungspolitische Sprecherin der CDU-Fraktion)",
+        "name": "Anke Frieling",
         "count": 2
+      },
+      {
+        "name": "Mira Oetinger",
+        "count": 1
       }
     ]
   },
   "financial": {
     "amounts": [
       {
-        "amount": 730.0,
-        "currency": "EUR",
-        "context": "monatliche Nettokaltmiete f\u00fcr 80 Quadratmeter Wohnung"
+        "amount": 700000.0,
+        "currency": "people",
+        "context": "number of rental apartments in Hamburg"
+      },
+      {
+        "amount": 283000.0,
+        "currency": "people",
+        "context": "number of rental contracts evaluated"
+      },
+      {
+        "amount": 283000.0,
+        "currency": "people",
+        "context": "number of rental contracts evaluated"
       },
       {
         "amount": 730.0,
         "currency": "EUR",
-        "context": "average Nettokaltmiete for an 80 square meter apartment"
+        "context": "average monthly net cold rent for an 80 square meter apartment"
       },
       {
         "amount": 730.0,
         "currency": "EUR",
-        "context": "Nettokaltmiete f\u00fcr eine 80 Quadratmeter Wohnung"
+        "context": "average net cold rent for an 80 square meter apartment"
+      },
+      {
+        "amount": 730.0,
+        "currency": "EUR",
+        "context": "average monthly net cold rent for an 80 square meter apartment"
       },
       {
         "amount": 10.8,
         "currency": "%",
-        "context": "Anstieg der Verbraucherpreise im gleichen Zeitraum"
-      },
-      {
-        "amount": 10.8,
-        "currency": "%",
-        "context": "percentage increase in consumer prices"
-      },
-      {
-        "amount": 10.8,
-        "currency": "%",
-        "context": "Anstieg der Verbraucherpreise"
-      },
-      {
-        "amount": 10.8,
-        "currency": "percent",
         "context": "increase in consumer prices"
+      },
+      {
+        "amount": 10.8,
+        "currency": "%",
+        "context": "increase in consumer prices during the same period"
+      },
+      {
+        "amount": 10.8,
+        "currency": "%",
+        "context": "increase in consumer prices in the same period"
+      },
+      {
+        "amount": 10.8,
+        "currency": "%",
+        "context": "consumer price increase in the same period"
       },
       {
         "amount": 9.11,
@@ -316,7 +351,7 @@
       {
         "amount": 9.11,
         "currency": "EUR",
-        "context": "average monthly Nettokaltmiete per square meter in Hamburg"
+        "context": "average monthly net cold rent per square meter in Hamburg"
       },
       {
         "amount": 9.11,
@@ -326,17 +361,17 @@
       {
         "amount": 9.11,
         "currency": "EUR",
-        "context": "monatliche Nettokaltmiete je Quadratmeter"
+        "context": "average monthly net cold rent per square meter"
       },
       {
         "amount": 9.11,
         "currency": "EUR",
-        "context": "average Nettokaltmiete per square meter"
+        "context": "average net cold rent per square meter"
       },
       {
         "amount": 9.11,
         "currency": "EUR",
-        "context": "Nettokaltmiete pro Quadratmeter"
+        "context": "average monthly net cold rent per square meter"
       },
       {
         "amount": 9.11,
@@ -346,88 +381,88 @@
       {
         "amount": 9.0,
         "currency": "EUR",
-        "context": "Kaltmiete unter der es kaum freie Angebote gibt"
+        "context": "minimum cold rent for available apartments"
       },
       {
         "amount": 8.8,
-        "currency": "percent",
-        "context": "increase in rent compared to 2022"
-      },
-      {
-        "amount": 8.8,
-        "currency": "percent",
-        "context": "increase in rent compared to 2022"
-      },
-      {
-        "amount": 8.8,
-        "currency": "percent",
+        "currency": "%",
         "context": "increase in rent compared to 2022"
       },
       {
         "amount": 8.8,
         "currency": "%",
-        "context": "Mietanstieg im Vergleich zu 2022"
+        "context": "increase in rent compared to 2022"
       },
       {
         "amount": 8.8,
         "currency": "%",
-        "context": "percentage increase in rents compared to 2022"
+        "context": "increase in rent compared to 2022"
       },
       {
         "amount": 8.8,
         "currency": "%",
-        "context": "Mietanstieg im Vergleich zu 2022"
+        "context": "increase in rents compared to 2022"
       },
       {
         "amount": 8.8,
-        "currency": "percent",
+        "currency": "%",
+        "context": "increase in rents compared to 2022"
+      },
+      {
+        "amount": 8.8,
+        "currency": "%",
+        "context": "increase in rents compared to 2022"
+      },
+      {
+        "amount": 8.8,
+        "currency": "%",
         "context": "rent increase compared to 2022"
       },
       {
         "amount": 2.2,
-        "currency": "percent",
-        "context": "annual increase in Hamburg rents since 2019"
+        "currency": "%",
+        "context": "annual rent increase since 2019"
       }
     ],
     "totals": {
+      "people": 1266000.0,
       "EUR": 2262.770000000001,
-      "%": 58.8,
-      "percent": 48.2
+      "%": 106.99999999999999
     }
   },
   "quotes": [
     {
-      "id": 784,
+      "id": 3718,
       "article_id": 323,
       "speaker": "Carl-Christian Franzen",
-      "speaker_role": "stellvertretender Vorsitzender des IVD Nord",
-      "quote_text": "Der Mietmarkt in unserer Stadt funktioniert",
+      "speaker_role": "stellvertretende Vorsitzende des Immobilienverbands Deutschland (IVD) Nord",
+      "quote_text": "Die neue Hamburger Mietenstudie zeigt sehr deutlich: Der Mietmarkt in unserer Stadt funktioniert",
       "stance": "support",
       "article_title": "Mieten in Hamburg - bezahlbar? Kritik an Studie",
       "source_url": "https://www.mopo.de/hamburg/mieten-in-hamburg-bezahlbar-kritik-an-studie/"
     },
     {
-      "id": 785,
+      "id": 3719,
       "article_id": 323,
       "speaker": "Kay Brahmst",
-      "speaker_role": "Vorstandsvorsitzender des BFW Nord",
-      "quote_text": "Die Mieten in Hamburg sind nicht zu hoch.",
+      "speaker_role": "Vorstandsvorsitzende des Verbands Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW)",
+      "quote_text": "Die Mieten in Hamburg sind nicht zu hoch",
       "stance": "support",
       "article_title": "Mieten in Hamburg - bezahlbar? Kritik an Studie",
       "source_url": "https://www.mopo.de/hamburg/mieten-in-hamburg-bezahlbar-kritik-an-studie/"
     },
     {
-      "id": 786,
+      "id": 3720,
       "article_id": 323,
       "speaker": "Heike Sudmann",
       "speaker_role": "wohnungspolitische Sprecherin der Linksfraktion",
-      "quote_text": "Wer in Hamburg eine Wohnung sucht, findet bei den \u00fcber 700.000 Mietwohnungen kaum ein freies Angebot unter 9 Euro Kaltmiete.",
+      "quote_text": "Wer in Hamburg eine Wohnung sucht, findet bei den \u00fcber 700.000 Mietwohnungen kaum ein freies Angebot unter 9 Euro Kaltmiete. Das ist die Realit\u00e4t und nicht eine sch\u00f6ngerechnete Studie. Die Mieter:innen brauchen sinkende Mieten und einen Mietendeckel. Sie brauchen keine Wohnungswirtschaft, die Profite aus den Portemonnaies der Mieter:innen zieht.",
       "stance": "oppose",
       "article_title": "Mieten in Hamburg - bezahlbar? Kritik an Studie",
       "source_url": "https://www.mopo.de/hamburg/mieten-in-hamburg-bezahlbar-kritik-an-studie/"
     },
     {
-      "id": 787,
+      "id": 3721,
       "article_id": 323,
       "speaker": "Anke Frieling",
       "speaker_role": "stadtentwicklungspolitische Sprecherin der CDU-Fraktion",
@@ -437,57 +472,57 @@
       "source_url": "https://www.mopo.de/hamburg/mieten-in-hamburg-bezahlbar-kritik-an-studie/"
     },
     {
-      "id": 791,
+      "id": 3725,
       "article_id": 325,
       "speaker": "Carl-Christian Franzen",
-      "speaker_role": "stellvertretender Vorsitzender des IVD Nord",
-      "quote_text": "Der Mietmarkt in unserer Stadt funktioniert",
+      "speaker_role": "stellvertretende Vorsitzende des Immobilienverbands Deutschland (IVD) Nord",
+      "quote_text": "Die neue Hamburger Mietenstudie zeigt sehr deutlich: Der Mietmarkt in unserer Stadt funktioniert",
       "stance": "support",
       "article_title": "Deutlicher Anstieg der Nettokaltmiete in Hamburg im Vergleich zu 2022",
       "source_url": "https://www.radiohamburg.de/aktuelles/hamburg/Deutlicher-Anstieg-der-Nettokaltmiete-in-Hamburg-im-Vergleich-zu-2022-id1532771.html"
     },
     {
-      "id": 792,
+      "id": 3726,
       "article_id": 325,
       "speaker": "Kay Brahmst",
-      "speaker_role": "Vorstandsvorsitzender des BFW Nord",
-      "quote_text": "Die Mieten in Hamburg sind nicht zu hoch.",
+      "speaker_role": "Vorstandsvorsitzende des Verbands Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW)",
+      "quote_text": "Die Mieten in Hamburg sind nicht zu hoch",
       "stance": "support",
       "article_title": "Deutlicher Anstieg der Nettokaltmiete in Hamburg im Vergleich zu 2022",
       "source_url": "https://www.radiohamburg.de/aktuelles/hamburg/Deutlicher-Anstieg-der-Nettokaltmiete-in-Hamburg-im-Vergleich-zu-2022-id1532771.html"
     },
     {
-      "id": 793,
+      "id": 3727,
       "article_id": 325,
       "speaker": "Heike Sudmann",
       "speaker_role": "wohnungspolitische Sprecherin der Linksfraktion",
-      "quote_text": "Wer in Hamburg eine Wohnung sucht, findet bei den \u00fcber 700.000 Mietwohnungen kaum ein freies Angebot unter 9 Euro Kaltmiete.",
+      "quote_text": "Wer in Hamburg eine Wohnung sucht, findet bei den \u00fcber 700.000 Mietwohnungen kaum ein freies Angebot unter 9 Euro Kaltmiete",
       "stance": "oppose",
       "article_title": "Deutlicher Anstieg der Nettokaltmiete in Hamburg im Vergleich zu 2022",
       "source_url": "https://www.radiohamburg.de/aktuelles/hamburg/Deutlicher-Anstieg-der-Nettokaltmiete-in-Hamburg-im-Vergleich-zu-2022-id1532771.html"
     },
     {
-      "id": 794,
+      "id": 3728,
       "article_id": 325,
       "speaker": "Anke Frieling",
       "speaker_role": "stadtentwicklungspolitische Sprecherin der CDU-Fraktion",
-      "quote_text": "Der rot-gr\u00fcne Senat hat es \u00fcber Jahre vers\u00e4umt, ausreichend neue Wohnungen zu schaffen und die Stadt f\u00fcr Familien bezahlbar zu halten.",
+      "quote_text": "Der rot-gr\u00fcne Senat hat es \u00fcber Jahre vers\u00e4umt, ausreichend neue Wohnungen zu schaffen und die Stadt f\u00fcr Familien bezahlbar zu halten",
       "stance": "oppose",
       "article_title": "Deutlicher Anstieg der Nettokaltmiete in Hamburg im Vergleich zu 2022",
       "source_url": "https://www.radiohamburg.de/aktuelles/hamburg/Deutlicher-Anstieg-der-Nettokaltmiete-in-Hamburg-im-Vergleich-zu-2022-id1532771.html"
     },
     {
-      "id": 795,
+      "id": 3729,
       "article_id": 327,
       "speaker": "Andreas Breitner",
-      "speaker_role": "VNW",
+      "speaker_role": "Verband norddeutscher Wohnungsunternehmen",
       "quote_text": "Ja, damit kann man leben. Das ist kein Grund f\u00fcr Hysterie oder Panik. Der Hamburger Wohnungsmarkt ist besser als sein Ruf. Aber er darf auch nicht schlechter werden.",
       "stance": "support",
       "article_title": "Hamburgs Mieten wachsen langsamer als Inflation - doch der Streit um bezahlbaren Wohnraum bleibt",
       "source_url": "https://www.ndr.de/nachrichten/hamburg/studie-hamburger-mieten-weniger-gestiegen-als-verbraucherkosten,wohnungsmarkt-114.html"
     },
     {
-      "id": 796,
+      "id": 3730,
       "article_id": 327,
       "speaker": "Marco W\u00f6lfle",
       "speaker_role": "Professor",
@@ -497,27 +532,27 @@
       "source_url": "https://www.ndr.de/nachrichten/hamburg/studie-hamburger-mieten-weniger-gestiegen-als-verbraucherkosten,wohnungsmarkt-114.html"
     },
     {
-      "id": 788,
+      "id": 3722,
       "article_id": 324,
       "speaker": "Carl-Christian Franzen",
-      "speaker_role": "stellvertretender Vorsitzender des IVD Nord",
+      "speaker_role": "stellvertretender Vorsitzender des Immobilienverbands Deutschland (IVD) Nord",
       "quote_text": "Der Mietmarkt in unserer Stadt funktioniert",
       "stance": "support",
       "article_title": "Hamburg & Schleswig-Holstein: Wohnungswirtschaft h\u00e4lt Mieten f\u00fcr gr\u00f6\u00dftenteils bezahlbar",
       "source_url": "https://www.n-tv.de/regionales/hamburg-und-schleswig-holstein/Wohnungswirtschaft-haelt-Mieten-fuer-groesstenteils-bezahlbar-id30076355.html"
     },
     {
-      "id": 789,
+      "id": 3723,
       "article_id": 324,
       "speaker": "Kay Brahmst",
-      "speaker_role": "Vorstandsvorsitzender des BFW Nord",
-      "quote_text": "Die Mieten in Hamburg sind nicht zu hoch.",
+      "speaker_role": "Vorstandsvorsitzender des Verbands Nord des Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW)",
+      "quote_text": "Die Mieten in Hamburg sind nicht zu hoch",
       "stance": "support",
       "article_title": "Hamburg & Schleswig-Holstein: Wohnungswirtschaft h\u00e4lt Mieten f\u00fcr gr\u00f6\u00dftenteils bezahlbar",
       "source_url": "https://www.n-tv.de/regionales/hamburg-und-schleswig-holstein/Wohnungswirtschaft-haelt-Mieten-fuer-groesstenteils-bezahlbar-id30076355.html"
     },
     {
-      "id": 790,
+      "id": 3724,
       "article_id": 324,
       "speaker": "Heike Sudmann",
       "speaker_role": "wohnungspolitische Sprecherin der Linksfraktion",
@@ -531,13 +566,19 @@
     {
       "stakeholder": "Mieterverein zu Hamburg",
       "position": "oppose",
-      "reasoning": "Studie ist eine Beruhigungspille und verschleiert den Mangel an bezahlbarem Wohnraum.",
+      "reasoning": "Claims the study is designed to downplay the lack of affordable housing.",
       "mention_count": 4
     },
     {
       "stakeholder": "Grundeigent\u00fcmer-Verband Hamburg",
       "position": "neutral",
       "reasoning": "Reported data from study",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Immobilienverband Deutschland",
+      "position": "support",
+      "reasoning": "Believes the rental market in Hamburg is functioning well.",
       "mention_count": 3
     },
     {
@@ -567,37 +608,49 @@
     {
       "stakeholder": "CDU-Fraktion",
       "position": "oppose",
-      "reasoning": "Der Senat hat vers\u00e4umt, ausreichend Wohnraum zu schaffen.",
+      "reasoning": "Criticizes the government for failing to build enough affordable housing.",
       "mention_count": 2
     },
     {
       "stakeholder": "Linksfraktion",
       "position": "oppose",
-      "reasoning": "Mieten sind zu hoch und es werden keine Ma\u00dfnahmen zur Senkung ergriffen.",
+      "reasoning": "Advocates for rent control and lower rents, criticizing the housing industry for prioritizing profits.",
       "mention_count": 2
     },
     {
-      "stakeholder": "Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW) Nord",
+      "stakeholder": "BFW Nord",
       "position": "support",
-      "reasoning": "Argues that rents are not too high.",
+      "reasoning": "Believes rents in Hamburg are not too high, and the main problem is a lack of new construction.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Immobilienverband Deutschland (IVD) Nord",
+      "stakeholder": "Bundesverband Freier Immobilien- und Wohnungsunternehmen",
       "position": "support",
-      "reasoning": "Believes the rental market functions well.",
+      "reasoning": "Argues that rents in Hamburg are not too high, and the problem is a lack of new construction.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Linksfraktion (Heike Sudmann)",
+      "stakeholder": "Bundesverbands Freier Immobilien- und Wohnungsunternehmen",
+      "position": "support",
+      "reasoning": "Argues rents are not too high, but more housing needs to be built.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Heike Sudmann",
       "position": "oppose",
-      "reasoning": "It is difficult to find affordable housing under 9 EUR/sqm.",
+      "reasoning": "States that finding apartments under 9 EUR/month is difficult.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Wohnungsverb\u00e4nde & VNW",
+      "stakeholder": "Marco W\u00f6lfle",
+      "position": "neutral",
+      "reasoning": "Presents data showing moderate rent increases compared to overall inflation.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Verband norddeutscher Wohnungsunternehmen",
       "position": "support",
-      "reasoning": "Believe the housing market is better than its reputation and rent increases are moderate.",
+      "reasoning": "Believes the housing market is better than its reputation and current rent increases are manageable.",
       "mention_count": 1
     },
     {
@@ -605,25 +658,13 @@
       "position": "support",
       "reasoning": "They assess that most rental apartments in Hamburg are affordable.",
       "mention_count": 1
-    },
-    {
-      "stakeholder": "Wohnungswirtschaft (IVD, BFW, Verband norddeutscher Wohnungsunternehmen, Saga)",
-      "position": "support",
-      "reasoning": "Mieten sind bezahlbar und der Markt funktioniert.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Wohnungswirtschaft (IVD, BFW, etc.)",
-      "position": "support",
-      "reasoning": "Mieten are largely affordable and the market functions well.",
-      "mention_count": 1
     }
   ],
   "source_bias": {
     "all_sources": [
       {
         "source": "MOPO.de",
-        "avg_sentiment": -0.2,
+        "avg_sentiment": -0.3,
         "article_count": 1
       },
       {
@@ -633,12 +674,7 @@
       },
       {
         "source": "N-tv",
-        "avg_sentiment": -0.15,
-        "article_count": 1
-      },
-      {
-        "source": "WEB.DE",
-        "avg_sentiment": -0.1,
+        "avg_sentiment": -0.2,
         "article_count": 1
       },
       {
@@ -648,6 +684,11 @@
       },
       {
         "source": "DIE WELT",
+        "avg_sentiment": 0.0,
+        "article_count": 1
+      },
+      {
+        "source": "WEB.DE",
         "avg_sentiment": 0.0,
         "article_count": 1
       },
@@ -666,7 +707,7 @@
       "negative": [
         {
           "source": "MOPO.de",
-          "avg_sentiment": -0.2,
+          "avg_sentiment": -0.3,
           "article_count": 1
         },
         {
@@ -676,7 +717,7 @@
         },
         {
           "source": "N-tv",
-          "avg_sentiment": -0.15,
+          "avg_sentiment": -0.2,
           "article_count": 1
         }
       ],
@@ -687,13 +728,13 @@
           "article_count": 1
         },
         {
-          "source": "Norddeutscher Rundfunk",
-          "avg_sentiment": 0.1,
+          "source": "WEB.DE",
+          "avg_sentiment": 0.0,
           "article_count": 1
         },
         {
-          "source": "WEB.DE",
-          "avg_sentiment": -0.1,
+          "source": "Norddeutscher Rundfunk",
+          "avg_sentiment": 0.1,
           "article_count": 1
         },
         {
@@ -725,36 +766,36 @@
       "start": "2025-11-27T10:52:17Z",
       "end": "2025-11-27T17:30:44Z"
     },
-    "avg_sentiment": -0.04375000000000001,
+    "avg_sentiment": -0.05000000000000002,
     "total_quotes": 13,
-    "total_financial_mentions": 23
+    "total_financial_mentions": 26
   },
-  "executive_brief": "A study indicates the average monthly net cold rent in Hamburg is EUR 9.11 per square meter, representing an 8.8% increase since 2022. This data is covered by 8 articles from 8 sources, suggesting broad media attention. The issue is significant as it directly impacts housing affordability for residents and is a point of contention between various stakeholders, with the average net cold rent for an 80 square meter apartment being EUR 730. The overall sentiment is slightly negative (-0.04). \n\nStakeholder positions are sharply divided. Representatives from the Immobilienverband Deutschland (IVD) Nord and Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW) Nord argue the market functions well and rents are not too high, citing Andreas Breitner (VNW) who states the situation isn't cause for panic. Conversely, Heike Sudmann (Linksfraktion) and Anke Frieling (CDU-Fraktion) criticize the lack of affordable housing and the government's failure to address the issue. The Mieterverein zu Hamburg opposes the study, claiming it downplays the housing shortage. Consumer prices have increased by 11% in the same period.",
+  "executive_brief": "A recent study indicates the average monthly net cold rent in Hamburg is \u20ac9.11 per square meter, representing an 8.8% increase since 2022. This issue received coverage from 8 sources on November 27, 2025, with a slightly negative average sentiment score (-0.05). The debate centers on affordability, with stakeholders disagreeing on whether current rents are reasonable and whether sufficient housing is being created. The study itself, based on over 283,000 rental contracts, is a focal point of contention.\n\nThe Immobilienverband Deutschland and BFW Nord support the study\u2019s findings, asserting the Hamburg rental market functions well and rents aren\u2019t too high. Conversely, the Linksfraktion and CDU-Fraktion criticize the lack of affordable housing, blaming the current government\u2019s policies. Financially, the data highlights approximately 700,000 rental apartments in Hamburg and an average monthly rent of \u20ac730 for an 80 square meter apartment, while consumer prices have increased by 11% during the same period.",
   "key_arguments": {
     "for": [
-      "Carl-Christian Franzen (IVD Nord) believes \"Der Mietmarkt in unserer Stadt funktioniert\"",
-      "Kay Brahmst (BFW Nord) argues \"Die Mieten in Hamburg sind nicht zu hoch.\"",
-      "Andreas Breitner (VNW) states the Hamburg housing market is better than its reputation and the situation is not a cause for panic."
+      "Carl-Christian Franzen (Immobilienverband Deutschland) states, \"The new Hamburg rental study clearly shows: The rental market in our city works.\"",
+      "Kay Brahmst (BFW Nord) believes, \"The rents in Hamburg are not too high.\""
     ],
     "against": [
-      "Heike Sudmann (Linksfraktion) points out that finding a rental under EUR 9 per square meter is difficult in Hamburg.",
-      "Anke Frieling (CDU-Fraktion) criticizes the government for failing to create enough affordable housing.",
-      "Mieterverein zu Hamburg believes the study is a 'Beruhigungspille' (reassurance pill) and obscures the lack of affordable housing."
+      "Heike Sudmann (Linksfraktion) argues that finding a rental apartment under \u20ac9 Kaltmiete is nearly impossible in Hamburg.",
+      "Anke Frieling (CDU-Fraktion) criticizes the government for failing to create enough affordable housing."
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "Saga - Reported data from study, potentially benefiting from a narrative of market stability.",
-      "Bundesverbands Freier Immobilien- und Wohnungsunternehmen (BFW) Nord - Supports the current market conditions."
+      "Immobilienverband Deutschland - Supports the study and believes the market is functioning well.",
+      "BFW Nord - Believes rents are not too high."
     ],
     "losers": [
-      "Hamburg residents seeking affordable housing - Facing increasing rents and limited availability, as highlighted by Heike Sudmann.",
-      "CDU-Fraktion - Criticizes the current government's housing policies."
+      "Potential renters - Facing increasing rents and limited affordable options, as highlighted by the Linksfraktion.",
+      "CDU-Fraktion - Criticizing the current government's housing policies."
     ],
     "risks": [
-      "Continued increase in rental prices, potentially exacerbating the affordability crisis.",
-      "Political fallout for the 'rot-gr\u00fcne Senat' due to perceived inaction on housing affordability."
+      "Continued lack of affordable housing in Hamburg.",
+      "Further increases in rental prices."
     ],
-    "opportunities": []
+    "opportunities": [
+      "Potential for increased construction of new housing to address affordability concerns, as suggested by BFW Nord."
+    ]
   }
 }

@@ -6,10 +6,10 @@
     "category": "ev",
     "summary": "Berlin. Die IG Metall k\u00e4mpft f\u00fcr die Einf\u00fchrung eines Tariflohns beim US-Autobauer Tesla in Gr\u00fcnheide bei Berlin. Die Werksf\u00fchrung lehnt das ab. Warum?\n\nDer US-Elektroautobauer Tesla in Gr\u00fcnheide bei Berlin lehnt die Einf\u00fchrung eines Tarifvertrags kategorisch ab. \"Es gab dieses Jahr eine Entgelterh\u00f6...",
     "first_seen": "2025-12-28T11:39:28.964379",
-    "last_updated": "2025-12-29T10:25:07.418640",
+    "last_updated": "2025-12-29T17:31:01.038369",
     "created_at": "2025-12-28 10:39:28"
   },
-  "generated_at": "2025-12-29T10:29:48.276652",
+  "generated_at": "2025-12-29T17:31:15.906782",
   "articles": [
     {
       "id": 624,
@@ -41,7 +41,7 @@
       "language": "deu",
       "image_url": "https://img.sparknews.funkemedien.de/410162631/410162631_1766913918_v4_3_800.jpeg",
       "fetched_at": "2025-12-28 10:39:28",
-      "sentiment_score": -0.3,
+      "sentiment_score": -0.4,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -58,7 +58,7 @@
       "language": "deu",
       "image_url": "https://media0.faz.net/image/w1200h627/b7cd16ba7989/w5080h2654x0y294o/202509/43601.0.1286594407/einziger-deutscher-standort.webp",
       "fetched_at": "2025-12-28 10:39:29",
-      "sentiment_score": -0.3,
+      "sentiment_score": -0.4,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -194,7 +194,7 @@
       "language": "deu",
       "image_url": "https://images.welt.de/69509feef6fc544dba9b52b8/bc01876ace49dc868d263825511a557b-master/ci16x9-w1200/tesla-gigafactory-berlin-brandenburg",
       "fetched_at": "2025-12-28 10:39:29",
-      "sentiment_score": -0.2,
+      "sentiment_score": -0.3,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -293,7 +293,7 @@
   "sentiment_trend": [
     {
       "date": "2025-12-28",
-      "avg_sentiment": -0.275,
+      "avg_sentiment": -0.29375,
       "count": 16
     }
   ],
@@ -306,33 +306,43 @@
     ],
     "countries": [
       {
-        "name": "USA",
+        "name": "Germany",
         "count": 16
       },
       {
-        "name": "Deutschland",
-        "count": 9
+        "name": "United States",
+        "count": 16
       },
       {
-        "name": "Germany",
-        "count": 7
+        "name": "Berlin",
+        "count": 1
       }
     ],
     "organizations": [
+      {
+        "name": "IG Metall",
+        "count": 15
+      },
       {
         "name": "IG Metall Berlin-Brandenburg-Sachsen",
         "count": 13
       },
       {
-        "name": "IG Metall",
+        "name": "Deutsche Presse-Agentur",
+        "count": 8
+      }
+    ],
+    "politicians": [
+      {
+        "name": "Andr\u00e9 Thierig",
         "count": 12
       },
       {
-        "name": "Deutsche Presse-Agentur",
+        "name": "Jan Otto",
         "count": 11
       },
       {
-        "name": "dpa",
+        "name": "Thierig",
         "count": 1
       }
     ]
@@ -357,7 +367,12 @@
       {
         "amount": 600.0,
         "currency": "EUR",
-        "context": "einmalige Sonderauszahlung"
+        "context": "Einmalige Sonderauszahlung f\u00fcr Metall- und Elektroindustrie"
+      },
+      {
+        "amount": 600.0,
+        "currency": "EUR",
+        "context": "Einmalige Sonderauszahlung"
       },
       {
         "amount": 600.0,
@@ -382,17 +397,32 @@
       {
         "amount": 600.0,
         "currency": "EUR",
-        "context": "Einmalige Sonderauszahlung f\u00fcr Metall- und Elektroindustrie"
+        "context": "one-time special payment for metal and electrical industry employees"
       },
       {
         "amount": 600.0,
         "currency": "EUR",
-        "context": "once-off special payment for employees in the metal and electrical industry"
+        "context": "one-time special payment for metal and electrical industry employees"
       },
       {
-        "amount": 600.0,
-        "currency": "EUR",
-        "context": "once-off special payment for employees in the metal and electrical industry"
+        "amount": 25.0,
+        "currency": "%",
+        "context": "Gesamte Entgelterh\u00f6hung seit Produktionsbeginn"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "Gesamt Entgelterh\u00f6hung seit Produktionsbeginn"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "Gesamt Entgelterh\u00f6hung seit Produktionsbeginn"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "Gesamt Entgelterh\u00f6hung seit Produktionsbeginn"
       },
       {
         "amount": 25.0,
@@ -407,12 +437,7 @@
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "Gesamt Entgelterh\u00f6hung seit Produktionsbeginn"
-      },
-      {
-        "amount": 25.0,
-        "currency": "percent",
-        "context": "Gesamt Entgelterh\u00f6hung seit Produktionsbeginn"
+        "context": "Gesamte Entgelterh\u00f6hung seit Produktionsbeginn"
       },
       {
         "amount": 25.0,
@@ -422,7 +447,12 @@
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "Gesamte Entgelterh\u00f6hung seit Produktionsbeginn"
+        "context": "Gesamt Entgelterh\u00f6hung seit Produktionsbeginn"
+      },
+      {
+        "amount": 25.0,
+        "currency": "%",
+        "context": "Gesamt Entgelterh\u00f6hung seit Produktionsbeginn"
       },
       {
         "amount": 25.0,
@@ -442,46 +472,16 @@
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "Gesamte Entgelterh\u00f6hung seit Produktionsbeginn"
-      },
-      {
-        "amount": 25.0,
-        "currency": "%",
-        "context": "Gesamte Entgelterh\u00f6hung seit Produktionsbeginn"
-      },
-      {
-        "amount": 25.0,
-        "currency": "%",
-        "context": "Gesamte Entgelterh\u00f6hung seit Produktionsbeginn"
-      },
-      {
-        "amount": 25.0,
-        "currency": "%",
-        "context": "Gesamte Entgelterh\u00f6hung seit Produktionsbeginn"
-      },
-      {
-        "amount": 25.0,
-        "currency": "%",
-        "context": "Gesamte Entgelterh\u00f6hung seit Produktionsbeginn"
+        "context": "Gesamt Entgelterh\u00f6hung seit Produktionsbeginn"
       },
       {
         "amount": 4.0,
         "currency": "%",
-        "context": "Tesla Entgelterh\u00f6hung"
+        "context": "Entgelterh\u00f6hung bei Tesla"
       },
       {
         "amount": 4.0,
         "currency": "%",
-        "context": "Tesla Entgelterh\u00f6hung"
-      },
-      {
-        "amount": 4.0,
-        "currency": "%",
-        "context": "Tesla Entgelterh\u00f6hung"
-      },
-      {
-        "amount": 4.0,
-        "currency": "percent",
         "context": "Tesla Entgelterh\u00f6hung"
       },
       {
@@ -527,12 +527,22 @@
       {
         "amount": 4.0,
         "currency": "%",
-        "context": "Entgelterh\u00f6hung bei Tesla"
+        "context": "Tesla Entgelterh\u00f6hung"
+      },
+      {
+        "amount": 4.0,
+        "currency": "%",
+        "context": "Tesla Entgelterh\u00f6hung"
       },
       {
         "amount": 4.0,
         "currency": "%",
         "context": "Entgelterh\u00f6hung bei Tesla"
+      },
+      {
+        "amount": 4.0,
+        "currency": "%",
+        "context": "Tesla Entgelterh\u00f6hung"
       },
       {
         "amount": 3.1,
@@ -548,16 +558,6 @@
         "amount": 3.1,
         "currency": "%",
         "context": "Entgelterh\u00f6hung ab April 2026"
-      },
-      {
-        "amount": 3.1,
-        "currency": "percent",
-        "context": "Steigerung der Monatsentgelte ab April 2026"
-      },
-      {
-        "amount": 3.1,
-        "currency": "%",
-        "context": "Steigerung der Monatsentgelte ab April 2026"
       },
       {
         "amount": 3.1,
@@ -582,17 +582,27 @@
       {
         "amount": 3.1,
         "currency": "%",
-        "context": "increase in monthly wages from April 2026"
+        "context": "Entgelterh\u00f6hung ab April 2026"
       },
       {
         "amount": 3.1,
         "currency": "%",
-        "context": "increase in monthly wages from April 2026"
+        "context": "Entgelterh\u00f6hung ab April 2026"
+      },
+      {
+        "amount": 3.1,
+        "currency": "%",
+        "context": "increase in monthly wages in April 2026"
+      },
+      {
+        "amount": 3.1,
+        "currency": "%",
+        "context": "increase in monthly wages in April 2026"
       },
       {
         "amount": 2.0,
         "currency": "%",
-        "context": "Tarifvertrag Entgelterh\u00f6hung"
+        "context": "Entgelterh\u00f6hung im Tarifvertrag"
       },
       {
         "amount": 2.0,
@@ -618,26 +628,6 @@
         "amount": 2.0,
         "currency": "%",
         "context": "Entgelterh\u00f6hung ab April 2025"
-      },
-      {
-        "amount": 2.0,
-        "currency": "percent",
-        "context": "Tarifvertrag Entgelterh\u00f6hung"
-      },
-      {
-        "amount": 2.0,
-        "currency": "percent",
-        "context": "Steigerung der Monatsentgelte ab April 2025"
-      },
-      {
-        "amount": 2.0,
-        "currency": "%",
-        "context": "Tarifvertrag Entgelterh\u00f6hung"
-      },
-      {
-        "amount": 2.0,
-        "currency": "%",
-        "context": "Steigerung der Monatsentgelte ab April 2025"
       },
       {
         "amount": 2.0,
@@ -687,7 +677,7 @@
       {
         "amount": 2.0,
         "currency": "%",
-        "context": "increase in monthly wages from April 2025"
+        "context": "Entgelterh\u00f6hung ab April 2025"
       },
       {
         "amount": 2.0,
@@ -702,7 +692,27 @@
       {
         "amount": 2.0,
         "currency": "%",
-        "context": "increase in monthly wages from April 2025"
+        "context": "Entgelterh\u00f6hung ab April 2025"
+      },
+      {
+        "amount": 2.0,
+        "currency": "%",
+        "context": "Tarifvertrag Entgelterh\u00f6hung"
+      },
+      {
+        "amount": 2.0,
+        "currency": "%",
+        "context": "increase in monthly wages in April 2025"
+      },
+      {
+        "amount": 2.0,
+        "currency": "%",
+        "context": "Tarifvertrag Entgelterh\u00f6hung"
+      },
+      {
+        "amount": 2.0,
+        "currency": "%",
+        "context": "increase in monthly wages in April 2025"
       },
       {
         "amount": 2.0,
@@ -712,38 +722,57 @@
       {
         "amount": 2.0,
         "currency": "%",
-        "context": "Entgelterh\u00f6hung im Tarifvertrag"
+        "context": "Tarifvertrag Entgelterh\u00f6hung"
       }
     ],
     "totals": {
       "EUR": 6600.0,
-      "%": 454.0000000000002,
-      "percent": 36.1
+      "%": 490.10000000000025
     }
   },
   "quotes": [
     {
-      "id": 1454,
+      "id": 4364,
       "article_id": 624,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
-      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent. Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
+      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent",
+      "stance": "neutral",
+      "article_title": "Tesla lehnt Einf\u00fchrung eines Tarfivertrags kategorisch ab",
+      "source_url": "https://www.rbb24.de/wirtschaft/beitrag/2025/12/tesla-gruenheide-werksleiter-andre-thierig-lehnt-tarifvertrag-ab.html"
+    },
+    {
+      "id": 4365,
+      "article_id": 624,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
       "stance": "support",
       "article_title": "Tesla lehnt Einf\u00fchrung eines Tarfivertrags kategorisch ab",
       "source_url": "https://www.rbb24.de/wirtschaft/beitrag/2025/12/tesla-gruenheide-werksleiter-andre-thierig-lehnt-tarifvertrag-ab.html"
     },
     {
-      "id": 1455,
+      "id": 4366,
       "article_id": 624,
       "speaker": "Jan Otto",
       "speaker_role": "Bezirksleiter",
-      "quote_text": "Ohne Tarifvertrag bleibt die Bezahlung bei Tesla deutlich unter dem Niveau in anderen Autowerken in Deutschland zur\u00fcck. Die Tesla-Gesch\u00e4ftsf\u00fchrung redet den Tarifvertrag schlecht, indem sie dessen niedrigste Entgeltgruppe heranzieht. In Automobilwerken sind die untersten beiden Entgeltgruppen aber gar nicht vergeben.",
+      "quote_text": "Ohne Tarifvertrag bleibt die Bezahlung bei Tesla deutlich unter dem Niveau in anderen Autowerken in Deutschland zur\u00fcck",
       "stance": "oppose",
       "article_title": "Tesla lehnt Einf\u00fchrung eines Tarfivertrags kategorisch ab",
       "source_url": "https://www.rbb24.de/wirtschaft/beitrag/2025/12/tesla-gruenheide-werksleiter-andre-thierig-lehnt-tarifvertrag-ab.html"
     },
     {
-      "id": 1401,
+      "id": 4367,
+      "article_id": 624,
+      "speaker": "Jan Otto",
+      "speaker_role": "Bezirksleiter",
+      "quote_text": "Die Tesla-Gesch\u00e4ftsf\u00fchrung redet den Tarifvertrag schlecht, indem sie dessen niedrigste Entgeltgruppe heranzieht. In Automobilwerken sind die untersten beiden Entgeltgruppen aber gar nicht vergeben.",
+      "stance": "oppose",
+      "article_title": "Tesla lehnt Einf\u00fchrung eines Tarfivertrags kategorisch ab",
+      "source_url": "https://www.rbb24.de/wirtschaft/beitrag/2025/12/tesla-gruenheide-werksleiter-andre-thierig-lehnt-tarifvertrag-ab.html"
+    },
+    {
+      "id": 4304,
       "article_id": 610,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -753,7 +782,7 @@
       "source_url": "https://www.morgenpost.de/berlin/article410799068/tesla-lehnt-tarifvertraege-ab-ig-metall-bezahlug-deutlich-unter-niveau.html"
     },
     {
-      "id": 1402,
+      "id": 4305,
       "article_id": 610,
       "speaker": "Jan Otto",
       "speaker_role": "Bezirksleiter",
@@ -763,7 +792,7 @@
       "source_url": "https://www.morgenpost.de/berlin/article410799068/tesla-lehnt-tarifvertraege-ab-ig-metall-bezahlug-deutlich-unter-niveau.html"
     },
     {
-      "id": 1403,
+      "id": 4306,
       "article_id": 610,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -773,7 +802,17 @@
       "source_url": "https://www.morgenpost.de/berlin/article410799068/tesla-lehnt-tarifvertraege-ab-ig-metall-bezahlug-deutlich-unter-niveau.html"
     },
     {
-      "id": 1404,
+      "id": 4307,
+      "article_id": 610,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Sie entscheidet dar\u00fcber, ob wir auch in Zukunft unabh\u00e4ngig, flexibel, und unb\u00fcrokratisch unseren Erfolgsweg weitergehen k\u00f6nnen",
+      "stance": "neutral",
+      "article_title": "Tesla lehnt Tarifvertr\u00e4ge ab - IG Metall: \"Bezahlung deutlich unter Niveau\"",
+      "source_url": "https://www.morgenpost.de/berlin/article410799068/tesla-lehnt-tarifvertraege-ab-ig-metall-bezahlug-deutlich-unter-niveau.html"
+    },
+    {
+      "id": 4308,
       "article_id": 610,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -783,17 +822,17 @@
       "source_url": "https://www.morgenpost.de/berlin/article410799068/tesla-lehnt-tarifvertraege-ab-ig-metall-bezahlug-deutlich-unter-niveau.html"
     },
     {
-      "id": 1436,
+      "id": 4347,
       "article_id": 618,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
-      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben.",
+      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
       "stance": "support",
       "article_title": "Tesla-Werk in Gr\u00fcnheide: Werksleiter Thierig lehnt Tarifvertrag ab",
       "source_url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/tesla-werk-in-gruenheide-werksleiter-thierig-lehnt-tarifvertrag-ab-accg-200391363.html"
     },
     {
-      "id": 1437,
+      "id": 4348,
       "article_id": 618,
       "speaker": "Jan Otto",
       "speaker_role": "Bezirksleiter",
@@ -803,7 +842,7 @@
       "source_url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/tesla-werk-in-gruenheide-werksleiter-thierig-lehnt-tarifvertrag-ab-accg-200391363.html"
     },
     {
-      "id": 1438,
+      "id": 4349,
       "article_id": 618,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -813,7 +852,7 @@
       "source_url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/tesla-werk-in-gruenheide-werksleiter-thierig-lehnt-tarifvertrag-ab-accg-200391363.html"
     },
     {
-      "id": 1439,
+      "id": 4350,
       "article_id": 618,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -823,27 +862,17 @@
       "source_url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/tesla-werk-in-gruenheide-werksleiter-thierig-lehnt-tarifvertrag-ab-accg-200391363.html"
     },
     {
-      "id": 1440,
+      "id": 4351,
       "article_id": 618,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
       "quote_text": "Sie entscheidet dar\u00fcber, ob wir auch in Zukunft unabh\u00e4ngig, flexibel, und unb\u00fcrokratisch unseren Erfolgsweg weitergehen k\u00f6nnen",
-      "stance": "support",
+      "stance": "neutral",
       "article_title": "Tesla-Werk in Gr\u00fcnheide: Werksleiter Thierig lehnt Tarifvertrag ab",
       "source_url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/tesla-werk-in-gruenheide-werksleiter-thierig-lehnt-tarifvertrag-ab-accg-200391363.html"
     },
     {
-      "id": 1441,
-      "article_id": 618,
-      "speaker": "Andr\u00e9 Thierig",
-      "speaker_role": "Werksleiter",
-      "quote_text": "Ich kann mir pers\u00f6nlich nicht vorstellen, dass die Entscheidungstr\u00e4ger in den USA den Ausbau der Fabrik weiter vorantreiben, wenn die Wahl mehrheitlich Richtung IG Metall ausf\u00e4llt.",
-      "stance": "oppose",
-      "article_title": "Tesla-Werk in Gr\u00fcnheide: Werksleiter Thierig lehnt Tarifvertrag ab",
-      "source_url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/tesla-werk-in-gruenheide-werksleiter-thierig-lehnt-tarifvertrag-ab-accg-200391363.html"
-    },
-    {
-      "id": 1444,
+      "id": 4354,
       "article_id": 620,
       "speaker": "Jan Otto",
       "speaker_role": "Bezirksleiter IG Metall Berlin-Brandenburg-Sachsen",
@@ -853,7 +882,7 @@
       "source_url": "https://www.freiepresse.de/nachrichten/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-artikel14080369"
     },
     {
-      "id": 1445,
+      "id": 4355,
       "article_id": 620,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter Tesla Gr\u00fcnheide",
@@ -863,7 +892,7 @@
       "source_url": "https://www.freiepresse.de/nachrichten/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-artikel14080369"
     },
     {
-      "id": 1446,
+      "id": 4356,
       "article_id": 620,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter Tesla Gr\u00fcnheide",
@@ -873,7 +902,7 @@
       "source_url": "https://www.freiepresse.de/nachrichten/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-artikel14080369"
     },
     {
-      "id": 1447,
+      "id": 4357,
       "article_id": 620,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter Tesla Gr\u00fcnheide",
@@ -883,17 +912,17 @@
       "source_url": "https://www.freiepresse.de/nachrichten/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-artikel14080369"
     },
     {
-      "id": 1413,
+      "id": 4319,
       "article_id": 613,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
-      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
+      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben.",
       "stance": "support",
       "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt - Wirtschafts-Nachrichten - Reutlinger General-Anzeiger - gea.de",
       "source_url": "https://www.gea.de/welt/wirtschaft_artikel,-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-_arid,7109047.html"
     },
     {
-      "id": 1414,
+      "id": 4320,
       "article_id": 613,
       "speaker": "Jan Otto",
       "speaker_role": "Bezirksleiter",
@@ -903,7 +932,7 @@
       "source_url": "https://www.gea.de/welt/wirtschaft_artikel,-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-_arid,7109047.html"
     },
     {
-      "id": 1415,
+      "id": 4321,
       "article_id": 613,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -913,7 +942,7 @@
       "source_url": "https://www.gea.de/welt/wirtschaft_artikel,-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-_arid,7109047.html"
     },
     {
-      "id": 1416,
+      "id": 4322,
       "article_id": 613,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -923,7 +952,7 @@
       "source_url": "https://www.gea.de/welt/wirtschaft_artikel,-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-_arid,7109047.html"
     },
     {
-      "id": 1417,
+      "id": 4323,
       "article_id": 613,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -933,57 +962,57 @@
       "source_url": "https://www.gea.de/welt/wirtschaft_artikel,-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-_arid,7109047.html"
     },
     {
-      "id": 1450,
+      "id": 4360,
       "article_id": 623,
       "speaker": "Jan Otto",
-      "speaker_role": "Bezirksleiter IG Metall",
+      "speaker_role": "Bezirksleiter",
       "quote_text": "Ohne Tarifvertrag bleibt die Bezahlung bei Tesla deutlich unter dem Niveau in anderen Autowerken in Deutschland zur\u00fcck",
       "stance": "oppose",
       "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.stuttgarter-nachrichten.de/inhalt.elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.17bda929-c4f3-418a-8f44-0c7650f6aca7.html"
     },
     {
-      "id": 1451,
+      "id": 4361,
       "article_id": 623,
       "speaker": "Thierig",
-      "speaker_role": "Werksleiter Tesla",
+      "speaker_role": "Werksleiter",
       "quote_text": "Die Diskussion um eine 35-Stunden-Woche ist f\u00fcr mich eine rote Linie, die werden wir nicht \u00fcberschreiten",
       "stance": "oppose",
       "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.stuttgarter-nachrichten.de/inhalt.elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.17bda929-c4f3-418a-8f44-0c7650f6aca7.html"
     },
     {
-      "id": 1452,
+      "id": 4362,
       "article_id": 623,
       "speaker": "Thierig",
-      "speaker_role": "Werksleiter Tesla",
+      "speaker_role": "Werksleiter",
       "quote_text": "Sie entscheidet dar\u00fcber, ob wir auch in Zukunft unabh\u00e4ngig, flexibel, und unb\u00fcrokratisch unseren Erfolgsweg weitergehen k\u00f6nnen",
       "stance": "neutral",
       "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.stuttgarter-nachrichten.de/inhalt.elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.17bda929-c4f3-418a-8f44-0c7650f6aca7.html"
     },
     {
-      "id": 1453,
+      "id": 4363,
       "article_id": 623,
       "speaker": "Thierig",
-      "speaker_role": "Werksleiter Tesla",
+      "speaker_role": "Werksleiter",
       "quote_text": "Ich kann mir pers\u00f6nlich nicht vorstellen, dass die Entscheidungstr\u00e4ger in den USA den Ausbau der Fabrik weiter vorantreiben, wenn die Wahl mehrheitlich Richtung IG Metall ausf\u00e4llt",
       "stance": "oppose",
       "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.stuttgarter-nachrichten.de/inhalt.elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.17bda929-c4f3-418a-8f44-0c7650f6aca7.html"
     },
     {
-      "id": 1418,
+      "id": 4324,
       "article_id": 614,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
-      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
-      "stance": "oppose",
+      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben.",
+      "stance": "support",
       "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.infranken.de/deutschland/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-art-6303354"
     },
     {
-      "id": 1419,
+      "id": 4325,
       "article_id": 614,
       "speaker": "Jan Otto",
       "speaker_role": "Bezirksleiter",
@@ -993,7 +1022,7 @@
       "source_url": "https://www.infranken.de/deutschland/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-art-6303354"
     },
     {
-      "id": 1420,
+      "id": 4326,
       "article_id": 614,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1003,7 +1032,7 @@
       "source_url": "https://www.infranken.de/deutschland/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-art-6303354"
     },
     {
-      "id": 1421,
+      "id": 4327,
       "article_id": 614,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1013,7 +1042,7 @@
       "source_url": "https://www.infranken.de/deutschland/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-art-6303354"
     },
     {
-      "id": 1422,
+      "id": 4328,
       "article_id": 614,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1023,17 +1052,27 @@
       "source_url": "https://www.infranken.de/deutschland/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-art-6303354"
     },
     {
-      "id": 1449,
+      "id": 4358,
       "article_id": 622,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
-      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent. Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
+      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent",
+      "stance": "neutral",
+      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.volksfreund.de/nachrichten/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt_aid-141355237"
+    },
+    {
+      "id": 4359,
+      "article_id": 622,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
       "stance": "oppose",
       "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.volksfreund.de/nachrichten/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt_aid-141355237"
     },
     {
-      "id": 1427,
+      "id": 4338,
       "article_id": 616,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1043,7 +1082,7 @@
       "source_url": "https://www.az-online.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-zr-94100079.html"
     },
     {
-      "id": 1428,
+      "id": 4339,
       "article_id": 616,
       "speaker": "Jan Otto",
       "speaker_role": "Bezirksleiter",
@@ -1053,7 +1092,7 @@
       "source_url": "https://www.az-online.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-zr-94100079.html"
     },
     {
-      "id": 1429,
+      "id": 4340,
       "article_id": 616,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1063,7 +1102,17 @@
       "source_url": "https://www.az-online.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-zr-94100079.html"
     },
     {
-      "id": 1430,
+      "id": 4341,
+      "article_id": 616,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Sie entscheidet dar\u00fcber, ob wir auch in Zukunft unabh\u00e4ngig, flexibel, und unb\u00fcrokratisch unseren Erfolgsweg weitergehen k\u00f6nnen",
+      "stance": "neutral",
+      "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.az-online.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-zr-94100079.html"
+    },
+    {
+      "id": 4342,
       "article_id": 616,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1073,17 +1122,27 @@
       "source_url": "https://www.az-online.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-zr-94100079.html"
     },
     {
-      "id": 1423,
+      "id": 4329,
       "article_id": 615,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
-      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben.",
-      "stance": "support",
+      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent",
+      "stance": "neutral",
       "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.zeit.de/news/2025-12/28/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt"
     },
     {
-      "id": 1424,
+      "id": 4330,
+      "article_id": 615,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Die Diskussion um eine 35-Stunden-Woche ist f\u00fcr mich eine rote Linie, die werden wir nicht \u00fcberschreiten",
+      "stance": "oppose",
+      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.zeit.de/news/2025-12/28/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt"
+    },
+    {
+      "id": 4331,
       "article_id": 615,
       "speaker": "Jan Otto",
       "speaker_role": "Bezirksleiter",
@@ -1093,97 +1152,117 @@
       "source_url": "https://www.zeit.de/news/2025-12/28/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt"
     },
     {
-      "id": 1425,
+      "id": 4332,
       "article_id": 615,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
-      "quote_text": "Die Diskussion um eine 35-Stunden-Woche ist f\u00fcr mich eine rote Linie, die werden wir nicht \u00fcberschreiten",
+      "quote_text": "Ich kann mir pers\u00f6nlich nicht vorstellen, dass die Entscheidungstr\u00e4ger in den USA den Ausbau der Fabrik weiter vorantreiben, wenn die Wahl mehrheitlich Richtung IG Metall ausf\u00e4llt",
       "stance": "oppose",
       "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.zeit.de/news/2025-12/28/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt"
     },
     {
-      "id": 1426,
-      "article_id": 615,
-      "speaker": "Andr\u00e9 Thierig",
-      "speaker_role": "Werksleiter",
-      "quote_text": "Ich kann mir pers\u00f6nlich nicht vorstellen, dass die Entscheidungstr\u00e4ger in den USA den Ausbau der Fabrik weiter vorantreiben, wenn die Wahl mehrheitlich Richtung IG Metall ausf\u00e4llt.",
-      "stance": "oppose",
-      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
-      "source_url": "https://www.zeit.de/news/2025-12/28/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt"
-    },
-    {
-      "id": 1442,
+      "id": 4343,
       "article_id": 619,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
-      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent. Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
-      "stance": "oppose",
+      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent",
+      "stance": "neutral",
       "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt - WELT",
       "source_url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article69509feef6fc544dba9b52b8/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.html"
     },
     {
-      "id": 1443,
+      "id": 4344,
       "article_id": 619,
-      "speaker": "Jan Otto",
-      "speaker_role": "Bezirksleiter",
-      "quote_text": "Ohne Tarifvertrag bleibt die Bezahlung bei Tesla deutlich unter dem Niveau in anderen Autowerken in Deutschland zur\u00fcck. Die Tesla-Gesch\u00e4ftsf\u00fchrung redet den Tarifvertrag schlecht, indem sie dessen niedrigste Entgeltgruppe heranzieht. In Automobilwerken sind die untersten beiden Entgeltgruppen aber gar nicht vergeben.",
-      "stance": "support",
-      "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt - WELT",
-      "source_url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article69509feef6fc544dba9b52b8/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.html"
-    },
-    {
-      "id": 1409,
-      "article_id": 612,
-      "speaker": "Andr\u00e9 Thierig",
-      "speaker_role": "Werksleiter",
-      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben.",
-      "stance": "support",
-      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
-      "source_url": "https://www.tagesspiegel.de/wirtschaft/elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-15085007.html"
-    },
-    {
-      "id": 1410,
-      "article_id": 612,
-      "speaker": "Jan Otto",
-      "speaker_role": "Bezirksleiter",
-      "quote_text": "Ohne Tarifvertrag bleibt die Bezahlung bei Tesla deutlich unter dem Niveau in anderen Autowerken in Deutschland zur\u00fcck",
-      "stance": "oppose",
-      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
-      "source_url": "https://www.tagesspiegel.de/wirtschaft/elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-15085007.html"
-    },
-    {
-      "id": 1411,
-      "article_id": 612,
-      "speaker": "Andr\u00e9 Thierig",
-      "speaker_role": "Werksleiter",
-      "quote_text": "Die Diskussion um eine 35-Stunden-Woche ist f\u00fcr mich eine rote Linie, die werden wir nicht \u00fcberschreiten",
-      "stance": "oppose",
-      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
-      "source_url": "https://www.tagesspiegel.de/wirtschaft/elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-15085007.html"
-    },
-    {
-      "id": 1412,
-      "article_id": 612,
-      "speaker": "Andr\u00e9 Thierig",
-      "speaker_role": "Werksleiter",
-      "quote_text": "Ich kann mir pers\u00f6nlich nicht vorstellen, dass die Entscheidungstr\u00e4ger in den USA den Ausbau der Fabrik weiter vorantreiben, wenn die Wahl mehrheitlich Richtung IG Metall ausf\u00e4llt.",
-      "stance": "oppose",
-      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
-      "source_url": "https://www.tagesspiegel.de/wirtschaft/elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-15085007.html"
-    },
-    {
-      "id": 1431,
-      "article_id": 617,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
       "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
       "stance": "support",
+      "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt - WELT",
+      "source_url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article69509feef6fc544dba9b52b8/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.html"
+    },
+    {
+      "id": 4345,
+      "article_id": 619,
+      "speaker": "Jan Otto",
+      "speaker_role": "Bezirksleiter",
+      "quote_text": "Ohne Tarifvertrag bleibt die Bezahlung bei Tesla deutlich unter dem Niveau in anderen Autowerken in Deutschland zur\u00fcck",
+      "stance": "oppose",
+      "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt - WELT",
+      "source_url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article69509feef6fc544dba9b52b8/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.html"
+    },
+    {
+      "id": 4346,
+      "article_id": 619,
+      "speaker": "Jan Otto",
+      "speaker_role": "Bezirksleiter",
+      "quote_text": "Die Tesla-Gesch\u00e4ftsf\u00fchrung redet den Tarifvertrag schlecht, indem sie dessen niedrigste Entgeltgruppe heranzieht. In Automobilwerken sind die untersten beiden Entgeltgruppen aber gar nicht vergeben.",
+      "stance": "oppose",
+      "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt - WELT",
+      "source_url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article69509feef6fc544dba9b52b8/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.html"
+    },
+    {
+      "id": 4314,
+      "article_id": 612,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben.",
+      "stance": "support",
+      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.tagesspiegel.de/wirtschaft/elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-15085007.html"
+    },
+    {
+      "id": 4315,
+      "article_id": 612,
+      "speaker": "Jan Otto",
+      "speaker_role": "Bezirksleiter",
+      "quote_text": "Ohne Tarifvertrag bleibt die Bezahlung bei Tesla deutlich unter dem Niveau in anderen Autowerken in Deutschland zur\u00fcck",
+      "stance": "oppose",
+      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.tagesspiegel.de/wirtschaft/elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-15085007.html"
+    },
+    {
+      "id": 4316,
+      "article_id": 612,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Die Diskussion um eine 35-Stunden-Woche ist f\u00fcr mich eine rote Linie, die werden wir nicht \u00fcberschreiten",
+      "stance": "oppose",
+      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.tagesspiegel.de/wirtschaft/elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-15085007.html"
+    },
+    {
+      "id": 4317,
+      "article_id": 612,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Sie entscheidet dar\u00fcber, ob wir auch in Zukunft unabh\u00e4ngig, flexibel, und unb\u00fcrokratisch unseren Erfolgsweg weitergehen k\u00f6nnen",
+      "stance": "neutral",
+      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.tagesspiegel.de/wirtschaft/elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-15085007.html"
+    },
+    {
+      "id": 4318,
+      "article_id": 612,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Ich kann mir pers\u00f6nlich nicht vorstellen, dass die Entscheidungstr\u00e4ger in den USA den Ausbau der Fabrik weiter vorantreiben, wenn die Wahl mehrheitlich Richtung IG Metall ausf\u00e4llt.",
+      "stance": "oppose",
+      "article_title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.tagesspiegel.de/wirtschaft/elektroautos-tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-15085007.html"
+    },
+    {
+      "id": 4333,
+      "article_id": 617,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben.",
+      "stance": "support",
       "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.schwaebische.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-4224941"
     },
     {
-      "id": 1432,
+      "id": 4334,
       "article_id": 617,
       "speaker": "Jan Otto",
       "speaker_role": "Bezirksleiter",
@@ -1193,7 +1272,7 @@
       "source_url": "https://www.schwaebische.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-4224941"
     },
     {
-      "id": 1433,
+      "id": 4335,
       "article_id": 617,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1203,7 +1282,7 @@
       "source_url": "https://www.schwaebische.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-4224941"
     },
     {
-      "id": 1434,
+      "id": 4336,
       "article_id": 617,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1213,7 +1292,7 @@
       "source_url": "https://www.schwaebische.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-4224941"
     },
     {
-      "id": 1435,
+      "id": 4337,
       "article_id": 617,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1223,27 +1302,57 @@
       "source_url": "https://www.schwaebische.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-4224941"
     },
     {
-      "id": 1448,
+      "id": 4352,
       "article_id": 621,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
-      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent. Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
+      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent",
+      "stance": "neutral",
+      "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.t-online.de/finanzen/aktuelles/id_101059846/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.html"
+    },
+    {
+      "id": 4353,
+      "article_id": 621,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung in weniger als vier Jahren.",
       "stance": "oppose",
       "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.t-online.de/finanzen/aktuelles/id_101059846/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt.html"
     },
     {
-      "id": 1456,
+      "id": 4368,
       "article_id": 625,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
-      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent. Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent",
-      "stance": "oppose",
+      "quote_text": "Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent",
+      "stance": "neutral",
       "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
       "source_url": "https://www.zvw.de/mehr-nachrichten/deutschland/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt_arid-1037432"
     },
     {
-      "id": 1405,
+      "id": 4369,
+      "article_id": 625,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben.",
+      "stance": "support",
+      "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.zvw.de/mehr-nachrichten/deutschland/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt_arid-1037432"
+    },
+    {
+      "id": 4370,
+      "article_id": 625,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Seit Produktionsbeginn waren es damit mehr als 25 Prozent",
+      "stance": "neutral",
+      "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.zvw.de/mehr-nachrichten/deutschland/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt_arid-1037432"
+    },
+    {
+      "id": 4309,
       "article_id": 611,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1253,7 +1362,7 @@
       "source_url": "https://www.fehmarn24.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-zr-94100079.html"
     },
     {
-      "id": 1406,
+      "id": 4310,
       "article_id": 611,
       "speaker": "Jan Otto",
       "speaker_role": "Bezirksleiter",
@@ -1263,7 +1372,7 @@
       "source_url": "https://www.fehmarn24.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-zr-94100079.html"
     },
     {
-      "id": 1407,
+      "id": 4311,
       "article_id": 611,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1273,7 +1382,17 @@
       "source_url": "https://www.fehmarn24.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-zr-94100079.html"
     },
     {
-      "id": 1408,
+      "id": 4312,
+      "article_id": 611,
+      "speaker": "Andr\u00e9 Thierig",
+      "speaker_role": "Werksleiter",
+      "quote_text": "Sie entscheidet dar\u00fcber, ob wir auch in Zukunft unabh\u00e4ngig, flexibel, und unb\u00fcrokratisch unseren Erfolgsweg weitergehen k\u00f6nnen",
+      "stance": "neutral",
+      "article_title": "Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
+      "source_url": "https://www.fehmarn24.de/wirtschaft/tesla-werksleiter-lehnt-tarifvertrag-ab-ig-metall-wirbt-zr-94100079.html"
+    },
+    {
+      "id": 4313,
       "article_id": 611,
       "speaker": "Andr\u00e9 Thierig",
       "speaker_role": "Werksleiter",
@@ -1285,86 +1404,62 @@
   ],
   "stakeholders": [
     {
-      "stakeholder": "IG Metall",
-      "position": "support",
-      "reasoning": "Advocates for fair wages and working conditions through collective bargaining.",
-      "mention_count": 15
-    },
-    {
       "stakeholder": "Tesla",
       "position": "oppose",
-      "reasoning": "Believes it can offer better compensation due to its economic situation and fears impact on competitiveness.",
-      "mention_count": 11
+      "reasoning": "Bef\u00fcrchtet Wettbewerbsnachteile und B\u00fcrokratie durch Tarifvertr\u00e4ge und Arbeitszeitverk\u00fcrzung.",
+      "mention_count": 16
     },
     {
-      "stakeholder": "Tesla (Andr\u00e9 Thierig)",
-      "position": "oppose",
-      "reasoning": "Bessere wirtschaftliche Situation erm\u00f6glicht h\u00f6here individuelle Entgelterh\u00f6hungen als Tarifvertrag.",
-      "mention_count": 5
-    },
-    {
-      "stakeholder": "Besch\u00e4ftigte",
-      "position": "neutral",
-      "reasoning": "Nicht explizit erw\u00e4hnt, aber betroffen von den Verhandlungen.",
-      "mention_count": 4
+      "stakeholder": "IG Metall",
+      "position": "support",
+      "reasoning": "Fordert faire Bezahlung und Arbeitsbedingungen f\u00fcr Tesla-Mitarbeiter im Einklang mit Tarifvertr\u00e4gen.",
+      "mention_count": 15
     },
     {
       "stakeholder": "Andr\u00e9 Thierig",
       "position": "oppose",
-      "reasoning": "Concerned about competitiveness and maintaining flexibility.",
-      "mention_count": 2
+      "reasoning": "Sieht Tarifvertr\u00e4ge und Arbeitszeitverk\u00fcrzung als Risiko f\u00fcr den Erfolg des Standorts.",
+      "mention_count": 12
     },
     {
-      "stakeholder": "IG Metall (Jan Otto)",
+      "stakeholder": "Jan Otto",
+      "position": "oppose",
+      "reasoning": "Kritisiert die niedrige Bezahlung bei Tesla im Vergleich zu anderen Autowerken.",
+      "mention_count": 6
+    },
+    {
+      "stakeholder": "IG Metall Berlin-Brandenburg-Sachsen",
+      "position": "oppose",
+      "reasoning": "Advocates for a collective bargaining agreement to improve pay levels at Tesla.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Jan Otto",
       "position": "support",
-      "reasoning": "Tarifvertrag sichert angemessene Bezahlung und gleicht Niveau anderer Autowerke an.",
+      "reasoning": "Will die Bezahlung bei Tesla an das Niveau anderer Autowerke anpassen.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Tesla (Thierig)",
+      "stakeholder": "Thierig",
       "position": "oppose",
-      "reasoning": "Believes a collective bargaining agreement and reduced working hours would harm the company's competitiveness and flexibility.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Tesla (US decision-makers)",
-      "position": "oppose",
-      "reasoning": "May halt factory expansion if the works council election favors IG Metall.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Tesla Werksleiter Andr\u00e9 Thierig",
-      "position": "oppose",
-      "reasoning": "Concerns about competitiveness and maintaining flexibility.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Tesla Workers",
-      "position": "neutral",
-      "reasoning": "Their position is implied through the union's advocacy, but not directly stated.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Tesla-Besch\u00e4ftigte",
-      "position": "neutral",
-      "reasoning": "Position ist unklar, da die IG Metall bei der Betriebsratswahl 2024 nicht die Mehrheit erreichte.",
+      "reasoning": "Concerned about maintaining flexibility and success at the factory.",
       "mention_count": 1
     }
   ],
   "source_bias": {
     "all_sources": [
       {
-        "source": "rbb24.de",
-        "avg_sentiment": -0.3,
-        "article_count": 1
-      },
-      {
         "source": "Berliner Morgenpost",
-        "avg_sentiment": -0.3,
+        "avg_sentiment": -0.4,
         "article_count": 1
       },
       {
         "source": "Frankfurter Allgemeine",
+        "avg_sentiment": -0.4,
+        "article_count": 1
+      },
+      {
+        "source": "rbb24.de",
         "avg_sentiment": -0.3,
         "article_count": 1
       },
@@ -1399,6 +1494,11 @@
         "article_count": 1
       },
       {
+        "source": "DIE WELT",
+        "avg_sentiment": -0.3,
+        "article_count": 1
+      },
+      {
         "source": "Der Tagesspiegel",
         "avg_sentiment": -0.3,
         "article_count": 1
@@ -1419,11 +1519,6 @@
         "article_count": 1
       },
       {
-        "source": "DIE WELT",
-        "avg_sentiment": -0.2,
-        "article_count": 1
-      },
-      {
         "source": "T-online.de",
         "avg_sentiment": -0.2,
         "article_count": 1
@@ -1437,17 +1532,17 @@
     "zones": {
       "negative": [
         {
-          "source": "rbb24.de",
-          "avg_sentiment": -0.3,
-          "article_count": 1
-        },
-        {
           "source": "Berliner Morgenpost",
-          "avg_sentiment": -0.3,
+          "avg_sentiment": -0.4,
           "article_count": 1
         },
         {
           "source": "Frankfurter Allgemeine",
+          "avg_sentiment": -0.4,
+          "article_count": 1
+        },
+        {
+          "source": "rbb24.de",
           "avg_sentiment": -0.3,
           "article_count": 1
         },
@@ -1482,6 +1577,11 @@
           "article_count": 1
         },
         {
+          "source": "DIE WELT",
+          "avg_sentiment": -0.3,
+          "article_count": 1
+        },
+        {
           "source": "Der Tagesspiegel",
           "avg_sentiment": -0.3,
           "article_count": 1
@@ -1498,11 +1598,6 @@
         },
         {
           "source": "Trierischer Volksfreund. Die Zeitung f\u00fcr die Region Trier/Mosel",
-          "avg_sentiment": -0.2,
-          "article_count": 1
-        },
-        {
-          "source": "DIE WELT",
           "avg_sentiment": -0.2,
           "article_count": 1
         },
@@ -1545,12 +1640,6 @@
       "to": "IG Metall",
       "stance": "oppose",
       "quote_snippet": "Ich kann mir pers\u00f6nlich nicht vorstellen, dass die Entscheidungstr\u00e4ger in den USA den Ausbau der Fab"
-    },
-    {
-      "from": "Jan Otto",
-      "to": "Tesla",
-      "stance": "support",
-      "quote_snippet": "Ohne Tarifvertrag bleibt die Bezahlung bei Tesla deutlich unter dem Niveau in anderen Autowerken in "
     }
   ],
   "summary_stats": {
@@ -1560,31 +1649,31 @@
       "start": "2025-12-28T03:12:31Z",
       "end": "2025-12-28T10:03:32Z"
     },
-    "avg_sentiment": -0.27499999999999997,
-    "total_quotes": 56,
+    "avg_sentiment": -0.29374999999999996,
+    "total_quotes": 67,
     "total_financial_mentions": 75
   },
-  "executive_brief": "Tesla is refusing to enter into collective bargaining agreements with IG Metall at its Gr\u00fcnheide factory, a dispute covered by 16 articles from 16 sources, all with negative sentiment. This conflict centers on wage levels and working conditions, with IG Metall arguing that Tesla employees are paid significantly less than their counterparts in other German automotive plants. The situation is unfolding rapidly, with all coverage occurring on December 28, 2025, suggesting a recent escalation. \n\nIG Metall, led by Jan Otto, advocates for a tariff agreement to ensure fair compensation, while Tesla, represented by Werksleiter Andr\u00e9 Thierig, prioritizes maintaining its independent, flexible, and unbureaucratic approach. Thierig highlights that Tesla has already implemented wage increases exceeding those mandated by existing collective agreements, citing a different economic situation. The company also expresses concern that a works council election favoring IG Metall could jeopardize future factory expansion plans, and a 35-hour work week is a 'red line'. A EUR 600 one-time payment has been made to employees in the metal and electrical industry, but this does not address IG Metall's core concerns.",
+  "executive_brief": "Tesla is facing pressure from IG Metall to introduce collective bargaining agreements (Tarifvertr\u00e4ge) at its Gr\u00fcnheide factory near Berlin, a demand Tesla is categorically rejecting. This dispute is receiving significant media attention, evidenced by 16 articles from 16 sources all published on December 28, 2025, and is characterized by overwhelmingly negative sentiment (-0.29 average score). The core issue revolves around wage levels, with IG Metall asserting that Tesla employees are paid significantly less than their counterparts in other German automotive plants. \n\nThe primary stakeholders are sharply divided. Tesla, represented by Werksleiter Andr\u00e9 Thierig, defends its current compensation strategy, citing a unique economic situation allowing for substantial wage increases (4% cited repeatedly) without a formal agreement, and expresses concern that a collective bargaining agreement would hinder the factory\u2019s success. IG Metall, through Jan Otto, argues that without a Tarifvertrag, Tesla\u2019s wages will remain uncompetitive. A one-time EUR 600 payment to employees in the metal and electrical industries is mentioned, but does not resolve the core dispute over long-term, structured wage agreements. Thierig also suggests that further factory expansion could be jeopardized if IG Metall gains influence.",
   "key_arguments": {
     "for": [
-      "IG Metall argues that without a tariff agreement, Tesla employees' pay remains significantly below the level of other automotive plants in Germany (Jan Otto)."
+      "IG Metall argues that without a Tarifvertrag, Tesla employees\u2019 pay remains significantly below the level of other automotive plants in Germany (Jan Otto: \"Ohne Tarifvertrag bleibt die Bezahlung bei Tesla deutlich unter dem Niveau in anderen Autowerken in Deutschland zur\u00fcck\")"
     ],
     "against": [
-      "Tesla believes its current economic situation allows it to offer better individual wage increases than a collective bargaining agreement would permit (Andr\u00e9 Thierig).",
-      "Tesla fears that a collective bargaining agreement and reduced working hours would harm the company's competitiveness and flexibility (Andr\u00e9 Thierig).",
-      "Tesla suggests that US decision-makers may halt factory expansion if the works council election favors IG Metall (Andr\u00e9 Thierig)."
+      "Tesla argues it has been able to increase wages significantly (4%) due to its unique economic situation, and fears that a Tarifvertrag would introduce bureaucracy and hinder competitiveness (Andr\u00e9 Thierig: \"Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben.\")",
+      "Tesla views a 35-hour work week as a 'red line' that it will not cross (Andr\u00e9 Thierig: \"Die Diskussion um eine 35-Stunden-Woche ist f\u00fcr mich eine rote Linie, die werden wir nicht \u00fcberschreiten\")",
+      "Tesla fears that further factory expansion may be halted if IG Metall gains influence (Andr\u00e9 Thierig: \"Ich kann mir pers\u00f6nlich nicht vorstellen, dass die Entscheidungstr\u00e4ger in den USA den Ausbau der Fabrik weiter vorantreiben, wenn die Wahl mehrheitlich Richtung IG Metall ausf\u00e4llt.\")"
     ]
   },
   "whats_at_stake": {
     "winners": [],
     "losers": [
-      "Tesla Workers - potentially lower wages compared to industry standards if no agreement is reached.",
-      "IG Metall - potential failure to establish collective bargaining rights at Tesla."
+      "Tesla - Faces potential disruption to its operations and expansion plans if IG Metall gains influence.",
+      "Tesla employees - Currently receive lower wages than those at comparable German automotive plants, according to IG Metall."
     ],
     "risks": [
-      "Potential halt to Tesla factory expansion in Gr\u00fcnheide if IG Metall gains influence.",
-      "Damage to Tesla's reputation due to negative media coverage and labor disputes.",
-      "Increased labor unrest if wage concerns are not addressed."
+      "Potential disruption to Tesla\u2019s operations due to labor unrest.",
+      "Risk to Tesla\u2019s factory expansion plans if IG Metall gains influence.",
+      "Loss of competitiveness for Tesla if wages are forced to align with industry standards."
     ],
     "opportunities": []
   }

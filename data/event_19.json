@@ -6,10 +6,10 @@
     "category": "other",
     "summary": "The main goal of security guarantees for Ukraine is to ensure that it never again becomes a victim of an attack.\n\nNATO Secretary General Mark Rutte spoke about three levels of guarantees in an interview with the German tabloid Bild, according to Ukrinform.\n\n\"We must ensure that Ukraine is never atta...",
     "first_seen": "2025-12-23T19:22:53.971077",
-    "last_updated": "2025-12-29T10:25:00.743223",
+    "last_updated": "2025-12-29T17:30:58.701846",
     "created_at": "2025-12-23 18:22:53"
   },
-  "generated_at": "2025-12-29T10:30:10.235117",
+  "generated_at": "2025-12-29T17:33:20.958032",
   "articles": [
     {
       "id": 351,
@@ -24,7 +24,7 @@
       "language": "eng",
       "image_url": "https://www.eurasiareview.com/wp-content/uploads/2025/12/a-296.jpeg",
       "fetched_at": "2025-12-24 01:37:30",
-      "sentiment_score": 0.45,
+      "sentiment_score": 0.6,
       "sentiment_label": "slightly_positive",
       "article_type": "analysis"
     },
@@ -58,8 +58,8 @@
       "language": "eng",
       "image_url": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20251223/1461705.jpg",
       "fetched_at": "2025-12-24 01:37:30",
-      "sentiment_score": -0.4,
-      "sentiment_label": "slightly_negative",
+      "sentiment_score": -0.6,
+      "sentiment_label": "negative",
       "article_type": "news_report"
     },
     {
@@ -143,9 +143,9 @@
       "language": "eng",
       "image_url": "https://static.toiimg.com/thumb/msid-126143270,width-1070,height-580,imgsize-342746,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "fetched_at": "2025-12-23 18:22:54",
-      "sentiment_score": null,
-      "sentiment_label": null,
-      "article_type": null
+      "sentiment_score": -0.7,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
     },
     {
       "id": 301,
@@ -194,7 +194,7 @@
       "language": "eng",
       "image_url": "https://news-pravda.com/img/20251223/84d6520ff7200bbbce520efbc3a2f3aa_o.jpg",
       "fetched_at": "2025-12-23 18:22:54",
-      "sentiment_score": 0.2,
+      "sentiment_score": 0.3,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -246,7 +246,7 @@
       "image_url": "https://ia.tmgrup.com.tr/a15b50/600/314/0/181/1280/853?u=https://i.tmgrup.com.tr/anews/v1/2025/12/23/nato-must-brace-for-potential-russian-attack-german-fm-warns-1766481664665.jpg",
       "fetched_at": "2025-12-23 18:22:54",
       "sentiment_score": -0.6,
-      "sentiment_label": "slightly_negative",
+      "sentiment_label": "negative",
       "article_type": "news_report"
     },
     {
@@ -432,7 +432,7 @@
       "language": "eng",
       "image_url": "https://images.cnscdn.com/4/f/2/b/4f2b461b4213bc4a79fdc1fd39d217a7/1200x630.jpg",
       "fetched_at": "2025-12-23 18:22:54",
-      "sentiment_score": 0.75,
+      "sentiment_score": 0.7,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -449,7 +449,7 @@
       "language": "eng",
       "image_url": "https://ia.tmgrup.com.tr/576551/600/314/0/0/864/451?u=https://i.tmgrup.com.tr/anews/v1/2025/12/22/russia-could-keep-europe-busy-if-china-attacks-taiwan-warns-nato-chief-1766388905862.jpg",
       "fetched_at": "2025-12-23 18:22:54",
-      "sentiment_score": -0.3,
+      "sentiment_score": -0.4,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -534,7 +534,7 @@
       "language": "eng",
       "image_url": "https://news-pravda.com/img/20251222/674014e5abafad2e358dbb62d93dea12_o.jpg",
       "fetched_at": "2025-12-23 18:22:54",
-      "sentiment_score": -0.2,
+      "sentiment_score": -0.3,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -551,7 +551,7 @@
       "language": "eng",
       "image_url": "https://dyn3qbr4ue2vr.cloudfront.net/2025/12/FireShot-Pro-Webpage-Screenshot-3942-Zelensky-e1761683940335.jpeg-JPEG-Image-1042-\u00d7-556-pixels-news.antiwar.com_.png",
       "fetched_at": "2025-12-23 18:22:54",
-      "sentiment_score": -0.35,
+      "sentiment_score": -0.4,
       "sentiment_label": "slightly_negative",
       "article_type": "analysis"
     },
@@ -602,7 +602,7 @@
       "language": "eng",
       "image_url": "https://static.ukrinform.com/photos/2025_12/thumb_files/630_360_1764778776-118.jpg",
       "fetched_at": "2025-12-23 18:22:53",
-      "sentiment_score": 0.3,
+      "sentiment_score": 0.4,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -619,7 +619,7 @@
       "language": "eng",
       "image_url": "https://en.apa.az/storage/news/2025/december/22/big/6948564669f8f6948564669f9017663483586948564669f8c6948564669f8d.png",
       "fetched_at": "2025-12-23 18:22:54",
-      "sentiment_score": -0.3,
+      "sentiment_score": -0.4,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -701,17 +701,17 @@
     },
     {
       "date": "2025-12-22",
-      "avg_sentiment": -0.15294117647058825,
+      "avg_sentiment": -0.17058823529411768,
       "count": 17
     },
     {
       "date": "2025-12-23",
-      "avg_sentiment": -0.2538461538461538,
-      "count": 13
+      "avg_sentiment": -0.2928571428571428,
+      "count": 14
     },
     {
       "date": "2025-12-24",
-      "avg_sentiment": 0.45,
+      "avg_sentiment": 0.6,
       "count": 1
     }
   ],
@@ -719,18 +719,14 @@
     "organizations": [
       {
         "name": "NATO",
-        "count": 38
-      },
-      {
-        "name": "Bild",
-        "count": 8
+        "count": 39
       },
       {
         "name": "European Union",
-        "count": 5
+        "count": 9
       },
       {
-        "name": "TASS",
+        "name": "Bild",
         "count": 5
       },
       {
@@ -742,6 +738,10 @@
         "count": 3
       },
       {
+        "name": "DPA",
+        "count": 3
+      },
+      {
         "name": "George Washington University",
         "count": 3
       },
@@ -750,27 +750,27 @@
         "count": 3
       },
       {
-        "name": "German Press Agency (dpa)",
-        "count": 3
-      },
-      {
-        "name": "PolitNavigator",
-        "count": 3
-      },
-      {
         "name": "US National Security Council",
         "count": 3
       },
       {
-        "name": "DPA",
+        "name": "BILD",
         "count": 2
       },
       {
-        "name": "EU",
+        "name": "Coalition of the Willing",
         "count": 2
       },
       {
-        "name": "NSATU",
+        "name": "German Press Agency (dpa)",
+        "count": 2
+      },
+      {
+        "name": "PolitNavigator",
+        "count": 2
+      },
+      {
+        "name": "TASS",
         "count": 2
       },
       {
@@ -782,23 +782,11 @@
         "count": 2
       },
       {
-        "name": "dpa",
-        "count": 2
-      },
-      {
         "name": "APA",
         "count": 1
       },
       {
         "name": "Al Jazeera English",
-        "count": 1
-      },
-      {
-        "name": "BILD",
-        "count": 1
-      },
-      {
-        "name": "BILD newspaper",
         "count": 1
       },
       {
@@ -810,35 +798,23 @@
         "count": 1
       },
       {
+        "name": "Britain's military",
+        "count": 1
+      },
+      {
         "name": "Byoblu TV",
         "count": 1
       },
       {
-        "name": "CALM (Coalition of Like-Minded Countries)",
+        "name": "Centre for Research on Globalization",
         "count": 1
       },
       {
-        "name": "Centre for Research on Globalization (CRG)",
-        "count": 1
-      },
-      {
-        "name": "Coalition of the Willing",
+        "name": "Coalition of Like-Minded Countries",
         "count": 1
       },
       {
         "name": "DIANA",
-        "count": 1
-      },
-      {
-        "name": "DPA news agency",
-        "count": 1
-      },
-      {
-        "name": "DefenseRomania",
-        "count": 1
-      },
-      {
-        "name": "Europe",
         "count": 1
       },
       {
@@ -854,7 +830,7 @@
         "count": 1
       },
       {
-        "name": "Global Research",
+        "name": "German Press Agency",
         "count": 1
       },
       {
@@ -862,7 +838,7 @@
         "count": 1
       },
       {
-        "name": "Liberal Democratic Party of Russia (LDPR)",
+        "name": "Liberal Democratic Party of Russia",
         "count": 1
       },
       {
@@ -878,11 +854,27 @@
         "count": 1
       },
       {
-        "name": "NATO Military Committee",
+        "name": "NATO Security Assistance and Training for Ukraine",
+        "count": 1
+      },
+      {
+        "name": "NATO Security and Training Council for Ukraine",
+        "count": 1
+      },
+      {
+        "name": "NSATU",
         "count": 1
       },
       {
         "name": "National Security Council",
+        "count": 1
+      },
+      {
+        "name": "New York Times",
+        "count": 1
+      },
+      {
+        "name": "North Atlantic Treaty Organization",
         "count": 1
       },
       {
@@ -914,19 +906,7 @@
         "count": 1
       },
       {
-        "name": "SBU",
-        "count": 1
-      },
-      {
-        "name": "START I Treaty",
-        "count": 1
-      },
-      {
-        "name": "Supreme Headquarters Allied Powers Europe (SHAPE)",
-        "count": 1
-      },
-      {
-        "name": "The European Conservative",
+        "name": "Supreme Headquarters Allied Powers Europe",
         "count": 1
       },
       {
@@ -934,7 +914,7 @@
         "count": 1
       },
       {
-        "name": "The Hague",
+        "name": "US National Security Strategy",
         "count": 1
       },
       {
@@ -942,19 +922,7 @@
         "count": 1
       },
       {
-        "name": "US naval forces",
-        "count": 1
-      },
-      {
-        "name": "USSR",
-        "count": 1
-      },
-      {
         "name": "Ukrainian Defense Forces",
-        "count": 1
-      },
-      {
-        "name": "United Nations",
         "count": 1
       },
       {
@@ -962,22 +930,26 @@
         "count": 1
       },
       {
-        "name": "Warsaw Pact",
+        "name": "United States National Security Strategy",
         "count": 1
       },
       {
-        "name": "ZDF",
+        "name": "dpa",
         "count": 1
       }
     ],
     "countries": [
       {
         "name": "Russia",
-        "count": 36
+        "count": 37
       },
       {
         "name": "Ukraine",
-        "count": 36
+        "count": 35
+      },
+      {
+        "name": "United States",
+        "count": 24
       },
       {
         "name": "Europe",
@@ -985,42 +957,34 @@
       },
       {
         "name": "Germany",
-        "count": 17
-      },
-      {
-        "name": "United States",
-        "count": 17
+        "count": 18
       },
       {
         "name": "China",
         "count": 9
       },
       {
-        "name": "US",
-        "count": 8
-      },
-      {
         "name": "France",
         "count": 6
       },
       {
-        "name": "Taiwan",
-        "count": 5
+        "name": "Norway",
+        "count": 4
       },
       {
         "name": "Poland",
         "count": 4
       },
       {
-        "name": "Estonia",
-        "count": 3
-      },
-      {
-        "name": "Norway",
-        "count": 3
+        "name": "Taiwan",
+        "count": 4
       },
       {
         "name": "United Kingdom",
+        "count": 4
+      },
+      {
+        "name": "Estonia",
         "count": 3
       },
       {
@@ -1068,10 +1032,6 @@
         "count": 2
       },
       {
-        "name": "UK",
-        "count": 2
-      },
-      {
         "name": "Venezuela",
         "count": 2
       },
@@ -1088,11 +1048,11 @@
         "count": 1
       },
       {
-        "name": "Arctic",
+        "name": "Belgium",
         "count": 1
       },
       {
-        "name": "Belgium",
+        "name": "Britain",
         "count": 1
       },
       {
@@ -1100,15 +1060,7 @@
         "count": 1
       },
       {
-        "name": "Crimea",
-        "count": 1
-      },
-      {
         "name": "Czech Republic",
-        "count": 1
-      },
-      {
-        "name": "Donbass",
         "count": 1
       },
       {
@@ -1148,10 +1100,6 @@
         "count": 1
       },
       {
-        "name": "Nordic states",
-        "count": 1
-      },
-      {
         "name": "Slovakia",
         "count": 1
       },
@@ -1160,31 +1108,11 @@
         "count": 1
       },
       {
-        "name": "Svalbard",
-        "count": 1
-      },
-      {
         "name": "Syria",
         "count": 1
       },
       {
-        "name": "The Hague",
-        "count": 1
-      },
-      {
-        "name": "Turkey",
-        "count": 1
-      },
-      {
-        "name": "USA",
-        "count": 1
-      },
-      {
         "name": "Vietnam",
-        "count": 1
-      },
-      {
-        "name": "Western countries",
         "count": 1
       },
       {
@@ -1195,34 +1123,38 @@
     "politicians": [
       {
         "name": "Mark Rutte",
-        "count": 21
+        "count": 25
       },
       {
         "name": "Vladimir Putin",
-        "count": 16
+        "count": 17
       },
       {
         "name": "Donald Trump",
-        "count": 13
-      },
-      {
-        "name": "George W. Bush",
-        "count": 4
+        "count": 15
       },
       {
         "name": "Johann Wadephul",
+        "count": 4
+      },
+      {
+        "name": "George W. Bush",
         "count": 3
       },
       {
-        "name": "Mark Rutte (NATO Secretary General)",
-        "count": 3
-      },
-      {
-        "name": "Putin",
+        "name": "Alexander Sollfrank",
         "count": 2
       },
       {
-        "name": "Trump",
+        "name": "Boris Pistorius",
+        "count": 2
+      },
+      {
+        "name": "Eirik Kristoffersen",
+        "count": 2
+      },
+      {
+        "name": "Leonid Slutsky",
         "count": 2
       },
       {
@@ -1238,27 +1170,7 @@
         "count": 2
       },
       {
-        "name": "Alexander Sollfrank",
-        "count": 1
-      },
-      {
-        "name": "Alexander Sollfrank (Lt. Gen., top operational commander)",
-        "count": 1
-      },
-      {
-        "name": "Alexey Zhuravlev",
-        "count": 1
-      },
-      {
         "name": "Amanda Sloat",
-        "count": 1
-      },
-      {
-        "name": "Boris Pistorius",
-        "count": 1
-      },
-      {
-        "name": "Boris Pistorius (Defense Minister)",
         "count": 1
       },
       {
@@ -1278,23 +1190,19 @@
         "count": 1
       },
       {
-        "name": "Eirik Kristoffersen",
-        "count": 1
-      },
-      {
-        "name": "Eirik Kristoffersen, Chief of Defense of Norway",
-        "count": 1
-      },
-      {
         "name": "Emmanuel Macron",
         "count": 1
       },
       {
-        "name": "Espen Barth Eide, Norway's Foreign Minister",
+        "name": "Espen Barth Eide",
         "count": 1
       },
       {
         "name": "General Syrskyi",
+        "count": 1
+      },
+      {
+        "name": "George Bush",
         "count": 1
       },
       {
@@ -1314,10 +1222,6 @@
         "count": 1
       },
       {
-        "name": "Johann Wadephul (Foreign Minister)",
-        "count": 1
-      },
-      {
         "name": "Kurt Volker",
         "count": 1
       },
@@ -1326,19 +1230,11 @@
         "count": 1
       },
       {
-        "name": "Leonid Slutsky, chairman of the international committee of the Russian State Duma and leader of the Liberal Democratic Party of Russia",
-        "count": 1
-      },
-      {
         "name": "Marco Rutte",
         "count": 1
       },
       {
-        "name": "Mark Rutte, NATO Secretary General",
-        "count": 1
-      },
-      {
-        "name": "Mark Rutte, NATO chief",
+        "name": "Mike Keller",
         "count": 1
       },
       {
@@ -1347,10 +1243,6 @@
       },
       {
         "name": "Mykhailo Fedorov",
-        "count": 1
-      },
-      {
-        "name": "President Trump",
         "count": 1
       },
       {
@@ -1366,15 +1258,11 @@
         "count": 1
       },
       {
-        "name": "Tore O. Sandvik, Norway's Defense Minister",
+        "name": "Tore O. Sandvik",
         "count": 1
       },
       {
         "name": "Viktor Orban",
-        "count": 1
-      },
-      {
-        "name": "Vladimir Putin (Russian President)",
         "count": 1
       },
       {
@@ -1383,10 +1271,6 @@
       },
       {
         "name": "Yuri Pilipson",
-        "count": 1
-      },
-      {
-        "name": "Zelenskyy",
         "count": 1
       }
     ],
@@ -1401,10 +1285,6 @@
       },
       {
         "name": "Rheinmetall",
-        "count": 1
-      },
-      {
-        "name": "US defense industry",
         "count": 1
       },
       {
@@ -1431,6 +1311,11 @@
         "context": "US weapons supply to Taiwan"
       },
       {
+        "amount": 8500000000.0,
+        "currency": "USD",
+        "context": "Norway's pledged support for 2026"
+      },
+      {
         "amount": 5000000000.0,
         "currency": "USD",
         "context": "planned deliveries for Ukraine this year"
@@ -1448,72 +1333,152 @@
       {
         "amount": 4000000000.0,
         "currency": "USD",
-        "context": "financially secure supplies to Ukraine this year"
+        "context": "financially secure supplies to Ukraine"
       },
       {
         "amount": 2000000000.0,
         "currency": "cubic meters",
-        "context": "natural gas purchase"
+        "context": "natural gas purchase by Hungary"
       },
       {
         "amount": 1000000000.0,
         "currency": "USD",
-        "context": "venture capital available through the NATO Innovation Fund"
+        "context": "venture capital available through NATO Innovation Fund"
+      },
+      {
+        "amount": 835000000.0,
+        "currency": "USD",
+        "context": "Norway's overall funding for PURL support packages"
       },
       {
         "amount": 631000000.0,
         "currency": "USD",
-        "context": "weapons for Ukraine generated by the Danish model in 2024"
+        "context": "weapons generated by the Danish model in 2024"
+      },
+      {
+        "amount": 270000000.0,
+        "currency": "EUR",
+        "context": "Norway's military aid package to Ukraine"
       },
       {
         "amount": 183000000.0,
         "currency": "USD",
-        "context": "aims for weapons worth by Denmark and Norway by 2025"
+        "context": "aims for weapons by Denmark and Norway in 2025"
+      },
+      {
+        "amount": 17000000.0,
+        "currency": "people",
+        "context": "Russian population in Ukraine"
       },
       {
         "amount": 1100000.0,
-        "currency": null,
-        "context": "estimated number of Russian soldiers killed or wounded"
+        "currency": "people",
+        "context": "Russian casualties (killed or wounded)"
+      },
+      {
+        "amount": 1100000.0,
+        "currency": "people",
+        "context": "Russian casualties (killed or wounded)"
+      },
+      {
+        "amount": 1100000.0,
+        "currency": "people",
+        "context": "estimated Russian casualties (killed or wounded)"
+      },
+      {
+        "amount": 1100000.0,
+        "currency": "people",
+        "context": "Russian military losses (killed and wounded)"
+      },
+      {
+        "amount": 1100000.0,
+        "currency": "people",
+        "context": "Estimated Russian soldiers killed or wounded"
+      },
+      {
+        "amount": 1100000.0,
+        "currency": "people",
+        "context": "Estimated Russian soldiers killed or wounded"
+      },
+      {
+        "amount": 1100000.0,
+        "currency": "people",
+        "context": "Putin is prepared to sacrifice 1.1 million of his own people"
+      },
+      {
+        "amount": 1100000.0,
+        "currency": "people",
+        "context": "Putin is prepared to sacrifice 1.1 million of his own people"
+      },
+      {
+        "amount": 1100000.0,
+        "currency": "people",
+        "context": "Estimated Russian soldiers killed or wounded"
+      },
+      {
+        "amount": 800000.0,
+        "currency": "people",
+        "context": "Ukrainian armed forces size"
+      },
+      {
+        "amount": 800000.0,
+        "currency": "people",
+        "context": "allied troops that could move through Germany within 180 days"
+      },
+      {
+        "amount": 800000.0,
+        "currency": "people",
+        "context": "allied troops that could move through Germany within 180 days"
+      },
+      {
+        "amount": 800000.0,
+        "currency": "people",
+        "context": "Ukrainian armed forces peacetime strength"
       },
       {
         "amount": 600000.0,
-        "currency": null,
-        "context": "standing army size for Ukraine"
+        "currency": "people",
+        "context": "Ukraine standing army size"
       },
       {
         "amount": 500000.0,
-        "currency": null,
-        "context": "future German army size"
+        "currency": "people",
+        "context": "projected German army size"
       },
       {
         "amount": 200000.0,
-        "currency": null,
-        "context": "future Netherlands army size"
+        "currency": "people",
+        "context": "Netherlands army size target by 2030"
       },
       {
         "amount": 180000.0,
-        "currency": null,
+        "currency": "people",
         "context": "current German army size"
       },
       {
         "amount": 80000.0,
-        "currency": null,
-        "context": "future Netherlands army size"
+        "currency": "people",
+        "context": "Netherlands army size target"
       },
       {
         "amount": 60000.0,
-        "currency": null,
+        "currency": "people",
         "context": "current Netherlands army size"
       },
       {
-        "amount": 835.0,
-        "currency": "million",
-        "context": "Norway's funding for PURL support packages"
+        "amount": 75.0,
+        "currency": "years",
+        "context": "over 75 years of its existence"
       },
       {
-        "amount": 270.0,
-        "currency": "EUR",
-        "context": "military aid to Ukraine"
+        "amount": 60.0,
+        "currency": "countries",
+        "context": "military interventions in more than 60 countries"
+      },
+      {
+        "amount": 45.0,
+        "currency": "%",
+        "context": "percentage of crimes related to illicit drugs in Ukraine"
       },
       {
         "amount": 40.0,
@@ -1536,9 +1501,9 @@
         "context": "Russia's military spending as a percentage of its state budget"
       },
       {
-        "amount": 8.5,
-        "currency": "USD",
-        "context": "pledged support for 2026"
+        "amount": 15.0,
+        "currency": "%",
+        "context": "Rheinmetall's share increase since 2022"
       },
       {
         "amount": 5.0,
@@ -1546,19 +1511,29 @@
         "context": "target for defence spending"
       },
       {
-        "amount": 3.5,
+        "amount": 5.0,
         "currency": "%",
-        "context": "NATO defence spending target of GDP"
+        "context": "defense spending target set by Trump"
       },
       {
         "amount": 3.5,
         "currency": "%",
-        "context": "Germany's defence spending target of GDP by 2029"
+        "context": "NATO defence spending target (GDP)"
       },
       {
         "amount": 3.5,
         "currency": "%",
-        "context": "GDP on defense forces"
+        "context": "Germany's defence spending target (GDP) by 2029"
+      },
+      {
+        "amount": 3.5,
+        "currency": "%",
+        "context": "GDP spending on defense forces"
+      },
+      {
+        "amount": 3.5,
+        "currency": "%",
+        "context": "NATO defense spending goal (GDP)"
       },
       {
         "amount": 1.5,
@@ -1568,76 +1543,52 @@
       {
         "amount": 1.5,
         "currency": "%",
-        "context": "GDP on resilience"
+        "context": "GDP spending on resilience"
       },
       {
-        "amount": 1.1,
-        "currency": "million",
-        "context": "Russian citizens killed or wounded"
-      },
-      {
-        "amount": 1.1,
-        "currency": "million",
-        "context": "Russian casualties (killed or wounded)"
-      },
-      {
-        "amount": 1.1,
-        "currency": "million",
-        "context": "potential deaths or injuries on the Russian side"
-      },
-      {
-        "amount": 1.1,
-        "currency": null,
-        "context": "number of people Putin is prepared to sacrifice"
-      },
-      {
-        "amount": 1.1,
-        "currency": "million",
-        "context": "Russian people Putin is prepared to sacrifice"
-      },
-      {
-        "amount": 1.1,
-        "currency": "million",
-        "context": "estimated Russian soldiers killed or wounded"
+        "amount": 1.5,
+        "currency": "%",
+        "context": "NATO resilience spending goal (GDP)"
       },
       {
         "amount": 1.0,
         "currency": "%",
-        "context": "territorial gains by Russia in Ukraine"
+        "context": "minimal territorial gains by Russia compared to the beginning of the year"
       },
       {
         "amount": 1.0,
         "currency": "%",
-        "context": "Territorial gains by Russia"
+        "context": "Territorial gains by Russia in Ukraine"
       },
       {
         "amount": 1.0,
         "currency": "%",
-        "context": "minimal territorial gains by Russia"
+        "context": "minimal territorial gains by Russia compared to the start of the year"
       },
       {
         "amount": 1.0,
         "currency": "%",
-        "context": "minimal territorial gains by Russia in Ukraine"
+        "context": "less than 1% of Ukrainian territory compared to the beginning of the year"
       },
       {
         "amount": 1.0,
         "currency": "%",
-        "context": "minimal territorial gains of Ukraine compared to the beginning of the year"
+        "context": "less than 1% of Ukrainian territory compared to the beginning of the year"
       }
     ],
     "totals": {
-      "EUR": 90000000270.0,
-      "USD": 111114000008.5,
+      "EUR": 90270000000.0,
+      "USD": 120449000000.0,
       "cubic meters": 2000000000.0,
-      "null": 2720001.1,
-      "million": 840.5000000000001,
-      "%": 183.5
+      "people": 31720000.0,
+      "years": 75.0,
+      "countries": 60.0,
+      "%": 253.5
     }
   },
   "quotes": [
     {
-      "id": 872,
+      "id": 3816,
       "article_id": 352,
       "speaker": "Vladimir Putin",
       "speaker_role": "Russian President",
@@ -1647,27 +1598,27 @@
       "source_url": "https://news-pravda.com/world/2025/12/23/1953432.html"
     },
     {
-      "id": 873,
+      "id": 3817,
       "article_id": 353,
       "speaker": "Vladimir Putin",
       "speaker_role": "Russian President",
-      "quote_text": "Now I'd like to repeat what I said to Condi and Gates in Moscow on NATO enlargement. It won't be new to you, and I don't expect a response; I just want to say it out loud. I'd like to emphasize accession to NATO of a country like Ukraine will create for the long-term a field of conflict for you and us, long-term confrontation.",
+      "quote_text": "Now I'd like to repeat what I said to Condi and Gates (the then US Secretary of State Condoleezza Rice and Secretary of Defense Robert Gates - TASS) in Moscow on NATO enlargement. It won't be new to you, and I don't expect a response; I just want to say it out loud. I'd like to emphasize accession to NATO of a country like Ukraine will create for the long-term a field of conflict for you and us, long-term confrontation.",
       "stance": "oppose",
       "article_title": "Putin warned Bush that admitting Ukraine to NATO will lead to Russia-US confrontation",
       "source_url": "https://tass.com/world/2063819"
     },
     {
-      "id": 874,
+      "id": 3818,
       "article_id": 353,
       "speaker": "Vladimir Putin",
       "speaker_role": "Russian President",
-      "quote_text": "I'd like to emphasize accession to NATO of a country like Ukraine will create for the long-term a field of conflict for you and us, long-term confrontation.",
+      "quote_text": "this would create a threat of NATO moving its military bases and various arms systems to the exact proximity to the Russian border.",
       "stance": "oppose",
       "article_title": "Putin warned Bush that admitting Ukraine to NATO will lead to Russia-US confrontation",
       "source_url": "https://tass.com/world/2063819"
     },
     {
-      "id": 875,
+      "id": 3819,
       "article_id": 353,
       "speaker": "Vladimir Putin",
       "speaker_role": "Russian President",
@@ -1677,17 +1628,27 @@
       "source_url": "https://tass.com/world/2063819"
     },
     {
-      "id": 876,
+      "id": 3821,
       "article_id": 354,
       "speaker": "Vladimir Putin",
       "speaker_role": "Russian President",
-      "quote_text": "NATO is perceived by a large part of the Ukrainian population as a hostile organization. What for? What is the meaning of Ukrainian membership in NATO? What benefit is there for NATO and the US? There can be only one reason for it and that would be to cement Ukraine's status as in the Western world and that would be the logic. I don't think it's the right logic. I'm trying to comprehend. And given the divergent views of areas of the population on NATO membership, the country could just split apart.",
+      "quote_text": "NATO is perceived by a large part of the Ukrainian population as a hostile organization.",
       "stance": "oppose",
       "article_title": "Putin warned Bush that NATO membership would split Ukraine  --  declassified documents",
       "source_url": "https://tass.com/world/2063809"
     },
     {
-      "id": 877,
+      "id": 3822,
+      "article_id": 354,
+      "speaker": "Vladimir Putin",
+      "speaker_role": "Russian President",
+      "quote_text": "What for? What is the meaning of Ukrainian membership in NATO? What benefit is there for NATO and the US? There can be only one reason for it and that would be to cement Ukraine's status as in the Western world and that would be the logic. I don't think it's the right logic. I'm trying to comprehend. And given the divergent views of areas of the population on NATO membership, the country could just split apart.",
+      "stance": "oppose",
+      "article_title": "Putin warned Bush that NATO membership would split Ukraine  --  declassified documents",
+      "source_url": "https://tass.com/world/2063809"
+    },
+    {
+      "id": 3823,
       "article_id": 354,
       "speaker": "Vladimir Putin",
       "speaker_role": "Russian President",
@@ -1697,37 +1658,27 @@
       "source_url": "https://tass.com/world/2063809"
     },
     {
-      "id": 878,
+      "id": 3824,
       "article_id": 354,
       "speaker": "Vladimir Putin",
       "speaker_role": "Russian President",
-      "quote_text": "In 2008, at the summit in Bucharest, they declared that the doors for Ukraine and Georgia to join NATO were open.",
-      "stance": "neutral",
-      "article_title": "Putin warned Bush that NATO membership would split Ukraine  --  declassified documents",
-      "source_url": "https://tass.com/world/2063809"
-    },
-    {
-      "id": 879,
-      "article_id": 354,
-      "speaker": "Vladimir Putin",
-      "speaker_role": "Russian President",
-      "quote_text": "I don't know. I know you agreed in 2008. Why won't you agree in the future? Well. It's nonsensical. Who's there to talk to? I just don't understand. We're ready to talk. But with whom? Where are the guarantees?",
+      "quote_text": "I don't know. I know you agreed in 2008. Why won't you agree in the future? 'Well, they pressed us then.' I say, 'why won't they press you tomorrow and you'll agree again?' Well. It's nonsensical. Who's there to talk to? I just don't understand. We're ready to talk. But with whom? Where are the guarantees?",
       "stance": "oppose",
       "article_title": "Putin warned Bush that NATO membership would split Ukraine  --  declassified documents",
       "source_url": "https://tass.com/world/2063809"
     },
     {
-      "id": 880,
+      "id": 3820,
       "article_id": 355,
       "speaker": "Vladimir Putin",
-      "speaker_role": "President",
+      "speaker_role": "President of Russia",
       "quote_text": "Why? What is the point of Ukraine's membership in NATO? What is the benefit of this for NATO and the United States? Given the differing views of the population in different parts of the country on NATO membership, there may simply be a split in the country.",
       "stance": "oppose",
       "article_title": "Putin warned Bush Jr. in 2008 that joining NATO would lead to a split in Ukraine, according to declassified US government documents released by the National Security Archive.:",
       "source_url": "https://news-pravda.com/world/2025/12/23/1953303.html"
     },
     {
-      "id": 724,
+      "id": 3649,
       "article_id": 297,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -1737,7 +1688,7 @@
       "source_url": "https://www.pravda.com.ua/eng/news/2025/12/23/8013125/"
     },
     {
-      "id": 712,
+      "id": 3636,
       "article_id": 292,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -1747,7 +1698,27 @@
       "source_url": "https://censor.net/en/news/3592040/rutte-called-for-support-for-ukraine-for-the-sake-of-nato-security"
     },
     {
-      "id": 734,
+      "id": 3709,
+      "article_id": 314,
+      "speaker": "Leonid Slutsky",
+      "speaker_role": "Russian lawmaker",
+      "quote_text": "any deployment of European troops would be seen as an \"enemy stronghold\" and treated as legitimate targets",
+      "stance": "oppose",
+      "article_title": "Russian Lawmaker Slams NATO; Accuses Western Bloc Of Manufacturing Pretext For Ukraine Intervention",
+      "source_url": "https://timesofindia.indiatimes.com/videos/international/russian-lawmaker-slams-nato-accuses-western-bloc-of-manufacturing-pretext-for-ukraine-intervention/videoshow/126143270.cms"
+    },
+    {
+      "id": 3710,
+      "article_id": 314,
+      "speaker": "Vladimir Putin",
+      "speaker_role": "President",
+      "quote_text": "dismissed Western claims of an imminent Russian attack on Europe, calling them provocative",
+      "stance": "oppose",
+      "article_title": "Russian Lawmaker Slams NATO; Accuses Western Bloc Of Manufacturing Pretext For Ukraine Intervention",
+      "source_url": "https://timesofindia.indiatimes.com/videos/international/russian-lawmaker-slams-nato-accuses-western-bloc-of-manufacturing-pretext-for-ukraine-intervention/videoshow/126143270.cms"
+    },
+    {
+      "id": 3659,
       "article_id": 301,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -1757,7 +1728,7 @@
       "source_url": "https://tass.com/world/2063657"
     },
     {
-      "id": 735,
+      "id": 3660,
       "article_id": 301,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -1767,7 +1738,7 @@
       "source_url": "https://tass.com/world/2063657"
     },
     {
-      "id": 736,
+      "id": 3661,
       "article_id": 301,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -1777,37 +1748,47 @@
       "source_url": "https://tass.com/world/2063657"
     },
     {
-      "id": 709,
+      "id": 3662,
+      "article_id": 301,
+      "speaker": "Mark Rutte",
+      "speaker_role": "NATO Secretary General",
+      "quote_text": "To guarantee the security of the North Atlantic, the US needs a strong European side of NATO. We're all in the same boat not just for historical reasons but for practical ones as well.",
+      "stance": "support",
+      "article_title": "US nuclear umbrella absolute guarantee for NATO allies  --  Rutte",
+      "source_url": "https://tass.com/world/2063657"
+    },
+    {
+      "id": 3633,
       "article_id": 291,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "If we do those two things, we are strong enough to defend ourselves, and Putin will never try.",
+      "quote_text": "If we do those two things, we are strong enough to defend ourselves, and Putin will never try",
       "stance": "support",
       "article_title": "NATO chief warns that Europe's security depends on Ukraine's strength",
       "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251223-99-02223/"
     },
     {
-      "id": 710,
+      "id": 3634,
       "article_id": 291,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "I don't want to make predictions",
+      "quote_text": "The US has its own specific interests in NATO, which is, of course, Europe staying safe, but also the Arctic",
       "stance": "neutral",
       "article_title": "NATO chief warns that Europe's security depends on Ukraine's strength",
       "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251223-99-02223/"
     },
     {
-      "id": 711,
+      "id": 3635,
       "article_id": 291,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "clearly states that for the US, a priority is a safe Europe [and] a strong NATO.",
+      "quote_text": "You have to show this leadership to the rest, and you're doing it.",
       "stance": "support",
       "article_title": "NATO chief warns that Europe's security depends on Ukraine's strength",
       "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251223-99-02223/"
     },
     {
-      "id": 766,
+      "id": 3696,
       "article_id": 310,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -1817,7 +1798,7 @@
       "source_url": "https://news-pravda.com/world/2025/12/23/1952786.html"
     },
     {
-      "id": 767,
+      "id": 3697,
       "article_id": 310,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -1827,7 +1808,7 @@
       "source_url": "https://news-pravda.com/world/2025/12/23/1952786.html"
     },
     {
-      "id": 729,
+      "id": 3654,
       "article_id": 299,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -1837,7 +1818,7 @@
       "source_url": "https://www.dpa-international.com/politics/urn:newsml:dpa.com:20090101:251223-99-01234/"
     },
     {
-      "id": 746,
+      "id": 3673,
       "article_id": 304,
       "speaker": "Johann Wadephul",
       "speaker_role": "Foreign Minister",
@@ -1847,7 +1828,7 @@
       "source_url": "https://en.apa.az/europe/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns-487227"
     },
     {
-      "id": 747,
+      "id": 3674,
       "article_id": 304,
       "speaker": "Johann Wadephul",
       "speaker_role": "Foreign Minister",
@@ -1857,7 +1838,7 @@
       "source_url": "https://en.apa.az/europe/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns-487227"
     },
     {
-      "id": 748,
+      "id": 3675,
       "article_id": 304,
       "speaker": "Johann Wadephul",
       "speaker_role": "Foreign Minister",
@@ -1867,7 +1848,7 @@
       "source_url": "https://en.apa.az/europe/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns-487227"
     },
     {
-      "id": 749,
+      "id": 3676,
       "article_id": 304,
       "speaker": "Johann Wadephul",
       "speaker_role": "Foreign Minister",
@@ -1877,7 +1858,7 @@
       "source_url": "https://en.apa.az/europe/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns-487227"
     },
     {
-      "id": 750,
+      "id": 3677,
       "article_id": 304,
       "speaker": "Johann Wadephul",
       "speaker_role": "Foreign Minister",
@@ -1887,7 +1868,7 @@
       "source_url": "https://en.apa.az/europe/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns-487227"
     },
     {
-      "id": 753,
+      "id": 3680,
       "article_id": 306,
       "speaker": "Johann Wadephul",
       "speaker_role": "Foreign Minister",
@@ -1897,7 +1878,7 @@
       "source_url": "https://www.anews.com.tr/europe/2025/12/23/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns"
     },
     {
-      "id": 754,
+      "id": 3681,
       "article_id": 306,
       "speaker": "Johann Wadephul",
       "speaker_role": "Foreign Minister",
@@ -1907,7 +1888,7 @@
       "source_url": "https://www.anews.com.tr/europe/2025/12/23/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns"
     },
     {
-      "id": 755,
+      "id": 3682,
       "article_id": 306,
       "speaker": "Johann Wadephul",
       "speaker_role": "Foreign Minister",
@@ -1917,7 +1898,17 @@
       "source_url": "https://www.anews.com.tr/europe/2025/12/23/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns"
     },
     {
-      "id": 756,
+      "id": 3683,
+      "article_id": 306,
+      "speaker": "Johann Wadephul",
+      "speaker_role": "Foreign Minister",
+      "quote_text": "If the Russian army were to achieve lasting military success in Ukraine, \"this would pose a serious threat to NATO\".",
+      "stance": "neutral",
+      "article_title": "NATO must brace for potential Russian attack, German FM warns",
+      "source_url": "https://www.anews.com.tr/europe/2025/12/23/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns"
+    },
+    {
+      "id": 3684,
       "article_id": 306,
       "speaker": "Boris Pistorius",
       "speaker_role": "Defense Minister",
@@ -1927,17 +1918,27 @@
       "source_url": "https://www.anews.com.tr/europe/2025/12/23/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns"
     },
     {
-      "id": 770,
+      "id": 3700,
       "article_id": 312,
       "speaker": "Johann Wadephul",
       "speaker_role": "Foreign Minister",
-      "quote_text": "I do not want to speculate on how great the danger is that Russian President Vladimir Putin would use a ceasefire to put himself in a position to attack NATO territory even more quickly. I can only advise us to prepare ourselves for the possibility that this could happen.",
-      "stance": "support",
+      "quote_text": "I do not want to speculate on how great the danger is that Russian President Vladimir Putin would use a ceasefire to put himself in a position to attack NATO territory even more quickly.",
+      "stance": "neutral",
       "article_title": "NATO must brace for potential Russian attack, German foreign minister warns",
       "source_url": "https://www.aa.com.tr/en/europe/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns/3778457"
     },
     {
-      "id": 771,
+      "id": 3701,
+      "article_id": 312,
+      "speaker": "Johann Wadephul",
+      "speaker_role": "Foreign Minister",
+      "quote_text": "I can only advise us to prepare ourselves for the possibility that this could happen.",
+      "stance": "neutral",
+      "article_title": "NATO must brace for potential Russian attack, German foreign minister warns",
+      "source_url": "https://www.aa.com.tr/en/europe/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns/3778457"
+    },
+    {
+      "id": 3702,
       "article_id": 312,
       "speaker": "Johann Wadephul",
       "speaker_role": "Foreign Minister",
@@ -1947,7 +1948,17 @@
       "source_url": "https://www.aa.com.tr/en/europe/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns/3778457"
     },
     {
-      "id": 772,
+      "id": 3703,
+      "article_id": 312,
+      "speaker": "Johann Wadephul",
+      "speaker_role": "Foreign Minister",
+      "quote_text": "If the Russian army were to achieve lasting military success in Ukraine, \"this would pose a serious threat to NATO\".",
+      "stance": "neutral",
+      "article_title": "NATO must brace for potential Russian attack, German foreign minister warns",
+      "source_url": "https://www.aa.com.tr/en/europe/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns/3778457"
+    },
+    {
+      "id": 3704,
       "article_id": 312,
       "speaker": "Boris Pistorius",
       "speaker_role": "Defense Minister",
@@ -1957,47 +1968,37 @@
       "source_url": "https://www.aa.com.tr/en/europe/nato-must-brace-for-potential-russian-attack-german-foreign-minister-warns/3778457"
     },
     {
-      "id": 778,
+      "id": 3711,
       "article_id": 317,
       "speaker": "Leonid Slutsky",
-      "speaker_role": "chairman of the international committee of the Russian State Duma and leader of the Liberal Democratic Party of Russia",
+      "speaker_role": "chairman of the international committee of the Russian State Duma",
       "quote_text": "Rutte is cheating the public saying that European countries are ready to send troops to Ukraine in the event of 'Russia's violation of the peace treaty.' He is deliberately inventing a pretext to justify NATO intervention in Ukraine. As a matter of fact, this means reformatting the anti-Russia projects while maintaining an enemy stronghold near our borders.",
       "stance": "oppose",
       "article_title": "NATO seeking to invent pretexts to intervene in Ukraine  --  Russian MP",
       "source_url": "https://tass.com/politics/2063329"
     },
     {
-      "id": 779,
+      "id": 3712,
       "article_id": 317,
       "speaker": "Leonid Slutsky",
-      "speaker_role": "chairman of the international committee of the Russian State Duma and leader of the Liberal Democratic Party of Russia",
+      "speaker_role": "chairman of the international committee of the Russian State Duma",
       "quote_text": "All of them will be legitimate targets for the Russian army in the course of the special military operation. As is the case with any provocations as well.",
       "stance": "oppose",
       "article_title": "NATO seeking to invent pretexts to intervene in Ukraine  --  Russian MP",
       "source_url": "https://tass.com/politics/2063329"
     },
     {
-      "id": 780,
+      "id": 3713,
       "article_id": 317,
       "speaker": "Leonid Slutsky",
-      "speaker_role": "chairman of the international committee of the Russian State Duma and leader of the Liberal Democratic Party of Russia",
+      "speaker_role": "chairman of the international committee of the Russian State Duma",
       "quote_text": "This doesn't eliminate the root causes of the conflict but creates conditions for its protracting and expanding.",
       "stance": "oppose",
       "article_title": "NATO seeking to invent pretexts to intervene in Ukraine  --  Russian MP",
       "source_url": "https://tass.com/politics/2063329"
     },
     {
-      "id": 776,
-      "article_id": 316,
-      "speaker": "Jack F. Matlock Jr.",
-      "speaker_role": "US Ambassador to the Soviet Union",
-      "quote_text": "obviously there would have been no basis for the present crisis if there had been no expansion of the [NATO] alliance following the end of the Cold War, or if the expansion had occurred in harmony with building a security structure in Europe that included Russia",
-      "stance": "oppose",
-      "article_title": "Trump's Original 28-Point Peace Plan is the Least Bad Option for Ukraine and for Europe as a Whole",
-      "source_url": "https://znetwork.org/znetarticle/trumps-original-28-point-peace-plan-is-the-least-bad-option-for-ukraine-and-for-europe-as-a-whole/"
-    },
-    {
-      "id": 777,
+      "id": 3714,
       "article_id": 316,
       "speaker": "Donald Trump",
       "speaker_role": "US President",
@@ -2007,7 +2008,17 @@
       "source_url": "https://znetwork.org/znetarticle/trumps-original-28-point-peace-plan-is-the-least-bad-option-for-ukraine-and-for-europe-as-a-whole/"
     },
     {
-      "id": 730,
+      "id": 3715,
+      "article_id": 316,
+      "speaker": "Jack F. Matlock Jr.",
+      "speaker_role": "US Ambassador to the Soviet Union",
+      "quote_text": "there would have been no basis for the present crisis if there had been no expansion of the [NATO] alliance following the end of the Cold War",
+      "stance": "oppose",
+      "article_title": "Trump's Original 28-Point Peace Plan is the Least Bad Option for Ukraine and for Europe as a Whole",
+      "source_url": "https://znetwork.org/znetarticle/trumps-original-28-point-peace-plan-is-the-least-bad-option-for-ukraine-and-for-europe-as-a-whole/"
+    },
+    {
+      "id": 3655,
       "article_id": 300,
       "speaker": "Eirik Kristoffersen",
       "speaker_role": "Norway's Chief of Defence",
@@ -2017,7 +2028,7 @@
       "source_url": "https://www.ukrinform.net/rubric-ato/4072384-for-europe-deterring-russia-means-investing-more-in-nato-norways-chief-of-defence.html"
     },
     {
-      "id": 731,
+      "id": 3656,
       "article_id": 300,
       "speaker": "Eirik Kristoffersen",
       "speaker_role": "Norway's Chief of Defence",
@@ -2027,7 +2038,7 @@
       "source_url": "https://www.ukrinform.net/rubric-ato/4072384-for-europe-deterring-russia-means-investing-more-in-nato-norways-chief-of-defence.html"
     },
     {
-      "id": 732,
+      "id": 3657,
       "article_id": 300,
       "speaker": "Eirik Kristoffersen",
       "speaker_role": "Norway's Chief of Defence",
@@ -2037,7 +2048,7 @@
       "source_url": "https://www.ukrinform.net/rubric-ato/4072384-for-europe-deterring-russia-means-investing-more-in-nato-norways-chief-of-defence.html"
     },
     {
-      "id": 733,
+      "id": 3658,
       "article_id": 300,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2047,17 +2058,27 @@
       "source_url": "https://www.ukrinform.net/rubric-ato/4072384-for-europe-deterring-russia-means-investing-more-in-nato-norways-chief-of-defence.html"
     },
     {
-      "id": 783,
+      "id": 3717,
       "article_id": 319,
-      "speaker": "Leaders",
-      "speaker_role": "US, Ukraine, and Europe",
-      "quote_text": "\"The leaders appreciated the strong convergence between the United States, Ukraine, and Europe.\"",
+      "speaker": "Donald Trump",
+      "speaker_role": null,
+      "quote_text": "The leaders appreciated the strong convergence between the United States, Ukraine, and Europe.",
       "stance": "support",
       "article_title": "The Law of Piracy",
       "source_url": "https://www.globalresearch.ca/law-piracy/5909932"
     },
     {
-      "id": 773,
+      "id": 3705,
+      "article_id": 313,
+      "speaker": "Mark Rutte",
+      "speaker_role": "Secretary General of NATO",
+      "quote_text": "NATO is a peaceful, defensive alliance.",
+      "stance": "support",
+      "article_title": "Fake: NATO is a peaceful, defensive alliance",
+      "source_url": "https://news-pravda.com/world/2025/12/22/1950673.html"
+    },
+    {
+      "id": 3706,
       "article_id": 313,
       "speaker": "Yuri Pilipson",
       "speaker_role": "Director of the second European department of the Russian Foreign Ministry",
@@ -2067,37 +2088,57 @@
       "source_url": "https://news-pravda.com/world/2025/12/22/1950673.html"
     },
     {
-      "id": 760,
+      "id": 3691,
       "article_id": 308,
       "speaker": "Eirik Kristoffersen",
-      "speaker_role": "Chief of Defense of Norway",
+      "speaker_role": "Norway's Chief of Defense",
       "quote_text": "PURL is a source for support to Ukraine that we encourage both our political leaders but also the rest of Europe to utilize.",
       "stance": "support",
       "article_title": "Eirik Kristoffersen, Norway Defense Chief",
       "source_url": "https://www.ukrinform.net/rubric-ato/4072269-eirik-kristoffersen-norway-defense-chief.html"
     },
     {
-      "id": 761,
+      "id": 3692,
+      "article_id": 308,
+      "speaker": "Tore O. Sandvik",
+      "speaker_role": "Norway's Defense Minister",
+      "quote_text": "strengthening Ukraine's combat capacity enhances the security of the entire European continent.",
+      "stance": "support",
+      "article_title": "Eirik Kristoffersen, Norway Defense Chief",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4072269-eirik-kristoffersen-norway-defense-chief.html"
+    },
+    {
+      "id": 3693,
       "article_id": 308,
       "speaker": "Eirik Kristoffersen",
-      "speaker_role": "Chief of Defense of Norway",
+      "speaker_role": "Norway's Chief of Defense",
       "quote_text": "the support for Ukraine is the main priority for European security, because the war in Ukraine also determines the future for Europe.",
       "stance": "support",
       "article_title": "Eirik Kristoffersen, Norway Defense Chief",
       "source_url": "https://www.ukrinform.net/rubric-ato/4072269-eirik-kristoffersen-norway-defense-chief.html"
     },
     {
-      "id": 762,
+      "id": 3694,
       "article_id": 308,
       "speaker": "Eirik Kristoffersen",
-      "speaker_role": "Chief of Defense of Norway",
+      "speaker_role": "Norway's Chief of Defense",
       "quote_text": "I agree with the Secretary General that NATO is stronger and more prepared in 2025 and the beginning of 2026 than we were back in 2020 when I took over.",
       "stance": "support",
       "article_title": "Eirik Kristoffersen, Norway Defense Chief",
       "source_url": "https://www.ukrinform.net/rubric-ato/4072269-eirik-kristoffersen-norway-defense-chief.html"
     },
     {
-      "id": 763,
+      "id": 3695,
+      "article_id": 308,
+      "speaker": "Eirik Kristoffersen",
+      "speaker_role": "Norway's Chief of Defense",
+      "quote_text": "It's not only about the military capabilities. It's also about the society's total resilience.",
+      "stance": "neutral",
+      "article_title": "Eirik Kristoffersen, Norway Defense Chief",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4072269-eirik-kristoffersen-norway-defense-chief.html"
+    },
+    {
+      "id": 3688,
       "article_id": 309,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2107,7 +2148,7 @@
       "source_url": "https://news-pravda.com/world/2025/12/22/1950436.html"
     },
     {
-      "id": 764,
+      "id": 3689,
       "article_id": 309,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2117,7 +2158,7 @@
       "source_url": "https://news-pravda.com/world/2025/12/22/1950436.html"
     },
     {
-      "id": 765,
+      "id": 3690,
       "article_id": 309,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2127,27 +2168,17 @@
       "source_url": "https://news-pravda.com/world/2025/12/22/1950436.html"
     },
     {
-      "id": 781,
+      "id": 3716,
       "article_id": 318,
       "speaker": "Donald Tusk",
       "speaker_role": "Poland's Prime Minister",
-      "quote_text": "that 500 million Europeans are asking 300 million Americans to defend them against 140 million Russians.",
+      "quote_text": "that 500 million Europeans are asking 300 million Americans to defend them against 140 million Russians",
       "stance": "neutral",
       "article_title": "The alternative to NATO: A Coalition of Like-Minded European Countries",
       "source_url": "https://euromaidanpress.com/2025/12/22/the-alternative-to-nato-a-coalition-of-like-minded-european-countries/"
     },
     {
-      "id": 782,
-      "article_id": 318,
-      "speaker": null,
-      "speaker_role": null,
-      "quote_text": "Si vis pacem, para bellum -- \"If you want peace, prepare for war\"",
-      "stance": "neutral",
-      "article_title": "The alternative to NATO: A Coalition of Like-Minded European Countries",
-      "source_url": "https://euromaidanpress.com/2025/12/22/the-alternative-to-nato-a-coalition-of-like-minded-european-countries/"
-    },
-    {
-      "id": 774,
+      "id": 3707,
       "article_id": 315,
       "speaker": "Vladimir Putin",
       "speaker_role": "Russian President",
@@ -2157,7 +2188,7 @@
       "source_url": "https://news-pravda.com/world/2025/12/22/1950214.html"
     },
     {
-      "id": 775,
+      "id": 3708,
       "article_id": 315,
       "speaker": "Dmitry Medvedev",
       "speaker_role": "Deputy Chairman of the Russian Security Council",
@@ -2167,7 +2198,7 @@
       "source_url": "https://news-pravda.com/world/2025/12/22/1950214.html"
     },
     {
-      "id": 713,
+      "id": 3637,
       "article_id": 293,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2177,17 +2208,17 @@
       "source_url": "https://censor.net/en/news/3591724/rutte-on-defence-and-ukraine-nato-and-the-us-are-reliable-partners"
     },
     {
-      "id": 714,
+      "id": 3638,
       "article_id": 293,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "Absolutely! Trump has clearly expressed his support for NATO, but he has also clearly expressed his expectation that we will significantly increase our spending. And we are doing that.",
-      "stance": "support",
+      "quote_text": "Trump has clearly expressed his support for NATO, but he has also clearly expressed his expectation that we will significantly increase our spending. And we are doing that.",
+      "stance": "neutral",
       "article_title": "US will not stop supporting Ukraine and will not withdraw from collective defence of Europe, - Rutte",
       "source_url": "https://censor.net/en/news/3591724/rutte-on-defence-and-ukraine-nato-and-the-us-are-reliable-partners"
     },
     {
-      "id": 715,
+      "id": 3639,
       "article_id": 293,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2197,7 +2228,7 @@
       "source_url": "https://censor.net/en/news/3591724/rutte-on-defence-and-ukraine-nato-and-the-us-are-reliable-partners"
     },
     {
-      "id": 716,
+      "id": 3640,
       "article_id": 293,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2207,7 +2238,7 @@
       "source_url": "https://censor.net/en/news/3591724/rutte-on-defence-and-ukraine-nato-and-the-us-are-reliable-partners"
     },
     {
-      "id": 717,
+      "id": 3641,
       "article_id": 294,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2217,17 +2248,17 @@
       "source_url": "https://www.anews.com.tr/world/2025/12/22/russia-could-keep-europe-busy-if-china-attacks-taiwan-warns-nato-chief"
     },
     {
-      "id": 718,
+      "id": 3642,
       "article_id": 294,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "The reason is Putin. He is prepared to sacrifice 1.1 million of his own people.",
+      "quote_text": "The reason is Putin. He is prepared to sacrifice 1.1 million of his own people. And this year he has made very little progress-minimal territorial gains, less than 1% of Ukrainian territory compared to the beginning of the year.",
       "stance": "negative",
       "article_title": "Russia could keep Europe busy if China attacks Taiwan, warns NATO chief",
       "source_url": "https://www.anews.com.tr/world/2025/12/22/russia-could-keep-europe-busy-if-china-attacks-taiwan-warns-nato-chief"
     },
     {
-      "id": 719,
+      "id": 3643,
       "article_id": 294,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2237,7 +2268,7 @@
       "source_url": "https://www.anews.com.tr/world/2025/12/22/russia-could-keep-europe-busy-if-china-attacks-taiwan-warns-nato-chief"
     },
     {
-      "id": 742,
+      "id": 3669,
       "article_id": 303,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2247,17 +2278,17 @@
       "source_url": "https://news-pravda.com/russia/2025/12/22/1950177.html"
     },
     {
-      "id": 743,
+      "id": 3670,
       "article_id": 303,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
       "quote_text": "In The Hague, we had this big foreign policy breakthrough by President Trump, a 5% target for defense spending, and a commitment to keep Ukraine strong.",
-      "stance": "support",
+      "stance": "neutral",
       "article_title": "NATO Secretary General: The United States continues to provide all necessary military assistance to Bandera",
       "source_url": "https://news-pravda.com/russia/2025/12/22/1950177.html"
     },
     {
-      "id": 744,
+      "id": 3671,
       "article_id": 303,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2267,17 +2298,17 @@
       "source_url": "https://news-pravda.com/russia/2025/12/22/1950177.html"
     },
     {
-      "id": 745,
+      "id": 3672,
       "article_id": 303,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "But even then, we must continue to build up the Ukrainian armed forces after the deal is concluded so that they can protect the country in the long term",
+      "quote_text": "But even then, we must continue to build up the Ukrainian armed forces after the deal is concluded so that they can protect the country in the long term.",
       "stance": "support",
       "article_title": "NATO Secretary General: The United States continues to provide all necessary military assistance to Bandera",
       "source_url": "https://news-pravda.com/russia/2025/12/22/1950177.html"
     },
     {
-      "id": 720,
+      "id": 3645,
       "article_id": 295,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2287,27 +2318,37 @@
       "source_url": "https://www.aa.com.tr/en/europe/russia-could-keep-europe-busy-if-china-attacks-taiwan-warns-nato-chief/3777347"
     },
     {
-      "id": 721,
+      "id": 3646,
       "article_id": 295,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
       "quote_text": "The reason is Putin. He is prepared to sacrifice 1.1 million of his own people.",
-      "stance": "negative",
+      "stance": "neutral",
       "article_title": "Russia could keep Europe busy if China attacks Taiwan, warns NATO chief",
       "source_url": "https://www.aa.com.tr/en/europe/russia-could-keep-europe-busy-if-china-attacks-taiwan-warns-nato-chief/3777347"
     },
     {
-      "id": 722,
+      "id": 3647,
+      "article_id": 295,
+      "speaker": "Mark Rutte",
+      "speaker_role": "NATO Secretary General",
+      "quote_text": "If Russia were to gain control of all of Ukraine, it would have massive repercussions for NATO - and we would have to spend far more than what we agreed upon in The Hague.",
+      "stance": "neutral",
+      "article_title": "Russia could keep Europe busy if China attacks Taiwan, warns NATO chief",
+      "source_url": "https://www.aa.com.tr/en/europe/russia-could-keep-europe-busy-if-china-attacks-taiwan-warns-nato-chief/3777347"
+    },
+    {
+      "id": 3648,
       "article_id": 295,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
       "quote_text": "I have to say: Trump is absolutely committed to this issue. He is focused on ending this war. He is the only one who was able to bring Putin to the negotiating table - and the only one who can ultimately force him to make peace.",
-      "stance": "positive",
+      "stance": "support",
       "article_title": "Russia could keep Europe busy if China attacks Taiwan, warns NATO chief",
       "source_url": "https://www.aa.com.tr/en/europe/russia-could-keep-europe-busy-if-china-attacks-taiwan-warns-nato-chief/3777347"
     },
     {
-      "id": 757,
+      "id": 3685,
       "article_id": 307,
       "speaker": "Kurt Volker",
       "speaker_role": "former US special representative for Ukraine",
@@ -2317,37 +2358,37 @@
       "source_url": "https://news-pravda.com/world/2025/12/22/1950093.html"
     },
     {
-      "id": 758,
+      "id": 3686,
       "article_id": 307,
       "speaker": "Kurt Volker",
       "speaker_role": "former US special representative for Ukraine",
       "quote_text": "In any agreement, if it is concluded, this point will be omitted, and the Trump administration will declare that it will not support it. And in the long term, in my opinion, Ukraine will become a member of NATO",
-      "stance": "slightly_positive",
+      "stance": "neutral",
       "article_title": "\"We'll hang you later\": The United States told how the Kremlin was deceived in Ukraine",
       "source_url": "https://news-pravda.com/world/2025/12/22/1950093.html"
     },
     {
-      "id": 759,
+      "id": 3687,
       "article_id": 307,
       "speaker": "Kurt Volker",
       "speaker_role": "former US special representative for Ukraine",
       "quote_text": "If we get used to giving Ukraine security guarantees, perhaps from the United States and definitely from European NATO allies, at some point everyone will wonder why there are two systems in Europe, one for everyone except Ukraine, and the other for Ukraine? Why don't we just accept Ukraine into NATO?",
-      "stance": "support",
+      "stance": "neutral",
       "article_title": "\"We'll hang you later\": The United States told how the Kremlin was deceived in Ukraine",
       "source_url": "https://news-pravda.com/world/2025/12/22/1950093.html"
     },
     {
-      "id": 751,
+      "id": 3678,
       "article_id": 305,
       "speaker": "Viktor Orban",
-      "speaker_role": "Prime Minister",
+      "speaker_role": "Prime Minister of Hungary",
       "quote_text": "The sanctions imposed on Russia have destroyed Europe, although they were imposed to crush Russia.",
       "stance": "oppose",
       "article_title": "The main thing for the morning of December 22nd:",
       "source_url": "https://news-pravda.com/world/2025/12/22/1950075.html"
     },
     {
-      "id": 752,
+      "id": 3679,
       "article_id": 305,
       "speaker": "Rafael Pinto Borges",
       "speaker_role": "journalist",
@@ -2357,7 +2398,7 @@
       "source_url": "https://news-pravda.com/world/2025/12/22/1950075.html"
     },
     {
-      "id": 768,
+      "id": 3698,
       "article_id": 311,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2367,7 +2408,7 @@
       "source_url": "https://news-pravda.com/world/2025/12/22/1950096.html"
     },
     {
-      "id": 769,
+      "id": 3699,
       "article_id": 311,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2377,17 +2418,17 @@
       "source_url": "https://news-pravda.com/world/2025/12/22/1950096.html"
     },
     {
-      "id": 737,
+      "id": 3663,
       "article_id": 302,
       "speaker": "Jens Stoltenberg",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "\"no more NATO enlargement... was a pre-condition for not invade Ukraine... [Putin] went to war to prevent NATO, more NATO, close to his borders.\"",
+      "quote_text": "no more NATO enlargement... was a pre-condition for not invade Ukraine... [Putin] went to war to prevent NATO, more NATO, close to his borders.",
       "stance": "neutral",
       "article_title": "Volodymyr Zelensky's Non-Compromise NATO Compromise - Antiwar.com",
       "source_url": "https://original.antiwar.com/ted_snider/2025/12/21/volodymyr-zelenskys-non-compromise-nato-compromise/"
     },
     {
-      "id": 738,
+      "id": 3664,
       "article_id": 302,
       "speaker": "Davyd Arakhamiia",
       "speaker_role": "Ukrainian negotiating team leader",
@@ -2397,7 +2438,7 @@
       "source_url": "https://original.antiwar.com/ted_snider/2025/12/21/volodymyr-zelenskys-non-compromise-nato-compromise/"
     },
     {
-      "id": 739,
+      "id": 3665,
       "article_id": 302,
       "speaker": "Volodymyr Zelensky",
       "speaker_role": "Ukrainian President",
@@ -2407,27 +2448,37 @@
       "source_url": "https://original.antiwar.com/ted_snider/2025/12/21/volodymyr-zelenskys-non-compromise-nato-compromise/"
     },
     {
-      "id": 740,
+      "id": 3666,
       "article_id": 302,
       "speaker": "Amanda Sloat",
-      "speaker_role": "Former Special assistant to President Biden",
-      "quote_text": "\"We had some conversations even before the war started about, what if Ukraine comes out and just says to Russia, 'Fine, you know, we won't go into NATO, you know, if that stops the war, if that stops the invasion' - which at that point it may well have done.\"",
+      "speaker_role": "Former Special assistant to President Biden and Senior Director for Europe at the National Security Council",
+      "quote_text": "We had some conversations even before the war started about, what if Ukraine comes out and just says to Russia, 'Fine, you know, we won't go into NATO, you know, if that stops the war, if that stops the invasion' - which at that point it may well have done",
       "stance": "neutral",
       "article_title": "Volodymyr Zelensky's Non-Compromise NATO Compromise - Antiwar.com",
       "source_url": "https://original.antiwar.com/ted_snider/2025/12/21/volodymyr-zelenskys-non-compromise-nato-compromise/"
     },
     {
-      "id": 741,
+      "id": 3667,
+      "article_id": 302,
+      "speaker": "Volodymyr Zelensky",
+      "speaker_role": "Ukrainian President",
+      "quote_text": "I am ready to give up the demand for NATO membership in exchange for \"bilateral security guarantees between Ukraine and the United States - namely, Article 5-like guarantees... as well as security guarantees for us from our European partners and from other countries such as Canada, Japan and others.",
+      "stance": "neutral",
+      "article_title": "Volodymyr Zelensky's Non-Compromise NATO Compromise - Antiwar.com",
+      "source_url": "https://original.antiwar.com/ted_snider/2025/12/21/volodymyr-zelenskys-non-compromise-nato-compromise/"
+    },
+    {
+      "id": 3668,
       "article_id": 302,
       "speaker": "Sergei Ryabkov",
       "speaker_role": "Russia's Deputy Foreign Minister",
-      "quote_text": "\"under no circumstances are we prepared to support, approve, or even tolerate any NATO troop presence on Ukrainian territory.\"",
+      "quote_text": "under no circumstances are we prepared to support, approve, or even tolerate any NATO troop presence on Ukrainian territory.",
       "stance": "oppose",
       "article_title": "Volodymyr Zelensky's Non-Compromise NATO Compromise - Antiwar.com",
       "source_url": "https://original.antiwar.com/ted_snider/2025/12/21/volodymyr-zelenskys-non-compromise-nato-compromise/"
     },
     {
-      "id": 704,
+      "id": 3628,
       "article_id": 289,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2437,7 +2488,7 @@
       "source_url": "https://www.bgnes.com/conflicts/rutte-putin-is-the-main-reason-the-war-in-ukraine-continues"
     },
     {
-      "id": 705,
+      "id": 3629,
       "article_id": 289,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2447,47 +2498,47 @@
       "source_url": "https://www.bgnes.com/conflicts/rutte-putin-is-the-main-reason-the-war-in-ukraine-continues"
     },
     {
-      "id": 706,
+      "id": 3630,
       "article_id": 289,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
       "quote_text": "Putin must understand that a new attack would be fatal for him.",
-      "stance": "oppose",
+      "stance": "neutral",
       "article_title": "Rutte: Putin Is the Main Reason the War in Ukraine Continues",
       "source_url": "https://www.bgnes.com/conflicts/rutte-putin-is-the-main-reason-the-war-in-ukraine-continues"
     },
     {
-      "id": 725,
+      "id": 3650,
       "article_id": 298,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "China is focused on Taiwan. If it uses military force, it will pressure its junior partner, Russia under Putin's leadership, to occupy Europe. Therefore, we must be prepared.",
+      "quote_text": "China is focused on Taiwan. If it uses military force, it will pressure its junior partner, Russia under Putin's leadership, to occupy Europe. Therefore, we must be prepared",
       "stance": "neutral",
       "article_title": "If China invades Taiwan, it may push its \"junior partner\" into attack on Europe, says Rutte",
       "source_url": "https://euromaidanpress.com/2025/12/21/if-china-invades-taiwan-it-may-push-its-junior-partner-into-attack-on-europe-says-rutte/"
     },
     {
-      "id": 726,
+      "id": 3651,
       "article_id": 298,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "There is no need to worry about that.",
+      "quote_text": "There is no need to worry about that",
       "stance": "support",
       "article_title": "If China invades Taiwan, it may push its \"junior partner\" into attack on Europe, says Rutte",
       "source_url": "https://euromaidanpress.com/2025/12/21/if-china-invades-taiwan-it-may-push-its-junior-partner-into-attack-on-europe-says-rutte/"
     },
     {
-      "id": 727,
+      "id": 3652,
       "article_id": 298,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "We are an alliance, and the US firmly supports NATO. A secure Europe means a secure America, so the US has a direct interest in regional security.",
+      "quote_text": "We are an alliance, and the US firmly supports NATO. A secure Europe means a secure America, so the US has a direct interest in regional security",
       "stance": "support",
       "article_title": "If China invades Taiwan, it may push its \"junior partner\" into attack on Europe, says Rutte",
       "source_url": "https://euromaidanpress.com/2025/12/21/if-china-invades-taiwan-it-may-push-its-junior-partner-into-attack-on-europe-says-rutte/"
     },
     {
-      "id": 728,
+      "id": 3653,
       "article_id": 298,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2497,7 +2548,7 @@
       "source_url": "https://euromaidanpress.com/2025/12/21/if-china-invades-taiwan-it-may-push-its-junior-partner-into-attack-on-europe-says-rutte/"
     },
     {
-      "id": 696,
+      "id": 3618,
       "article_id": 286,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2507,7 +2558,7 @@
       "source_url": "https://www.ukrinform.net/rubric-polytics/4072111-rutte-outlines-three-levels-of-security-guarantees-for-ukraine.html"
     },
     {
-      "id": 697,
+      "id": 3619,
       "article_id": 286,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2517,7 +2568,7 @@
       "source_url": "https://www.ukrinform.net/rubric-polytics/4072111-rutte-outlines-three-levels-of-security-guarantees-for-ukraine.html"
     },
     {
-      "id": 698,
+      "id": 3620,
       "article_id": 286,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2527,37 +2578,47 @@
       "source_url": "https://www.ukrinform.net/rubric-polytics/4072111-rutte-outlines-three-levels-of-security-guarantees-for-ukraine.html"
     },
     {
-      "id": 707,
+      "id": 3621,
+      "article_id": 286,
+      "speaker": "Mark Rutte",
+      "speaker_role": "NATO Secretary General",
+      "quote_text": "Because if Russia gains control over all of Ukraine, this will have enormous consequences for NATO - and we would have to spend much more than we agreed in The Hague.",
+      "stance": "neutral",
+      "article_title": "Rutte outlines three levels of security guarantees for Ukraine",
+      "source_url": "https://www.ukrinform.net/rubric-polytics/4072111-rutte-outlines-three-levels-of-security-guarantees-for-ukraine.html"
+    },
+    {
+      "id": 3631,
       "article_id": 290,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "We will ensure that Christmas remains safe. But for that, we must increase defense spending and make sure Ukraine remains as strong as possible. If Russia gains control over all of Ukraine, the consequences for NATO will be serious, and we will have to spend much more.",
+      "quote_text": "We will ensure that Christmas remains safe. But for that, we must increase defense spending and make sure Ukraine remains as strong as possible. If Russia gains control over all of Ukraine, the consequences for NATO will be serious, and we will have to spend much more",
       "stance": "support",
       "article_title": "NATO needs higher defense budgets and stronger support for Ukraine, says Rutte",
       "source_url": "https://en.apa.az/europe/nato-needs-higher-defense-budgets-and-stronger-support-for-ukraine-says-rutte-486997"
     },
     {
-      "id": 708,
+      "id": 3632,
       "article_id": 290,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "Putin is willing to sacrifice 1.1 million of his people for minimal territorial gains. It's terrible, but it's the reality we are dealing with.",
+      "quote_text": "Putin is willing to sacrifice 1.1 million of his people for minimal territorial gains. It's terrible, but it's the reality we are dealing with",
       "stance": "neutral",
       "article_title": "NATO needs higher defense budgets and stronger support for Ukraine, says Rutte",
       "source_url": "https://en.apa.az/europe/nato-needs-higher-defense-budgets-and-stronger-support-for-ukraine-says-rutte-486997"
     },
     {
-      "id": 723,
+      "id": 3644,
       "article_id": 296,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "Russia's next attack on Ukraine would allegedly be \"fatal\" for Moscow.",
+      "quote_text": "fatal",
       "stance": "oppose",
       "article_title": "NATO Secretary General promised a \"fatal blow\" to Putin",
       "source_url": "https://news-pravda.com/world/2025/12/21/1949609.html"
     },
     {
-      "id": 699,
+      "id": 3622,
       "article_id": 287,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2567,17 +2628,27 @@
       "source_url": "https://rubryka.com/en/2025/12/21/gensek-nato-vvazhaye-shho-putin-golovna-pereshkoda-dlya-myru/"
     },
     {
-      "id": 700,
+      "id": 3623,
       "article_id": 287,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
-      "quote_text": "He is the only one who has managed to bring Putin to the negotiating table -- and the only one who can ultimately force him to make peace.",
+      "quote_text": "This year, he (Putin) has made only very minor progress -- minimal territorial gains, less than 1% of Ukrainian territory compared to the beginning of the year. And according to our estimates, up to 1.1 million people on the Russian side have been killed or wounded. This is horrific. But this is the situation we are dealing with",
+      "stance": "oppose",
+      "article_title": "Putin is main obstacle to peace -- NATO secretary general",
+      "source_url": "https://rubryka.com/en/2025/12/21/gensek-nato-vvazhaye-shho-putin-golovna-pereshkoda-dlya-myru/"
+    },
+    {
+      "id": 3624,
+      "article_id": 287,
+      "speaker": "Mark Rutte",
+      "speaker_role": "NATO Secretary General",
+      "quote_text": "He is focused on stopping this war. He is the only one who has managed to bring Putin to the negotiating table -- and the only one who can ultimately force him to make peace. I respect him very much for that",
       "stance": "support",
       "article_title": "Putin is main obstacle to peace -- NATO secretary general",
       "source_url": "https://rubryka.com/en/2025/12/21/gensek-nato-vvazhaye-shho-putin-golovna-pereshkoda-dlya-myru/"
     },
     {
-      "id": 701,
+      "id": 3625,
       "article_id": 288,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2587,7 +2658,7 @@
       "source_url": "https://censor.net/en/news/3591675/rutte-explained-why-only-the-us-president-can-stop-putin"
     },
     {
-      "id": 702,
+      "id": 3626,
       "article_id": 288,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2597,7 +2668,7 @@
       "source_url": "https://censor.net/en/news/3591675/rutte-explained-why-only-the-us-president-can-stop-putin"
     },
     {
-      "id": 703,
+      "id": 3627,
       "article_id": 288,
       "speaker": "Mark Rutte",
       "speaker_role": "NATO Secretary General",
@@ -2609,112 +2680,118 @@
   ],
   "stakeholders": [
     {
+      "stakeholder": "Mark Rutte",
+      "position": "support",
+      "reasoning": "Believes strong security guarantees are essential to prevent future Russian aggression against Ukraine.",
+      "mention_count": 17
+    },
+    {
       "stakeholder": "Russia",
       "position": "oppose",
-      "reasoning": "Aggression towards Ukraine and willingness to accept significant casualties for minimal territorial gains.",
-      "mention_count": 13
+      "reasoning": "Willing to accept significant casualties for territorial gains in Ukraine.",
+      "mention_count": 14
     },
     {
       "stakeholder": "NATO",
       "position": "support",
-      "reasoning": "Needs to support Ukraine to prevent Russia from gaining control and requiring increased spending.",
-      "mention_count": 11
-    },
-    {
-      "stakeholder": "Ukraine",
-      "position": "support",
-      "reasoning": "Needs continued support to defend against Russian aggression.",
-      "mention_count": 8
+      "reasoning": "Seeks to strengthen Ukraine's defense capabilities and deter future Russian aggression.",
+      "mention_count": 12
     },
     {
       "stakeholder": "Vladimir Putin",
       "position": "oppose",
-      "reasoning": "Continuing the war despite significant losses.",
-      "mention_count": 8
+      "reasoning": "Willing to accept significant casualties to achieve minimal territorial gains in Ukraine.",
+      "mention_count": 12
     },
     {
-      "stakeholder": "Mark Rutte",
-      "position": "support",
-      "reasoning": "Believes strong security guarantees are essential for Ukraine's future and preventing further conflict.",
-      "mention_count": 7
-    },
-    {
-      "stakeholder": "Germany",
-      "position": "support",
-      "reasoning": "Taking a leadership role in increasing defence spending.",
-      "mention_count": 5
+      "stakeholder": "NATO",
+      "position": "neutral",
+      "reasoning": "Observing global connections and preparing for potential threats.",
+      "mention_count": 9
     },
     {
       "stakeholder": "Donald Trump",
       "position": "support",
-      "reasoning": "Focused on stopping the war and has previously brought Putin to the negotiating table.",
+      "reasoning": "Seen as capable of forcing Putin to negotiate peace.",
+      "mention_count": 6
+    },
+    {
+      "stakeholder": "Germany",
+      "position": "support",
+      "reasoning": "Leading the way in increasing defence spending to 3.5% of GDP by 2029.",
+      "mention_count": 4
+    },
+    {
+      "stakeholder": "Ukraine",
+      "position": "support",
+      "reasoning": "Seeking security guarantees and eventual NATO membership.",
       "mention_count": 4
     },
     {
       "stakeholder": "United States",
       "position": "support",
-      "reasoning": "Prioritizes a safe Europe and strong NATO, with interests in the Arctic.",
+      "reasoning": "Maintaining security in Europe, the Arctic, and the North Atlantic is in the US's direct interest.",
       "mention_count": 4
     },
     {
-      "stakeholder": "NATO",
+      "stakeholder": "Donald Trump",
       "position": "neutral",
-      "reasoning": "Acknowledging Ukraine's aspirations but implicitly accepting its non-accession.",
+      "reasoning": "Rutte believes Trump is the only one who can force Putin to the negotiating table.",
       "mention_count": 3
     },
     {
-      "stakeholder": "US",
+      "stakeholder": "Johann Wadephul",
       "position": "support",
-      "reasoning": "Maintaining security in Europe is directly relevant to US security.",
-      "mention_count": 3
-    },
-    {
-      "stakeholder": "Ukraine",
-      "position": "neutral",
-      "reasoning": "Seeking security guarantees after relinquishing NATO membership, but potentially dissatisfied with the terms.",
+      "reasoning": "Advocates for strengthening NATO and German military capabilities to deter potential Russian aggression.",
       "mention_count": 3
     },
     {
       "stakeholder": "Mark Rutte",
       "position": "oppose",
-      "reasoning": "Believes Putin is the main obstacle to peace.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Mark Rutte/NATO",
-      "position": "support",
-      "reasoning": "Believes increased defense spending and support for Ukraine are crucial for European security and preventing further escalation.",
-      "mention_count": 2
+      "reasoning": "Believes Putin is the primary obstacle to peace.",
+      "mention_count": 3
     },
     {
       "stakeholder": "NATO",
       "position": "oppose",
-      "reasoning": "Threatening a \"fatal blow\" to Russia if it attacks Ukraine.",
-      "mention_count": 2
+      "reasoning": "Accused of prolonging the conflict by supporting Ukraine's militarization (according to the article).",
+      "mention_count": 3
     },
     {
-      "stakeholder": "Putin",
-      "position": "oppose",
-      "reasoning": "Willing to accept significant casualties to achieve objectives in Ukraine.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Russia",
+      "stakeholder": "Boris Pistorius",
       "position": "neutral",
-      "reasoning": "Prepared to absorb heavy losses and potentially exploit a Taiwan-China conflict.",
+      "reasoning": "States Russia could attack a NATO member state by 2029 based on rebuilding armed forces.",
       "mention_count": 2
     },
     {
-      "stakeholder": "Author",
-      "position": "oppose",
-      "reasoning": "Believes NATO is dysfunctional and no longer guarantees Europe's security.",
-      "mention_count": 1
+      "stakeholder": "George W. Bush",
+      "position": "support",
+      "reasoning": "Pushed for NATO expansion despite reservations from some European countries.",
+      "mention_count": 2
     },
     {
-      "stakeholder": "CALM proponents",
-      "position": "support",
-      "reasoning": "Believe a new alliance is necessary for European strategic autonomy and credible deterrence.",
-      "mention_count": 1
+      "stakeholder": "Ukraine",
+      "position": "neutral",
+      "reasoning": "Seeking security guarantees after relinquishing NATO membership.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "United States",
+      "position": "neutral",
+      "reasoning": "Using NATO membership as a bargaining chip to de-escalate conflict.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "United States",
+      "position": "oppose",
+      "reasoning": "Increasingly viewed as unreliable and potentially hostile to European interests.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Vladimir Putin",
+      "position": "neutral",
+      "reasoning": "The article focuses on actions attributed to Putin, not his stated position.",
+      "mention_count": 2
     },
     {
       "stakeholder": "Canada",
@@ -2723,33 +2800,27 @@
       "mention_count": 1
     },
     {
-      "stakeholder": "China",
-      "position": "neutral",
-      "reasoning": "Considering military action regarding Taiwan, potentially prompting Russian action in Europe.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Coalition of the Willing",
+      "stakeholder": "Coalition of Like-Minded Countries",
       "position": "support",
-      "reasoning": "Deterring future Russian aggression against Ukraine.",
+      "reasoning": "Proposed as a solution to Europe's security concerns and a means of achieving strategic autonomy.",
       "mention_count": 1
     },
     {
       "stakeholder": "Denmark",
       "position": "support",
-      "reasoning": "Demonstrated success with the Danish model of defense industry cooperation.",
+      "reasoning": "Leading the 'Danish model' for defense industry cooperation with Ukraine.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Donald Trump",
-      "position": "conditional support",
-      "reasoning": "Supports NATO but expects increased defence spending from allies.",
+      "stakeholder": "Eirik Kristoffersen",
+      "position": "support",
+      "reasoning": "Believes increased investment in NATO is key to deterring Russia and ensuring European security.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Donald Trump",
+      "stakeholder": "Emmanuel Macron",
       "position": "neutral",
-      "reasoning": "Rutte believes Trump is the only one who can force Putin to negotiate peace, despite his unpredictable behavior.",
+      "reasoning": "Initiating discussions about alternative nuclear deterrence options for Europe.",
       "mention_count": 1
     },
     {
@@ -2760,44 +2831,32 @@
     },
     {
       "stakeholder": "Europe",
-      "position": "oppose",
-      "reasoning": "Belief that the plan is too favorable to Russia and amounts to Ukrainian capitulation.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Europe",
       "position": "support",
       "reasoning": "Purchasing US defense equipment to aid Ukraine.",
       "mention_count": 1
     },
     {
-      "stakeholder": "European NATO allies",
-      "position": "support",
-      "reasoning": "Rely on the US nuclear umbrella for deterrence.",
+      "stakeholder": "European Union",
+      "position": "neutral",
+      "reasoning": "Working to strengthen defenses, but coordination with NATO is ongoing.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "European Union",
+      "position": "oppose",
+      "reasoning": "Believes Trump's plan is too favorable to Russia and amounts to Ukraine's capitulation.",
       "mention_count": 1
     },
     {
       "stakeholder": "European Union",
       "position": "support",
-      "reasoning": "Increasing defense spending and aligning with NATO goals.",
+      "reasoning": "Committed to supporting Ukraine and increasing defense spending.",
       "mention_count": 1
     },
     {
       "stakeholder": "European countries",
-      "position": "support",
-      "reasoning": "Taking responsibility for their own security and increasing defence spending.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "European leaders",
-      "position": "support",
-      "reasoning": "Benefit from the military-industrial complex.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "France",
       "position": "neutral",
-      "reasoning": "Initiating discussions about extending nuclear protection to other European countries.",
+      "reasoning": "Expressing readiness to send troops to Ukraine, details still under discussion.",
       "mention_count": 1
     },
     {
@@ -2809,19 +2868,19 @@
     {
       "stakeholder": "Germany",
       "position": "neutral",
-      "reasoning": "Engaged in talks with France and the UK on nuclear matters, but doesn't see replacing the US umbrella as feasible.",
+      "reasoning": "Expresses readiness to discuss France's proposal but acknowledges the US umbrella is currently essential.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Germany & France",
-      "position": "oppose",
-      "reasoning": "Initially hesitant about NATO expansion due to potential repercussions with Russia.",
+      "stakeholder": "Johann Wadephul",
+      "position": "neutral",
+      "reasoning": "Acknowledges the US nuclear umbrella is currently irreplaceable but is open to discussing nuclear matters with France and the UK.",
       "mention_count": 1
     },
     {
       "stakeholder": "Kurt Volker",
-      "position": "support",
-      "reasoning": "Believes Ukraine should eventually join NATO.",
+      "position": "neutral",
+      "reasoning": "Outlining a potential strategy and future possibilities.",
       "mention_count": 1
     },
     {
@@ -2837,128 +2896,67 @@
       "mention_count": 1
     },
     {
-      "stakeholder": "Mark Rutte (NATO)",
-      "position": "support",
-      "reasoning": "Claims NATO is a peaceful, defensive alliance (disputed by the article).",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "NATO (via Mark Rutte)",
-      "position": "neutral",
-      "reasoning": "Stated readiness to deploy troops contingent on Russian actions, presented as a deterrent.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Netherlands",
-      "position": "support",
-      "reasoning": "Increasing army size to contribute to NATO strength.",
-      "mention_count": 1
-    },
-    {
       "stakeholder": "Norway",
       "position": "support",
-      "reasoning": "Believes supporting Ukraine is crucial for European security.",
+      "reasoning": "Believes supporting Ukraine is vital for European security and aligns with NATO goals.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Norway's Chief of Defence",
+      "stakeholder": "Rheinmetall",
       "position": "support",
-      "reasoning": "Believes increased NATO investment is crucial for European security and deterring Russia.",
+      "reasoning": "Benefiting from increased defense spending and the war in Ukraine.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Russia",
+      "position": "neutral",
+      "reasoning": "Subject of sanctions and potential military intervention.",
       "mention_count": 1
     },
     {
       "stakeholder": "Russia",
       "position": "support",
-      "reasoning": "The original plan was partially acceptable, but the revised plan is unlikely to be accepted.",
+      "reasoning": "The original plan may have been acceptable to Moscow.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Russia (Vladimir Putin)",
+      "stakeholder": "Russia",
+      "position": "unknown",
+      "reasoning": "The article presents Russia as a potential aggressor, but does not detail their stated position.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Ukraine",
       "position": "oppose",
-      "reasoning": "Views NATO expansion as a direct threat to its security and a source of long-term confrontation.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Some European countries",
-      "position": "support",
-      "reasoning": "Readiness to send troops to Ukraine to preserve peace or enforce a potential agreement.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Trump",
-      "position": "support",
-      "reasoning": "Desire for a Nobel Peace Prize and belief in the plan's merits.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "US",
-      "position": "neutral",
-      "reasoning": "Continuing support for Ukraine is expected.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "US",
-      "position": "oppose",
-      "reasoning": "Wants a divided Europe and control over it.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "USA",
-      "position": "support",
-      "reasoning": "Committed to NATO and European affairs.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "United States",
-      "position": "neutral",
-      "reasoning": "Strategic maneuvering to achieve a ceasefire.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "United States & NATO",
-      "position": "support",
-      "reasoning": "Strengthening Ukraine's security benefits European stability and deters future Russian aggression.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "United States (George W. Bush)",
-      "position": "support",
-      "reasoning": "Promoted NATO expansion, potentially due to strategic interests and pressure from allies.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "United States (Trump Administration)",
-      "position": "oppose",
-      "reasoning": "Seen as undermining European security and pursuing rapprochement with Russia.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "United States and Allies",
-      "position": "support",
-      "reasoning": "NATO serves their geopolitical and economic interests.",
+      "reasoning": "The plan requires painful concessions, including abandoning NATO aspirations.",
       "mention_count": 1
     },
     {
       "stakeholder": "Viktor Orban",
       "position": "oppose",
-      "reasoning": "Believes sanctions against Russia have harmed Europe.",
+      "reasoning": "Believes sanctions against Russia have been detrimental to Europe.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Vladimir Putin/Russia",
+      "stakeholder": "Volkswagen",
       "position": "oppose",
-      "reasoning": "Reportedly intends to expand control over Eastern Europe.",
+      "reasoning": "Facing production cuts and layoffs due to tariffs and falling demand.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Yuri Pilipson (Russian Foreign Ministry)",
+      "stakeholder": "Yuri Pilipson",
       "position": "oppose",
-      "reasoning": "Views NATO as an aggressive organization pursuing selfish interests.",
+      "reasoning": "Accuses NATO of pursuing an aggressive course and risking global conflict.",
       "mention_count": 1
     }
   ],
   "source_bias": {
     "all_sources": [
+      {
+        "source": "The Times of India",
+        "avg_sentiment": -0.7,
+        "article_count": 1
+      },
       {
         "source": "Global Research",
         "avg_sentiment": -0.65,
@@ -2981,12 +2979,12 @@
       },
       {
         "source": "Azeri - Press Informasiya Agentliyi",
-        "avg_sentiment": -0.45,
+        "avg_sentiment": -0.5,
         "article_count": 2
       },
       {
         "source": "anews",
-        "avg_sentiment": -0.45,
+        "avg_sentiment": -0.5,
         "article_count": 2
       },
       {
@@ -3001,8 +2999,13 @@
       },
       {
         "source": "Antiwar.com Original",
-        "avg_sentiment": -0.35,
+        "avg_sentiment": -0.4,
         "article_count": 1
+      },
+      {
+        "source": "TASS",
+        "avg_sentiment": -0.325,
+        "article_count": 4
       },
       {
         "source": "ZNetwork",
@@ -3010,19 +3013,9 @@
         "article_count": 1
       },
       {
-        "source": "TASS",
-        "avg_sentiment": -0.275,
-        "article_count": 4
-      },
-      {
         "source": "Pravda EN",
         "avg_sentiment": -0.205,
         "article_count": 11
-      },
-      {
-        "source": "The Times of India",
-        "avg_sentiment": 0.0,
-        "article_count": 1
       },
       {
         "source": "dpa International",
@@ -3031,22 +3024,27 @@
       },
       {
         "source": "\u0426\u0435\u043d\u0437\u043e\u0440.\u041d\u0415\u0422",
-        "avg_sentiment": 0.25,
+        "avg_sentiment": 0.233,
+        "article_count": 3
+      },
+      {
+        "source": "Ukrinform-EN",
+        "avg_sentiment": 0.55,
         "article_count": 3
       },
       {
         "source": "Eurasia Review",
-        "avg_sentiment": 0.45,
+        "avg_sentiment": 0.6,
         "article_count": 1
-      },
-      {
-        "source": "Ukrinform-EN",
-        "avg_sentiment": 0.517,
-        "article_count": 3
       }
     ],
     "zones": {
       "negative": [
+        {
+          "source": "The Times of India",
+          "avg_sentiment": -0.7,
+          "article_count": 1
+        },
         {
           "source": "Global Research",
           "avg_sentiment": -0.65,
@@ -3069,12 +3067,12 @@
         },
         {
           "source": "Azeri - Press Informasiya Agentliyi",
-          "avg_sentiment": -0.45,
+          "avg_sentiment": -0.5,
           "article_count": 2
         },
         {
           "source": "anews",
-          "avg_sentiment": -0.45,
+          "avg_sentiment": -0.5,
           "article_count": 2
         },
         {
@@ -3089,18 +3087,18 @@
         },
         {
           "source": "Antiwar.com Original",
-          "avg_sentiment": -0.35,
+          "avg_sentiment": -0.4,
           "article_count": 1
+        },
+        {
+          "source": "TASS",
+          "avg_sentiment": -0.325,
+          "article_count": 4
         },
         {
           "source": "ZNetwork",
           "avg_sentiment": -0.3,
           "article_count": 1
-        },
-        {
-          "source": "TASS",
-          "avg_sentiment": -0.275,
-          "article_count": 4
         },
         {
           "source": "Pravda EN",
@@ -3110,11 +3108,6 @@
       ],
       "neutral": [
         {
-          "source": "The Times of India",
-          "avg_sentiment": 0.0,
-          "article_count": 1
-        },
-        {
           "source": "dpa International",
           "avg_sentiment": 0.0,
           "article_count": 2
@@ -3122,25 +3115,25 @@
       ],
       "positive": [
         {
-          "source": "Ukrinform-EN",
-          "avg_sentiment": 0.517,
-          "article_count": 3
-        },
-        {
           "source": "Eurasia Review",
-          "avg_sentiment": 0.45,
+          "avg_sentiment": 0.6,
           "article_count": 1
         },
         {
+          "source": "Ukrinform-EN",
+          "avg_sentiment": 0.55,
+          "article_count": 3
+        },
+        {
           "source": "\u0426\u0435\u043d\u0437\u043e\u0440.\u041d\u0415\u0422",
-          "avg_sentiment": 0.25,
+          "avg_sentiment": 0.233,
           "article_count": 3
         }
       ]
     },
     "summary": {
-      "negative_count": 12,
-      "neutral_count": 2,
+      "negative_count": 13,
+      "neutral_count": 1,
       "positive_count": 3,
       "total_count": 17
     }
@@ -3160,61 +3153,37 @@
     },
     {
       "from": "Vladimir Putin",
-      "to": "NATO",
-      "stance": "neutral",
-      "quote_snippet": "In 2008, at the summit in Bucharest, they declared that the doors for Ukraine and Georgia to join NA"
+      "to": "Condoleezza Rice",
+      "stance": "oppose",
+      "quote_snippet": "Now I'd like to repeat what I said to Condi and Gates (the then US Secretary of State Condoleezza Ri"
+    },
+    {
+      "from": "Vladimir Putin",
+      "to": "Robert Gates",
+      "stance": "oppose",
+      "quote_snippet": "Now I'd like to repeat what I said to Condi and Gates (the then US Secretary of State Condoleezza Ri"
+    },
+    {
+      "from": "Vladimir Putin",
+      "to": "TASS",
+      "stance": "oppose",
+      "quote_snippet": "Now I'd like to repeat what I said to Condi and Gates (the then US Secretary of State Condoleezza Ri"
     },
     {
       "from": "Mark Rutte",
-      "to": "Putin",
+      "to": "NATO",
       "stance": "support",
       "quote_snippet": "If we do these two things, we will be strong enough to defend ourselves, and Putin will never attemp"
     },
     {
       "from": "Mark Rutte",
       "to": "NATO",
-      "stance": "support",
-      "quote_snippet": "If we do these two things, we will be strong enough to defend ourselves, and Putin will never attemp"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "Their national security strategy outlines that a secure Europe, a strong NATO, and close cooperation"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "Europe",
-      "stance": "support",
-      "quote_snippet": "Their national security strategy outlines that a secure Europe, a strong NATO, and close cooperation"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "NATO",
-      "stance": "neutral",
-      "quote_snippet": "The Arctic represents a vital issue. We observe Chinese and Russian vessels active in that region. A"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "EU",
-      "stance": "neutral",
-      "quote_snippet": "The Arctic represents a vital issue. We observe Chinese and Russian vessels active in that region. A"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "Europe",
       "stance": "neutral",
       "quote_snippet": "The Arctic represents a vital issue. We observe Chinese and Russian vessels active in that region. A"
     },
     {
       "from": "Johann Wadephul",
       "to": "Vladimir Putin",
-      "stance": "neutral",
-      "quote_snippet": "I do not want to speculate on how great the danger is that Russian President Vladimir Putin would us"
-    },
-    {
-      "from": "Johann Wadephul",
-      "to": "Putin",
       "stance": "neutral",
       "quote_snippet": "I do not want to speculate on how great the danger is that Russian President Vladimir Putin would us"
     },
@@ -3231,44 +3200,8 @@
       "quote_snippet": "There is no reason for us to reduce our efforts. Quite the contrary. I can only strongly advise agai"
     },
     {
-      "from": "Johann Wadephul",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "The more stable the peace situation in Ukraine is, the sooner Ukraine will be able to protect its ow"
-    },
-    {
-      "from": "Johann Wadephul",
-      "to": "Europe",
-      "stance": "support",
-      "quote_snippet": "The more stable the peace situation in Ukraine is, the sooner Ukraine will be able to protect its ow"
-    },
-    {
-      "from": "Johann Wadephul",
-      "to": "Vladimir Putin",
-      "stance": "support",
-      "quote_snippet": "I do not want to speculate on how great the danger is that Russian President Vladimir Putin would us"
-    },
-    {
-      "from": "Johann Wadephul",
-      "to": "Putin",
-      "stance": "support",
-      "quote_snippet": "I do not want to speculate on how great the danger is that Russian President Vladimir Putin would us"
-    },
-    {
       "from": "Leonid Slutsky",
       "to": "NATO",
-      "stance": "oppose",
-      "quote_snippet": "Rutte is cheating the public saying that European countries are ready to send troops to Ukraine in t"
-    },
-    {
-      "from": "Leonid Slutsky",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "Rutte is cheating the public saying that European countries are ready to send troops to Ukraine in t"
-    },
-    {
-      "from": "Leonid Slutsky",
-      "to": "Europe",
       "stance": "oppose",
       "quote_snippet": "Rutte is cheating the public saying that European countries are ready to send troops to Ukraine in t"
     },
@@ -3276,31 +3209,7 @@
       "from": "Jack F. Matlock Jr.",
       "to": "NATO",
       "stance": "oppose",
-      "quote_snippet": "obviously there would have been no basis for the present crisis if there had been no expansion of th"
-    },
-    {
-      "from": "Jack F. Matlock Jr.",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "obviously there would have been no basis for the present crisis if there had been no expansion of th"
-    },
-    {
-      "from": "Jack F. Matlock Jr.",
-      "to": "Europe",
-      "stance": "oppose",
-      "quote_snippet": "obviously there would have been no basis for the present crisis if there had been no expansion of th"
-    },
-    {
-      "from": "Eirik Kristoffersen",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "So, first of all, the support for Ukraine is the main priority for European security, because the wa"
-    },
-    {
-      "from": "Eirik Kristoffersen",
-      "to": "Europe",
-      "stance": "support",
-      "quote_snippet": "So, first of all, the support for Ukraine is the main priority for European security, because the wa"
+      "quote_snippet": "there would have been no basis for the present crisis if there had been no expansion of the [NATO] a"
     },
     {
       "from": "Eirik Kristoffersen",
@@ -3309,148 +3218,28 @@
       "quote_snippet": "Then, the next thing is, of course, to meet the requirements from NATO in accordance with the goals "
     },
     {
-      "from": "Leaders",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "\"The leaders appreciated the strong convergence between the United States, Ukraine, and Europe.\""
-    },
-    {
-      "from": "Leaders",
-      "to": "Europe",
-      "stance": "support",
-      "quote_snippet": "\"The leaders appreciated the strong convergence between the United States, Ukraine, and Europe.\""
-    },
-    {
       "from": "Eirik Kristoffersen",
       "to": "PURL",
       "stance": "support",
       "quote_snippet": "PURL is a source for support to Ukraine that we encourage both our political leaders but also the re"
     },
     {
-      "from": "Donald Tusk",
-      "to": "EU",
-      "stance": "neutral",
-      "quote_snippet": "that 500 million Europeans are asking 300 million Americans to defend them against 140 million Russi"
-    },
-    {
-      "from": "Donald Tusk",
-      "to": "Europe",
-      "stance": "neutral",
-      "quote_snippet": "that 500 million Europeans are asking 300 million Americans to defend them against 140 million Russi"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "Trump",
+      "from": "Tore O. Sandvik",
+      "to": "APA",
       "stance": "support",
-      "quote_snippet": "Absolutely! Trump has clearly expressed his support for NATO, but he has also clearly expressed his "
+      "quote_snippet": "strengthening Ukraine's combat capacity enhances the security of the entire European continent."
     },
     {
-      "from": "Mark Rutte",
-      "to": "Putin",
+      "from": "Eirik Kristoffersen",
+      "to": "APA",
       "stance": "neutral",
-      "quote_snippet": "We also see the global connection between China and Russia. China is looking at Taiwan. And I am con"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "Putin",
-      "stance": "negative",
-      "quote_snippet": "The reason is Putin. He is prepared to sacrifice 1.1 million of his own people."
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "President Trump",
-      "stance": "support",
-      "quote_snippet": "In The Hague, we had this big foreign policy breakthrough by President Trump, a 5% target for defens"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "The Hague",
-      "stance": "support",
-      "quote_snippet": "In The Hague, we had this big foreign policy breakthrough by President Trump, a 5% target for defens"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "US defense industry",
-      "stance": "support",
-      "quote_snippet": "And a few weeks later, we agreed on this new initiative, according to which the Europeans and Canadi"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "Putin",
-      "stance": "positive",
-      "quote_snippet": "I have to say: Trump is absolutely committed to this issue. He is focused on ending this war. He is "
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "Trump",
-      "stance": "positive",
-      "quote_snippet": "I have to say: Trump is absolutely committed to this issue. He is focused on ending this war. He is "
-    },
-    {
-      "from": "Kurt Volker",
-      "to": "Trump",
-      "stance": "neutral",
-      "quote_snippet": "The United States may declare that it will not support Ukraine, and this will be equivalent to the f"
-    },
-    {
-      "from": "Kurt Volker",
-      "to": "President Trump",
-      "stance": "neutral",
-      "quote_snippet": "The United States may declare that it will not support Ukraine, and this will be equivalent to the f"
-    },
-    {
-      "from": "Kurt Volker",
-      "to": "Trump",
-      "stance": "slightly_positive",
-      "quote_snippet": "In any agreement, if it is concluded, this point will be omitted, and the Trump administration will "
+      "quote_snippet": "It's not only about the military capabilities. It's also about the society's total resilience."
     },
     {
       "from": "Kurt Volker",
       "to": "NATO",
-      "stance": "slightly_positive",
+      "stance": "neutral",
       "quote_snippet": "In any agreement, if it is concluded, this point will be omitted, and the Trump administration will "
-    },
-    {
-      "from": "Kurt Volker",
-      "to": "NATO",
-      "stance": "support",
-      "quote_snippet": "If we get used to giving Ukraine security guarantees, perhaps from the United States and definitely "
-    },
-    {
-      "from": "Kurt Volker",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "If we get used to giving Ukraine security guarantees, perhaps from the United States and definitely "
-    },
-    {
-      "from": "Kurt Volker",
-      "to": "Europe",
-      "stance": "support",
-      "quote_snippet": "If we get used to giving Ukraine security guarantees, perhaps from the United States and definitely "
-    },
-    {
-      "from": "Viktor Orban",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "The sanctions imposed on Russia have destroyed Europe, although they were imposed to crush Russia."
-    },
-    {
-      "from": "Viktor Orban",
-      "to": "Europe",
-      "stance": "oppose",
-      "quote_snippet": "The sanctions imposed on Russia have destroyed Europe, although they were imposed to crush Russia."
-    },
-    {
-      "from": "Rafael Pinto Borges",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "The European Commission has become a \"Titanic\" dragging the EU after itself"
-    },
-    {
-      "from": "Rafael Pinto Borges",
-      "to": "Europe",
-      "stance": "oppose",
-      "quote_snippet": "The European Commission has become a \"Titanic\" dragging the EU after itself"
     },
     {
       "from": "Rafael Pinto Borges",
@@ -3459,32 +3248,14 @@
       "quote_snippet": "The European Commission has become a \"Titanic\" dragging the EU after itself"
     },
     {
-      "from": "Mark Rutte",
-      "to": "Trump",
-      "stance": "neutral",
-      "quote_snippet": "Trump is clearly committed to NATO, but he also clearly expected us to significantly increase spendi"
-    },
-    {
-      "from": "Jens Stoltenberg",
-      "to": "Putin",
-      "stance": "neutral",
-      "quote_snippet": "\"no more NATO enlargement... was a pre-condition for not invade Ukraine... [Putin] went to war to pr"
-    },
-    {
       "from": "Jens Stoltenberg",
       "to": "NATO",
       "stance": "neutral",
-      "quote_snippet": "\"no more NATO enlargement... was a pre-condition for not invade Ukraine... [Putin] went to war to pr"
+      "quote_snippet": "no more NATO enlargement... was a pre-condition for not invade Ukraine... [Putin] went to war to pre"
     },
     {
       "from": "Davyd Arakhamiia",
       "to": "NATO",
-      "stance": "neutral",
-      "quote_snippet": "It was the most important thing for them... They were prepared to end the war if we agreed to... neu"
-    },
-    {
-      "from": "Davyd Arakhamiia",
-      "to": "EU",
       "stance": "neutral",
       "quote_snippet": "It was the most important thing for them... They were prepared to end the war if we agreed to... neu"
     },
@@ -3492,31 +3263,31 @@
       "from": "Amanda Sloat",
       "to": "NATO",
       "stance": "neutral",
-      "quote_snippet": "\"We had some conversations even before the war started about, what if Ukraine comes out and just say"
+      "quote_snippet": "We had some conversations even before the war started about, what if Ukraine comes out and just says"
+    },
+    {
+      "from": "Volodymyr Zelensky",
+      "to": "NATO",
+      "stance": "neutral",
+      "quote_snippet": "I am ready to give up the demand for NATO membership in exchange for \"bilateral security guarantees "
+    },
+    {
+      "from": "Volodymyr Zelensky",
+      "to": "APA",
+      "stance": "neutral",
+      "quote_snippet": "I am ready to give up the demand for NATO membership in exchange for \"bilateral security guarantees "
     },
     {
       "from": "Sergei Ryabkov",
       "to": "NATO",
       "stance": "oppose",
-      "quote_snippet": "\"under no circumstances are we prepared to support, approve, or even tolerate any NATO troop presenc"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "Putin",
-      "stance": "oppose",
-      "quote_snippet": "Putin is the reason."
+      "quote_snippet": "under no circumstances are we prepared to support, approve, or even tolerate any NATO troop presence"
     },
     {
       "from": "Mark Rutte",
       "to": "Vladimir Putin",
       "stance": "support",
       "quote_snippet": "Trump is absolutely committed to this issue. He is focused on ending this war. Trump is the only one"
-    },
-    {
-      "from": "Mark Rutte",
-      "to": "The Hague",
-      "stance": "neutral",
-      "quote_snippet": "First, we need to increase defense spending and ramp up production (of weapons and ammunition, ed.)."
     }
   ],
   "summary_stats": {
@@ -3526,21 +3297,21 @@
       "start": "2025-12-21T17:54:49Z",
       "end": "2025-12-24T01:25:23Z"
     },
-    "avg_sentiment": -0.18589743589743585,
-    "total_quotes": 97,
-    "total_financial_mentions": 42
+    "avg_sentiment": -0.21025641025641023,
+    "total_quotes": 109,
+    "total_financial_mentions": 56
   },
-  "executive_brief": "NATO Secretary General Mark Rutte is outlining a three-tiered system of security guarantees for Ukraine, aiming to prevent future Russian attacks. This development is receiving moderate media coverage (39 articles from 17 sources) but is viewed with significant negativity (average sentiment score of -0.19), suggesting considerable skepticism or concern surrounding the proposals. The core issue revolves around balancing support for Ukraine with avoiding direct confrontation with Russia, and the viability of these guarantees given Russia\u2019s stated opposition. \n\nStakeholder positions are sharply divided, with Mark Rutte emphasizing the necessity of a strong Ukraine to deter Putin, and the US nuclear umbrella as a key deterrent. Vladimir Putin consistently frames NATO expansion as a threat to Russia, predicting long-term confrontation. Significant financial commitments are being discussed and allocated, including EUR 90 billion in EU funding for Ukraine and billions in planned weapons deliveries. Companies like Rheinmetall and Lockheed Martin stand to benefit from increased defense spending, while the potential for a Russian attack on NATO remains a central concern.",
+  "executive_brief": "NATO Secretary General Mark Rutte is outlining a three-tiered approach to security guarantees for Ukraine, aiming to prevent future Russian attacks. This issue has garnered moderate media attention, with 39 articles from 17 sources published between December 21st and 24th, 2025, though sentiment is largely negative (-0.21 average score). The focus is on bolstering Ukraine's defenses as a means of deterring further Russian aggression and, crucially, protecting NATO itself. \n\nThe data reveals strong support for these guarantees from NATO, the United States, and Germany, with Mark Rutte emphasizing the importance of a strong European NATO and the US nuclear umbrella. However, Russia, led by Vladimir Putin, vehemently opposes NATO expansion, viewing it as a threat and citing historical concerns about military bases near its borders. Significant financial commitments are being made, including EUR 90 billion in EU funding for Ukraine and substantial pledges from countries like Norway and Rheinmetall, while declassified documents reveal past warnings from Putin to George W. Bush regarding NATO membership.",
   "key_arguments": {
     "for": [
-      "Mark Rutte believes that supporting Ukraine is essential to prevent Putin from attacking NATO: \"If we do these two things, we will be strong enough to defend ourselves, and Putin will never attempt [to attack NATO - ed.].\"",
-      "The US nuclear umbrella provides a strong guarantee for NATO allies: \"When it comes to nuclear deterrence, the US nuclear umbrella is our absolute guarantee, and that will not change.\"",
-      "A secure Europe and strong NATO are American priorities, according to the US national security strategy."
+      "Mark Rutte believes that strong security guarantees for Ukraine are essential to prevent Putin from attacking NATO: \"If we do these two things, we will be strong enough to defend ourselves, and Putin will never attempt [to attack NATO - ed.].\"",
+      "The US nuclear umbrella is considered an absolute guarantee for NATO allies, according to Mark Rutte.",
+      "A strong European side of NATO is necessary for the security of the North Atlantic, as stated by Mark Rutte."
     ],
     "against": [
-      "Vladimir Putin views NATO expansion as a threat, predicting it will create a long-term field of conflict: \"NATO is perceived by a large part of the Ukrainian population as a hostile organization. What for? What is the meaning of Ukrainian membership in NATO? What benefit is there for NATO and the US? There\"",
-      "Putin argues that NATO\u2019s past agreements regarding expansion were made under pressure and may not be honored in the future.",
-      "Putin believes that admitting Ukraine to NATO will split Ukrainian society."
+      "Vladimir Putin perceives NATO as a hostile organization and questions the benefits of Ukrainian membership for both Ukraine and NATO.",
+      "Vladimir Putin warned that NATO expansion would create a threat of military bases and arms systems near Russia's borders.",
+      "Vladimir Putin believes past agreements regarding NATO expansion were made under pressure and questions future commitments."
     ]
   },
   "whats_at_stake": {
@@ -3548,19 +3319,19 @@
       "General Dynamics - Potential beneficiary of increased defense spending.",
       "Lockheed Martin - Potential beneficiary of increased defense spending.",
       "Rheinmetall - Potential beneficiary of increased defense spending (market value USD 80,000,000,000).",
-      "US defense industry - Likely to see increased contracts due to heightened security concerns."
+      "United States - Maintaining security in Europe is in the US's direct interest."
     ],
     "losers": [
-      "Russia - Faces increased pressure and potential isolation due to NATO\u2019s support for Ukraine."
+      "Russia - Faces increased pressure and potential confrontation with NATO due to expansion efforts."
     ],
     "risks": [
-      "Potential Russian attack on NATO, as warned by German foreign minister.",
-      "Long-term confrontation between Russia and NATO, as predicted by Vladimir Putin.",
-      "Splitting of Ukrainian society due to NATO membership, according to Putin."
+      "Potential Russian attack on NATO, as warned by NATO officials and implied by Rutte's statements.",
+      "Escalation of conflict due to NATO expansion, as warned by Vladimir Putin.",
+      "Division within Ukraine regarding NATO membership, as highlighted by Putin's statements."
     ],
     "opportunities": [
       "NATO Innovation Fund - USD 1,000,000,000 in venture capital available.",
-      "Increased defense spending - Creates opportunities for defense companies."
+      "Increased defense spending by Germany (to 3.5% of GDP by 2029)."
     ]
   }
 }

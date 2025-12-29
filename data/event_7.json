@@ -6,10 +6,10 @@
     "category": "steel",
     "summary": "German steel giant Thyssenkrupp halts production at two sites due to competition from Asian imports",
     "first_seen": "2025-12-22T23:52:21.064862",
-    "last_updated": "2025-12-29T10:24:57.087364",
+    "last_updated": "2025-12-29T17:30:56.586016",
     "created_at": "2025-12-22 22:52:21"
   },
-  "generated_at": "2025-12-29T10:30:10.474986",
+  "generated_at": "2025-12-29T17:35:28.550881",
   "articles": [
     {
       "id": 19,
@@ -24,7 +24,7 @@
       "language": "eng",
       "image_url": "https://foto.haberler.com/haber/2025/12/12/dunyaca-unlu-firmadan-uretimi-durdurma-karari-19349498_3684_o.jpg",
       "fetched_at": "2025-12-22 22:52:54",
-      "sentiment_score": -0.8,
+      "sentiment_score": -0.75,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -41,7 +41,7 @@
       "language": "eng",
       "image_url": "https://www.dpa-international.com/img/251211-99-899142-v2-w800h450.jpeg",
       "fetched_at": "2025-12-22 22:52:54",
-      "sentiment_score": -0.8,
+      "sentiment_score": -0.6,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -58,7 +58,7 @@
       "language": "eng",
       "image_url": "https://www.digitaljournal.com/wp-content/uploads/2025/12/5bd9742019f9dfb8bf77d0d3b0fc1d9b842f643d.jpg",
       "fetched_at": "2025-12-22 22:52:54",
-      "sentiment_score": -0.9,
+      "sentiment_score": -0.65,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -75,7 +75,7 @@
       "language": "eng",
       "image_url": "https://media.zenfs.com/en/afp.co.uk/45cb862988354f9579b667f5e8011d7d",
       "fetched_at": "2025-12-22 22:52:54",
-      "sentiment_score": -0.8,
+      "sentiment_score": -0.65,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -92,7 +92,7 @@
       "language": "eng",
       "image_url": "https://www.financial-world.org/world/media/image29933.jpg",
       "fetched_at": "2025-12-22 22:52:54",
-      "sentiment_score": -0.9,
+      "sentiment_score": -0.65,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -109,7 +109,7 @@
       "language": "eng",
       "image_url": "https://images.euronews.com/articles/stories/09/57/68/47/1200x675_cmsv2_a70c5886-e200-5661-adcf-f6cc53c015b7-9576847.jpg",
       "fetched_at": "2025-12-22 22:52:54",
-      "sentiment_score": -0.7,
+      "sentiment_score": -0.65,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -126,7 +126,7 @@
       "language": "eng",
       "image_url": "https://static.lse.co.uk/images/logo-og.jpg",
       "fetched_at": "2025-12-22 22:52:54",
-      "sentiment_score": -0.8,
+      "sentiment_score": -0.65,
       "sentiment_label": "negative",
       "article_type": "news_report"
     },
@@ -143,9 +143,9 @@
       "language": "eng",
       "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI0U0HX_L.jpg",
       "fetched_at": "2025-12-22 22:52:54",
-      "sentiment_score": null,
-      "sentiment_label": null,
-      "article_type": null
+      "sentiment_score": 0.4,
+      "sentiment_label": "slightly_positive",
+      "article_type": "news_report"
     }
   ],
   "popularity_trend": [
@@ -165,17 +165,17 @@
   "sentiment_trend": [
     {
       "date": "2025-12-09",
-      "avg_sentiment": -0.75,
-      "count": 2
+      "avg_sentiment": -0.3,
+      "count": 3
     },
     {
       "date": "2025-12-11",
-      "avg_sentiment": -0.8500000000000001,
+      "avg_sentiment": -0.6375000000000001,
       "count": 4
     },
     {
       "date": "2025-12-12",
-      "avg_sentiment": -0.8,
+      "avg_sentiment": -0.75,
       "count": 1
     }
   ],
@@ -183,15 +183,11 @@
     "countries": [
       {
         "name": "Germany",
-        "count": 7
-      },
-      {
-        "name": "Europe",
-        "count": 6
+        "count": 8
       },
       {
         "name": "Asia",
-        "count": 5
+        "count": 4
       },
       {
         "name": "France",
@@ -206,11 +202,11 @@
         "count": 3
       },
       {
-        "name": "US",
+        "name": "Europe",
         "count": 2
       },
       {
-        "name": "Czech",
+        "name": "Czech Republic",
         "count": 1
       },
       {
@@ -222,29 +218,29 @@
         "count": 1
       },
       {
-        "name": "Russia",
-        "count": 1
-      },
-      {
         "name": "South Korea",
-        "count": 1
-      },
-      {
-        "name": "Ukraine",
         "count": 1
       }
     ],
     "companies": [
       {
         "name": "Thyssenkrupp",
-        "count": 6
+        "count": 7
       },
       {
         "name": "Thyssenkrupp Steel Europe",
-        "count": 4
+        "count": 3
       },
       {
         "name": "Jindal Steel",
+        "count": 2
+      },
+      {
+        "name": "Jindal Steel International",
+        "count": 2
+      },
+      {
+        "name": "TKMS",
         "count": 2
       },
       {
@@ -252,7 +248,7 @@
         "count": 1
       },
       {
-        "name": "Jindal Steel International",
+        "name": "EP Group",
         "count": 1
       },
       {
@@ -272,18 +268,6 @@
         "count": 1
       },
       {
-        "name": "TKMS",
-        "count": 1
-      },
-      {
-        "name": "ThyssenKrupp",
-        "count": 1
-      },
-      {
-        "name": "Thyssenkrup group",
-        "count": 1
-      },
-      {
         "name": "Thyssenkrupp Steel",
         "count": 1
       }
@@ -291,14 +275,10 @@
     "organizations": [
       {
         "name": "European Union",
-        "count": 2
+        "count": 3
       },
       {
-        "name": "EU",
-        "count": 1
-      },
-      {
-        "name": "unions",
+        "name": "IG Metall",
         "count": 1
       }
     ],
@@ -314,72 +294,167 @@
       {
         "amount": 37700000000.0,
         "currency": "EUR",
-        "context": "order intake for the year just gone"
+        "context": "order intake last year"
       },
       {
         "amount": 32800000000.0,
         "currency": "EUR",
-        "context": "sales for the year just ended"
+        "context": "sales"
       },
       {
         "amount": 932000000.0,
         "currency": "USD",
-        "context": "expected loss for Thyssenkrup group next year"
+        "context": "equivalent of 800 million EUR loss"
       },
       {
         "amount": 932000000.0,
         "currency": "USD",
-        "context": "expected loss next year largely driven by costs of restructuring steel division"
+        "context": "equivalent of 800 million EUR loss"
       },
       {
         "amount": 800000000.0,
         "currency": "EUR",
-        "context": "expected loss for Thyssenkrup group next year"
+        "context": "expected loss for next year"
       },
       {
         "amount": 800000000.0,
         "currency": "EUR",
-        "context": "expected loss next year largely driven by costs of restructuring steel division"
+        "context": "loss (upper bound)"
       },
       {
         "amount": 800000000.0,
         "currency": "EUR",
-        "context": "projected net loss (upper bound)"
+        "context": "expected loss for next year"
+      },
+      {
+        "amount": 800000000.0,
+        "currency": "EUR",
+        "context": "predicted net loss upper bound"
+      },
+      {
+        "amount": 800000000.0,
+        "currency": "EUR",
+        "context": "projected net loss upper bound"
       },
       {
         "amount": 640000000.0,
         "currency": "EUR",
-        "context": "Adjusted EBIT for the year just gone"
+        "context": "Adjusted EBIT this year"
+      },
+      {
+        "amount": 600000000.0,
+        "currency": "EUR",
+        "context": "negative free cash flow (upper bound)"
+      },
+      {
+        "amount": 600000000.0,
+        "currency": "EUR",
+        "context": "cash outflow upper bound"
       },
       {
         "amount": 567000000.0,
         "currency": "EUR",
-        "context": "Adjusted EBIT for the previous period"
+        "context": "Adjusted EBIT last year"
       },
       {
         "amount": 532000000.0,
         "currency": "EUR",
-        "context": "net profit over the year just gone"
+        "context": "net profit last year"
       },
       {
         "amount": 400000000.0,
         "currency": "EUR",
-        "context": "projected net loss (lower bound)"
+        "context": "loss (lower bound)"
+      },
+      {
+        "amount": 400000000.0,
+        "currency": "EUR",
+        "context": "predicted net loss lower bound"
+      },
+      {
+        "amount": 400000000.0,
+        "currency": "EUR",
+        "context": "projected net loss lower bound"
       },
       {
         "amount": 363000000.0,
         "currency": "EUR",
-        "context": "positive free cash flow for the year just ended"
+        "context": "positive free cash flow"
       },
       {
         "amount": 350000000.0,
         "currency": "EUR",
-        "context": "predicted restructuring costs for the year ahead"
+        "context": "restructuring costs"
+      },
+      {
+        "amount": 350000000.0,
+        "currency": "EUR",
+        "context": "restructuring costs"
+      },
+      {
+        "amount": 300000000.0,
+        "currency": "EUR",
+        "context": "negative free cash flow (lower bound)"
+      },
+      {
+        "amount": 300000000.0,
+        "currency": "EUR",
+        "context": "cash outflow lower bound"
+      },
+      {
+        "amount": 110000000.0,
+        "currency": "EUR",
+        "context": "prior year's loss"
       },
       {
         "amount": 32800000.0,
         "currency": "EUR",
-        "context": "sales for the year just gone (note: likely typo in source, should be billions)"
+        "context": "sales last year"
+      },
+      {
+        "amount": 11500000.0,
+        "currency": "tons",
+        "context": "previous production capacity"
+      },
+      {
+        "amount": 11500000.0,
+        "currency": "tons",
+        "context": "previous production capacity"
+      },
+      {
+        "amount": 11500000.0,
+        "currency": "tons",
+        "context": "steel production before reduction"
+      },
+      {
+        "amount": 11500000.0,
+        "currency": "tons",
+        "context": "current shipment capacity"
+      },
+      {
+        "amount": 9000000.0,
+        "currency": "tons",
+        "context": "target production capacity"
+      },
+      {
+        "amount": 9000000.0,
+        "currency": "tons",
+        "context": "target production capacity"
+      },
+      {
+        "amount": 9000000.0,
+        "currency": "tons",
+        "context": "steel production after reduction"
+      },
+      {
+        "amount": 9000000.0,
+        "currency": "tons",
+        "context": "target shipment capacity upper bound"
+      },
+      {
+        "amount": 8700000.0,
+        "currency": "tons",
+        "context": "target shipment capacity lower bound"
       },
       {
         "amount": 2800000.0,
@@ -387,209 +462,383 @@
         "context": "steel production cut"
       },
       {
+        "amount": 27000.0,
+        "currency": "people",
+        "context": "Current Thyssenkrupp Steel Europe employees"
+      },
+      {
         "amount": 11000.0,
-        "currency": "posts",
+        "currency": "jobs",
+        "context": "job cuts planned by 2030"
+      },
+      {
+        "amount": 11000.0,
+        "currency": "people",
         "context": "job cuts"
+      },
+      {
+        "amount": 11000.0,
+        "currency": "people",
+        "context": "Planned layoffs by 2030"
+      },
+      {
+        "amount": 11000.0,
+        "currency": "jobs",
+        "context": "job cuts planned by 2030"
+      },
+      {
+        "amount": 11000.0,
+        "currency": "people",
+        "context": "job reduction in steel plants"
+      },
+      {
+        "amount": 2022.0,
+        "currency": "%",
+        "context": "imports trippled since"
+      },
+      {
+        "amount": 1200.0,
+        "currency": "people",
+        "context": "Jobs at risk in Gelsenkirchen and France"
+      },
+      {
+        "amount": 1200.0,
+        "currency": "jobs",
+        "context": "potential job losses"
+      },
+      {
+        "amount": 900.0,
+        "currency": "EUR",
+        "context": "anticipated adjusted EBIT (high end)"
       },
       {
         "amount": 800.0,
         "currency": "EUR",
-        "context": "expected net loss (maximum)"
+        "context": "anticipated net loss (high end)"
       },
       {
-        "amount": 600.0,
+        "amount": 640.0,
         "currency": "EUR",
-        "context": "expected additional cash outflow (maximum)"
+        "context": "adjusted EBIT"
+      },
+      {
+        "amount": 532.0,
+        "currency": "EUR",
+        "context": "net income for fiscal year 2024-2025"
+      },
+      {
+        "amount": 500.0,
+        "currency": "EUR",
+        "context": "anticipated adjusted EBIT (low end)"
       },
       {
         "amount": 400.0,
         "currency": "EUR",
-        "context": "expected net loss (minimum)"
+        "context": "anticipated net loss (low end)"
       },
       {
-        "amount": 350.0,
+        "amount": 363.0,
         "currency": "EUR",
-        "context": "restructuring costs related to steel and automotive"
+        "context": "free cash flow before M&A"
       },
       {
-        "amount": 300.0,
+        "amount": 337.0,
         "currency": "EUR",
-        "context": "expected additional cash outflow (minimum)"
+        "context": "Steel Europe adjusted EBIT"
+      },
+      {
+        "amount": 240.0,
+        "currency": "%",
+        "context": "share price increase"
+      },
+      {
+        "amount": 187.0,
+        "currency": "EUR",
+        "context": "Automotive Technology adjusted EBIT"
+      },
+      {
+        "amount": 132.0,
+        "currency": "EUR",
+        "context": "Materials Services earnings"
+      },
+      {
+        "amount": 127.0,
+        "currency": "EUR",
+        "context": "Marine Systems adjusted EBIT"
+      },
+      {
+        "amount": 71.0,
+        "currency": "EUR",
+        "context": "Decarbon Technologies adjusted EBIT"
       },
       {
         "amount": 50.0,
         "currency": "%",
-        "context": "Daniel K\u0159et\u00ednsk\u00fd's planned stake increase"
+        "context": "Reduced capacity of Isbergues facility for four months"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "Expected increase in steel imports to the EU by 2025"
+      },
+      {
+        "amount": 50.0,
+        "currency": "%",
+        "context": "imports rising another 50 in 2025"
       },
       {
         "amount": 40.0,
         "currency": "%",
-        "context": "reduction in steel plant workforce"
+        "context": "percentage of workforce to be cut"
+      },
+      {
+        "amount": 40.0,
+        "currency": "%",
+        "context": "percentage of workforce to be cut"
+      },
+      {
+        "amount": 37.7,
+        "currency": "EUR",
+        "context": "order intake"
+      },
+      {
+        "amount": 32.8,
+        "currency": "EUR",
+        "context": "sales"
       },
       {
         "amount": 25.0,
         "currency": "%",
-        "context": "steel production drop"
+        "context": "steel production cut"
       },
       {
-        "amount": 20.0,
-        "currency": "%",
-        "context": "Daniel K\u0159et\u00ednsk\u00fd's initial stake in steel unit"
-      },
-      {
-        "amount": 8.68,
+        "amount": 18.2,
         "currency": "EUR",
-        "context": "Thyssenkrupp share price"
+        "context": "TKMS order backlog"
       },
       {
-        "amount": -6.0,
+        "amount": 15.0,
         "currency": "%",
-        "context": "year-on-year sales drop"
+        "context": "increase in order intake"
       },
       {
-        "amount": -8.85,
+        "amount": 13.0,
         "currency": "%",
         "context": "share price drop"
       },
       {
-        "amount": -110000000.0,
+        "amount": 11.81,
         "currency": "EUR",
-        "context": "prior year's loss"
+        "context": "high share price"
       },
       {
-        "amount": -300000000.0,
+        "amount": 11.68,
         "currency": "EUR",
-        "context": "expected negative free cash flow (lower bound) for FY ending Sep 2026"
+        "context": "closing share price"
       },
       {
-        "amount": -400000000.0,
-        "currency": "EUR",
-        "context": "expected loss (lower bound) for current fiscal year"
+        "amount": 11.5,
+        "currency": "million tons",
+        "context": "Current production capacity"
       },
       {
-        "amount": -600000000.0,
+        "amount": 11.43,
         "currency": "EUR",
-        "context": "expected negative free cash flow (upper bound) for FY ending Sep 2026"
+        "context": "Materials Services revenue"
       },
       {
-        "amount": -800000000.0,
+        "amount": 9.79,
         "currency": "EUR",
-        "context": "expected loss (upper bound) for current fiscal year"
+        "context": "Steel Europe sales"
+      },
+      {
+        "amount": 9.2,
+        "currency": "%",
+        "context": "share price decrease"
+      },
+      {
+        "amount": 9.0,
+        "currency": "million tons",
+        "context": "Upper bound of reduced production capacity"
+      },
+      {
+        "amount": 8.7,
+        "currency": "million tons",
+        "context": "Lower bound of reduced production capacity"
+      },
+      {
+        "amount": 8.68,
+        "currency": "EUR",
+        "context": "share price"
+      },
+      {
+        "amount": 7.27,
+        "currency": "EUR",
+        "context": "market capitalization"
+      },
+      {
+        "amount": 7.04,
+        "currency": "EUR",
+        "context": "Automotive Technology sales"
+      },
+      {
+        "amount": 6.0,
+        "currency": "%",
+        "context": "year-on-year sales drop"
+      },
+      {
+        "amount": 6.0,
+        "currency": "%",
+        "context": "sales fall last year"
+      },
+      {
+        "amount": 6.0,
+        "currency": "%",
+        "context": "decline in sales"
+      },
+      {
+        "amount": 3.48,
+        "currency": "EUR",
+        "context": "Decarbon Technologies sales"
+      },
+      {
+        "amount": 3.0,
+        "currency": "times",
+        "context": "Increase in steel imports to the EU since 2022"
+      },
+      {
+        "amount": 2.19,
+        "currency": "EUR",
+        "context": "Marine Systems sales"
+      },
+      {
+        "amount": 2.0,
+        "currency": "%",
+        "context": "expected sales fall upper bound"
+      },
+      {
+        "amount": 1.0,
+        "currency": "%",
+        "context": "expected sales fall lower bound"
+      },
+      {
+        "amount": 0.75,
+        "currency": "EUR",
+        "context": "earnings per share"
+      },
+      {
+        "amount": 0.15,
+        "currency": "EUR",
+        "context": "dividend per share"
       }
     ],
     "totals": {
-      "EUR": 73574802458.68,
+      "EUR": 80444805151.96996,
       "USD": 1864000000.0,
+      "tons": 90700000.0,
       "tonnes": 2800000.0,
-      "posts": 11000.0,
-      "%": 120.15
+      "people": 61200.0,
+      "jobs": 23200.0,
+      "%": 2575.2,
+      "million tons": 29.2,
+      "times": 3.0
     }
   },
   "quotes": [
     {
-      "id": 35,
-      "article_id": 23,
-      "speaker": "Thyssenkrupp Steel",
-      "speaker_role": "Company Statement",
-      "quote_text": "The European market for grain-oriented electrical steel is currently under severe pressure driven by sharply rising import volumes priced well below the average production costs in the EU, ... These developments have led to a dramatic shift in customer orders and, as a result, to substantial underutilization of the European production facilities. Consequently, immediate measures to ensure the economic stabilization of operations are essential.",
-      "stance": "oppose",
-      "article_title": "Thyssenkrupp halts electrical steel production amid market pressure",
-      "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251211-99-896973/"
-    },
-    {
-      "id": 36,
+      "id": 3009,
       "article_id": 23,
       "speaker": "Marie Jaroni",
       "speaker_role": "chief executive",
-      "quote_text": "Grain-oriented electrical steel is an indispensable element for Europe's energy infrastructure and the energy transition. We are firmly committed to maintaining production in Europe, and are currently working to ensure effective market protections.",
+      "quote_text": "Grain-oriented electrical steel is an indispensable element for Europe's energy infrastructure and the energy transition",
+      "stance": "neutral",
+      "article_title": "Thyssenkrupp halts electrical steel production amid market pressure",
+      "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251211-99-896973/"
+    },
+    {
+      "id": 3010,
+      "article_id": 23,
+      "speaker": "Marie Jaroni",
+      "speaker_role": "chief executive",
+      "quote_text": "We are firmly committed to maintaining production in Europe, and are currently working to ensure effective market protections.",
       "stance": "support",
       "article_title": "Thyssenkrupp halts electrical steel production amid market pressure",
       "source_url": "https://www.dpa-international.com/economics/urn:newsml:dpa.com:20090101:251211-99-896973/"
     },
     {
-      "id": 24,
+      "id": 2999,
       "article_id": 17,
-      "speaker": "Thyssenkrupp Steel Europe",
-      "speaker_role": "steel subsidiary",
-      "quote_text": "to a massive increase in low-priced imports, particularly from Asia",
-      "stance": "neutral",
-      "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
-      "source_url": "https://www.digitaljournal.com/business/thyssenkrupp-pauses-steel-production-at-two-sites-citing-asian-pressure/article"
-    },
-    {
-      "id": 25,
-      "article_id": 17,
-      "speaker": "Thyssenkrupp Steel Europe",
-      "speaker_role": "steel subsidiary",
-      "quote_text": "These developments have led to a dramatic change in order volumes and thus to a significant underutilisation of capacity at European production facilities.",
-      "stance": "neutral",
-      "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
-      "source_url": "https://www.digitaljournal.com/business/thyssenkrupp-pauses-steel-production-at-two-sites-citing-asian-pressure/article"
-    },
-    {
-      "id": 26,
-      "article_id": 17,
-      "speaker": "Thyssenkrupp Steel Europe",
-      "speaker_role": "steel subsidiary",
-      "quote_text": "The rapid implementation of efficient and appropriate trade protection measures at European level would help to increase capacity utilisation at both locations back to a sustainable level",
+      "speaker": "Donald Trump",
+      "speaker_role": "US President",
+      "quote_text": "Taking a leaf from US President Donald Trump's book to shield the bloc's struggling industry from cheap Chinese imports",
       "stance": "support",
       "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
       "source_url": "https://www.digitaljournal.com/business/thyssenkrupp-pauses-steel-production-at-two-sites-citing-asian-pressure/article"
     },
     {
-      "id": 29,
-      "article_id": 20,
+      "id": 3000,
+      "article_id": 17,
       "speaker": "Thyssenkrupp Steel Europe",
-      "speaker_role": "Steel subsidiary",
-      "quote_text": "to a massive increase in low-priced imports, particularly from Asia",
+      "speaker_role": null,
+      "quote_text": "\"These developments have led to a dramatic change in order volumes and thus to a significant underutilisation of capacity at European production facilities.\"",
       "stance": "neutral",
       "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
-      "source_url": "https://uk.finance.yahoo.com/news/thyssenkrupp-pauses-steel-production-two-121403968.html"
+      "source_url": "https://www.digitaljournal.com/business/thyssenkrupp-pauses-steel-production-at-two-sites-citing-asian-pressure/article"
     },
     {
-      "id": 30,
-      "article_id": 20,
+      "id": 3001,
+      "article_id": 17,
       "speaker": "Thyssenkrupp Steel Europe",
-      "speaker_role": "Steel subsidiary",
-      "quote_text": "These developments have led to a dramatic change in order volumes and thus to a significant underutilisation of capacity at European production facilities.",
-      "stance": "neutral",
+      "speaker_role": null,
+      "quote_text": "\"The rapid implementation of efficient and appropriate trade protection measures at European level would help to increase capacity utilisation at both locations back to a sustainable level.\"",
+      "stance": "support",
       "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
-      "source_url": "https://uk.finance.yahoo.com/news/thyssenkrupp-pauses-steel-production-two-121403968.html"
+      "source_url": "https://www.digitaljournal.com/business/thyssenkrupp-pauses-steel-production-at-two-sites-citing-asian-pressure/article"
     },
     {
-      "id": 31,
+      "id": 3004,
       "article_id": 20,
-      "speaker": "Thyssenkrupp Steel Europe",
-      "speaker_role": "Steel subsidiary",
-      "quote_text": "The rapid implementation of efficient and appropriate trade protection measures at European level would help to increase capacity utilisation at both locations back to a sustainable level",
+      "speaker": "Donald Trump",
+      "speaker_role": "US President",
+      "quote_text": "Taking a leaf from US President Donald Trump's book to shield the bloc's struggling industry from cheap Chinese imports",
       "stance": "support",
       "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
       "source_url": "https://uk.finance.yahoo.com/news/thyssenkrupp-pauses-steel-production-two-121403968.html"
     },
     {
-      "id": 32,
+      "id": 3005,
+      "article_id": 20,
+      "speaker": "Thyssenkrupp Steel Europe",
+      "speaker_role": null,
+      "quote_text": "\"These developments have led to a dramatic change in order volumes and thus to a significant underutilisation of capacity at European production facilities.\"",
+      "stance": "neutral",
+      "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "source_url": "https://uk.finance.yahoo.com/news/thyssenkrupp-pauses-steel-production-two-121403968.html"
+    },
+    {
+      "id": 3006,
+      "article_id": 20,
+      "speaker": "Thyssenkrupp Steel Europe",
+      "speaker_role": null,
+      "quote_text": "\"The rapid implementation of efficient and appropriate trade protection measures at European level would help to increase capacity utilisation at both locations back to a sustainable level.\"",
+      "stance": "support",
+      "article_title": "Thyssenkrupp pauses steel production at two sites citing Asian pressure",
+      "source_url": "https://uk.finance.yahoo.com/news/thyssenkrupp-pauses-steel-production-two-121403968.html"
+    },
+    {
+      "id": 3007,
       "article_id": 21,
       "speaker": "Thyssenkrupp",
-      "speaker_role": "Company",
+      "speaker_role": "Company Representative",
       "quote_text": "This deal lays the groundwork for the sale of the steel division",
       "stance": "neutral",
       "article_title": "German industrial giant expects huge loss",
       "source_url": "https://www.financial-world.org/news/news/financial/29857/german-industrial-giant-expects-huge-loss/"
     },
     {
-      "id": 33,
-      "article_id": 21,
-      "speaker": "Thyssenkrupp",
-      "speaker_role": "Company",
-      "quote_text": "The concern is going through a multi-year restructuring with the aim of separating five main business units and transforming into a holding company",
-      "stance": "neutral",
-      "article_title": "German industrial giant expects huge loss",
-      "source_url": "https://www.financial-world.org/news/news/financial/29857/german-industrial-giant-expects-huge-loss/"
-    },
-    {
-      "id": 27,
+      "id": 3002,
       "article_id": 18,
-      "speaker": "Dr. Axel Hamann",
+      "speaker": "Axel Hamann",
       "speaker_role": "chief financial officer of Thyssenkrupp",
       "quote_text": "Our forecast takes account of the persistently challenging market conditions and of the efficiency and restructuring measures in our segments.",
       "stance": "neutral",
@@ -597,9 +846,9 @@
       "source_url": "http://www.euronews.com/business/2025/12/09/shares-in-germanys-thyssenkrupp-slide-as-it-forecasts-heavy-losses"
     },
     {
-      "id": 28,
+      "id": 3003,
       "article_id": 18,
-      "speaker": "Dr. Axel Hamann",
+      "speaker": "Axel Hamann",
       "speaker_role": "chief financial officer of Thyssenkrupp",
       "quote_text": "The determined implementation of our efficiency and cost-cutting programs in all segments is crucial for our earnings development.",
       "stance": "support",
@@ -607,7 +856,7 @@
       "source_url": "http://www.euronews.com/business/2025/12/09/shares-in-germanys-thyssenkrupp-slide-as-it-forecasts-heavy-losses"
     },
     {
-      "id": 34,
+      "id": 3008,
       "article_id": 22,
       "speaker": "Axel Hamann",
       "speaker_role": "chief financial officer",
@@ -615,209 +864,251 @@
       "stance": "neutral",
       "article_title": "Thyssenkrupp points to big net loss this year, shares sink",
       "source_url": "https://www.lse.co.uk/news/thyssenkrupp-points-to-big-net-loss-this-year-shares-sink-4taiwd8op146qa7.html"
+    },
+    {
+      "id": 3011,
+      "article_id": 24,
+      "speaker": "Miguel L\u00f3pez",
+      "speaker_role": "Chief executive",
+      "quote_text": "We succeeded in increasing adjusted EBIT by \u20ac72 million year-on-year to \u20ac640 million, despite a decline in sales of 6%",
+      "stance": "neutral",
+      "article_title": "Thyssenkrupp posts \u20ac532 mln profit as marine spin-off and steel revamp drive gains By Investing.com",
+      "source_url": "https://www.investing.com/news/earnings/thyssenkrupp-posts-532-mln-profit-as-marine-spinoff-and-steel-revamp-drive-gains-4397576"
+    },
+    {
+      "id": 3012,
+      "article_id": 24,
+      "speaker": "Miguel L\u00f3pez",
+      "speaker_role": "Chief executive",
+      "quote_text": "At \u20ac363 million, free cash flow before M&A was also higher than in the prior year.",
+      "stance": "neutral",
+      "article_title": "Thyssenkrupp posts \u20ac532 mln profit as marine spin-off and steel revamp drive gains By Investing.com",
+      "source_url": "https://www.investing.com/news/earnings/thyssenkrupp-posts-532-mln-profit-as-marine-spinoff-and-steel-revamp-drive-gains-4397576"
+    },
+    {
+      "id": 3013,
+      "article_id": 24,
+      "speaker": "Miguel L\u00f3pez",
+      "speaker_role": "Chief executive",
+      "quote_text": "TKMS is \"ideally positioned as a maritime powerhouse.\"",
+      "stance": "support",
+      "article_title": "Thyssenkrupp posts \u20ac532 mln profit as marine spin-off and steel revamp drive gains By Investing.com",
+      "source_url": "https://www.investing.com/news/earnings/thyssenkrupp-posts-532-mln-profit-as-marine-spinoff-and-steel-revamp-drive-gains-4397576"
     }
   ],
   "stakeholders": [
     {
+      "stakeholder": "Thyssenkrupp",
+      "position": "neutral",
+      "reasoning": "Implementing restructuring measures to improve financial performance.",
+      "mention_count": 3
+    },
+    {
       "stakeholder": "European Union",
       "position": "support",
-      "reasoning": "Considering tightening steel tariffs and cutting tariff-free imports to 'shield the bloc's struggling industry from cheap Chinese imports'.",
+      "reasoning": "Considering tariffs to protect the steel industry from cheap imports.",
       "mention_count": 2
     },
     {
-      "stakeholder": "Thyssenkrupp Steel Europe",
+      "stakeholder": "Jindal Steel",
       "position": "support",
-      "reasoning": "Advocates for 'efficient and appropriate trade protection measures at European level' to counter 'massive increase in low-priced imports' from Asia and increase capacity utilisation.",
+      "reasoning": "Mulling a takeover of Thyssenkrupp's steel unit.",
       "mention_count": 2
     },
     {
-      "stakeholder": "Asian Steel Companies (e.g., Baowu, POSCO, Nippon Steel)",
+      "stakeholder": "Thyssenkrupp",
       "position": "support",
-      "reasoning": "Benefit from current market conditions, particularly the ability to supply cheap steel imports to the European market at prices significantly below production costs.",
+      "reasoning": "Advocates for trade protection measures to address low-priced imports and underutilization of capacity.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "Asia",
+      "position": "oppose",
+      "reasoning": "Source of low-priced steel imports impacting European producers.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Baowu",
+      "position": "support",
+      "reasoning": "Benefiting from increased market share in the EU",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "China",
+      "position": "oppose",
+      "reasoning": "Likely to be negatively impacted by increased tariffs.",
       "mention_count": 1
     },
     {
       "stakeholder": "Daniel K\u0159et\u00ednsk\u00fd",
       "position": "oppose",
-      "reasoning": "Stepped back from a potential takeover deal and abandoned plans to increase his stake in the steel unit.",
+      "reasoning": "Abandoned plans to raise stake in Thyssenkrupp's steel unit.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Expert analysts",
-      "position": "support",
-      "reasoning": "Emphasize that investments in modernization and sustainability are key to the company's future.",
+      "stakeholder": "Employees",
+      "position": "oppose",
+      "reasoning": "Job losses due to restructuring and potential sale of steel division.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Investors",
-      "position": "cautious",
-      "reasoning": "The situation in the steel sector in Europe further complicates the outlook, leading to caution.",
+      "stakeholder": "European Union",
+      "position": "neutral",
+      "reasoning": "Observing the impact of imports on European manufacturers",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "IG Metall",
+      "position": "neutral",
+      "reasoning": "Reached a restructuring agreement with Thyssenkrupp, indicating a negotiated position.",
       "mention_count": 1
     },
     {
       "stakeholder": "Jindal Steel International",
       "position": "neutral",
-      "reasoning": "Submitted a non-binding proposal to acquire Thyssenkrupp Steel Europe, currently under board review.",
+      "reasoning": "Currently reviewing a non-binding proposal for Thyssenkrupp Steel Europe.",
       "mention_count": 1
     },
     {
-      "stakeholder": "ThyssenKrupp",
+      "stakeholder": "Marie Jaroni",
       "position": "support",
-      "reasoning": "Implementing restructuring and efficiency measures to sustainably improve earnings despite challenging market conditions.",
+      "reasoning": "Committed to maintaining production in Europe and seeking market protections.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Nippon Steel",
+      "position": "support",
+      "reasoning": "Benefiting from increased market share in the EU",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "POSCO",
+      "position": "support",
+      "reasoning": "Benefiting from increased market share in the EU",
       "mention_count": 1
     },
     {
       "stakeholder": "Thyssenkrupp",
-      "position": "support",
-      "reasoning": "Implementing restructuring to adapt to modern standards, sustainability, and improve profitability by transforming into a holding company.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Thyssenkrupp (management)",
-      "position": "support",
-      "reasoning": "Determined implementation of efficiency and cost-cutting programs is crucial for earnings development and long-term profitability.",
-      "mention_count": 1
-    },
-    {
-      "stakeholder": "Thyssenkrupp Steel",
       "position": "oppose",
-      "reasoning": "Opposes the current market situation due to low-priced imports and underutilization, advocating for market protections to ensure economic stabilization and maintain European production.",
+      "reasoning": "Facing economic pressure from low-priced imports and underutilization of facilities.",
       "mention_count": 1
     },
     {
       "stakeholder": "Thyssenkrupp Steel Europe",
       "position": "oppose",
-      "reasoning": "Opposes current market conditions (cheap imports, high energy costs); forced to halt production, lay off staff, and restructure to cope with financial pressure.",
+      "reasoning": "Facing pressure from low-priced imports and rising costs",
       "mention_count": 1
     },
     {
-      "stakeholder": "Unions",
-      "position": "neutral",
-      "reasoning": "Agreed to job cuts, indicating a negotiated compromise rather than outright support or opposition.",
+      "stakeholder": "Thyssenkrupp Steel Europe",
+      "position": "support",
+      "reasoning": "Advocates for trade protection measures to increase capacity utilization.",
       "mention_count": 1
     }
   ],
   "source_bias": {
     "all_sources": [
       {
-        "source": "Digital Journal",
-        "avg_sentiment": -0.9,
-        "article_count": 1
-      },
-      {
-        "source": "Financial World",
-        "avg_sentiment": -0.9,
-        "article_count": 1
-      },
-      {
         "source": "Haberler.com",
-        "avg_sentiment": -0.8,
+        "avg_sentiment": -0.75,
         "article_count": 1
       },
       {
-        "source": "dpa International",
-        "avg_sentiment": -0.8,
+        "source": "Digital Journal",
+        "avg_sentiment": -0.65,
         "article_count": 1
       },
       {
         "source": "Yahoo! Finance",
-        "avg_sentiment": -0.8,
+        "avg_sentiment": -0.65,
         "article_count": 1
       },
       {
-        "source": "London South East",
-        "avg_sentiment": -0.8,
+        "source": "Financial World",
+        "avg_sentiment": -0.65,
         "article_count": 1
       },
       {
         "source": "Euronews English",
-        "avg_sentiment": -0.7,
+        "avg_sentiment": -0.65,
+        "article_count": 1
+      },
+      {
+        "source": "London South East",
+        "avg_sentiment": -0.65,
+        "article_count": 1
+      },
+      {
+        "source": "dpa International",
+        "avg_sentiment": -0.6,
         "article_count": 1
       },
       {
         "source": "Investing.com",
-        "avg_sentiment": 0.0,
+        "avg_sentiment": 0.4,
         "article_count": 1
       }
     ],
     "zones": {
       "negative": [
         {
-          "source": "Digital Journal",
-          "avg_sentiment": -0.9,
-          "article_count": 1
-        },
-        {
-          "source": "Financial World",
-          "avg_sentiment": -0.9,
-          "article_count": 1
-        },
-        {
           "source": "Haberler.com",
-          "avg_sentiment": -0.8,
+          "avg_sentiment": -0.75,
           "article_count": 1
         },
         {
-          "source": "dpa International",
-          "avg_sentiment": -0.8,
+          "source": "Digital Journal",
+          "avg_sentiment": -0.65,
           "article_count": 1
         },
         {
           "source": "Yahoo! Finance",
-          "avg_sentiment": -0.8,
+          "avg_sentiment": -0.65,
           "article_count": 1
         },
         {
-          "source": "London South East",
-          "avg_sentiment": -0.8,
+          "source": "Financial World",
+          "avg_sentiment": -0.65,
           "article_count": 1
         },
         {
           "source": "Euronews English",
-          "avg_sentiment": -0.7,
+          "avg_sentiment": -0.65,
+          "article_count": 1
+        },
+        {
+          "source": "London South East",
+          "avg_sentiment": -0.65,
+          "article_count": 1
+        },
+        {
+          "source": "dpa International",
+          "avg_sentiment": -0.6,
           "article_count": 1
         }
       ],
-      "neutral": [
+      "neutral": [],
+      "positive": [
         {
           "source": "Investing.com",
-          "avg_sentiment": 0.0,
+          "avg_sentiment": 0.4,
           "article_count": 1
         }
-      ],
-      "positive": []
+      ]
     },
     "summary": {
       "negative_count": 7,
-      "neutral_count": 1,
-      "positive_count": 0,
+      "neutral_count": 0,
+      "positive_count": 1,
       "total_count": 8
     }
   },
   "quote_network": [
     {
-      "from": "Thyssenkrupp Steel",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "The European market for grain-oriented electrical steel is currently under severe pressure driven by"
-    },
-    {
-      "from": "Marie Jaroni",
-      "to": "EU",
+      "from": "Miguel L\u00f3pez",
+      "to": "TKMS",
       "stance": "support",
-      "quote_snippet": "Grain-oriented electrical steel is an indispensable element for Europe's energy infrastructure and t"
-    },
-    {
-      "from": "Thyssenkrupp Steel Europe",
-      "to": "EU",
-      "stance": "neutral",
-      "quote_snippet": "These developments have led to a dramatic change in order volumes and thus to a significant underuti"
-    },
-    {
-      "from": "Thyssenkrupp Steel Europe",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "The rapid implementation of efficient and appropriate trade protection measures at European level wo"
+      "quote_snippet": "TKMS is \"ideally positioned as a maritime powerhouse.\""
     }
   ],
   "summary_stats": {
@@ -827,38 +1118,38 @@
       "start": "2025-12-09T06:55:58Z",
       "end": "2025-12-12T08:32:23Z"
     },
-    "avg_sentiment": -0.7125,
-    "total_quotes": 13,
-    "total_financial_mentions": 33
+    "avg_sentiment": -0.5249999999999999,
+    "total_quotes": 15,
+    "total_financial_mentions": 88
   },
-  "executive_brief": "Thyssenkrupp has paused steel production at two sites due to competitive pressure from cheaper Asian steel imports, as reported in 8 articles from 8 sources between December 9th and 12th, 2025. The overwhelmingly negative sentiment (-0.71) surrounding this event indicates significant concern about the future of European steel production and Thyssenkrupp\u2019s financial stability. This situation highlights broader trade tensions and the challenges faced by European manufacturers in competing with lower-cost producers in Asia. \n\nThe European Union and Thyssenkrupp Steel Europe are advocating for trade protection measures, citing the need to shield the industry from \u201ccheap Chinese imports\u201d and restore capacity utilization. Asian steel companies like Baowu, POSCO, and Nippon Steel benefit from the current market dynamics. Thyssenkrupp faces substantial financial headwinds, with expected losses of up to EUR 800,000,000 next year, largely attributed to restructuring costs within its steel division, despite a recent EUR 532,000,000 profit. Daniel K\u0159et\u00ednsk\u00fd abandoned a potential takeover, signaling investor caution.",
+  "executive_brief": "Thyssenkrupp has paused steel production at two sites due to competitive pressure from Asian imports, specifically citing impacts from low-priced steel. This event is covered by 8 articles from 8 sources, with overwhelmingly negative sentiment (-0.52 average score). The situation highlights broader concerns about the competitiveness of the European steel industry and potential job losses. \n\nThe European Union is considering trade protection measures, mirroring approaches advocated by Donald Trump, to shield the industry. Thyssenkrupp itself supports these measures, while Asian producers like Baowu are benefiting from increased market share. Financially, Thyssenkrupp is facing significant losses, with an expected loss of EUR 800,000,000 for the next year, and Jindal Steel is considering a takeover of Thyssenkrupp\u2019s steel unit, while Daniel K\u0159et\u00ednsk\u00fd abandoned plans to raise stake in the steel unit.",
   "key_arguments": {
     "for": [
-      "Thyssenkrupp Steel Europe argues that 'efficient and appropriate trade protection measures at European level would help to increase capacity utilisation at both locations back to a sustainable level'."
+      "Trade protection measures are needed to address low-priced imports and underutilization of capacity, as stated by Thyssenkrupp Steel Europe: \"The rapid implementation of efficient and appropriate trade protection measures at European level would help to increase capacity utilisation at both locations back to a sustainable level.\""
     ],
     "against": [
-      "The European market for grain-oriented electrical steel is currently under severe pressure driven by sharply rising import volumes priced well below the average production costs in the EU."
+      "Asia is providing low-priced steel imports impacting European producers."
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "Asian Steel Companies (e.g., Baowu, POSCO, Nippon Steel) - Benefit from the ability to supply cheap steel imports to the European market.",
-      "European Union - Potential to implement tariffs and protect domestic industry."
+      "Baowu - Benefiting from increased market share in the EU",
+      "Jindal Steel - Mulling a takeover of Thyssenkrupp's steel unit"
     ],
     "losers": [
-      "Thyssenkrupp - Faces significant financial losses (up to EUR 800,000,000) and is undergoing restructuring.",
-      "Thyssenkrupp Steel Europe - Experiencing reduced capacity utilization due to import pressure."
+      "Thyssenkrupp - Facing significant financial losses (EUR 800,000,000 expected loss)",
+      "Employees - Facing potential job losses due to restructuring and potential sale of the steel division",
+      "Daniel K\u0159et\u00ednsk\u00fd - Abandoned plans to raise stake in Thyssenkrupp's steel unit"
     ],
     "risks": [
-      "Continued pressure from low-priced Asian steel imports.",
-      "Significant financial losses for Thyssenkrupp.",
-      "Unemployment due to production halts.",
-      "Investor caution and potential difficulty securing investment."
+      "Continued pressure from Asian imports",
+      "Significant financial losses for Thyssenkrupp (up to EUR 800,000,000)",
+      "Potential job losses",
+      "Underutilization of production capacity"
     ],
     "opportunities": [
-      "Implementation of trade protection measures by the European Union.",
-      "Restructuring and modernization of Thyssenkrupp to improve efficiency and sustainability.",
-      "Potential for Jindal Steel International to acquire Thyssenkrupp Steel Europe (currently under review)."
+      "Implementation of trade protection measures by the European Union",
+      "Potential takeover by Jindal Steel"
     ]
   }
 }

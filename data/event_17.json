@@ -6,10 +6,10 @@
     "category": "ev",
     "summary": "F\u00fcr Finanzminister Klingbeil ist klar: Wer weiterhin auf Verbrenner setzt, bekommt bald Probleme. Beim Umstieg auf E-Autos fordert er Tempo. Verkehrsminister Schnieder verteidigt die neuen Pl\u00e4ne.\n\nNach dem EU-Vorschlag zur Lockerung der CO2-Grenzwerte f\u00fcr Autos hat Bundesfinanzminister Lars Klingbei...",
     "first_seen": "2025-12-23T18:56:47.220009",
-    "last_updated": "2025-12-29T10:24:58.679022",
+    "last_updated": "2025-12-29T17:30:58.099755",
     "created_at": "2025-12-23 17:56:47"
   },
-  "generated_at": "2025-12-29T10:30:10.279704",
+  "generated_at": "2025-12-29T17:33:56.999900",
   "articles": [
     {
       "id": 266,
@@ -92,7 +92,7 @@
       "language": "deu",
       "image_url": "https://media0.faz.net/image/w1200h627/ddb53a97bd01/w3000h1567x0y105o/202512/43601.0.1590571565/bundesfinanzminister-lars.webp",
       "fetched_at": "2025-12-23 17:56:47",
-      "sentiment_score": -0.15,
+      "sentiment_score": -0.2,
       "sentiment_label": "slightly_negative",
       "article_type": "news_report"
     },
@@ -126,8 +126,8 @@
       "language": "deu",
       "image_url": "https://img.zeit.de/politik/deutschland/2025-12/bundestag-bild/wide__1300x731",
       "fetched_at": "2025-12-23 17:56:47",
-      "sentiment_score": -0.15,
-      "sentiment_label": "slightly_negative",
+      "sentiment_score": 0.1,
+      "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
     {
@@ -143,7 +143,7 @@
       "language": "deu",
       "image_url": "https://www.ln-online.de/resizer/v2/YUKMRNMF5ZFMXLDPANFQWFD55Y.jpeg?auth=5e0e2c0ccf4ce0c8a6512a8957f5f1b1c8e843697285918358b8b4c3bf412cac&quality=70&focal=2558%2C1079&width=1200&height=630",
       "fetched_at": "2025-12-23 17:56:47",
-      "sentiment_score": 0.2,
+      "sentiment_score": 0.1,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -160,7 +160,7 @@
       "language": "deu",
       "image_url": "https://news25.de/mmnews-dts-bilder/dts_image_19784_ahqqfdopmb_1073_210_130.jpg",
       "fetched_at": "2025-12-23 17:56:47",
-      "sentiment_score": 0.2,
+      "sentiment_score": 0.3,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -211,7 +211,7 @@
       "language": "deu",
       "image_url": "https://media.news.de/images/858066270/images/ed/f0/642f430d3892297a76e83faba194/nopic/no_pic/1200/675/1/1/-/70/1024/576/-/-/lars-klingbeil-spd-bundesminister-finanzen-vizekanzler-spd-b_858066270_1200x675_2d33224452a8c1b0610817b0af6b6f55.jpg",
       "fetched_at": "2025-12-23 17:56:47",
-      "sentiment_score": 0.2,
+      "sentiment_score": 0.1,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -279,7 +279,7 @@
       "language": "deu",
       "image_url": "https://www.infranken.de/storage/image/9/4/5/7/4467549_auspuff_ogimage_1Fhwe__n1FrGw.jpg",
       "fetched_at": "2025-12-23 17:56:47",
-      "sentiment_score": 0.2,
+      "sentiment_score": 0.1,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     },
@@ -364,7 +364,7 @@
       "language": "deu",
       "image_url": "https://www.fehmarn24.de/assets/images/40/893/40893857-lars-klingbeil-16ef.jpg",
       "fetched_at": "2025-12-23 17:56:47",
-      "sentiment_score": 0.2,
+      "sentiment_score": 0.1,
       "sentiment_label": "slightly_positive",
       "article_type": "news_report"
     }
@@ -386,7 +386,7 @@
   "sentiment_trend": [
     {
       "date": "2025-12-20",
-      "avg_sentiment": 0.13157894736842102,
+      "avg_sentiment": 0.12631578947368421,
       "count": 19
     },
     {
@@ -403,7 +403,7 @@
   "entities": {
     "countries": [
       {
-        "name": "Deutschland",
+        "name": "Germany",
         "count": 21
       },
       {
@@ -411,34 +411,48 @@
         "count": 19
       },
       {
-        "name": "USA",
+        "name": "United States",
         "count": 14
       },
       {
-        "name": "Peking",
-        "count": 11
+        "name": "Hungary",
+        "count": 1
+      }
+    ],
+    "politicians": [
+      {
+        "name": "Lars Klingbeil",
+        "count": 18
       },
       {
-        "name": "Shanghai",
-        "count": 11
+        "name": "Patrick Schnieder",
+        "count": 13
       },
       {
-        "name": "Br\u00fcssel",
+        "name": "Christian Klingbeil",
+        "count": 2
+      },
+      {
+        "name": "Klingbeil",
         "count": 1
       },
       {
-        "name": "Ungarn",
+        "name": "Schnieder",
+        "count": 1
+      },
+      {
+        "name": "Volker Schnieder",
         "count": 1
       }
     ],
     "organizations": [
       {
-        "name": "EU-Kommission",
-        "count": 18
+        "name": "European Union",
+        "count": 15
       },
       {
-        "name": "Europaparlaments",
-        "count": 12
+        "name": "EU-Kommission",
+        "count": 11
       },
       {
         "name": "Funke-Mediengruppe",
@@ -449,47 +463,35 @@
         "count": 7
       },
       {
-        "name": "EU",
-        "count": 3
+        "name": "Neue Osnabr\u00fccker Zeitung",
+        "count": 6
       },
       {
-        "name": "EU-Staaten",
+        "name": "EU Commission",
         "count": 2
-      },
-      {
-        "name": "Neue Osnabr\u00fccker Zeitung (NOZ)",
-        "count": 2
-      },
-      {
-        "name": "CDU",
-        "count": 1
-      },
-      {
-        "name": "Deutsche Presse-Agentur (dpa)",
-        "count": 1
       },
       {
         "name": "Europaparlament",
-        "count": 1
+        "count": 2
       },
       {
-        "name": "Neue Osnabr\u00fccker Zeitung",
-        "count": 1
+        "name": "Europaparlaments",
+        "count": 2
       },
       {
-        "name": "Neuen Osnabr\u00fccker Zeitung (NOZ)",
-        "count": 1
+        "name": "European Commission",
+        "count": 2
       },
       {
-        "name": "SPD",
-        "count": 1
-      },
-      {
-        "name": "dts Nachrichtenagentur",
-        "count": 1
+        "name": "Funke Mediengruppe",
+        "count": 2
       },
       {
         "name": "news aktuell",
+        "count": 2
+      },
+      {
+        "name": "Deutsche Presse-Agentur",
         "count": 1
       },
       {
@@ -499,28 +501,16 @@
     ],
     "companies": [
       {
-        "name": "Autokonzerne",
-        "count": 11
-      },
-      {
-        "name": "Autobauer",
-        "count": 9
-      },
-      {
-        "name": "Mercedes",
-        "count": 4
-      },
-      {
-        "name": "Automobilindustrie",
-        "count": 3
-      },
-      {
         "name": "BMW",
-        "count": 3
+        "count": 10
       },
       {
-        "name": "VW",
-        "count": 3
+        "name": "Mercedes-Benz",
+        "count": 10
+      },
+      {
+        "name": "Volkswagen",
+        "count": 10
       },
       {
         "name": "BYD",
@@ -535,65 +525,7 @@
         "count": 1
       },
       {
-        "name": "deutsche Autobauer",
-        "count": 1
-      }
-    ],
-    "politicians": [
-      {
-        "name": "Lars Klingbeil (Bundesfinanzminister)",
-        "count": 7
-      },
-      {
-        "name": "Lars Klingbeil (SPD)",
-        "count": 6
-      },
-      {
-        "name": "Patrick Schnieder (Bundesverkehrsminister)",
-        "count": 5
-      },
-      {
-        "name": "Patrick Schnieder (CDU)",
-        "count": 5
-      },
-      {
-        "name": "Klingbeil (Finanzminister)",
-        "count": 2
-      },
-      {
-        "name": "Lars Klingbeil (Bundesfinanzminister, SPD, Vizekanzler)",
-        "count": 2
-      },
-      {
-        "name": "Lars Klingbeil (Bundesfinanzminister, SPD-Chef, Vizekanzler)",
-        "count": 2
-      },
-      {
-        "name": "Patrick Schnieder (Bundesverkehrsminister, CDU)",
-        "count": 2
-      },
-      {
-        "name": "Klingbeil (Bundesfinanzminister)",
-        "count": 1
-      },
-      {
-        "name": "Lars Klingbeil",
-        "count": 1
-      },
-      {
-        "name": "Lars Klingbeil (Finanzminister und Vizekanzler)",
-        "count": 1
-      },
-      {
-        "name": "Schnieder (Bundesverkehrsminister)",
-        "count": 1
-      },
-      {
-        "name": "Schnieder (Bundesverkehrsminister, CDU)",
-        "count": 1
-      },
-      {
-        "name": "Verkehrsminister Schnieder",
+        "name": "Mercedes",
         "count": 1
       }
     ]
@@ -601,68 +533,266 @@
   "financial": {
     "amounts": [
       {
+        "amount": 1000000000.0,
+        "currency": "EUR",
+        "context": "Deutsche Bahn bus order value"
+      },
+      {
         "amount": 3300.0,
-        "currency": "EUR",
-        "context": "Bus-Bestellung"
+        "currency": "units",
+        "context": "Deutsche Bahn bus order"
       },
       {
-        "amount": 200.0,
-        "currency": "EUR",
-        "context": "Elektrobusse von BYD"
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Target year for CO2 emission reduction"
       },
       {
-        "amount": 1.0,
-        "currency": "EUR",
-        "context": "Auftragswert (mehr als eine Milliarde Euro)"
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Target year for CO2 emission reduction"
+      },
+      {
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Target year for CO2 emission reduction"
+      },
+      {
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Target year for CO2 emission reduction"
+      },
+      {
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Target year for CO2 emission reduction"
+      },
+      {
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Target year for CO2 emission reduction"
+      },
+      {
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Deadline for CO2 emission standards"
+      },
+      {
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "deadline for CO2 emission standards"
+      },
+      {
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Target year for CO2 emission reduction"
+      },
+      {
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Target year for CO2 emission standards"
+      },
+      {
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Target year for CO2 emission reduction"
+      },
+      {
+        "amount": 2035.0,
+        "currency": "year",
+        "context": "Target year for CO2 emission reduction"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reduction"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reduction"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reduction"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reduction"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reduction"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reduction"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reductions"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "basis year for CO2 reduction target"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reduction"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reductions"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reduction"
+      },
+      {
+        "amount": 2021.0,
+        "currency": "year",
+        "context": "Basis year for CO2 emission reduction"
+      },
+      {
+        "amount": 100.0,
+        "currency": "%",
+        "context": "Original CO2 reduction target"
+      },
+      {
+        "amount": 100.0,
+        "currency": "%",
+        "context": "Original CO2 reduction target"
+      },
+      {
+        "amount": 100.0,
+        "currency": "%",
+        "context": "Original CO2 reduction target"
+      },
+      {
+        "amount": 100.0,
+        "currency": "%",
+        "context": "Original CO2 reduction target"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "Maximum CO2 reduction required"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "Maximum CO2 reduction required"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "Maximum CO2 reduction required"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "Maximum CO2 reduction required"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "Maximum CO2 reduction required"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "Maximum CO2 reduction required"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "Maximum CO2 reduction required"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "maximum CO2 reduction required"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "New CO2 reduction target"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "Maximum allowed CO2 reduction compared to 2021"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "Maximum CO2 reduction required"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "Maximum CO2 reduction required"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "CO2 emission reduction target by 2035"
+      },
+      {
+        "amount": 90.0,
+        "currency": "%",
+        "context": "CO2 emission reduction target by 2030 compared to 2021"
       }
     ],
     "totals": {
-      "EUR": 3501.0
+      "EUR": 1000000000.0,
+      "units": 3300.0,
+      "year": 48672.0,
+      "%": 1660.0
     }
   },
   "quotes": [
     {
-      "id": 651,
+      "id": 3576,
       "article_id": 266,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
       "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
-      "stance": "support",
+      "stance": "oppose",
       "article_title": "Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
       "source_url": "https://ecomento.de/2025/12/22/klingbeil-warnt-autobauer-vor-festhalten-am-verbrenner/"
     },
     {
-      "id": 652,
+      "id": 3577,
       "article_id": 266,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "SPD-Politiker",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Die Zukunft der Mobilit\u00e4t ist elektrisch.",
       "stance": "support",
       "article_title": "Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
       "source_url": "https://ecomento.de/2025/12/22/klingbeil-warnt-autobauer-vor-festhalten-am-verbrenner/"
     },
     {
-      "id": 653,
+      "id": 3578,
       "article_id": 266,
       "speaker": "Patrick Schnieder",
       "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustrie in Deutschland",
-      "stance": "neutral",
-      "article_title": "Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
-      "source_url": "https://ecomento.de/2025/12/22/klingbeil-warnt-autobauer-vor-festhalten-am-verbrenner/"
-    },
-    {
-      "id": 654,
-      "article_id": 266,
-      "speaker": "Patrick Schnieder",
-      "speaker_role": "Bundesverkehrsminister",
-      "quote_text": "Das wird nicht passieren. Der Druck und der Wille zur Elektromobilit\u00e4t sind da.",
       "stance": "support",
       "article_title": "Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
       "source_url": "https://ecomento.de/2025/12/22/klingbeil-warnt-autobauer-vor-festhalten-am-verbrenner/"
     },
     {
-      "id": 689,
+      "id": 3612,
       "article_id": 278,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -672,7 +802,7 @@
       "source_url": "https://www.it-boltwise.de/klingbeil-fordert-deutschen-autobauern-zur-elektromobilitaet-auf.html"
     },
     {
-      "id": 690,
+      "id": 3613,
       "article_id": 278,
       "speaker": "Patrick Schnieder",
       "speaker_role": "Bundesverkehrsminister",
@@ -682,49 +812,49 @@
       "source_url": "https://www.it-boltwise.de/klingbeil-fordert-deutschen-autobauern-zur-elektromobilitaet-auf.html"
     },
     {
-      "id": 677,
+      "id": 3600,
       "article_id": 274,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Finanzminister und Vizekanzler",
+      "speaker_role": "Bundesfinanzminister und Vizekanzler",
       "quote_text": "Dass die Deutsche Bahn entschieden hat, neben einer Gro\u00dfbestellung f\u00fcr MAN auch weitere Elektrobusse aus China zu kaufen, \u00e4rgert mich",
       "stance": "oppose",
       "article_title": "\"W\u00fcnsche mir gesunden Standort-Patriotismus\": Klingbeil r\u00fcgt Deutsche Bahn f\u00fcr Kauf von chinesischen E-Bussen scharf",
       "source_url": "https://www.tagesspiegel.de/politik/wunsche-mir-gesunden-standort-patriotismus-klingbeil-rugt-deutsche-bahn-fur-kauf-von-chinesischen-e-bussen-scharf-15069491.html"
     },
     {
-      "id": 678,
+      "id": 3601,
       "article_id": 274,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "SPD-Politiker",
+      "speaker_role": "Bundesfinanzminister und Vizekanzler",
       "quote_text": "Ich w\u00fcnsche mir einen gesunden Standort-Patriotismus.",
       "stance": "support",
       "article_title": "\"W\u00fcnsche mir gesunden Standort-Patriotismus\": Klingbeil r\u00fcgt Deutsche Bahn f\u00fcr Kauf von chinesischen E-Bussen scharf",
       "source_url": "https://www.tagesspiegel.de/politik/wunsche-mir-gesunden-standort-patriotismus-klingbeil-rugt-deutsche-bahn-fur-kauf-von-chinesischen-e-bussen-scharf-15069491.html"
     },
     {
-      "id": 679,
+      "id": 3602,
       "article_id": 274,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Finanzminister und Vizekanzler",
+      "speaker_role": "Bundesfinanzminister und Vizekanzler",
       "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer.",
       "stance": "oppose",
       "article_title": "\"W\u00fcnsche mir gesunden Standort-Patriotismus\": Klingbeil r\u00fcgt Deutsche Bahn f\u00fcr Kauf von chinesischen E-Bussen scharf",
       "source_url": "https://www.tagesspiegel.de/politik/wunsche-mir-gesunden-standort-patriotismus-klingbeil-rugt-deutsche-bahn-fur-kauf-von-chinesischen-e-bussen-scharf-15069491.html"
     },
     {
-      "id": 680,
+      "id": 3603,
       "article_id": 274,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Finanzminister und Vizekanzler",
-      "quote_text": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, indem zum Beispiel Hybride noch l\u00e4nger zugelassen werden",
-      "stance": "neutral",
+      "speaker_role": "Bundesfinanzminister und Vizekanzler",
+      "quote_text": "Die Zukunft der Mobilit\u00e4t ist elektrisch.",
+      "stance": "support",
       "article_title": "\"W\u00fcnsche mir gesunden Standort-Patriotismus\": Klingbeil r\u00fcgt Deutsche Bahn f\u00fcr Kauf von chinesischen E-Bussen scharf",
       "source_url": "https://www.tagesspiegel.de/politik/wunsche-mir-gesunden-standort-patriotismus-klingbeil-rugt-deutsche-bahn-fur-kauf-von-chinesischen-e-bussen-scharf-15069491.html"
     },
     {
-      "id": 647,
+      "id": 3569,
       "article_id": 265,
-      "speaker": "Klingbeil",
+      "speaker": "Christian Klingbeil",
       "speaker_role": "Bundesfinanzminister",
       "quote_text": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
       "stance": "support",
@@ -732,9 +862,9 @@
       "source_url": "https://web.de/magazine/politik/inland/klingbeil-draengt-tempo-autobauer-nachholbedarf-41710856"
     },
     {
-      "id": 648,
+      "id": 3570,
       "article_id": 265,
-      "speaker": "Klingbeil",
+      "speaker": "Christian Klingbeil",
       "speaker_role": "Bundesfinanzminister",
       "quote_text": "Die Zukunft der Mobilit\u00e4t ist elektrisch.",
       "stance": "support",
@@ -742,9 +872,9 @@
       "source_url": "https://web.de/magazine/politik/inland/klingbeil-draengt-tempo-autobauer-nachholbedarf-41710856"
     },
     {
-      "id": 649,
+      "id": 3571,
       "article_id": 265,
-      "speaker": "Schnieder",
+      "speaker": "Volker Schnieder",
       "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustrie in Deutschland",
       "stance": "support",
@@ -752,9 +882,9 @@
       "source_url": "https://web.de/magazine/politik/inland/klingbeil-draengt-tempo-autobauer-nachholbedarf-41710856"
     },
     {
-      "id": 650,
+      "id": 3572,
       "article_id": 265,
-      "speaker": "Schnieder",
+      "speaker": "Volker Schnieder",
       "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Das wird nicht passieren. Der Druck und der Wille zur Elektromobilit\u00e4t sind da.",
       "stance": "support",
@@ -762,17 +892,17 @@
       "source_url": "https://web.de/magazine/politik/inland/klingbeil-draengt-tempo-autobauer-nachholbedarf-41710856"
     },
     {
-      "id": 636,
+      "id": 3560,
       "article_id": 262,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
-      "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
+      "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer.",
       "stance": "oppose",
       "article_title": "Klingbeil warnt Hersteller vor einem Festhalten am Verbrenner",
       "source_url": "https://www.faz.net/aktuell/wirtschaft/klingbeil-warnt-hersteller-vor-einem-festhalten-am-verbrenner-accg-200376048.html"
     },
     {
-      "id": 637,
+      "id": 3561,
       "article_id": 262,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -782,7 +912,7 @@
       "source_url": "https://www.faz.net/aktuell/wirtschaft/klingbeil-warnt-hersteller-vor-einem-festhalten-am-verbrenner-accg-200376048.html"
     },
     {
-      "id": 638,
+      "id": 3562,
       "article_id": 262,
       "speaker": "Patrick Schnieder",
       "speaker_role": "Bundesverkehrsminister",
@@ -792,7 +922,7 @@
       "source_url": "https://www.faz.net/aktuell/wirtschaft/klingbeil-warnt-hersteller-vor-einem-festhalten-am-verbrenner-accg-200376048.html"
     },
     {
-      "id": 655,
+      "id": 3573,
       "article_id": 267,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -802,7 +932,7 @@
       "source_url": "https://www.n-tv.de/wirtschaft/Klingbeil-warnt-Autobauer-Zukunft-ist-elektrisch-id30165879.html"
     },
     {
-      "id": 656,
+      "id": 3574,
       "article_id": 267,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -812,7 +942,7 @@
       "source_url": "https://www.n-tv.de/wirtschaft/Klingbeil-warnt-Autobauer-Zukunft-ist-elektrisch-id30165879.html"
     },
     {
-      "id": 657,
+      "id": 3575,
       "article_id": 267,
       "speaker": "Patrick Schnieder",
       "speaker_role": "Bundesverkehrsminister",
@@ -822,187 +952,207 @@
       "source_url": "https://www.n-tv.de/wirtschaft/Klingbeil-warnt-Autobauer-Zukunft-ist-elektrisch-id30165879.html"
     },
     {
-      "id": 668,
+      "id": 3588,
       "article_id": 271,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
       "stance": "oppose",
       "article_title": "Automobilindustrie: Lars Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
       "source_url": "https://www.zeit.de/politik/deutschland/2025-12/lars-klingbeil-warnt-deutsche-automobilkonzerne-elektromobilitaet"
     },
     {
-      "id": 669,
+      "id": 3589,
       "article_id": 271,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Die Zukunft der Mobilit\u00e4t ist elektrisch.",
       "stance": "support",
       "article_title": "Automobilindustrie: Lars Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
       "source_url": "https://www.zeit.de/politik/deutschland/2025-12/lars-klingbeil-warnt-deutsche-automobilkonzerne-elektromobilitaet"
     },
     {
-      "id": 670,
+      "id": 3590,
       "article_id": 271,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, indem zum Beispiel Hybride noch l\u00e4nger zugelassen werden",
       "stance": "support",
       "article_title": "Automobilindustrie: Lars Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
       "source_url": "https://www.zeit.de/politik/deutschland/2025-12/lars-klingbeil-warnt-deutsche-automobilkonzerne-elektromobilitaet"
     },
     {
-      "id": 671,
+      "id": 3591,
       "article_id": 271,
       "speaker": "Patrick Schnieder",
-      "speaker_role": "Bundesverkehrsminister, CDU",
+      "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Dass deutsche Hersteller bei E-Autos weiter zur\u00fcckfallen, wird nicht passieren",
       "stance": "support",
       "article_title": "Automobilindustrie: Lars Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
       "source_url": "https://www.zeit.de/politik/deutschland/2025-12/lars-klingbeil-warnt-deutsche-automobilkonzerne-elektromobilitaet"
     },
     {
-      "id": 643,
+      "id": 3566,
       "article_id": 264,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister (SPD)",
-      "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen.",
+      "speaker_role": "Bundesfinanzminister",
+      "quote_text": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
       "stance": "oppose",
       "article_title": "Klingbeil-Ansage an Autobauer: \"Zukunft ist elektrisch",
       "source_url": "https://www.ln-online.de/wirtschaft/verbrenner-aus-klingbeil-ansage-an-autobauer-7AIWS55RGJCQ7HOPCG6KKYHJ5Y.html"
     },
     {
-      "id": 644,
+      "id": 3567,
       "article_id": 264,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister (SPD)",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Die Zukunft der Mobilit\u00e4t ist elektrisch.",
       "stance": "support",
       "article_title": "Klingbeil-Ansage an Autobauer: \"Zukunft ist elektrisch",
       "source_url": "https://www.ln-online.de/wirtschaft/verbrenner-aus-klingbeil-ansage-an-autobauer-7AIWS55RGJCQ7HOPCG6KKYHJ5Y.html"
     },
     {
-      "id": 645,
+      "id": 3568,
       "article_id": 264,
       "speaker": "Patrick Schnieder",
-      "speaker_role": "Bundesverkehrsminister (CDU)",
+      "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustrie in Deutschland",
-      "stance": "neutral",
-      "article_title": "Klingbeil-Ansage an Autobauer: \"Zukunft ist elektrisch",
-      "source_url": "https://www.ln-online.de/wirtschaft/verbrenner-aus-klingbeil-ansage-an-autobauer-7AIWS55RGJCQ7HOPCG6KKYHJ5Y.html"
-    },
-    {
-      "id": 646,
-      "article_id": 264,
-      "speaker": "Patrick Schnieder",
-      "speaker_role": "Bundesverkehrsminister (CDU)",
-      "quote_text": "Das wird nicht passieren. Der Druck und der Wille zur Elektromobilit\u00e4t sind da.",
       "stance": "support",
       "article_title": "Klingbeil-Ansage an Autobauer: \"Zukunft ist elektrisch",
       "source_url": "https://www.ln-online.de/wirtschaft/verbrenner-aus-klingbeil-ansage-an-autobauer-7AIWS55RGJCQ7HOPCG6KKYHJ5Y.html"
     },
     {
-      "id": 672,
+      "id": 3594,
       "article_id": 272,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
       "stance": "oppose",
       "article_title": "Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
       "source_url": "https://mmnews.de/aktuelle-presse/243765-klingbeil-warnt-autobauer-vor-festhalten-am-verbrenner"
     },
     {
-      "id": 673,
+      "id": 3595,
       "article_id": 272,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, indem zum Beispiel Hybride noch l\u00e4nger zugelassen werden",
       "stance": "support",
       "article_title": "Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
       "source_url": "https://mmnews.de/aktuelle-presse/243765-klingbeil-warnt-autobauer-vor-festhalten-am-verbrenner"
     },
     {
-      "id": 674,
+      "id": 3596,
       "article_id": 272,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
+      "quote_text": "Wir haben auch durchgesetzt, dass klimafreundlich produzierter heimischer Stahl in Autos verbaut und auf die Klimabilanz angerechnet werden soll",
+      "stance": "support",
+      "article_title": "Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
+      "source_url": "https://mmnews.de/aktuelle-presse/243765-klingbeil-warnt-autobauer-vor-festhalten-am-verbrenner"
+    },
+    {
+      "id": 3597,
+      "article_id": 272,
+      "speaker": "Lars Klingbeil",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Eines ist klar: Die Zukunft der Mobilit\u00e4t ist elektrisch.",
       "stance": "support",
       "article_title": "Klingbeil warnt Autobauer vor Festhalten am Verbrenner",
       "source_url": "https://mmnews.de/aktuelle-presse/243765-klingbeil-warnt-autobauer-vor-festhalten-am-verbrenner"
     },
     {
-      "id": 683,
+      "id": 3604,
       "article_id": 276,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD-Chef, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
       "stance": "oppose",
       "article_title": "Klingbeil warnt VW und Co. nach EU-Vorschlag zu CO2-Grenzwerten vor Festhalten am Verbrenner",
       "source_url": "https://www.firmenpresse.de/pressinfo2220496-klingbeil-warnt-vw-und-co-nach-eu-vorschlag-zu-co2-grenzwerten-vor-festhalten-am-verbrenner.html"
     },
     {
-      "id": 684,
+      "id": 3605,
       "article_id": 276,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD-Chef, Vizekanzler",
-      "quote_text": "Eines ist klar: Die Zukunft der Mobilit\u00e4t ist elektrisch.",
+      "speaker_role": "Bundesfinanzminister",
+      "quote_text": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, indem zum Beispiel Hybride noch l\u00e4nger zugelassen werden",
       "stance": "support",
       "article_title": "Klingbeil warnt VW und Co. nach EU-Vorschlag zu CO2-Grenzwerten vor Festhalten am Verbrenner",
       "source_url": "https://www.firmenpresse.de/pressinfo2220496-klingbeil-warnt-vw-und-co-nach-eu-vorschlag-zu-co2-grenzwerten-vor-festhalten-am-verbrenner.html"
     },
     {
-      "id": 685,
+      "id": 3606,
       "article_id": 276,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD-Chef, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Wenn wir pragmatisch handeln, dann sind der Schutz von Arbeitspl\u00e4tzen und der Schutz des Klimas keine Gegens\u00e4tze.",
       "stance": "support",
       "article_title": "Klingbeil warnt VW und Co. nach EU-Vorschlag zu CO2-Grenzwerten vor Festhalten am Verbrenner",
       "source_url": "https://www.firmenpresse.de/pressinfo2220496-klingbeil-warnt-vw-und-co-nach-eu-vorschlag-zu-co2-grenzwerten-vor-festhalten-am-verbrenner.html"
     },
     {
-      "id": 686,
+      "id": 3607,
+      "article_id": 276,
+      "speaker": "Lars Klingbeil",
+      "speaker_role": "Bundesfinanzminister",
+      "quote_text": "Eines ist klar: Die Zukunft der Mobilit\u00e4t ist elektrisch.",
+      "stance": "support",
+      "article_title": "Klingbeil warnt VW und Co. nach EU-Vorschlag zu CO2-Grenzwerten vor Festhalten am Verbrenner",
+      "source_url": "https://www.firmenpresse.de/pressinfo2220496-klingbeil-warnt-vw-und-co-nach-eu-vorschlag-zu-co2-grenzwerten-vor-festhalten-am-verbrenner.html"
+    },
+    {
+      "id": 3608,
       "article_id": 277,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD-Chef, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
       "stance": "oppose",
       "article_title": "Klingbeil warnt VW und Co. nach EU-Vorschlag zu CO2-Grenzwerten vor Festhalten am Verbrenner",
       "source_url": "https://www.politikexpress.de/klingbeil-warnt-vw-und-co-nach-eu-vorschlag-zu-co2-grenzwerten-vor-festhalten-am-verbrenner-2220496.html"
     },
     {
-      "id": 687,
+      "id": 3609,
       "article_id": 277,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD-Chef, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, indem zum Beispiel Hybride noch l\u00e4nger zugelassen werden",
       "stance": "support",
       "article_title": "Klingbeil warnt VW und Co. nach EU-Vorschlag zu CO2-Grenzwerten vor Festhalten am Verbrenner",
       "source_url": "https://www.politikexpress.de/klingbeil-warnt-vw-und-co-nach-eu-vorschlag-zu-co2-grenzwerten-vor-festhalten-am-verbrenner-2220496.html"
     },
     {
-      "id": 688,
+      "id": 3610,
       "article_id": 277,
       "speaker": "Lars Klingbeil",
-      "speaker_role": "Bundesfinanzminister, SPD-Chef, Vizekanzler",
+      "speaker_role": "Bundesfinanzminister",
+      "quote_text": "Wenn wir pragmatisch handeln, dann sind der Schutz von Arbeitspl\u00e4tzen und der Schutz des Klimas keine Gegens\u00e4tze.",
+      "stance": "support",
+      "article_title": "Klingbeil warnt VW und Co. nach EU-Vorschlag zu CO2-Grenzwerten vor Festhalten am Verbrenner",
+      "source_url": "https://www.politikexpress.de/klingbeil-warnt-vw-und-co-nach-eu-vorschlag-zu-co2-grenzwerten-vor-festhalten-am-verbrenner-2220496.html"
+    },
+    {
+      "id": 3611,
+      "article_id": 277,
+      "speaker": "Lars Klingbeil",
+      "speaker_role": "Bundesfinanzminister",
       "quote_text": "Eines ist klar: Die Zukunft der Mobilit\u00e4t ist elektrisch.",
       "stance": "support",
       "article_title": "Klingbeil warnt VW und Co. nach EU-Vorschlag zu CO2-Grenzwerten vor Festhalten am Verbrenner",
       "source_url": "https://www.politikexpress.de/klingbeil-warnt-vw-und-co-nach-eu-vorschlag-zu-co2-grenzwerten-vor-festhalten-am-verbrenner-2220496.html"
     },
     {
-      "id": 632,
+      "id": 3557,
       "article_id": 261,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
       "quote_text": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
-      "stance": "support",
+      "stance": "oppose",
       "article_title": "Lars Klingbeil: Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
       "source_url": "https://www.news.de/wirtschaft/859208119/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-lars-klingbeil-news-der-dpa-aktuell-zu-automobilindustrie-industrie-eu-und-klima/1/"
     },
     {
-      "id": 633,
+      "id": 3558,
       "article_id": 261,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1012,29 +1162,19 @@
       "source_url": "https://www.news.de/wirtschaft/859208119/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-lars-klingbeil-news-der-dpa-aktuell-zu-automobilindustrie-industrie-eu-und-klima/1/"
     },
     {
-      "id": 634,
+      "id": 3559,
       "article_id": 261,
       "speaker": "Patrick Schnieder",
       "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustrie in Deutschland",
-      "stance": "neutral",
-      "article_title": "Lars Klingbeil: Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
-      "source_url": "https://www.news.de/wirtschaft/859208119/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-lars-klingbeil-news-der-dpa-aktuell-zu-automobilindustrie-industrie-eu-und-klima/1/"
-    },
-    {
-      "id": 635,
-      "article_id": 261,
-      "speaker": "Patrick Schnieder",
-      "speaker_role": "Bundesverkehrsminister",
-      "quote_text": "Das wird nicht passieren. Der Druck und der Wille zur Elektromobilit\u00e4t sind da.",
       "stance": "support",
       "article_title": "Lars Klingbeil: Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
       "source_url": "https://www.news.de/wirtschaft/859208119/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-lars-klingbeil-news-der-dpa-aktuell-zu-automobilindustrie-industrie-eu-und-klima/1/"
     },
     {
-      "id": 665,
+      "id": 3586,
       "article_id": 270,
-      "speaker": "Klingbeil",
+      "speaker": "Christian Klingbeil",
       "speaker_role": "Finanzminister",
       "quote_text": "Unsere Autobauer haben Nachholbedarf.",
       "stance": "neutral",
@@ -1042,37 +1182,27 @@
       "source_url": "https://www.freiepresse.de/nachrichten/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-artikel14074189"
     },
     {
-      "id": 666,
+      "id": 3587,
       "article_id": 270,
-      "speaker": "Schnieder",
-      "speaker_role": "Bundesverkehrsminister (CDU)",
+      "speaker": "Patrick Schnieder",
+      "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustrie in Deutschland",
       "stance": "support",
       "article_title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
       "source_url": "https://www.freiepresse.de/nachrichten/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-artikel14074189"
     },
     {
-      "id": 667,
-      "article_id": 270,
-      "speaker": "Schnieder",
-      "speaker_role": "Bundesverkehrsminister (CDU)",
-      "quote_text": "Das wird nicht passieren. Der Druck und der Wille zur Elektromobilit\u00e4t sind da.",
-      "stance": "support",
-      "article_title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
-      "source_url": "https://www.freiepresse.de/nachrichten/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-artikel14074189"
-    },
-    {
-      "id": 661,
+      "id": 3579,
       "article_id": 269,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
-      "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
+      "quote_text": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
       "stance": "oppose",
       "article_title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\" - WELT",
       "source_url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article694603c3ba368aa01269e962/klingbeil-warnt-autobauer-zukunft-ist-elektrisch.html"
     },
     {
-      "id": 662,
+      "id": 3580,
       "article_id": 269,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1082,7 +1212,7 @@
       "source_url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article694603c3ba368aa01269e962/klingbeil-warnt-autobauer-zukunft-ist-elektrisch.html"
     },
     {
-      "id": 663,
+      "id": 3581,
       "article_id": 269,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1092,7 +1222,7 @@
       "source_url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article694603c3ba368aa01269e962/klingbeil-warnt-autobauer-zukunft-ist-elektrisch.html"
     },
     {
-      "id": 664,
+      "id": 3582,
       "article_id": 269,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1102,7 +1232,7 @@
       "source_url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article694603c3ba368aa01269e962/klingbeil-warnt-autobauer-zukunft-ist-elektrisch.html"
     },
     {
-      "id": 675,
+      "id": 3592,
       "article_id": 273,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1112,7 +1242,7 @@
       "source_url": "https://www.t-online.de/finanzen/aktuelles/id_101052764/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-.html"
     },
     {
-      "id": 676,
+      "id": 3593,
       "article_id": 273,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1122,17 +1252,17 @@
       "source_url": "https://www.t-online.de/finanzen/aktuelles/id_101052764/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-.html"
     },
     {
-      "id": 620,
+      "id": 3547,
       "article_id": 258,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
       "quote_text": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
-      "stance": "support",
+      "stance": "oppose",
       "article_title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
       "source_url": "https://www.infranken.de/deutschland/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-art-6301305"
     },
     {
-      "id": 621,
+      "id": 3548,
       "article_id": 258,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1142,17 +1272,17 @@
       "source_url": "https://www.infranken.de/deutschland/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-art-6301305"
     },
     {
-      "id": 622,
+      "id": 3549,
       "article_id": 258,
       "speaker": "Patrick Schnieder",
       "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustrie in Deutschland",
-      "stance": "neutral",
+      "stance": "support",
       "article_title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
       "source_url": "https://www.infranken.de/deutschland/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-art-6301305"
     },
     {
-      "id": 623,
+      "id": 3550,
       "article_id": 258,
       "speaker": "Patrick Schnieder",
       "speaker_role": "Bundesverkehrsminister",
@@ -1162,7 +1292,7 @@
       "source_url": "https://www.infranken.de/deutschland/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-art-6301305"
     },
     {
-      "id": 658,
+      "id": 3583,
       "article_id": 268,
       "speaker": "Klingbeil",
       "speaker_role": "Finanzminister",
@@ -1172,37 +1302,37 @@
       "source_url": "https://www.schwarzwaelder-bote.de/inhalt.abkehr-vom-verbrenner-aus-klingbeil-warnt-autobauer-zukunft-ist-elektrisch.e2fc997f-537d-4f64-a0dc-d7e29fc4257e.html"
     },
     {
-      "id": 659,
+      "id": 3584,
       "article_id": 268,
       "speaker": "Patrick Schnieder",
-      "speaker_role": "Bundesverkehrsminister, CDU",
+      "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustrie in Deutschland",
       "stance": "support",
       "article_title": "Abkehr vom Verbrenner-Aus: Klingbeil warnt Autobauer - Zukunft ist elektrisch",
       "source_url": "https://www.schwarzwaelder-bote.de/inhalt.abkehr-vom-verbrenner-aus-klingbeil-warnt-autobauer-zukunft-ist-elektrisch.e2fc997f-537d-4f64-a0dc-d7e29fc4257e.html"
     },
     {
-      "id": 660,
+      "id": 3585,
       "article_id": 268,
       "speaker": "Patrick Schnieder",
-      "speaker_role": "Bundesverkehrsminister, CDU",
+      "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Das wird nicht passieren. Der Druck und der Wille zur Elektromobilit\u00e4t sind da.",
       "stance": "support",
       "article_title": "Abkehr vom Verbrenner-Aus: Klingbeil warnt Autobauer - Zukunft ist elektrisch",
       "source_url": "https://www.schwarzwaelder-bote.de/inhalt.abkehr-vom-verbrenner-aus-klingbeil-warnt-autobauer-zukunft-ist-elektrisch.e2fc997f-537d-4f64-a0dc-d7e29fc4257e.html"
     },
     {
-      "id": 628,
+      "id": 3554,
       "article_id": 260,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
-      "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen.",
-      "stance": "oppose",
+      "quote_text": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
+      "stance": "support",
       "article_title": "Abkehr vom Verbrenner-Aus: Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
       "source_url": "https://www.zeit.de/news/2025-12/20/klingbeil-warnt-autobauer-zukunft-ist-elektrisch"
     },
     {
-      "id": 629,
+      "id": 3555,
       "article_id": 260,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1212,7 +1342,7 @@
       "source_url": "https://www.zeit.de/news/2025-12/20/klingbeil-warnt-autobauer-zukunft-ist-elektrisch"
     },
     {
-      "id": 630,
+      "id": 3556,
       "article_id": 260,
       "speaker": "Patrick Schnieder",
       "speaker_role": "Bundesverkehrsminister",
@@ -1222,27 +1352,17 @@
       "source_url": "https://www.zeit.de/news/2025-12/20/klingbeil-warnt-autobauer-zukunft-ist-elektrisch"
     },
     {
-      "id": 631,
-      "article_id": 260,
-      "speaker": "Patrick Schnieder",
-      "speaker_role": "Bundesverkehrsminister",
-      "quote_text": "Das wird nicht passieren. Der Druck und der Wille zur Elektromobilit\u00e4t sind da.",
-      "stance": "support",
-      "article_title": "Abkehr vom Verbrenner-Aus: Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
-      "source_url": "https://www.zeit.de/news/2025-12/20/klingbeil-warnt-autobauer-zukunft-ist-elektrisch"
-    },
-    {
-      "id": 639,
+      "id": 3563,
       "article_id": 263,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
-      "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
+      "quote_text": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
       "stance": "support",
       "article_title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch",
       "source_url": "https://www.schwaebische.de/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-4210988"
     },
     {
-      "id": 640,
+      "id": 3564,
       "article_id": 263,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1252,7 +1372,7 @@
       "source_url": "https://www.schwaebische.de/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-4210988"
     },
     {
-      "id": 641,
+      "id": 3565,
       "article_id": 263,
       "speaker": "Patrick Schnieder",
       "speaker_role": "Bundesverkehrsminister",
@@ -1262,17 +1382,7 @@
       "source_url": "https://www.schwaebische.de/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-4210988"
     },
     {
-      "id": 642,
-      "article_id": 263,
-      "speaker": "Patrick Schnieder",
-      "speaker_role": "Bundesverkehrsminister",
-      "quote_text": "Das wird nicht passieren. Der Druck und der Wille zur Elektromobilit\u00e4t sind da.",
-      "stance": "support",
-      "article_title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch",
-      "source_url": "https://www.schwaebische.de/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-4210988"
-    },
-    {
-      "id": 681,
+      "id": 3598,
       "article_id": 275,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1282,7 +1392,7 @@
       "source_url": "https://www.stern.de/wirtschaft/news/abkehr-vom-verbrenner-aus--klingbeil-warnt-autobauer---zukunft-ist-elektrisch--36980438.html"
     },
     {
-      "id": 682,
+      "id": 3599,
       "article_id": 275,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1292,17 +1402,17 @@
       "source_url": "https://www.stern.de/wirtschaft/news/abkehr-vom-verbrenner-aus--klingbeil-warnt-autobauer---zukunft-ist-elektrisch--36980438.html"
     },
     {
-      "id": 624,
+      "id": 3551,
       "article_id": 259,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
-      "quote_text": "Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen.",
+      "quote_text": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch lange auf Diesel und Benziner setzen, dann sind ihre Schwierigkeiten in ein paar Jahren umso gr\u00f6\u00dfer. Der Weg zur Elektromobilit\u00e4t muss mit hohem Tempo weitergehen",
       "stance": "oppose",
       "article_title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
       "source_url": "https://www.fehmarn24.de/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-zr-94092919.html"
     },
     {
-      "id": 625,
+      "id": 3552,
       "article_id": 259,
       "speaker": "Lars Klingbeil",
       "speaker_role": "Bundesfinanzminister",
@@ -1312,21 +1422,11 @@
       "source_url": "https://www.fehmarn24.de/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-zr-94092919.html"
     },
     {
-      "id": 626,
+      "id": 3553,
       "article_id": 259,
       "speaker": "Patrick Schnieder",
       "speaker_role": "Bundesverkehrsminister",
       "quote_text": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustrie in Deutschland",
-      "stance": "support",
-      "article_title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
-      "source_url": "https://www.fehmarn24.de/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-zr-94092919.html"
-    },
-    {
-      "id": 627,
-      "article_id": 259,
-      "speaker": "Patrick Schnieder",
-      "speaker_role": "Bundesverkehrsminister",
-      "quote_text": "Das wird nicht passieren. Der Druck und der Wille zur Elektromobilit\u00e4t sind da.",
       "stance": "support",
       "article_title": "Klingbeil warnt Autobauer: \"Zukunft ist elektrisch\"",
       "source_url": "https://www.fehmarn24.de/wirtschaft/klingbeil-warnt-autobauer-zukunft-ist-elektrisch-zr-94092919.html"
@@ -1334,87 +1434,81 @@
   ],
   "stakeholders": [
     {
+      "stakeholder": "Patrick Schnieder",
+      "position": "support",
+      "reasoning": "Wants to protect the German automotive industry and jobs.",
+      "mention_count": 13
+    },
+    {
       "stakeholder": "Lars Klingbeil",
       "position": "support",
-      "reasoning": "Believes in the future of electric mobility and warns against continued reliance on combustion engines.",
-      "mention_count": 14
-    },
-    {
-      "stakeholder": "EU-Kommission",
-      "position": "neutral",
-      "reasoning": "Adjusted plans for a strict combustion engine ban to reach a compromise.",
+      "reasoning": "Believes in the necessity of a rapid transition to electric mobility and sees international competition as a driver.",
       "mention_count": 10
-    },
-    {
-      "stakeholder": "Patrick Schnieder",
-      "position": "support",
-      "reasoning": "Defends the loosening of regulations to protect the automotive industry and jobs in Germany.",
-      "mention_count": 7
-    },
-    {
-      "stakeholder": "Patrick Schnieder",
-      "position": "neutral",
-      "reasoning": "Defends the loosening of regulations to protect the automotive industry and jobs.",
-      "mention_count": 5
     },
     {
       "stakeholder": "Lars Klingbeil",
       "position": "oppose",
-      "reasoning": "Believes continued reliance on combustion engines will lead to future difficulties.",
-      "mention_count": 4
+      "reasoning": "Believes continued reliance on combustion engines will lead to future problems for automakers.",
+      "mention_count": 8
     },
     {
       "stakeholder": "German Automakers",
       "position": "neutral",
-      "reasoning": "The article suggests they have 'Nachholbedarf' (catch-up needs) but doesn't explicitly state their position.",
+      "reasoning": "The article implies they are potentially hesitant about a rapid transition but do not explicitly state their position.",
+      "mention_count": 6
+    },
+    {
+      "stakeholder": "European Union",
+      "position": "neutral",
+      "reasoning": "Seeking a compromise between climate goals and economic considerations.",
+      "mention_count": 4
+    },
+    {
+      "stakeholder": "BMW",
+      "position": "neutral",
+      "reasoning": "Position not explicitly stated, but warned against continued investment in combustion engines.",
       "mention_count": 3
     },
     {
-      "stakeholder": "VW, Mercedes, BMW",
+      "stakeholder": "EU-Kommission",
       "position": "neutral",
-      "reasoning": "Their position is not explicitly stated, but Klingbeil warns them against continuing to rely on combustion engines.",
+      "reasoning": "Responding to pressure, primarily from Germany, to adjust the policy.",
       "mention_count": 3
     },
     {
-      "stakeholder": "Autokonzerne",
+      "stakeholder": "Mercedes-Benz",
       "position": "neutral",
-      "reasoning": "Their position is not explicitly stated, but the article warns them against continuing with combustion engines.",
+      "reasoning": "Position not explicitly stated, but warned against continued investment in combustion engines.",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Volkswagen",
+      "position": "neutral",
+      "reasoning": "Position not explicitly stated, but warned against continued investment in combustion engines.",
+      "mention_count": 3
+    },
+    {
+      "stakeholder": "Christian Klingbeil",
+      "position": "support",
+      "reasoning": "Believes a rapid transition to electric mobility is crucial and warns against continued reliance on combustion engines.",
+      "mention_count": 2
+    },
+    {
+      "stakeholder": "European Commission",
+      "position": "support",
+      "reasoning": "Proposed loosening CO2 limits and allowing hybrid vehicles for longer.",
       "mention_count": 2
     },
     {
       "stakeholder": "German Autobauer",
       "position": "neutral",
-      "reasoning": "Warned about potential problems if they continue to rely on combustion engines.",
+      "reasoning": "The article suggests they may be hesitant to fully commit to electric vehicles, but their explicit position is not stated.",
       "mention_count": 2
     },
     {
-      "stakeholder": "German Autobauer",
-      "position": "potentially oppose",
-      "reasoning": "Risk of facing difficulties if they continue to focus on combustion engines.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "German car manufacturers",
-      "position": "potentially oppose",
-      "reasoning": "Risk of facing difficulties if they continue to focus on combustion engines.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Klingbeil",
+      "stakeholder": "BYD",
       "position": "support",
-      "reasoning": "Promotes electric mobility and warns against continued reliance on combustion engines.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Schnieder",
-      "position": "support",
-      "reasoning": "Wants to protect the automotive industry and jobs.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Autokonzerne",
-      "position": "unknown",
-      "reasoning": "Their position is implied to be potentially opposing stricter regulations, but not explicitly stated.",
+      "reasoning": "Secured a large contract with Deutsche Bahn.",
       "mention_count": 1
     },
     {
@@ -1424,15 +1518,27 @@
       "mention_count": 1
     },
     {
-      "stakeholder": "Klingbeil",
+      "stakeholder": "German car manufacturers",
       "position": "neutral",
-      "reasoning": "Acknowledges German automakers need to catch up to international competition, but sees the compromise as workable.",
+      "reasoning": "Their position is not explicitly stated, but the article implies they may be considering continuing to invest in combustion engines.",
       "mention_count": 1
     },
     {
-      "stakeholder": "Verkehrsminister Schnieder",
+      "stakeholder": "Klingbeil",
+      "position": "neutral",
+      "reasoning": "Acknowledges international competition and the need for German automakers to catch up.",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Schnieder",
       "position": "support",
-      "reasoning": "Defends the new plans (presumably related to electric mobility).",
+      "reasoning": "Defends the new plans (presumably related to the CO2 emission limits).",
+      "mention_count": 1
+    },
+    {
+      "stakeholder": "Volker Schnieder",
+      "position": "support",
+      "reasoning": "Wants to protect the German automotive industry and jobs.",
       "mention_count": 1
     }
   ],
@@ -1445,13 +1551,8 @@
       },
       {
         "source": "Frankfurter Allgemeine",
-        "avg_sentiment": -0.15,
+        "avg_sentiment": -0.2,
         "article_count": 1
-      },
-      {
-        "source": "ZEIT ONLINE",
-        "avg_sentiment": -0.025,
-        "article_count": 2
       },
       {
         "source": "ecomento.de",
@@ -1474,23 +1575,33 @@
         "article_count": 1
       },
       {
+        "source": "ZEIT ONLINE",
+        "avg_sentiment": 0.1,
+        "article_count": 2
+      },
+      {
+        "source": "LN - L\u00fcbecker Nachrichten",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "News.de",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
+        "source": "inFranken.de",
+        "avg_sentiment": 0.1,
+        "article_count": 1
+      },
+      {
         "source": "Schwaebische",
         "avg_sentiment": 0.1,
         "article_count": 1
       },
       {
-        "source": "LN - L\u00fcbecker Nachrichten",
-        "avg_sentiment": 0.2,
-        "article_count": 1
-      },
-      {
-        "source": "MMnews",
-        "avg_sentiment": 0.2,
-        "article_count": 1
-      },
-      {
-        "source": "News.de",
-        "avg_sentiment": 0.2,
+        "source": "fehmarn24.de",
+        "avg_sentiment": 0.1,
         "article_count": 1
       },
       {
@@ -1500,11 +1611,6 @@
       },
       {
         "source": "T-online.de",
-        "avg_sentiment": 0.2,
-        "article_count": 1
-      },
-      {
-        "source": "inFranken.de",
         "avg_sentiment": 0.2,
         "article_count": 1
       },
@@ -1519,8 +1625,8 @@
         "article_count": 1
       },
       {
-        "source": "fehmarn24.de",
-        "avg_sentiment": 0.2,
+        "source": "MMnews",
+        "avg_sentiment": 0.3,
         "article_count": 1
       },
       {
@@ -1548,16 +1654,11 @@
         },
         {
           "source": "Frankfurter Allgemeine",
-          "avg_sentiment": -0.15,
+          "avg_sentiment": -0.2,
           "article_count": 1
         }
       ],
       "neutral": [
-        {
-          "source": "ZEIT ONLINE",
-          "avg_sentiment": -0.025,
-          "article_count": 2
-        },
         {
           "source": "ecomento.de",
           "avg_sentiment": 0.1,
@@ -1579,12 +1680,42 @@
           "article_count": 1
         },
         {
+          "source": "ZEIT ONLINE",
+          "avg_sentiment": 0.1,
+          "article_count": 2
+        },
+        {
+          "source": "LN - L\u00fcbecker Nachrichten",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "News.de",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "inFranken.de",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
           "source": "Schwaebische",
+          "avg_sentiment": 0.1,
+          "article_count": 1
+        },
+        {
+          "source": "fehmarn24.de",
           "avg_sentiment": 0.1,
           "article_count": 1
         }
       ],
       "positive": [
+        {
+          "source": "MMnews",
+          "avg_sentiment": 0.3,
+          "article_count": 1
+        },
         {
           "source": "firmenpresse.de",
           "avg_sentiment": 0.3,
@@ -1601,32 +1732,12 @@
           "article_count": 1
         },
         {
-          "source": "LN - L\u00fcbecker Nachrichten",
-          "avg_sentiment": 0.2,
-          "article_count": 1
-        },
-        {
-          "source": "MMnews",
-          "avg_sentiment": 0.2,
-          "article_count": 1
-        },
-        {
-          "source": "News.de",
-          "avg_sentiment": 0.2,
-          "article_count": 1
-        },
-        {
           "source": "Freie Presse",
           "avg_sentiment": 0.2,
           "article_count": 1
         },
         {
           "source": "T-online.de",
-          "avg_sentiment": 0.2,
-          "article_count": 1
-        },
-        {
-          "source": "inFranken.de",
           "avg_sentiment": 0.2,
           "article_count": 1
         },
@@ -1639,40 +1750,17 @@
           "source": "stern.de",
           "avg_sentiment": 0.2,
           "article_count": 1
-        },
-        {
-          "source": "fehmarn24.de",
-          "avg_sentiment": 0.2,
-          "article_count": 1
         }
       ]
     },
     "summary": {
       "negative_count": 2,
-      "neutral_count": 6,
-      "positive_count": 12,
+      "neutral_count": 10,
+      "positive_count": 8,
       "total_count": 20
     }
   },
   "quote_network": [
-    {
-      "from": "Patrick Schnieder",
-      "to": "Automobilindustrie",
-      "stance": "neutral",
-      "quote_snippet": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustr"
-    },
-    {
-      "from": "Patrick Schnieder",
-      "to": "EU",
-      "stance": "neutral",
-      "quote_snippet": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustr"
-    },
-    {
-      "from": "Patrick Schnieder",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "der Druck und der Wille zur Elektromobilit\u00e4t in der Branche vorhanden sind und dass die deutschen He"
-    },
     {
       "from": "Lars Klingbeil",
       "to": "Deutsche Bahn",
@@ -1687,75 +1775,9 @@
     },
     {
       "from": "Lars Klingbeil",
-      "to": "EU",
-      "stance": "oppose",
-      "quote_snippet": "Dass die Deutsche Bahn entschieden hat, neben einer Gro\u00dfbestellung f\u00fcr MAN auch weitere Elektrobusse"
-    },
-    {
-      "from": "Lars Klingbeil",
-      "to": "MAN",
-      "stance": "neutral",
-      "quote_snippet": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, ind"
-    },
-    {
-      "from": "Lars Klingbeil",
-      "to": "EU",
-      "stance": "neutral",
-      "quote_snippet": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, ind"
-    },
-    {
-      "from": "Klingbeil",
-      "to": "Autokonzerne",
-      "stance": "support",
-      "quote_snippet": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch"
-    },
-    {
-      "from": "Schnieder",
-      "to": "Automobilindustrie",
-      "stance": "support",
-      "quote_snippet": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustr"
-    },
-    {
-      "from": "Schnieder",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustr"
-    },
-    {
-      "from": "Patrick Schnieder",
-      "to": "Automobilindustrie",
-      "stance": "support",
-      "quote_snippet": "Wir k\u00f6nnen uns den Ast nicht abs\u00e4gen, auf dem wir sitzen. Die Automobilindustrie ist die Leitindustr"
-    },
-    {
-      "from": "Lars Klingbeil",
-      "to": "Autokonzerne",
-      "stance": "support",
-      "quote_snippet": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch"
-    },
-    {
-      "from": "Lars Klingbeil",
       "to": "MAN",
       "stance": "support",
       "quote_snippet": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, ind"
-    },
-    {
-      "from": "Lars Klingbeil",
-      "to": "EU",
-      "stance": "support",
-      "quote_snippet": "Wir haben jetzt einen guten Weg gefunden, wie wir den Weg zur Klimaneutralit\u00e4t flexibler machen, ind"
-    },
-    {
-      "from": "Klingbeil",
-      "to": "Autobauer",
-      "stance": "neutral",
-      "quote_snippet": "Unsere Autobauer haben Nachholbedarf."
-    },
-    {
-      "from": "Lars Klingbeil",
-      "to": "Autokonzerne",
-      "stance": "oppose",
-      "quote_snippet": "Allerdings sollten die Autokonzerne das nicht missverstehen: Wenn sie jetzt meinen, sie k\u00f6nnten noch"
     }
   ],
   "summary_stats": {
@@ -1765,34 +1787,37 @@
       "start": "2025-12-20T02:05:15Z",
       "end": "2025-12-22T08:26:52Z"
     },
-    "avg_sentiment": 0.12857142857142861,
-    "total_quotes": 71,
-    "total_financial_mentions": 3
+    "avg_sentiment": 0.12380952380952384,
+    "total_quotes": 67,
+    "total_financial_mentions": 44
   },
-  "executive_brief": "German Finance Minister Lars Klingbeil is publicly urging domestic automakers to accelerate their transition to electric vehicles (EVs), warning of future difficulties for those who continue to invest in internal combustion engines (ICE). This issue has gained prominence following an EU proposal to loosen CO2 emission standards, covered by 21 articles from 20 sources between December 20th and 22nd, 2025, with an overall positive sentiment (average score 0.13). The event highlights a tension between supporting the German automotive industry and pushing for environmental goals.\n\nKlingbeil, supported by Transport Minister Patrick Schnieder, emphasizes the necessity of rapid electrification for international competitiveness. However, Klingbeil also criticizes the Deutsche Bahn's decision to purchase electric buses from Chinese manufacturer BYD, expressing a desire for 'location patriotism'. Financial implications include a EUR 3.3 billion bus order, with EUR 200 allocated to BYD's electric buses. The data suggests a potential risk for German automakers who delay the shift to EVs, while the EU's compromise offers a short-term reprieve.",
+  "executive_brief": "This event centers on German Finance Minister Lars Klingbeil urging domestic automakers to accelerate their transition to electric vehicles (EVs), warning of future difficulties for those who continue to invest in internal combustion engines. The issue gained prominence following an EU proposal to relax CO2 emission standards, covered by 21 articles from 20 sources between December 20th and 22nd, 2025, with a slightly positive average sentiment score of 0.12. This signals a potential shift in policy and a heightened focus on the future of the German automotive industry. \n\nStakeholder positions are largely divided around the pace of this transition. Lars Klingbeil consistently advocates for rapid electrification, expressing concern over German automakers falling behind and criticizing Deutsche Bahn\u2019s purchase of Chinese electric buses. Verkehrsminister Patrick Schnieder supports the industry and emphasizes the need to protect German jobs. The data suggests German automakers (BMW, Mercedes-Benz, Volkswagen) are potentially hesitant, though their explicit positions are not stated. A significant financial element is Deutsche Bahn\u2019s EUR 1,000,000,000 order for 3,300 buses, with a target year of 2035 for CO2 emission reduction.",
   "key_arguments": {
     "for": [
-      "Lars Klingbeil believes 'the future of mobility is electric' and that companies must act quickly to remain competitive internationally.",
-      "Patrick Schnieder defends the loosening of regulations, stating 'the pressure and will for electromobility are there.'"
+      "The future of mobility is electric, and companies must act quickly to remain internationally competitive.",
+      "A rapid transition to electric mobility is crucial to avoid future problems for automakers."
     ],
     "against": [
-      "Continued reliance on diesel and gasoline engines will lead to 'increasing difficulties in a few years,' according to Lars Klingbeil."
+      "Continued reliance on diesel and gasoline engines will lead to difficulties for automakers in the future.",
+      "The purchase of electric buses from China by Deutsche Bahn is undesirable."
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "BYD - Benefiting from a EUR 200 portion of a EUR 3.3 billion bus order from Deutsche Bahn.",
-      "EU-Kommission - Achieved a compromise on CO2 emission standards."
+      "Patrick Schnieder - Wants to protect the German automotive industry and jobs.",
+      "Lars Klingbeil - Believes in the necessity of a rapid transition to electric mobility and sees international competition as a driver."
     ],
     "losers": [
-      "German Autobauer - Risk facing difficulties if they continue to rely on combustion engines."
+      "Automakers continuing to invest in combustion engines - Risk of future difficulties and loss of competitiveness."
     ],
     "risks": [
-      "German automakers may fall behind in international competitiveness if they delay the transition to electric vehicles.",
-      "Deutsche Bahn's decision to purchase from Chinese manufacturers raises concerns about 'location patriotism'."
+      "German automakers falling behind in the global transition to electric vehicles.",
+      "Continued reliance on combustion engines leading to future problems for automakers.",
+      "Loss of domestic contracts to foreign companies (e.g., Chinese bus manufacturers)."
     ],
     "opportunities": [
-      "The loosening of EU CO2 regulations provides German automakers with a temporary reprieve to adjust to the shift towards EVs."
+      "Increased international competitiveness for German automakers that rapidly transition to EVs.",
+      "Potential for 'Standort-Patriotismus' \u2013 supporting domestic industries."
     ]
   }
 }
