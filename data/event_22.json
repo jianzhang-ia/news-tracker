@@ -9,7 +9,7 @@
     "last_updated": "2025-12-29T17:30:59.795549",
     "created_at": "2025-12-25 21:47:07"
   },
-  "generated_at": "2025-12-29T17:32:34.887749",
+  "generated_at": "2025-12-31T06:02:19.497848",
   "articles": [
     {
       "id": 378,
@@ -1614,38 +1614,36 @@
     "total_quotes": 54,
     "total_financial_mentions": 13
   },
-  "executive_brief": "The EU-Mercosur trade agreement is facing delays, triggering significant criticism, particularly from German industry. This event is covered by 22 articles from 17 sources, with overwhelmingly negative sentiment (-0.53 average score, 21 out of 22 articles negative). The postponement is viewed as damaging to Europe\u2019s credibility and hindering economic opportunities. \n\nStakeholders are sharply divided. The Bundesverband der Deutschen Industrie (BDI) and Verband der Automobilindustrie strongly oppose the delay, citing concerns about Europe\u2019s geopolitical standing and market access, with Tanja G\u00f6nner repeatedly stating it\u2019s a \u201cR\u00fcckschlag f\u00fcr Europas Glaubw\u00fcrdigkeit.\u201d While the European Union generally supports the agreement to create a large free trade zone, internal disagreements and reservations from figures like Giorgia Meloni are contributing to the postponement. The Mercosur region represents a potential market of 700 million people, and the agreement is seen as a chance to counter protectionist policies.",
+  "executive_brief": "The EU-Mercosur trade agreement is facing a delay, triggering significant negative reaction, particularly from German industry. This event is covered by 22 articles from 17 sources, with overwhelmingly negative sentiment (-0.53 average score, 21 out of 22 articles negative). The postponement is viewed as damaging to Europe\u2019s credibility and hindering economic opportunities. \n\nStakeholders are sharply divided. The Bundesverband der Deutschen Industrie (BDI) and Verband der Automobilindustrie strongly oppose the delay, citing damage to Europe\u2019s geopolitical standing and market access. Tanja G\u00f6nner of the BDI repeatedly emphasizes this credibility concern. While the European Union generally supports the agreement to create a large free trade zone, internal disagreements and reservations from figures like Giorgia Meloni are contributing to the delay. The Mercosur region represents a potential market of 700 million people, and the agreement is seen as a chance to counter protectionist policies.",
   "key_arguments": {
     "for": [
       "Friedrich Merz believes there are no fundamental objections to the agreement within the EU and advocates for swift signing.",
-      "Sigi Menz argues that this is the last chance to utilize the Mercosur agreement.",
+      "Sigi Menz argues that this is the last chance to capitalize on the Mercosur agreement.",
       "Douglas Hoyos suggests reversing a previous parliamentary decision to enable the agreement."
     ],
     "against": [
-      "Tanja G\u00f6nner (BDI) argues the delay is a setback for Europe\u2019s credibility as a geopolitical actor.",
-      "Hildegard M\u00fcller (VDA) states the delay signals weakness and jeopardizes Europe\u2019s credibility and market access.",
-      "Gauthier Hansel (Greenpeace Luxemburg) views the agreement as an outdated trade model that would promote trade in undesirable products."
+      "Tanja G\u00f6nner states the delay is 'a setback for Europe\u2019s credibility as a geopolitical actor'.",
+      "Hildegard M\u00fcller argues the EU is sending 'a signal of weakness' and jeopardizing its credibility.",
+      "Gauthier Hansel criticizes the agreement as an outdated trade model that would promote trade in undesirable products."
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "European Union - Aims to create a large free trade zone and counter protectionist policies."
+      "European Union - Potential creation of a large free trade zone with 700 million inhabitants."
     ],
     "losers": [
-      "Bundesverband der Deutschen Industrie - Faces a setback to economic opportunities and damage to Europe's credibility.",
-      "Verband der Automobilindustrie - Experiences hindered access to third-country markets and a damaged reputation for Europe.",
-      "Volkswagen - As a member of the Automobilindustrie, potentially faces hindered market access."
+      "Bundesverband der Deutschen Industrie - Loss of economic opportunity and damage to Europe's credibility.",
+      "Verband der Automobilindustrie - Hindered access to third-country markets and damage to Europe's credibility.",
+      "Volkswagen - Potential loss of market access in Mercosur."
     ],
     "risks": [
       "Damage to Europe\u2019s credibility as a geopolitical actor.",
-      "Weakening of the European economy.",
-      "Loss of market access for European industries.",
-      "Internal disagreements within the EU hindering trade agreements."
+      "Signaling weakness in the European economy.",
+      "Loss of economic opportunities in the Mercosur market."
     ],
     "opportunities": [
       "Creation of a free trade zone with over 700 million inhabitants.",
-      "Countering protectionist policies.",
-      "Seizing economic opportunities in the Mercosur region."
+      "Countering protectionist policies."
     ]
   }
 }
