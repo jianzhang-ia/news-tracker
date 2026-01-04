@@ -6,11 +6,45 @@
     "category": "other",
     "summary": "An aircraft carrying Venezuelan President Nicolas Maduro taxis on the runway after landing at Stewart Air National Guard Base amid heightened security measures in Newburgh, New York, in Newburgh, United States, on January 3, 2026.\n\nVenezuelan President Nicolas Maduro and first lady Cilia Flores were...",
     "first_seen": "2026-01-04T23:08:41.663748",
-    "last_updated": "2026-01-04T23:09:19.733804",
+    "last_updated": "2026-01-04T23:48:24.562018",
     "created_at": "2026-01-04 22:08:41"
   },
-  "generated_at": "2026-01-04T23:40:34.835056",
+  "generated_at": "2026-01-04T23:49:01.596884",
   "articles": [
+    {
+      "id": 798,
+      "article_uri": "9028521842",
+      "event_id": 33,
+      "title": "Maduro to appear in federal court in New York on Monday",
+      "body": "Ousted Venezuelan President Nicolas Maduro is set to appear in federal court in New York on Monday for arraignment on a four\u2011count indictment accusing him of leading a 25\u2011year narco\u2011terrorism conspiracy, the Associated Press reported.\n\nThe arraignment is scheduled for noon before Judge Alvin Hellerstein in Manhattan federal court.\n\nMaduro's capture followed a dramatic overnight US military operation that removed him from power and flew him out of Venezuela. Hours later, President Donald Trump said the United States would run Venezuela \"at least temporarily\" and tap its vast oil reserves for sale to other nations.\n\nSpeaking to reporters after the capture, Trump outlined plans to \"fix\" Venezuela's oil infrastructure and sell \"large amounts\" of oil abroad.\n\nMaduro and his wife, Cilia Flores, were seized from their home on a military base and taken aboard a US warship before being flown to New York. A plane carrying Maduro landed Saturday evening, where federal agents escorted a detainee off the aircraft.\n\nMaduro was then flown by helicopter to New York City and transferred to the Metropolitan Detention Center in Brooklyn. Footage showed him at a Manhattan helipad en route to the DEA's New York Division headquarters for processing.",
+      "source_name": "Arutz Sheva Israel News",
+      "source_country": null,
+      "source_url": "https://www.israelnationalnews.com/news/420396",
+      "published_date": "2026-01-04T22:40:15Z",
+      "language": "eng",
+      "image_url": "https://2.a7.org/files/pictures/000/1207210.jpg",
+      "fetched_at": "2026-01-04 22:47:46",
+      "sentiment_score": -0.7,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
+    {
+      "id": 799,
+      "article_uri": "9028510205",
+      "event_id": 33,
+      "title": "Nicol\u00e1s Maduro scheduled to make court appearance in New York City on Monday",
+      "body": "Venezuelan leader Nicol\u00e1s Maduro is scheduled to make his first court appearance in New York City after the United States captured him in a surprise attack and flew him to New York.\n\nMaduro is expected to appear in federal court in lower Manhattan on Monday at noon, according to the Southern District of New York.\n\nU.S. District Judge Alvin K. Hellerstein has been assigned the case.\n\nProtesters gathered Sunday outside the Metropolitan Detention Center in Brooklyn, where Maduro is being held, to decry U.S. intervention in Venezuela.\n\nMany were heard clapping and chanting \"Hands off Venezuela's oil\" and \"No, no blood for oil.\" Others carried signs that said, \"No U.S. War on Venezuela\" and \"Stop Bombing Venezuela\" and \"U.S. Out of the Caribbean.\"\n\nPolice were also at the scene, setting up metal barriers.\n\nThe Department of Justice, Drug Enforcement Administration and FBI said in a joint statement Sunday that the U.S. \"pursued every lawful option to resolve this matter peacefully\" with Venezuela's Maduro.\n\n\"Those opportunities were repeatedly rejected. The responsibility for this outcome rests solely with those who chose to continue criminal conduct rather than disengage,\" they said in a statement shared on X by Attorney General Pam Bondi.\n\nThe operation to capture Maduro and his wife yesterday in Venezuela \"required months of coordination, detailed planning and seamless execution across multiple components of the federal government,\" the statement said.\n\n\"The mission was conducted to support an ongoing criminal prosecution tied to large-scale narcotics trafficking and related offenses that have fueled violence, destabilized the region, and contributed directly to the drug crisis claiming American lives,\" it said.\n\nMaduro and his wife were indicted in New York on drug-related and narco-terrorism charges.",
+      "source_name": "NBC New York",
+      "source_country": null,
+      "source_url": "https://www.nbcnewyork.com/news/nicolas-maduro-monday-us-court/6438866/",
+      "published_date": "2026-01-04T22:20:33Z",
+      "language": "eng",
+      "image_url": "https://media.nbcnewyork.com/2026/01/maduro-e1767564985253.png?resize=1200%2C675&quality=85&strip=all",
+      "fetched_at": "2026-01-04 22:47:46",
+      "sentiment_score": -0.7,
+      "sentiment_label": "negative",
+      "article_type": "news_report"
+    },
     {
       "id": 744,
       "article_uri": "2026-01-940889013",
@@ -2038,25 +2072,25 @@
   "popularity_trend": [
     {
       "date": "2026-01-04",
-      "count": 119
+      "count": 121
     }
   ],
   "sentiment_trend": [
     {
       "date": "2026-01-04",
-      "avg_sentiment": -0.6525210084033618,
-      "count": 119
+      "avg_sentiment": -0.6533057851239674,
+      "count": 121
     }
   ],
   "entities": {
     "countries": [
       {
         "name": "United States",
-        "count": 119
+        "count": 121
       },
       {
         "name": "Venezuela",
-        "count": 118
+        "count": 120
       },
       {
         "name": "New York",
@@ -2068,7 +2102,7 @@
       },
       {
         "name": "Caribbean",
-        "count": 7
+        "count": 8
       },
       {
         "name": "Russia",
@@ -2198,19 +2232,19 @@
     "politicians": [
       {
         "name": "Donald Trump",
-        "count": 74
+        "count": 75
       },
       {
         "name": "Cilia Flores",
-        "count": 64
+        "count": 65
       },
       {
         "name": "Nicolas Maduro",
-        "count": 63
+        "count": 64
       },
       {
         "name": "Nicol\u00e1s Maduro",
-        "count": 50
+        "count": 51
       },
       {
         "name": "Delcy Rodriguez",
@@ -2222,7 +2256,7 @@
       },
       {
         "name": "Pam Bondi",
-        "count": 11
+        "count": 12
       },
       {
         "name": "Pete Hegseth",
@@ -2265,6 +2299,10 @@
         "count": 3
       },
       {
+        "name": "Alvin K. Hellerstein",
+        "count": 2
+      },
+      {
         "name": "Ant\u00f3nio Guterres",
         "count": 2
       },
@@ -2302,10 +2340,6 @@
       },
       {
         "name": "Alvin Hellerstein",
-        "count": 1
-      },
-      {
-        "name": "Alvin K. Hellerstein",
         "count": 1
       },
       {
@@ -2484,11 +2518,11 @@
       },
       {
         "name": "Drug Enforcement Administration",
-        "count": 30
+        "count": 31
       },
       {
         "name": "DEA",
-        "count": 29
+        "count": 30
       },
       {
         "name": "US Drug Enforcement Administration",
@@ -2551,12 +2585,12 @@
         "count": 5
       },
       {
-        "name": "UN Security Council",
+        "name": "Southern District of New York",
         "count": 5
       },
       {
-        "name": "Southern District of New York",
-        "count": 4
+        "name": "UN Security Council",
+        "count": 5
       },
       {
         "name": "U.S. Navy",
@@ -2579,6 +2613,10 @@
         "count": 3
       },
       {
+        "name": "Department of Justice",
+        "count": 3
+      },
+      {
         "name": "U.S. military",
         "count": 3
       },
@@ -2591,11 +2629,11 @@
         "count": 3
       },
       {
-        "name": "Bloomberg",
+        "name": "Associated Press",
         "count": 2
       },
       {
-        "name": "Department of Justice",
+        "name": "Bloomberg",
         "count": 2
       },
       {
@@ -2691,10 +2729,6 @@
         "count": 1
       },
       {
-        "name": "Associated Press",
-        "count": 1
-      },
-      {
         "name": "CBS",
         "count": 1
       },
@@ -2756,6 +2790,10 @@
       },
       {
         "name": "FARC",
+        "count": 1
+      },
+      {
+        "name": "FBI",
         "count": 1
       },
       {
@@ -3236,6 +3274,46 @@
     }
   },
   "quotes": [
+    {
+      "id": 4780,
+      "article_id": 798,
+      "speaker": "Donald Trump",
+      "speaker_role": "President",
+      "quote_text": "the United States would run Venezuela \"at least temporarily\" and tap its vast oil reserves for sale to other nations.",
+      "stance": "support",
+      "article_title": "Maduro to appear in federal court in New York on Monday",
+      "source_url": "https://www.israelnationalnews.com/news/420396"
+    },
+    {
+      "id": 4781,
+      "article_id": 798,
+      "speaker": "Donald Trump",
+      "speaker_role": "President",
+      "quote_text": "fix Venezuela's oil infrastructure and sell \"large amounts\" of oil abroad.",
+      "stance": "support",
+      "article_title": "Maduro to appear in federal court in New York on Monday",
+      "source_url": "https://www.israelnationalnews.com/news/420396"
+    },
+    {
+      "id": 4778,
+      "article_id": 799,
+      "speaker": "Department of Justice",
+      "speaker_role": "Joint Statement",
+      "quote_text": "Those opportunities were repeatedly rejected. The responsibility for this outcome rests solely with those who chose to continue criminal conduct rather than disengage.",
+      "stance": "neutral",
+      "article_title": "Nicol\u00e1s Maduro scheduled to make court appearance in New York City on Monday",
+      "source_url": "https://www.nbcnewyork.com/news/nicolas-maduro-monday-us-court/6438866/"
+    },
+    {
+      "id": 4779,
+      "article_id": 799,
+      "speaker": "Department of Justice",
+      "speaker_role": "Joint Statement",
+      "quote_text": "The mission was conducted to support an ongoing criminal prosecution tied to large-scale narcotics trafficking and related offenses that have fueled violence, destabilized the region, and contributed directly to the drug crisis claiming American lives.",
+      "stance": "neutral",
+      "article_title": "Nicol\u00e1s Maduro scheduled to make court appearance in New York City on Monday",
+      "source_url": "https://www.nbcnewyork.com/news/nicolas-maduro-monday-us-court/6438866/"
+    },
     {
       "id": 4699,
       "article_id": 744,
@@ -5472,25 +5550,25 @@
       "stakeholder": "Donald Trump",
       "position": "support",
       "reasoning": "Authorized the operation to seize Maduro and Flores and oversee a transition in Venezuela.",
-      "mention_count": 52
+      "mention_count": 53
     },
     {
       "stakeholder": "Nicolas Maduro",
       "position": "oppose",
       "reasoning": "Rejects accusations of drug trade links and claims US pretext for regime change.",
-      "mention_count": 34
+      "mention_count": 35
     },
     {
       "stakeholder": "United States",
       "position": "oppose",
       "reasoning": "Accuses Maduro of narco-terrorism and seeks regime change in Venezuela.",
-      "mention_count": 22
+      "mention_count": 23
     },
     {
       "stakeholder": "Nicol\u00e1s Maduro",
       "position": "oppose",
       "reasoning": "Detained and facing charges, implicitly opposing the legal process.",
-      "mention_count": 20
+      "mention_count": 21
     },
     {
       "stakeholder": "Nicol\u00e1s Maduro",
@@ -5571,6 +5649,12 @@
       "mention_count": 3
     },
     {
+      "stakeholder": "Protesters",
+      "position": "oppose",
+      "reasoning": "Disapproval of the military intervention and abduction of Maduro.",
+      "mention_count": 3
+    },
+    {
       "stakeholder": "US Drug Enforcement Administration",
       "position": "oppose",
       "reasoning": "Arrested Maduro and his wife on charges of narco-terrorism.",
@@ -5616,12 +5700,6 @@
       "stakeholder": "Pam Bondi",
       "position": "support",
       "reasoning": "Vowed to prosecute Maduro and his wife to the fullest extent of American law.",
-      "mention_count": 2
-    },
-    {
-      "stakeholder": "Protesters",
-      "position": "oppose",
-      "reasoning": "Disapproval of the military intervention and abduction of Maduro.",
       "mention_count": 2
     },
     {
@@ -6199,6 +6277,16 @@
         "article_count": 2
       },
       {
+        "source": "Arutz Sheva Israel News",
+        "avg_sentiment": -0.7,
+        "article_count": 1
+      },
+      {
+        "source": "NBC New York",
+        "avg_sentiment": -0.7,
+        "article_count": 1
+      },
+      {
         "source": "Daily Sabah",
         "avg_sentiment": -0.7,
         "article_count": 1
@@ -6627,6 +6715,16 @@
           "article_count": 2
         },
         {
+          "source": "Arutz Sheva Israel News",
+          "avg_sentiment": -0.7,
+          "article_count": 1
+        },
+        {
+          "source": "NBC New York",
+          "avg_sentiment": -0.7,
+          "article_count": 1
+        },
+        {
           "source": "Daily Sabah",
           "avg_sentiment": -0.7,
           "article_count": 1
@@ -6941,13 +7039,19 @@
       "positive": []
     },
     "summary": {
-      "negative_count": 85,
+      "negative_count": 87,
       "neutral_count": 0,
       "positive_count": 0,
-      "total_count": 85
+      "total_count": 87
     }
   },
   "quote_network": [
+    {
+      "from": "Donald Trump",
+      "to": "X",
+      "stance": "support",
+      "quote_snippet": "fix Venezuela's oil infrastructure and sell \"large amounts\" of oil abroad."
+    },
     {
       "from": "Donald Trump",
       "to": "Cilia Flores",
@@ -6971,12 +7075,6 @@
       "to": "Nicolas Maduro",
       "stance": "neutral",
       "quote_snippet": "Nicolas Maduro had his chance -- until he didn't"
-    },
-    {
-      "from": "Donald Trump",
-      "to": "X",
-      "stance": "support",
-      "quote_snippet": "the United States successfully launched extensive strikes against Venezuela."
     },
     {
       "from": "Donald Trump",
@@ -7106,46 +7204,45 @@
     }
   ],
   "summary_stats": {
-    "total_articles": 119,
-    "sources": 85,
+    "total_articles": 121,
+    "sources": 87,
     "date_range": {
       "start": "2026-01-04T00:13:21Z",
-      "end": "2026-01-04T21:22:30Z"
+      "end": "2026-01-04T22:40:15Z"
     },
-    "avg_sentiment": -0.6525210084033615,
-    "total_quotes": 223,
+    "avg_sentiment": -0.6533057851239672,
+    "total_quotes": 227,
     "total_financial_mentions": 36
   },
-  "executive_brief": "Venezuelan President Nicolas Maduro and his wife, Cilia Flores, are in US custody following a US military operation in Venezuela, awaiting court appearances on federal drug-trafficking and weapons charges. This event has garnered significant media attention, with 119 articles from 85 sources published within a single day, all exhibiting negative sentiment. The capture represents a significant escalation in US-Venezuela relations and raises questions about international law and sovereignty. \n\nThe operation was authorized by President Donald Trump, who intends to oversee a transition in Venezuela and potentially assert American control, even with US troops if necessary. Opposing voices, including Venezuelan Vice President Delcy Rodriguez and Defense Minister Padrino Lopez, condemn the US actions as a violation of sovereignty and report casualties among Maduro\u2019s bodyguards. Financially, the event is linked to potential $1 billion investments by US oil firms in Venezuela, alongside previous reward offers totaling $65,000,000 for Maduro\u2019s arrest, and allegations of $100,000 bribes for cocaine shipments.",
+  "executive_brief": "Venezuelan President Nicolas Maduro and First Lady Cilia Flores have been taken into US custody and are awaiting court appearances in New York, following a US military operation. This event has garnered significant media attention, with 121 articles from 87 sources published within a single day, all exhibiting overwhelmingly negative sentiment (-0.65 average score). The capture represents a dramatic escalation in US policy towards Venezuela, potentially signaling a shift towards direct intervention and regime change. \n\nThe situation is marked by strong disagreement. Donald Trump has openly advocated for US control over Venezuela and its oil reserves, while Venezuelan officials like Delcy Rodriguez condemn the actions as a violation of sovereignty. The US Drug Enforcement Administration and FBI are key players, with Maduro accused of narco-terrorism. Financially, the event centers around potential US investment in Venezuela\u2019s oil infrastructure (USD 1,000,000,000) and past rewards offered for Maduro\u2019s arrest (USD 50,000,000). Reports indicate a high death toll (80) from the US operation, raising concerns about the cost of intervention.",
   "key_arguments": {
     "for": [
-      "Donald Trump believes the former Venezuelan leader could have surrendered earlier and that the US military action was justified to capture Maduro and Flores."
+      "Donald Trump believes the US should temporarily run Venezuela and profit from its oil reserves (\"the United States would run Venezuela \"at least temporarily\" and tap its vast oil reserves for sale to other nations.\")"
     ],
     "against": [
-      "Delcy Rodriguez condemned the US actions as \"barbaric\" and a violation of Venezuela's sovereignty.",
-      "Mark Warner questioned the legality of the US action, asking if any country can indict and seize the ruler of another.",
-      "Padrino Lopez claimed Maduro's bodyguards were killed \"in cold blood\" during the raid.",
-      "Brian Fitzpatrick stated the US should only be running the United States of America."
+      "Delcy Rodriguez condemns the US actions as a violation of Venezuela's sovereignty (\"Condemned the US actions as \"barbaric\" and \u00a0a violation of Venezuela's sovereignty.\").",
+      "Mark Warner questions the legality and precedent of indicting and capturing foreign leaders (\"Does this mean any large country can indict the ruler of a smaller adjacent country and take that person out? This would lead to total chaos, this theory of the case.\").",
+      "Padrino Lopez claims Maduro's bodyguards were killed during the raid (\"Claimed some of Maduro's bodyguards were killed \"in cold blood\" during the raid\")"
     ]
   },
   "whats_at_stake": {
     "winners": [
-      "Donald Trump - Authorized the operation and seeks to influence Venezuela's future.",
-      "US Oil Companies - Potential for $1 billion investment in Venezuelan oil infrastructure."
+      "Donald Trump - Authorized the operation and seeks to exert control over Venezuela.",
+      "US Oil Companies - Potential for USD 1,000,000,000 investment in Venezuelan oil infrastructure."
     ],
     "losers": [
       "Nicolas Maduro - Detained and facing charges.",
-      "Cilia Flores - Detained and facing charges.",
-      "Venezuela - Viewed the US actions as a military aggression and an attack on its sovereignty.",
-      "China - Demands the immediate release of Maduro and opposes US intervention."
+      "Venezuela - Viewed as a victim of military aggression and facing potential regime change.",
+      "Cilia Flores - Detained and facing charges."
     ],
     "risks": [
-      "International Chaos - Mark Warner suggests the action could lead to chaos if other countries adopt similar tactics.",
-      "Escalation of Conflict - Potential for further military action or retaliation.",
-      "Sovereignty Concerns - The US action is widely condemned as a violation of Venezuela's sovereignty."
+      "Escalation of conflict and instability in Venezuela, as evidenced by the reported death toll of 80.",
+      "International backlash and accusations of violating national sovereignty.",
+      "Precedent for intervention in other countries, as highlighted by Mark Warner's concerns."
     ],
     "opportunities": [
-      "US Control over Venezuelan Oil - Potential for the US to gain influence over Venezuela's oil resources."
+      "Potential access to Venezuelan oil reserves for US companies.",
+      "Opportunity to 'fix Venezuela's oil infrastructure' according to Donald Trump."
     ]
   }
 }
