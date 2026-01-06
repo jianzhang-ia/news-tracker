@@ -2,6 +2,23 @@
   "generated_at": "2026-01-04T23:49:01.594378",
   "events": [
     {
+      "id": 34,
+      "event_uri": "deu-2060194",
+      "title": "Wadephul besucht Litauen - Ukraine und Russland im Zentrum",
+      "category": "other",
+      "summary": "BERLIN (dpa-AFX) - Au\u00dfenminister Johann Wadephul besucht an diesem Montag vor dem Hintergrund andauernder Verhandlungen \u00fcber einen Waffenstillstand in der Ukraine Litauen. In Vilnius, der Hauptstadt des baltischen EU- und Nato-Landes, will der CDU-Politiker Regierungschefin Inga Ruginiene und Au\u00dfenm...",
+      "first_seen": "2026-01-06T10:49:12.807722",
+      "last_updated": "2026-01-06T10:49:12.807722",
+      "created_at": "2026-01-06 09:49:12",
+      "article_count": 39,
+      "first_article_date": "2026-01-04T23:50:04Z",
+      "last_article_date": "2026-01-05T19:56:32Z",
+      "avg_sentiment": 0.1256410256410256,
+      "positive_articles": 21,
+      "negative_articles": 17,
+      "top_companies": []
+    },
+    {
       "id": 33,
       "event_uri": "eng-11279934",
       "title": "Venezuela's Maduro, wife under US custody in New York, awaiting court appearance",
