@@ -131,7 +131,6 @@ function createEventCard(event) {
         <div class="glass-card event-card" onclick="window.location.href='dashboard.html?id=${event.id}'">
             <div class="event-title">${categoryBadge}${title}</div>
             <div class="event-meta">
-                <span>${event.article_count || 0} articles</span>
                 <span>${formatDate(event.last_article_date)}</span>
                 ${lastUpdated ? `<span class="last-updated">Updated ${lastUpdated}</span>` : ''}
             </div>
