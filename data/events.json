@@ -2,6 +2,44 @@
   "generated_at": "2026-01-04T23:49:01.594378",
   "events": [
     {
+      "id": 37,
+      "event_uri": "eng-11289464",
+      "title": "The Latest: Denmark and Greenland seek talks with Rubio",
+      "category": "other",
+      "summary": "Denmark and Greenland are seeking a meeting with U.S. Secretary of State Marco Rubio after the Trump administration doubled down on its intention to take over the strategic Arctic island, a self-governing Danish territory.\n\nTensions escalated after the White House said Tuesday that the \"U.S. military is always an option,\" even as a series of European leaders rejected President Donald Trump\u00b4s renewed demands and Danish Prime Minister Mette Frederiksen warned that a U.S. takeover would amount to t",
+      "first_seen": "2026-01-08T00:31:00.078513",
+      "last_updated": "2026-01-08T00:31:00.078513",
+      "created_at": "2026-01-07 23:31:00",
+      "article_count": 29,
+      "first_article_date": "2026-01-07T13:36:35Z",
+      "last_article_date": "2026-01-07T19:20:12Z",
+      "avg_sentiment": -0.2793103448275862,
+      "positive_articles": 0,
+      "negative_articles": 29,
+      "top_companies": [
+        "Exxon",
+        "Chevron",
+        "Citgo"
+      ]
+    },
+    {
+      "id": 36,
+      "event_uri": "eng-11290908",
+      "title": "Trump pulls US out of 66 international bodies, including key UN climate treaty",
+      "category": "other",
+      "summary": "President's order suspends support for UNFCCC climate framework, UN population agency and other entities\n\nThe Trump administration will withdraw from dozens of international organizations, including the UN's population agency and the UN treaty that establishes international climate negotiations, as the US further retreats from global cooperation.\n\nDonald Trump on Wednesday signed an executive order suspending US support for 66 organizations, agencies and commissions following his instructions for",
+      "first_seen": "2026-01-08T00:23:29.681043",
+      "last_updated": "2026-01-08T00:23:29.681043",
+      "created_at": "2026-01-07 23:23:29",
+      "article_count": 12,
+      "first_article_date": "2026-01-07T22:17:55Z",
+      "last_article_date": "2026-01-07T23:16:28Z",
+      "avg_sentiment": -0.5541666666666666,
+      "positive_articles": 0,
+      "negative_articles": 12,
+      "top_companies": []
+    },
+    {
       "id": 35,
       "event_uri": "eng-11279373",
       "title": "Elon Musk's Starlink offers free internet service in Venezuela after...",
