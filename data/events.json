@@ -2,6 +2,29 @@
   "generated_at": "2026-01-04T23:49:01.594378",
   "events": [
     {
+      "id": 35,
+      "event_uri": "eng-11279373",
+      "title": "Starlink accepts govt request to block Ugandan users ahead of polls",
+      "category": "other",
+      "summary": "Starlink says its satellite internet services have been operating illegally in the country because its Ugandan subsidiary has not yet been licensed to sell or market them.\n\nUS-based satellite internet company Starlink has moved to block the use of its services in Uganda, following directives from th...",
+      "first_seen": "2026-01-07T15:17:04.155323",
+      "last_updated": "2026-01-07T15:17:04.155323",
+      "created_at": "2026-01-07 14:17:04",
+      "article_count": 77,
+      "first_article_date": "2026-01-02T08:07:09Z",
+      "last_article_date": "2026-01-06T09:52:07Z",
+      "avg_sentiment": 0.060389610389610396,
+      "positive_articles": 41,
+      "negative_articles": 34,
+      "top_companies": [
+        "Starlink",
+        "SpaceX",
+        "Tesla",
+        "CNBC",
+        "BCA Research"
+      ]
+    },
+    {
       "id": 34,
       "event_uri": "deu-2060194",
       "title": "Wadephul besucht Litauen - Ukraine und Russland im Zentrum",
