@@ -2,14 +2,14 @@
   "event": {
     "id": 23,
     "event_uri": "fra-1259816",
-    "title": "Les syndicats agricoles vont rencontrer Emmanuel Macron \u00e0 l'Elys\u00e9e \u00e0 16h30 pour discuter de l'accord UE-Mercosur",
+    "title": "Mercosur: les syndicats agricoles re\u00e7us par Macron, la dermatose en toile de fond",
     "category": "other",
-    "summary": "Les quatre principaux syndicats agricoles vont \u00eatre re\u00e7us par le Pr\u00e9sident de la R\u00e9publique, pour \u00e9changer \u00e0 propos de l'accord UE-Mercosur.\n\nLa FNSEA, les Jeunes agriculteurs (JA), la Coordination rurale et la Conf\u00e9d\u00e9ration paysanne vont \u00eatre re\u00e7us \u00e0 16h30, mardi 23 d\u00e9cembre, par le pr\u00e9sident Emman...",
+    "summary": "Emmanuel Macron a re\u00e7u mardi apr\u00e8s-midi \u00e0 l'Elys\u00e9e les syndicats agricoles pour parler de l'accord UE-Mercosur, auquel ils sont oppos\u00e9s, avec en toile de fond l'inqui\u00e9tude autour de la dermatose bovine illustr\u00e9e par des blocages routiers qui persistent sur le terrain.\n\n\" L'objet du rendez-vous, c'\u00e9tait d'essayer d'\u00e9teindre un peu le feu qui est partout dans les campagnes \", a soulign\u00e9 St\u00e9phane Galais, porte-parole national de la Conf\u00e9d\u00e9ration paysanne, \u00e0 la sortie de la rencontre, a",
     "first_seen": "2025-12-25T22:48:15.030316",
-    "last_updated": "2026-01-04T23:09:17.896833",
+    "last_updated": "2026-01-05T14:03:19.704085",
     "created_at": "2025-12-25 21:48:15"
   },
-  "generated_at": "2026-01-04T00:03:30.304593",
+  "generated_at": "2026-01-07T18:28:11.968075",
   "articles": [
     {
       "id": 460,
@@ -2572,34 +2572,30 @@
     "total_quotes": 88,
     "total_financial_mentions": 5
   },
-  "executive_brief": "French agricultural unions are in crisis negotiations with President Emmanuel Macron regarding the EU-Mercosur trade agreement, evidenced by 43 articles from 33 sources covering the event. The situation is escalating with ongoing road blockades, even during the Christmas holiday, indicating significant farmer discontent. This matters because the agreement threatens the viability of French agricultural sectors, potentially leading to further protests and economic disruption. \n\nThe overwhelming sentiment is negative (-0.52), with nearly all stakeholders expressing opposition to the agreement in its current form. FNSEA, Conf\u00e9d\u00e9ration paysanne, Coordination rurale, and Jeunes agriculteurs all oppose the deal, fearing unfair competition and lower standards. While Macron acknowledges the need for changes (\"le texte change de nature\"), stakeholders like Arnaud Rousseau (FNSEA) find the proposed concessions insufficient (\"non-sens pour les agriculteurs de France\"). Financial implications include EUR 1,000,000 in costs due to blockades and a potential 20% decrease in PAC aids.",
+  "executive_brief": "French agricultural unions are actively protesting the EU-Mercosur trade agreement, leading to road blockades even during the Christmas holiday. This event has garnered significant media attention, with 43 articles from 33 sources published between December 23rd and 26th, 2025, and a strongly negative sentiment (-0.52). The protests are fueled by concerns over unfair competition, lower standards for imported goods, and the potential impact on French agricultural sectors, compounded by anxieties surrounding dermatose bovine. \n\nStakeholders are largely opposed to the agreement, with organizations like FNSEA, Conf\u00e9d\u00e9ration paysanne, and Coordination rurale voicing strong objections. Key figures like Arnaud Rousseau (FNSEA) and St\u00e9phane Galais (Conf\u00e9d\u00e9ration paysanne) express disappointment with the concessions offered by Emmanuel Macron, deeming them insufficient. Financial implications include EUR 1,000,000 in losses due to blockades and a potential 20% decrease in PAC aids, while 4,000 French farmers mobilized in Brussels. S\u00e9bastien Lecornu stated France will not accept an agreement that harms its agricultural sectors.",
   "key_arguments": {
     "for": [
-      "Jean-Noel Barrot argues that concessions have been obtained benefiting French farmers, even if the agreement isn't signed."
+      "Jean-Noel Barrot claims the French government is securing 'concessions in\u00e9dites' benefiting French farmers, even if the agreement isn't signed."
     ],
     "against": [
-      "Arnaud Rousseau (FNSEA) believes the agreement is detrimental to French agriculture, importing products that don't meet European standards.",
-      "S\u00e9bastien Lecornu (Prime Minister) states France will not accept an agreement that weakens its agricultural sectors or imposes unfair competition.",
-      "St\u00e9phane Galais (Conf\u00e9d\u00e9ration paysanne) states that the proposed solutions are insufficient and lack concrete measures.",
-      "J\u00e9r\u00f4me Bayle (\u00e9leveur de bovins) feels the state isn't providing solutions and protests will continue."
+      "Arnaud Rousseau (FNSEA) believes the agreement represents a 'non-sens pour les agriculteurs de France'.",
+      "S\u00e9bastien Lecornu (Prime Minister) states 'Aucun accord ne sera accept\u00e9 s'il fragilise nos fili\u00e8res ou impose une concurrence d\u00e9loyale'.",
+      "St\u00e9phane Galais (Conf\u00e9d\u00e9ration paysanne) states that despite Macron's efforts, 'on n'a rien de concret'.",
+      "J\u00e9r\u00f4me Bayle (\u00e9leveur de bovins) feels the state is not providing solutions and will continue to fight for changes to abattage rules."
     ]
   },
   "whats_at_stake": {
-    "winners": [
-      "European Union - Potentially securing trade concessions, though facing significant opposition."
-    ],
+    "winners": [],
     "losers": [
-      "FNSEA - Dissatisfied with the current state of the agreement and its potential impact on French farmers.",
-      "Conf\u00e9d\u00e9ration paysanne - Opposes the agreement and believes it lacks sufficient protections for French agriculture.",
-      "Coordination rurale - Opposes the agreement and believes it lacks sufficient protections for French agriculture.",
-      "Jeunes agriculteurs - Opposes the agreement and believes it lacks sufficient protections for French agriculture.",
-      "French farmers - Facing potential economic hardship due to increased competition from Mercosur countries."
+      "French farmers - Facing potential economic hardship due to increased competition from Mercosur imports.",
+      "French agricultural sectors - Risk of being 'fragilis\u00e9' by the agreement, according to S\u00e9bastien Lecornu."
     ],
     "risks": [
-      "Continued agricultural protests and road blockades, disrupting economic activity.",
+      "Increased competition from cheaper Mercosur imports.",
+      "Lower standards for imported agricultural products.",
       "A 20% reduction in PAC budget.",
-      "Unfair competition from Mercosur countries with lower standards.",
-      "Damage to French agricultural sectors."
+      "Continued road blockades and disruption to transportation (costing EUR 1,000,000 in Pyr\u00e9n\u00e9es-Atlantiques).",
+      "Spread of dermatose bovine."
     ],
     "opportunities": []
   }

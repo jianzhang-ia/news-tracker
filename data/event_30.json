@@ -2,14 +2,14 @@
   "event": {
     "id": 30,
     "event_uri": "deu-2057509",
-    "title": "Tesla lehnt Tarifvertr\u00e4ge ab - IG Metall: \"Bezahlung deutlich unter Niveau\"",
+    "title": "Elektroautos: Tesla-Werksleiter lehnt Tarifvertrag ab - IG Metall wirbt",
     "category": "ev",
-    "summary": "Berlin. Die IG Metall k\u00e4mpft f\u00fcr die Einf\u00fchrung eines Tariflohns beim US-Autobauer Tesla in Gr\u00fcnheide bei Berlin. Die Werksf\u00fchrung lehnt das ab. Warum?\n\nDer US-Elektroautobauer Tesla in Gr\u00fcnheide bei Berlin lehnt die Einf\u00fchrung eines Tarifvertrags kategorisch ab. \"Es gab dieses Jahr eine Entgelterh\u00f6...",
+    "summary": "Der US-Elektroautobauer Tesla in Gr\u00fcnheide bei Berlin lehnt die Einf\u00fchrung eines Tarifvertrags kategorisch ab. \"Es gab dieses Jahr eine Entgelterh\u00f6hung im einschl\u00e4gigen Tarifvertrag von zwei Prozent\", sagte Werksleiter Andr\u00e9 Thierig der Deutschen Presse-Agentur. \"Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben. Seit Produktionsbeginn waren es damit mehr als 25 Prozent Entgelterh\u00f6hung i",
     "first_seen": "2025-12-28T11:39:28.964379",
-    "last_updated": "2026-01-04T23:09:19.037381",
+    "last_updated": "2026-01-05T14:03:22.159282",
     "created_at": "2025-12-28 10:39:28"
   },
-  "generated_at": "2026-01-04T00:03:30.159085",
+  "generated_at": "2026-01-07T18:27:03.673227",
   "articles": [
     {
       "id": 624,
@@ -1653,26 +1653,26 @@
     "total_quotes": 67,
     "total_financial_mentions": 75
   },
-  "executive_brief": "Tesla is facing pressure from IG Metall to introduce collective bargaining agreements (Tarifvertr\u00e4ge) at its Gr\u00fcnheide factory near Berlin, a demand the company is categorically rejecting. This dispute is receiving significant media attention, evidenced by 16 articles from 16 sources all published on December 28, 2025, and is characterized by overwhelmingly negative sentiment (-0.29 average score). The core issue revolves around wage levels, with IG Metall asserting that Tesla employees are paid significantly less than their counterparts in other German automotive plants. \n\nThe primary stakeholders are sharply divided. Tesla, represented by Werksleiter Andr\u00e9 Thierig, defends its current compensation structure, citing a unique economic situation allowing for substantial wage increases (4% cited repeatedly) without a formal agreement, and expresses concerns about the impact of a collective bargaining agreement and a 35-hour workweek on the factory\u2019s success. IG Metall, led by Jan Otto, argues that without a Tarifvertrag, Tesla\u2019s wages will remain uncompetitive. A one-time EUR 600 payment to employees in the metal and electrical industries is mentioned, but does not appear to resolve the core dispute.",
+  "executive_brief": "Tesla\u2019s Gr\u00fcnheide factory is facing a labor dispute as Werksleiter Andr\u00e9 Thierig has categorically rejected the introduction of a collective bargaining agreement (Tarifvertrag) with IG Metall. This event is receiving significant media attention, evidenced by 16 articles from 16 sources within a short timeframe (December 28, 2025), and is overwhelmingly viewed negatively (-0.29 average sentiment score). The conflict centers on pay levels and working conditions, potentially impacting Tesla\u2019s operations and reputation in Germany. \n\nThe core disagreement revolves around Tesla\u2019s claim of a superior compensation package already in place, with Andr\u00e9 Thierig repeatedly stating they\u2019ve provided \u201cfour percent\u201d raises and \u201cmore than 25 percent\u201d increases since production began, due to a different economic situation. IG Metall, represented by Jan Otto, counters that without a Tarifvertrag, Tesla\u2019s pay remains significantly below industry standards. A recurring financial element is the mention of a EUR 600 one-time special payment for metal and electrical industry employees, highlighting the existing disparity. Thierig also expresses concern that a favorable IG Metall outcome could jeopardize further factory expansion.",
   "key_arguments": {
     "for": [
-      "IG Metall argues that without a collective bargaining agreement, Tesla employees\u2019 pay remains significantly below the level of other automotive plants in Germany (Jan Otto: \"Ohne Tarifvertrag bleibt die Bezahlung bei Tesla deutlich unter dem Niveau in anderen Autowerken in Deutschland zur\u00fcck\")"
+      "Tesla argues it can offer better compensation than standard industry Tarifvertr\u00e4ge due to its unique economic situation, having already increased wages by more than 25% since production began."
     ],
     "against": [
-      "Tesla argues it has been able to increase wages significantly (4%) due to its unique economic situation, and fears that collective bargaining agreements and reduced working hours would negatively impact the factory\u2019s success (Andr\u00e9 Thierig: \"Wir konnten, weil wir in einer anderen wirtschaftlichen Situation sind als die gesamte Industrie, die Entgelte um das Doppelte - um vier Prozent - anheben.\", Andr\u00e9 Thierig: \"Die Diskussion um eine 35-Stunden-Woche ist f\u00fcr mich eine rote Linie, die werden wir nicht \u00fcberschreiten\")",
-      "Tesla fears that a vote in favor of IG Metall could jeopardize further expansion of the factory (Andr\u00e9 Thierig: \"Ich kann mir pers\u00f6nlich nicht vorstellen, dass die Entscheidungstr\u00e4ger in den USA den Ausbau der Fabrik weiter vorantreiben, wenn die Wahl mehrheitlich Richtung IG Metall ausf\u00e4llt.\")"
+      "IG Metall argues that without a Tarifvertrag, Tesla employees are paid significantly less than their counterparts in other German automotive factories.",
+      "IG Metall criticizes Tesla for focusing on the lowest pay grade within a potential Tarifvertrag, arguing that these grades are rarely utilized in the automotive industry."
     ]
   },
   "whats_at_stake": {
     "winners": [],
     "losers": [
-      "Tesla - Faces potential disruption and negative publicity due to the ongoing dispute with IG Metall.",
-      "Tesla employees - Currently receive lower wages than those at comparable German automotive plants, according to IG Metall."
+      "Tesla - Potential for negative publicity and disruption of operations if IG Metall gains support.",
+      "Tesla employees - Risk of continued lower pay compared to industry standards without a Tarifvertrag."
     ],
     "risks": [
-      "Potential for industrial action or further negative publicity for Tesla.",
-      "Risk to Tesla\u2019s expansion plans if IG Metall gains influence.",
-      "Increased labor costs for Tesla if a collective bargaining agreement is reached."
+      "Disruption of Tesla\u2019s operations in Gr\u00fcnheide due to labor unrest.",
+      "Potential halt to factory expansion if IG Metall gains influence.",
+      "Damage to Tesla\u2019s reputation in Germany due to labor practices."
     ],
     "opportunities": []
   }
